@@ -1,0 +1,230 @@
+#. extracted from cartoon-snail.ini, cartoon-snail2.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [cockhorsea.tga]FrameAmount
+msgctxt "[cockhorsea.tga]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [cockhorsea.tga]Frame0
+msgid "data/map/cartoon/family/cockhorse/01.msk"
+msgstr "data/map/cartoon/family/cockhorse/01.msk"
+
+#: [cockhorsea.tga]Frame1
+msgctxt "[cockhorsea.tga]Frame1"
+msgid "data/map/cartoon/family/cockhorse/02.msk"
+msgstr "data/map/cartoon/family/cockhorse/02.msk"
+
+#: [cockhorsea.tga]Frame2
+msgid "data/map/cartoon/family/cockhorse/03.msk"
+msgstr "data/map/cartoon/family/cockhorse/03.msk"
+
+#: [cockhorsea.tga]Frame3
+msgctxt "[cockhorsea.tga]Frame3"
+msgid "data/map/cartoon/family/cockhorse/02.msk"
+msgstr "data/map/cartoon/family/cockhorse/02.msk"
+
+#: [cockhorseb.tga]FrameAmount
+msgctxt "[cockhorseb.tga]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [cockhorseb.tga]Frame0
+msgid "data/map/cartoon/family/cockhorse/04.msk"
+msgstr "data/map/cartoon/family/cockhorse/04.msk"
+
+#: [cockhorseb.tga]Frame1
+msgctxt "[cockhorseb.tga]Frame1"
+msgid "data/map/cartoon/family/cockhorse/05.msk"
+msgstr "data/map/cartoon/family/cockhorse/05.msk"
+
+#: [cockhorseb.tga]Frame2
+msgid "data/map/cartoon/family/cockhorse/06.msk"
+msgstr "data/map/cartoon/family/cockhorse/06.msk"
+
+#: [cockhorseb.tga]Frame3
+msgctxt "[cockhorseb.tga]Frame3"
+msgid "data/map/cartoon/family/cockhorse/05.msk"
+msgstr "data/map/cartoon/family/cockhorse/05.msk"
+
+#: [cockhorsec.tga]FrameAmount
+msgctxt "[cockhorsec.tga]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [cockhorsec.tga]Frame0
+msgid "data/map/cartoon/family/cockhorse/07.msk"
+msgstr "data/map/cartoon/family/cockhorse/07.msk"
+
+#: [cockhorsec.tga]Frame1
+msgctxt "[cockhorsec.tga]Frame1"
+msgid "data/map/cartoon/family/cockhorse/08.msk"
+msgstr "data/map/cartoon/family/cockhorse/08.msk"
+
+#: [cockhorsec.tga]Frame2
+msgid "data/map/cartoon/family/cockhorse/09.msk"
+msgstr "data/map/cartoon/family/cockhorse/09.msk"
+
+#: [cockhorsec.tga]Frame3
+msgctxt "[cockhorsec.tga]Frame3"
+msgid "data/map/cartoon/family/cockhorse/08.msk"
+msgstr "data/map/cartoon/family/cockhorse/08.msk"
+
+#: [cockhorsed.tga]FrameAmount
+msgctxt "[cockhorsed.tga]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [cockhorsed.tga]Frame0
+msgid "data/map/cartoon/family/cockhorse/010.msk"
+msgstr "data/map/cartoon/family/cockhorse/010.msk"
+
+#: [cockhorsed.tga]Frame1
+msgctxt "[cockhorsed.tga]Frame1"
+msgid "data/map/cartoon/family/cockhorse/011.msk"
+msgstr "data/map/cartoon/family/cockhorse/011.msk"
+
+#: [cockhorsed.tga]Frame2
+msgid "data/map/cartoon/family/cockhorse/012.msk"
+msgstr "data/map/cartoon/family/cockhorse/012.msk"
+
+#: [cockhorsed.tga]Frame3
+msgctxt "[cockhorsed.tga]Frame3"
+msgid "data/map/cartoon/family/cockhorse/011.msk"
+msgstr "data/map/cartoon/family/cockhorse/011.msk"
+
+#: [windmilla.tga]FrameAmount
+msgctxt "[windmilla.tga]FrameAmount"
+msgid "3"
+msgstr "3"
+
+#: [windmilla.tga]Frame0
+msgid "data/map/cartoon/family/windmill/01.msk"
+msgstr "data/map/cartoon/family/windmill/01.msk"
+
+#: [windmilla.tga]Frame1
+msgid "data/map/cartoon/family/windmill/02.msk"
+msgstr "data/map/cartoon/family/windmill/02.msk"
+
+#: [windmilla.tga]Frame2
+msgid "data/map/cartoon/family/windmill/03.msk"
+msgstr "data/map/cartoon/family/windmill/03.msk"
+
+#: [windmillb.tga]FrameAmount
+msgctxt "[windmillb.tga]FrameAmount"
+msgid "3"
+msgstr "3"
+
+#: [windmillb.tga]Frame0
+msgid "data/map/cartoon/family/windmill/04.msk"
+msgstr "data/map/cartoon/family/windmill/04.msk"
+
+#: [windmillb.tga]Frame1
+msgid "data/map/cartoon/family/windmill/05.msk"
+msgstr "data/map/cartoon/family/windmill/05.msk"
+
+#: [windmillb.tga]Frame2
+msgid "data/map/cartoon/family/windmill/06.msk"
+msgstr "data/map/cartoon/family/windmill/06.msk"
+
+#: [swinga.tga]FrameAmount
+msgctxt "[swinga.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [swinga.tga]Frame0
+msgid "data/map/cartoon/family/swing/01.msk"
+msgstr "data/map/cartoon/family/swing/01.msk"
+
+#: [swinga.tga]Frame1
+msgid "data/map/cartoon/family/swing/02.msk"
+msgstr "data/map/cartoon/family/swing/02.msk"
+
+#: [swingb.tga]FrameAmount
+msgctxt "[swingb.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [swingb.tga]Frame0
+msgid "data/map/cartoon/family/swing/03.msk"
+msgstr "data/map/cartoon/family/swing/03.msk"
+
+#: [swingb.tga]Frame1
+msgid "data/map/cartoon/family/swing/04.msk"
+msgstr "data/map/cartoon/family/swing/04.msk"
+
+#: [pearla.tga]FrameAmount
+msgctxt "[pearla.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [pearla.tga]Frame0
+msgid "data/map/cartoon/family/pearl/01.msk"
+msgstr "data/map/cartoon/family/pearl/01.msk"
+
+#: [pearla.tga]Frame1
+msgid "data/map/cartoon/family/pearl/02.msk"
+msgstr "data/map/cartoon/family/pearl/02.msk"
+
+#: [pearlb.tga]FrameAmount
+msgctxt "[pearlb.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [pearlb.tga]Frame0
+msgid "data/map/cartoon/family/pearl/03.msk"
+msgstr "data/map/cartoon/family/pearl/03.msk"
+
+#: [pearlb.tga]Frame1
+msgid "data/map/cartoon/family/pearl/04.msk"
+msgstr "data/map/cartoon/family/pearl/04.msk"
+
+#: [pearlc.tga]FrameAmount
+msgctxt "[pearlc.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [pearlc.tga]Frame0
+msgid "data/map/cartoon/family/pearl/05.msk"
+msgstr "data/map/cartoon/family/pearl/05.msk"
+
+#: [pearlc.tga]Frame1
+msgid "data/map/cartoon/family/pearl/06.msk"
+msgstr "data/map/cartoon/family/pearl/06.msk"
+
+#: [pearld.tga]FrameAmount
+msgctxt "[pearld.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [pearld.tga]Frame0
+msgid "data/map/cartoon/family/pearl/07.msk"
+msgstr "data/map/cartoon/family/pearl/07.msk"
+
+#: [pearld.tga]Frame1
+msgid "data/map/cartoon/family/pearl/08.msk"
+msgstr "data/map/cartoon/family/pearl/08.msk"
+
+#: [pole.tga]FrameAmount
+msgctxt "[pole.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [pole.tga]Frame0
+msgid "data/map/cartoon/family/pole/pole01.msk"
+msgstr "data/map/cartoon/family/pole/pole01.msk"
+
+#: [pole.tga]Frame1
+msgid "data/map/cartoon/family/pole/pole02.msk"
+msgstr "data/map/cartoon/family/pole/pole02.msk"

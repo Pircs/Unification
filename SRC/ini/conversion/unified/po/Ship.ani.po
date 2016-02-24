@@ -1,0 +1,1903 @@
+#. extracted from ship.ini, shipCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 21:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Puzzle0]FrameAmount
+msgctxt "[Puzzle0]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle0]Frame0
+msgid "data/map/puzzle/ship/scene/pic0000.dds"
+msgstr "data/map/puzzle/ship/scene/pic0000.dds"
+
+#: [Puzzle1]FrameAmount
+msgctxt "[Puzzle1]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle1]Frame0
+msgid "data/map/puzzle/ship/scene/pic0001.dds"
+msgstr "data/map/puzzle/ship/scene/pic0001.dds"
+
+#: [Puzzle2]FrameAmount
+msgctxt "[Puzzle2]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle2]Frame0
+msgid "data/map/puzzle/ship/scene/pic0002.dds"
+msgstr "data/map/puzzle/ship/scene/pic0002.dds"
+
+#: [Puzzle3]FrameAmount
+msgctxt "[Puzzle3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle3]Frame0
+msgid "data/map/puzzle/ship/scene/pic0003.dds"
+msgstr "data/map/puzzle/ship/scene/pic0003.dds"
+
+#: [Puzzle4]FrameAmount
+msgctxt "[Puzzle4]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle4]Frame0
+msgid "data/map/puzzle/ship/scene/pic0004.dds"
+msgstr "data/map/puzzle/ship/scene/pic0004.dds"
+
+#: [Puzzle5]FrameAmount
+msgctxt "[Puzzle5]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle5]Frame0
+msgid "data/map/puzzle/ship/scene/pic0005.dds"
+msgstr "data/map/puzzle/ship/scene/pic0005.dds"
+
+#: [Puzzle6]FrameAmount
+msgctxt "[Puzzle6]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle6]Frame0
+msgid "data/map/puzzle/ship/scene/pic0006.dds"
+msgstr "data/map/puzzle/ship/scene/pic0006.dds"
+
+#: [Puzzle7]FrameAmount
+msgctxt "[Puzzle7]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle7]Frame0
+msgid "data/map/puzzle/ship/scene/pic0007.dds"
+msgstr "data/map/puzzle/ship/scene/pic0007.dds"
+
+#: [Puzzle8]FrameAmount
+msgctxt "[Puzzle8]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle8]Frame0
+msgid "data/map/puzzle/ship/scene/pic0008.dds"
+msgstr "data/map/puzzle/ship/scene/pic0008.dds"
+
+#: [Puzzle9]FrameAmount
+msgctxt "[Puzzle9]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle9]Frame0
+msgid "data/map/puzzle/ship/scene/pic0009.dds"
+msgstr "data/map/puzzle/ship/scene/pic0009.dds"
+
+#: [Puzzle10]FrameAmount
+msgctxt "[Puzzle10]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle10]Frame0
+msgid "data/map/puzzle/ship/scene/pic0010.dds"
+msgstr "data/map/puzzle/ship/scene/pic0010.dds"
+
+#: [Puzzle11]FrameAmount
+msgctxt "[Puzzle11]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle11]Frame0
+msgid "data/map/puzzle/ship/scene/pic0011.dds"
+msgstr "data/map/puzzle/ship/scene/pic0011.dds"
+
+#: [Puzzle12]FrameAmount
+msgctxt "[Puzzle12]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle12]Frame0
+msgid "data/map/puzzle/ship/scene/pic0012.dds"
+msgstr "data/map/puzzle/ship/scene/pic0012.dds"
+
+#: [Puzzle13]FrameAmount
+msgctxt "[Puzzle13]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle13]Frame0
+msgid "data/map/puzzle/ship/scene/pic0013.dds"
+msgstr "data/map/puzzle/ship/scene/pic0013.dds"
+
+#: [Puzzle14]FrameAmount
+msgctxt "[Puzzle14]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle14]Frame0
+msgid "data/map/puzzle/ship/scene/pic0014.dds"
+msgstr "data/map/puzzle/ship/scene/pic0014.dds"
+
+#: [Puzzle15]FrameAmount
+msgctxt "[Puzzle15]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle15]Frame0
+msgid "data/map/puzzle/ship/scene/pic0015.dds"
+msgstr "data/map/puzzle/ship/scene/pic0015.dds"
+
+#: [Puzzle16]FrameAmount
+msgctxt "[Puzzle16]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle16]Frame0
+msgid "data/map/puzzle/ship/scene/pic0016.dds"
+msgstr "data/map/puzzle/ship/scene/pic0016.dds"
+
+#: [Puzzle17]FrameAmount
+msgctxt "[Puzzle17]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle17]Frame0
+msgid "data/map/puzzle/ship/scene/pic0017.dds"
+msgstr "data/map/puzzle/ship/scene/pic0017.dds"
+
+#: [Puzzle18]FrameAmount
+msgctxt "[Puzzle18]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle18]Frame0
+msgid "data/map/puzzle/ship/scene/pic0018.dds"
+msgstr "data/map/puzzle/ship/scene/pic0018.dds"
+
+#: [Puzzle19]FrameAmount
+msgctxt "[Puzzle19]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle19]Frame0
+msgid "data/map/puzzle/ship/scene/pic0019.dds"
+msgstr "data/map/puzzle/ship/scene/pic0019.dds"
+
+#: [Puzzle20]FrameAmount
+msgctxt "[Puzzle20]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle20]Frame0
+msgid "data/map/puzzle/ship/scene/pic0020.dds"
+msgstr "data/map/puzzle/ship/scene/pic0020.dds"
+
+#: [Puzzle21]FrameAmount
+msgctxt "[Puzzle21]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle21]Frame0
+msgid "data/map/puzzle/ship/scene/pic0021.dds"
+msgstr "data/map/puzzle/ship/scene/pic0021.dds"
+
+#: [Puzzle22]FrameAmount
+msgctxt "[Puzzle22]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle22]Frame0
+msgid "data/map/puzzle/ship/scene/pic0022.dds"
+msgstr "data/map/puzzle/ship/scene/pic0022.dds"
+
+#: [Puzzle23]FrameAmount
+msgctxt "[Puzzle23]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle23]Frame0
+msgid "data/map/puzzle/ship/scene/pic0023.dds"
+msgstr "data/map/puzzle/ship/scene/pic0023.dds"
+
+#: [Puzzle24]FrameAmount
+msgctxt "[Puzzle24]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle24]Frame0
+msgid "data/map/puzzle/ship/scene/pic0024.dds"
+msgstr "data/map/puzzle/ship/scene/pic0024.dds"
+
+#: [Puzzle25]FrameAmount
+msgctxt "[Puzzle25]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle25]Frame0
+msgid "data/map/puzzle/ship/scene/pic0025.dds"
+msgstr "data/map/puzzle/ship/scene/pic0025.dds"
+
+#: [Puzzle26]FrameAmount
+msgctxt "[Puzzle26]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle26]Frame0
+msgid "data/map/puzzle/ship/scene/pic0026.dds"
+msgstr "data/map/puzzle/ship/scene/pic0026.dds"
+
+#: [Puzzle27]FrameAmount
+msgctxt "[Puzzle27]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle27]Frame0
+msgid "data/map/puzzle/ship/scene/pic0027.dds"
+msgstr "data/map/puzzle/ship/scene/pic0027.dds"
+
+#: [Puzzle28]FrameAmount
+msgctxt "[Puzzle28]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle28]Frame0
+msgid "data/map/puzzle/ship/scene/pic0028.dds"
+msgstr "data/map/puzzle/ship/scene/pic0028.dds"
+
+#: [Puzzle29]FrameAmount
+msgctxt "[Puzzle29]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle29]Frame0
+msgid "data/map/puzzle/ship/scene/pic0029.dds"
+msgstr "data/map/puzzle/ship/scene/pic0029.dds"
+
+#: [Puzzle30]FrameAmount
+msgctxt "[Puzzle30]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle30]Frame0
+msgid "data/map/puzzle/ship/scene/pic0030.dds"
+msgstr "data/map/puzzle/ship/scene/pic0030.dds"
+
+#: [Puzzle31]FrameAmount
+msgctxt "[Puzzle31]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle31]Frame0
+msgid "data/map/puzzle/ship/scene/pic0031.dds"
+msgstr "data/map/puzzle/ship/scene/pic0031.dds"
+
+#: [Puzzle32]FrameAmount
+msgctxt "[Puzzle32]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle32]Frame0
+msgid "data/map/puzzle/ship/scene/pic0032.dds"
+msgstr "data/map/puzzle/ship/scene/pic0032.dds"
+
+#: [Puzzle33]FrameAmount
+msgctxt "[Puzzle33]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle33]Frame0
+msgid "data/map/puzzle/ship/scene/pic0033.dds"
+msgstr "data/map/puzzle/ship/scene/pic0033.dds"
+
+#: [Puzzle34]FrameAmount
+msgctxt "[Puzzle34]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle34]Frame0
+msgid "data/map/puzzle/ship/scene/pic0034.dds"
+msgstr "data/map/puzzle/ship/scene/pic0034.dds"
+
+#: [Puzzle35]FrameAmount
+msgctxt "[Puzzle35]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle35]Frame0
+msgid "data/map/puzzle/ship/scene/pic0035.dds"
+msgstr "data/map/puzzle/ship/scene/pic0035.dds"
+
+#: [Puzzle36]FrameAmount
+msgctxt "[Puzzle36]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle36]Frame0
+msgid "data/map/puzzle/ship/scene/pic0036.dds"
+msgstr "data/map/puzzle/ship/scene/pic0036.dds"
+
+#: [Puzzle37]FrameAmount
+msgctxt "[Puzzle37]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle37]Frame0
+msgid "data/map/puzzle/ship/scene/pic0037.dds"
+msgstr "data/map/puzzle/ship/scene/pic0037.dds"
+
+#: [Puzzle38]FrameAmount
+msgctxt "[Puzzle38]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle38]Frame0
+msgid "data/map/puzzle/ship/scene/pic0038.dds"
+msgstr "data/map/puzzle/ship/scene/pic0038.dds"
+
+#: [Puzzle39]FrameAmount
+msgctxt "[Puzzle39]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle39]Frame0
+msgid "data/map/puzzle/ship/scene/pic0039.dds"
+msgstr "data/map/puzzle/ship/scene/pic0039.dds"
+
+#: [Puzzle40]FrameAmount
+msgctxt "[Puzzle40]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle40]Frame0
+msgid "data/map/puzzle/ship/scene/pic0040.dds"
+msgstr "data/map/puzzle/ship/scene/pic0040.dds"
+
+#: [Puzzle41]FrameAmount
+msgctxt "[Puzzle41]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle41]Frame0
+msgid "data/map/puzzle/ship/scene/pic0041.dds"
+msgstr "data/map/puzzle/ship/scene/pic0041.dds"
+
+#: [Puzzle42]FrameAmount
+msgctxt "[Puzzle42]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle42]Frame0
+msgid "data/map/puzzle/ship/scene/pic0042.dds"
+msgstr "data/map/puzzle/ship/scene/pic0042.dds"
+
+#: [Puzzle43]FrameAmount
+msgctxt "[Puzzle43]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle43]Frame0
+msgid "data/map/puzzle/ship/scene/pic0043.dds"
+msgstr "data/map/puzzle/ship/scene/pic0043.dds"
+
+#: [Puzzle44]FrameAmount
+msgctxt "[Puzzle44]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle44]Frame0
+msgid "data/map/puzzle/ship/scene/pic0044.dds"
+msgstr "data/map/puzzle/ship/scene/pic0044.dds"
+
+#: [Puzzle45]FrameAmount
+msgctxt "[Puzzle45]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle45]Frame0
+msgid "data/map/puzzle/ship/scene/pic0045.dds"
+msgstr "data/map/puzzle/ship/scene/pic0045.dds"
+
+#: [Puzzle46]FrameAmount
+msgctxt "[Puzzle46]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle46]Frame0
+msgid "data/map/puzzle/ship/scene/pic0046.dds"
+msgstr "data/map/puzzle/ship/scene/pic0046.dds"
+
+#: [Puzzle47]FrameAmount
+msgctxt "[Puzzle47]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle47]Frame0
+msgid "data/map/puzzle/ship/scene/pic0047.dds"
+msgstr "data/map/puzzle/ship/scene/pic0047.dds"
+
+#: [Puzzle48]FrameAmount
+msgctxt "[Puzzle48]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle48]Frame0
+msgid "data/map/puzzle/ship/scene/pic0048.dds"
+msgstr "data/map/puzzle/ship/scene/pic0048.dds"
+
+#: [Puzzle49]FrameAmount
+msgctxt "[Puzzle49]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle49]Frame0
+msgid "data/map/puzzle/ship/scene/pic0049.dds"
+msgstr "data/map/puzzle/ship/scene/pic0049.dds"
+
+#: [Puzzle50]FrameAmount
+msgctxt "[Puzzle50]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle50]Frame0
+msgid "data/map/puzzle/ship/scene/pic0050.dds"
+msgstr "data/map/puzzle/ship/scene/pic0050.dds"
+
+#: [Puzzle51]FrameAmount
+msgctxt "[Puzzle51]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle51]Frame0
+msgid "data/map/puzzle/ship/scene/pic0051.dds"
+msgstr "data/map/puzzle/ship/scene/pic0051.dds"
+
+#: [Puzzle52]FrameAmount
+msgctxt "[Puzzle52]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle52]Frame0
+msgid "data/map/puzzle/ship/scene/pic0052.dds"
+msgstr "data/map/puzzle/ship/scene/pic0052.dds"
+
+#: [Puzzle53]FrameAmount
+msgctxt "[Puzzle53]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle53]Frame0
+msgid "data/map/puzzle/ship/scene/pic0053.dds"
+msgstr "data/map/puzzle/ship/scene/pic0053.dds"
+
+#: [Puzzle54]FrameAmount
+msgctxt "[Puzzle54]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle54]Frame0
+msgid "data/map/puzzle/ship/scene/pic0054.dds"
+msgstr "data/map/puzzle/ship/scene/pic0054.dds"
+
+#: [Puzzle55]FrameAmount
+msgctxt "[Puzzle55]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle55]Frame0
+msgid "data/map/puzzle/ship/scene/pic0055.dds"
+msgstr "data/map/puzzle/ship/scene/pic0055.dds"
+
+#: [Puzzle56]FrameAmount
+msgctxt "[Puzzle56]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle56]Frame0
+msgid "data/map/puzzle/ship/scene/pic0056.dds"
+msgstr "data/map/puzzle/ship/scene/pic0056.dds"
+
+#: [Puzzle57]FrameAmount
+msgctxt "[Puzzle57]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle57]Frame0
+msgid "data/map/puzzle/ship/scene/pic0057.dds"
+msgstr "data/map/puzzle/ship/scene/pic0057.dds"
+
+#: [Puzzle58]FrameAmount
+msgctxt "[Puzzle58]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle58]Frame0
+msgid "data/map/puzzle/ship/scene/pic0058.dds"
+msgstr "data/map/puzzle/ship/scene/pic0058.dds"
+
+#: [Puzzle59]FrameAmount
+msgctxt "[Puzzle59]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle59]Frame0
+msgid "data/map/puzzle/ship/scene/pic0059.dds"
+msgstr "data/map/puzzle/ship/scene/pic0059.dds"
+
+#: [Puzzle60]FrameAmount
+msgctxt "[Puzzle60]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle60]Frame0
+msgid "data/map/puzzle/ship/scene/pic0060.dds"
+msgstr "data/map/puzzle/ship/scene/pic0060.dds"
+
+#: [Puzzle61]FrameAmount
+msgctxt "[Puzzle61]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle61]Frame0
+msgid "data/map/puzzle/ship/scene/pic0061.dds"
+msgstr "data/map/puzzle/ship/scene/pic0061.dds"
+
+#: [Puzzle62]FrameAmount
+msgctxt "[Puzzle62]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle62]Frame0
+msgid "data/map/puzzle/ship/scene/pic0062.dds"
+msgstr "data/map/puzzle/ship/scene/pic0062.dds"
+
+#: [Puzzle63]FrameAmount
+msgctxt "[Puzzle63]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle63]Frame0
+msgid "data/map/puzzle/ship/scene/pic0063.dds"
+msgstr "data/map/puzzle/ship/scene/pic0063.dds"
+
+#: [Puzzle64]FrameAmount
+msgctxt "[Puzzle64]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle64]Frame0
+msgid "data/map/puzzle/ship/scene/pic0064.dds"
+msgstr "data/map/puzzle/ship/scene/pic0064.dds"
+
+#: [Puzzle65]FrameAmount
+msgctxt "[Puzzle65]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle65]Frame0
+msgid "data/map/puzzle/ship/scene/pic0065.dds"
+msgstr "data/map/puzzle/ship/scene/pic0065.dds"
+
+#: [Puzzle66]FrameAmount
+msgctxt "[Puzzle66]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle66]Frame0
+msgid "data/map/puzzle/ship/scene/pic0066.dds"
+msgstr "data/map/puzzle/ship/scene/pic0066.dds"
+
+#: [Puzzle67]FrameAmount
+msgctxt "[Puzzle67]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle67]Frame0
+msgid "data/map/puzzle/ship/scene/pic0067.dds"
+msgstr "data/map/puzzle/ship/scene/pic0067.dds"
+
+#: [Puzzle68]FrameAmount
+msgctxt "[Puzzle68]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle68]Frame0
+msgid "data/map/puzzle/ship/scene/pic0068.dds"
+msgstr "data/map/puzzle/ship/scene/pic0068.dds"
+
+#: [Puzzle69]FrameAmount
+msgctxt "[Puzzle69]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle69]Frame0
+msgid "data/map/puzzle/ship/scene/pic0069.dds"
+msgstr "data/map/puzzle/ship/scene/pic0069.dds"
+
+#: [Puzzle70]FrameAmount
+msgctxt "[Puzzle70]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle70]Frame0
+msgid "data/map/puzzle/ship/scene/pic0070.dds"
+msgstr "data/map/puzzle/ship/scene/pic0070.dds"
+
+#: [Puzzle71]FrameAmount
+msgctxt "[Puzzle71]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle71]Frame0
+msgid "data/map/puzzle/ship/scene/pic0071.dds"
+msgstr "data/map/puzzle/ship/scene/pic0071.dds"
+
+#: [Puzzle72]FrameAmount
+msgctxt "[Puzzle72]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle72]Frame0
+msgid "data/map/puzzle/ship/scene/pic0072.dds"
+msgstr "data/map/puzzle/ship/scene/pic0072.dds"
+
+#: [Puzzle73]FrameAmount
+msgctxt "[Puzzle73]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle73]Frame0
+msgid "data/map/puzzle/ship/scene/pic0073.dds"
+msgstr "data/map/puzzle/ship/scene/pic0073.dds"
+
+#: [Puzzle74]FrameAmount
+msgctxt "[Puzzle74]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle74]Frame0
+msgid "data/map/puzzle/ship/scene/pic0074.dds"
+msgstr "data/map/puzzle/ship/scene/pic0074.dds"
+
+#: [Puzzle75]FrameAmount
+msgctxt "[Puzzle75]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle75]Frame0
+msgid "data/map/puzzle/ship/scene/pic0075.dds"
+msgstr "data/map/puzzle/ship/scene/pic0075.dds"
+
+#: [Puzzle76]FrameAmount
+msgctxt "[Puzzle76]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle76]Frame0
+msgid "data/map/puzzle/ship/scene/pic0076.dds"
+msgstr "data/map/puzzle/ship/scene/pic0076.dds"
+
+#: [Puzzle77]FrameAmount
+msgctxt "[Puzzle77]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle77]Frame0
+msgid "data/map/puzzle/ship/scene/pic0077.dds"
+msgstr "data/map/puzzle/ship/scene/pic0077.dds"
+
+#: [Puzzle78]FrameAmount
+msgctxt "[Puzzle78]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle78]Frame0
+msgid "data/map/puzzle/ship/scene/pic0078.dds"
+msgstr "data/map/puzzle/ship/scene/pic0078.dds"
+
+#: [Puzzle79]FrameAmount
+msgctxt "[Puzzle79]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle79]Frame0
+msgid "data/map/puzzle/ship/scene/pic0079.dds"
+msgstr "data/map/puzzle/ship/scene/pic0079.dds"
+
+#: [Puzzle80]FrameAmount
+msgctxt "[Puzzle80]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle80]Frame0
+msgid "data/map/puzzle/ship/scene/pic0080.dds"
+msgstr "data/map/puzzle/ship/scene/pic0080.dds"
+
+#: [Puzzle81]FrameAmount
+msgctxt "[Puzzle81]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle81]Frame0
+msgid "data/map/puzzle/ship/scene/pic0081.dds"
+msgstr "data/map/puzzle/ship/scene/pic0081.dds"
+
+#: [Puzzle82]FrameAmount
+msgctxt "[Puzzle82]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle82]Frame0
+msgid "data/map/puzzle/ship/scene/pic0082.dds"
+msgstr "data/map/puzzle/ship/scene/pic0082.dds"
+
+#: [Puzzle83]FrameAmount
+msgctxt "[Puzzle83]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle83]Frame0
+msgid "data/map/puzzle/ship/scene/pic0083.dds"
+msgstr "data/map/puzzle/ship/scene/pic0083.dds"
+
+#: [Puzzle84]FrameAmount
+msgctxt "[Puzzle84]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle84]Frame0
+msgid "data/map/puzzle/ship/scene/pic0084.dds"
+msgstr "data/map/puzzle/ship/scene/pic0084.dds"
+
+#: [Puzzle85]FrameAmount
+msgctxt "[Puzzle85]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle85]Frame0
+msgid "data/map/puzzle/ship/scene/pic0085.dds"
+msgstr "data/map/puzzle/ship/scene/pic0085.dds"
+
+#: [Puzzle86]FrameAmount
+msgctxt "[Puzzle86]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle86]Frame0
+msgid "data/map/puzzle/ship/scene/pic0086.dds"
+msgstr "data/map/puzzle/ship/scene/pic0086.dds"
+
+#: [Puzzle87]FrameAmount
+msgctxt "[Puzzle87]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle87]Frame0
+msgid "data/map/puzzle/ship/scene/pic0087.dds"
+msgstr "data/map/puzzle/ship/scene/pic0087.dds"
+
+#: [Puzzle88]FrameAmount
+msgctxt "[Puzzle88]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle88]Frame0
+msgid "data/map/puzzle/ship/scene/pic0088.dds"
+msgstr "data/map/puzzle/ship/scene/pic0088.dds"
+
+#: [Puzzle89]FrameAmount
+msgctxt "[Puzzle89]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle89]Frame0
+msgid "data/map/puzzle/ship/scene/pic0089.dds"
+msgstr "data/map/puzzle/ship/scene/pic0089.dds"
+
+#: [Puzzle90]FrameAmount
+msgctxt "[Puzzle90]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle90]Frame0
+msgid "data/map/puzzle/ship/scene/pic0090.dds"
+msgstr "data/map/puzzle/ship/scene/pic0090.dds"
+
+#: [Puzzle91]FrameAmount
+msgctxt "[Puzzle91]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle91]Frame0
+msgid "data/map/puzzle/ship/scene/pic0091.dds"
+msgstr "data/map/puzzle/ship/scene/pic0091.dds"
+
+#: [Puzzle92]FrameAmount
+msgctxt "[Puzzle92]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle92]Frame0
+msgid "data/map/puzzle/ship/scene/pic0092.dds"
+msgstr "data/map/puzzle/ship/scene/pic0092.dds"
+
+#: [Puzzle93]FrameAmount
+msgctxt "[Puzzle93]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle93]Frame0
+msgid "data/map/puzzle/ship/scene/pic0093.dds"
+msgstr "data/map/puzzle/ship/scene/pic0093.dds"
+
+#: [Puzzle94]FrameAmount
+msgctxt "[Puzzle94]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle94]Frame0
+msgid "data/map/puzzle/ship/scene/pic0094.dds"
+msgstr "data/map/puzzle/ship/scene/pic0094.dds"
+
+#: [Puzzle95]FrameAmount
+msgctxt "[Puzzle95]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle95]Frame0
+msgid "data/map/puzzle/ship/scene/pic0095.dds"
+msgstr "data/map/puzzle/ship/scene/pic0095.dds"
+
+#: [Puzzle96]FrameAmount
+msgctxt "[Puzzle96]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle96]Frame0
+msgid "data/map/puzzle/ship/scene/pic0096.dds"
+msgstr "data/map/puzzle/ship/scene/pic0096.dds"
+
+#: [Puzzle97]FrameAmount
+msgctxt "[Puzzle97]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle97]Frame0
+msgid "data/map/puzzle/ship/scene/pic0097.dds"
+msgstr "data/map/puzzle/ship/scene/pic0097.dds"
+
+#: [Puzzle98]FrameAmount
+msgctxt "[Puzzle98]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle98]Frame0
+msgid "data/map/puzzle/ship/scene/pic0098.dds"
+msgstr "data/map/puzzle/ship/scene/pic0098.dds"
+
+#: [Puzzle99]FrameAmount
+msgctxt "[Puzzle99]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle99]Frame0
+msgid "data/map/puzzle/ship/scene/pic0099.dds"
+msgstr "data/map/puzzle/ship/scene/pic0099.dds"
+
+#: [Puzzle100]FrameAmount
+msgctxt "[Puzzle100]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle100]Frame0
+msgid "data/map/puzzle/ship/scene/pic0100.dds"
+msgstr "data/map/puzzle/ship/scene/pic0100.dds"
+
+#: [Puzzle101]FrameAmount
+msgctxt "[Puzzle101]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle101]Frame0
+msgid "data/map/puzzle/ship/scene/pic0101.dds"
+msgstr "data/map/puzzle/ship/scene/pic0101.dds"
+
+#: [Puzzle102]FrameAmount
+msgctxt "[Puzzle102]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle102]Frame0
+msgid "data/map/puzzle/ship/scene/pic0102.dds"
+msgstr "data/map/puzzle/ship/scene/pic0102.dds"
+
+#: [Puzzle103]FrameAmount
+msgctxt "[Puzzle103]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle103]Frame0
+msgid "data/map/puzzle/ship/scene/pic0103.dds"
+msgstr "data/map/puzzle/ship/scene/pic0103.dds"
+
+#: [Puzzle104]FrameAmount
+msgctxt "[Puzzle104]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle104]Frame0
+msgid "data/map/puzzle/ship/scene/pic0104.dds"
+msgstr "data/map/puzzle/ship/scene/pic0104.dds"
+
+#: [Puzzle105]FrameAmount
+msgctxt "[Puzzle105]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle105]Frame0
+msgid "data/map/puzzle/ship/scene/pic0105.dds"
+msgstr "data/map/puzzle/ship/scene/pic0105.dds"
+
+#: [Puzzle106]FrameAmount
+msgctxt "[Puzzle106]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle106]Frame0
+msgid "data/map/puzzle/ship/scene/pic0106.dds"
+msgstr "data/map/puzzle/ship/scene/pic0106.dds"
+
+#: [Puzzle107]FrameAmount
+msgctxt "[Puzzle107]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle107]Frame0
+msgid "data/map/puzzle/ship/scene/pic0107.dds"
+msgstr "data/map/puzzle/ship/scene/pic0107.dds"
+
+#: [Puzzle108]FrameAmount
+msgctxt "[Puzzle108]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle108]Frame0
+msgid "data/map/puzzle/ship/scene/pic0108.dds"
+msgstr "data/map/puzzle/ship/scene/pic0108.dds"
+
+#: [Puzzle109]FrameAmount
+msgctxt "[Puzzle109]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle109]Frame0
+msgid "data/map/puzzle/ship/scene/pic0109.dds"
+msgstr "data/map/puzzle/ship/scene/pic0109.dds"
+
+#: [Puzzle110]FrameAmount
+msgctxt "[Puzzle110]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle110]Frame0
+msgid "data/map/puzzle/ship/scene/pic0110.dds"
+msgstr "data/map/puzzle/ship/scene/pic0110.dds"
+
+#: [Puzzle111]FrameAmount
+msgctxt "[Puzzle111]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle111]Frame0
+msgid "data/map/puzzle/ship/scene/pic0111.dds"
+msgstr "data/map/puzzle/ship/scene/pic0111.dds"
+
+#: [Puzzle112]FrameAmount
+msgctxt "[Puzzle112]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle112]Frame0
+msgid "data/map/puzzle/ship/scene/pic0112.dds"
+msgstr "data/map/puzzle/ship/scene/pic0112.dds"
+
+#: [Puzzle113]FrameAmount
+msgctxt "[Puzzle113]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle113]Frame0
+msgid "data/map/puzzle/ship/scene/pic0113.dds"
+msgstr "data/map/puzzle/ship/scene/pic0113.dds"
+
+#: [Puzzle114]FrameAmount
+msgctxt "[Puzzle114]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle114]Frame0
+msgid "data/map/puzzle/ship/scene/pic0114.dds"
+msgstr "data/map/puzzle/ship/scene/pic0114.dds"
+
+#: [Puzzle115]FrameAmount
+msgctxt "[Puzzle115]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle115]Frame0
+msgid "data/map/puzzle/ship/scene/pic0115.dds"
+msgstr "data/map/puzzle/ship/scene/pic0115.dds"
+
+#: [Puzzle116]FrameAmount
+msgctxt "[Puzzle116]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle116]Frame0
+msgid "data/map/puzzle/ship/scene/pic0116.dds"
+msgstr "data/map/puzzle/ship/scene/pic0116.dds"
+
+#: [Puzzle117]FrameAmount
+msgctxt "[Puzzle117]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle117]Frame0
+msgid "data/map/puzzle/ship/scene/pic0117.dds"
+msgstr "data/map/puzzle/ship/scene/pic0117.dds"
+
+#: [Puzzle118]FrameAmount
+msgctxt "[Puzzle118]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle118]Frame0
+msgid "data/map/puzzle/ship/scene/pic0118.dds"
+msgstr "data/map/puzzle/ship/scene/pic0118.dds"
+
+#: [Puzzle119]FrameAmount
+msgctxt "[Puzzle119]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle119]Frame0
+msgid "data/map/puzzle/ship/scene/pic0119.dds"
+msgstr "data/map/puzzle/ship/scene/pic0119.dds"
+
+#: [Puzzle120]FrameAmount
+msgctxt "[Puzzle120]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle120]Frame0
+msgid "data/map/puzzle/ship/scene/pic0120.dds"
+msgstr "data/map/puzzle/ship/scene/pic0120.dds"
+
+#: [Puzzle121]FrameAmount
+msgctxt "[Puzzle121]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle121]Frame0
+msgid "data/map/puzzle/ship/scene/pic0121.dds"
+msgstr "data/map/puzzle/ship/scene/pic0121.dds"
+
+#: [Puzzle122]FrameAmount
+msgctxt "[Puzzle122]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle122]Frame0
+msgid "data/map/puzzle/ship/scene/pic0122.dds"
+msgstr "data/map/puzzle/ship/scene/pic0122.dds"
+
+#: [Puzzle123]FrameAmount
+msgctxt "[Puzzle123]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle123]Frame0
+msgid "data/map/puzzle/ship/scene/pic0123.dds"
+msgstr "data/map/puzzle/ship/scene/pic0123.dds"
+
+#: [Puzzle124]FrameAmount
+msgctxt "[Puzzle124]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle124]Frame0
+msgid "data/map/puzzle/ship/scene/pic0124.dds"
+msgstr "data/map/puzzle/ship/scene/pic0124.dds"
+
+#: [Puzzle125]FrameAmount
+msgctxt "[Puzzle125]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle125]Frame0
+msgid "data/map/puzzle/ship/scene/pic0125.dds"
+msgstr "data/map/puzzle/ship/scene/pic0125.dds"
+
+#: [Puzzle126]FrameAmount
+msgctxt "[Puzzle126]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle126]Frame0
+msgid "data/map/puzzle/ship/scene/pic0126.dds"
+msgstr "data/map/puzzle/ship/scene/pic0126.dds"
+
+#: [Puzzle127]FrameAmount
+msgctxt "[Puzzle127]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle127]Frame0
+msgid "data/map/puzzle/ship/scene/pic0127.dds"
+msgstr "data/map/puzzle/ship/scene/pic0127.dds"
+
+#: [Puzzle128]FrameAmount
+msgctxt "[Puzzle128]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle128]Frame0
+msgid "data/map/puzzle/ship/scene/pic0128.dds"
+msgstr "data/map/puzzle/ship/scene/pic0128.dds"
+
+#: [Puzzle129]FrameAmount
+msgctxt "[Puzzle129]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle129]Frame0
+msgid "data/map/puzzle/ship/scene/pic0129.dds"
+msgstr "data/map/puzzle/ship/scene/pic0129.dds"
+
+#: [Puzzle130]FrameAmount
+msgctxt "[Puzzle130]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle130]Frame0
+msgid "data/map/puzzle/ship/scene/pic0130.dds"
+msgstr "data/map/puzzle/ship/scene/pic0130.dds"
+
+#: [Puzzle131]FrameAmount
+msgctxt "[Puzzle131]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle131]Frame0
+msgid "data/map/puzzle/ship/scene/pic0131.dds"
+msgstr "data/map/puzzle/ship/scene/pic0131.dds"
+
+#: [Puzzle132]FrameAmount
+msgctxt "[Puzzle132]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle132]Frame0
+msgid "data/map/puzzle/ship/scene/pic0132.dds"
+msgstr "data/map/puzzle/ship/scene/pic0132.dds"
+
+#: [Puzzle133]FrameAmount
+msgctxt "[Puzzle133]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle133]Frame0
+msgid "data/map/puzzle/ship/scene/pic0133.dds"
+msgstr "data/map/puzzle/ship/scene/pic0133.dds"
+
+#: [Puzzle134]FrameAmount
+msgctxt "[Puzzle134]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle134]Frame0
+msgid "data/map/puzzle/ship/scene/pic0134.dds"
+msgstr "data/map/puzzle/ship/scene/pic0134.dds"
+
+#: [Puzzle135]FrameAmount
+msgctxt "[Puzzle135]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle135]Frame0
+msgid "data/map/puzzle/ship/scene/pic0135.dds"
+msgstr "data/map/puzzle/ship/scene/pic0135.dds"
+
+#: [Puzzle136]FrameAmount
+msgctxt "[Puzzle136]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle136]Frame0
+msgid "data/map/puzzle/ship/scene/pic0136.dds"
+msgstr "data/map/puzzle/ship/scene/pic0136.dds"
+
+#: [Puzzle137]FrameAmount
+msgctxt "[Puzzle137]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle137]Frame0
+msgid "data/map/puzzle/ship/scene/pic0137.dds"
+msgstr "data/map/puzzle/ship/scene/pic0137.dds"
+
+#: [Puzzle138]FrameAmount
+msgctxt "[Puzzle138]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle138]Frame0
+msgid "data/map/puzzle/ship/scene/pic0138.dds"
+msgstr "data/map/puzzle/ship/scene/pic0138.dds"
+
+#: [Puzzle139]FrameAmount
+msgctxt "[Puzzle139]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle139]Frame0
+msgid "data/map/puzzle/ship/scene/pic0139.dds"
+msgstr "data/map/puzzle/ship/scene/pic0139.dds"
+
+#: [Puzzle140]FrameAmount
+msgctxt "[Puzzle140]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle140]Frame0
+msgid "data/map/puzzle/ship/scene/pic0140.dds"
+msgstr "data/map/puzzle/ship/scene/pic0140.dds"
+
+#: [Puzzle141]FrameAmount
+msgctxt "[Puzzle141]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle141]Frame0
+msgid "data/map/puzzle/ship/scene/pic0141.dds"
+msgstr "data/map/puzzle/ship/scene/pic0141.dds"
+
+#: [Puzzle142]FrameAmount
+msgctxt "[Puzzle142]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle142]Frame0
+msgid "data/map/puzzle/ship/scene/pic0142.dds"
+msgstr "data/map/puzzle/ship/scene/pic0142.dds"
+
+#: [Puzzle143]FrameAmount
+msgctxt "[Puzzle143]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle143]Frame0
+msgid "data/map/puzzle/ship/scene/pic0143.dds"
+msgstr "data/map/puzzle/ship/scene/pic0143.dds"
+
+#: [Puzzle144]FrameAmount
+msgctxt "[Puzzle144]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle144]Frame0
+msgid "data/map/puzzle/ship/scene/pic0144.dds"
+msgstr "data/map/puzzle/ship/scene/pic0144.dds"
+
+#: [Puzzle145]FrameAmount
+msgctxt "[Puzzle145]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle145]Frame0
+msgid "data/map/puzzle/ship/scene/pic0145.dds"
+msgstr "data/map/puzzle/ship/scene/pic0145.dds"
+
+#: [Puzzle146]FrameAmount
+msgctxt "[Puzzle146]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle146]Frame0
+msgid "data/map/puzzle/ship/scene/pic0146.dds"
+msgstr "data/map/puzzle/ship/scene/pic0146.dds"
+
+#: [Puzzle147]FrameAmount
+msgctxt "[Puzzle147]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle147]Frame0
+msgid "data/map/puzzle/ship/scene/pic0147.dds"
+msgstr "data/map/puzzle/ship/scene/pic0147.dds"
+
+#: [Puzzle148]FrameAmount
+msgctxt "[Puzzle148]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle148]Frame0
+msgid "data/map/puzzle/ship/scene/pic0148.dds"
+msgstr "data/map/puzzle/ship/scene/pic0148.dds"
+
+#: [Puzzle149]FrameAmount
+msgctxt "[Puzzle149]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle149]Frame0
+msgid "data/map/puzzle/ship/scene/pic0149.dds"
+msgstr "data/map/puzzle/ship/scene/pic0149.dds"
+
+#: [Puzzle150]FrameAmount
+msgctxt "[Puzzle150]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle150]Frame0
+msgid "data/map/puzzle/ship/scene/pic0150.dds"
+msgstr "data/map/puzzle/ship/scene/pic0150.dds"
+
+#: [Puzzle151]FrameAmount
+msgctxt "[Puzzle151]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle151]Frame0
+msgid "data/map/puzzle/ship/scene/pic0151.dds"
+msgstr "data/map/puzzle/ship/scene/pic0151.dds"
+
+#: [Puzzle152]FrameAmount
+msgctxt "[Puzzle152]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle152]Frame0
+msgid "data/map/puzzle/ship/scene/pic0152.dds"
+msgstr "data/map/puzzle/ship/scene/pic0152.dds"
+
+#: [Puzzle153]FrameAmount
+msgctxt "[Puzzle153]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle153]Frame0
+msgid "data/map/puzzle/ship/scene/pic0153.dds"
+msgstr "data/map/puzzle/ship/scene/pic0153.dds"
+
+#: [Puzzle154]FrameAmount
+msgctxt "[Puzzle154]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle154]Frame0
+msgid "data/map/puzzle/ship/scene/pic0154.dds"
+msgstr "data/map/puzzle/ship/scene/pic0154.dds"
+
+#: [Puzzle155]FrameAmount
+msgctxt "[Puzzle155]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle155]Frame0
+msgid "data/map/puzzle/ship/scene/pic0155.dds"
+msgstr "data/map/puzzle/ship/scene/pic0155.dds"
+
+#: [Puzzle156]FrameAmount
+msgctxt "[Puzzle156]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle156]Frame0
+msgid "data/map/puzzle/ship/scene/pic0156.dds"
+msgstr "data/map/puzzle/ship/scene/pic0156.dds"
+
+#: [Puzzle157]FrameAmount
+msgctxt "[Puzzle157]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle157]Frame0
+msgid "data/map/puzzle/ship/scene/pic0157.dds"
+msgstr "data/map/puzzle/ship/scene/pic0157.dds"
+
+#: [Puzzle158]FrameAmount
+msgctxt "[Puzzle158]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle158]Frame0
+msgid "data/map/puzzle/ship/scene/pic0158.dds"
+msgstr "data/map/puzzle/ship/scene/pic0158.dds"
+
+#: [Puzzle159]FrameAmount
+msgctxt "[Puzzle159]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle159]Frame0
+msgid "data/map/puzzle/ship/scene/pic0159.dds"
+msgstr "data/map/puzzle/ship/scene/pic0159.dds"
+
+#: [Puzzle160]FrameAmount
+msgctxt "[Puzzle160]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle160]Frame0
+msgid "data/map/puzzle/ship/scene/pic0160.dds"
+msgstr "data/map/puzzle/ship/scene/pic0160.dds"
+
+#: [Puzzle161]FrameAmount
+msgctxt "[Puzzle161]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle161]Frame0
+msgid "data/map/puzzle/ship/scene/pic0161.dds"
+msgstr "data/map/puzzle/ship/scene/pic0161.dds"
+
+#: [Puzzle162]FrameAmount
+msgctxt "[Puzzle162]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle162]Frame0
+msgid "data/map/puzzle/ship/scene/pic0162.dds"
+msgstr "data/map/puzzle/ship/scene/pic0162.dds"
+
+#: [Puzzle163]FrameAmount
+msgctxt "[Puzzle163]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle163]Frame0
+msgid "data/map/puzzle/ship/scene/pic0163.dds"
+msgstr "data/map/puzzle/ship/scene/pic0163.dds"
+
+#: [Puzzle164]FrameAmount
+msgctxt "[Puzzle164]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle164]Frame0
+msgid "data/map/puzzle/ship/scene/pic0164.dds"
+msgstr "data/map/puzzle/ship/scene/pic0164.dds"
+
+#: [Puzzle165]FrameAmount
+msgctxt "[Puzzle165]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle165]Frame0
+msgid "data/map/puzzle/ship/scene/pic0165.dds"
+msgstr "data/map/puzzle/ship/scene/pic0165.dds"
+
+#: [Puzzle166]FrameAmount
+msgctxt "[Puzzle166]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle166]Frame0
+msgid "data/map/puzzle/ship/scene/pic0166.dds"
+msgstr "data/map/puzzle/ship/scene/pic0166.dds"
+
+#: [Puzzle167]FrameAmount
+msgctxt "[Puzzle167]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle167]Frame0
+msgid "data/map/puzzle/ship/scene/pic0167.dds"
+msgstr "data/map/puzzle/ship/scene/pic0167.dds"
+
+#: [Puzzle168]FrameAmount
+msgctxt "[Puzzle168]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle168]Frame0
+msgid "data/map/puzzle/ship/scene/pic0168.dds"
+msgstr "data/map/puzzle/ship/scene/pic0168.dds"
+
+#: [Puzzle169]FrameAmount
+msgctxt "[Puzzle169]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle169]Frame0
+msgid "data/map/puzzle/ship/scene/pic0169.dds"
+msgstr "data/map/puzzle/ship/scene/pic0169.dds"
+
+#: [Puzzle170]FrameAmount
+msgctxt "[Puzzle170]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle170]Frame0
+msgid "data/map/puzzle/ship/scene/pic0170.dds"
+msgstr "data/map/puzzle/ship/scene/pic0170.dds"
+
+#: [Puzzle171]FrameAmount
+msgctxt "[Puzzle171]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle171]Frame0
+msgid "data/map/puzzle/ship/scene/pic0171.dds"
+msgstr "data/map/puzzle/ship/scene/pic0171.dds"
+
+#: [Puzzle172]FrameAmount
+msgctxt "[Puzzle172]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle172]Frame0
+msgid "data/map/puzzle/ship/scene/pic0172.dds"
+msgstr "data/map/puzzle/ship/scene/pic0172.dds"
+
+#: [Puzzle173]FrameAmount
+msgctxt "[Puzzle173]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle173]Frame0
+msgid "data/map/puzzle/ship/scene/pic0173.dds"
+msgstr "data/map/puzzle/ship/scene/pic0173.dds"
+
+#: [Puzzle174]FrameAmount
+msgctxt "[Puzzle174]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle174]Frame0
+msgid "data/map/puzzle/ship/scene/pic0174.dds"
+msgstr "data/map/puzzle/ship/scene/pic0174.dds"
+
+#: [Puzzle175]FrameAmount
+msgctxt "[Puzzle175]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle175]Frame0
+msgid "data/map/puzzle/ship/scene/pic0175.dds"
+msgstr "data/map/puzzle/ship/scene/pic0175.dds"
+
+#: [Puzzle176]FrameAmount
+msgctxt "[Puzzle176]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle176]Frame0
+msgid "data/map/puzzle/ship/scene/pic0176.dds"
+msgstr "data/map/puzzle/ship/scene/pic0176.dds"
+
+#: [Puzzle177]FrameAmount
+msgctxt "[Puzzle177]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle177]Frame0
+msgid "data/map/puzzle/ship/scene/pic0177.dds"
+msgstr "data/map/puzzle/ship/scene/pic0177.dds"
+
+#: [Puzzle178]FrameAmount
+msgctxt "[Puzzle178]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle178]Frame0
+msgid "data/map/puzzle/ship/scene/pic0178.dds"
+msgstr "data/map/puzzle/ship/scene/pic0178.dds"
+
+#: [Puzzle179]FrameAmount
+msgctxt "[Puzzle179]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle179]Frame0
+msgid "data/map/puzzle/ship/scene/pic0179.dds"
+msgstr "data/map/puzzle/ship/scene/pic0179.dds"
+
+#: [Puzzle180]FrameAmount
+msgctxt "[Puzzle180]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle180]Frame0
+msgid "data/map/puzzle/ship/scene/pic0180.dds"
+msgstr "data/map/puzzle/ship/scene/pic0180.dds"
+
+#: [Puzzle181]FrameAmount
+msgctxt "[Puzzle181]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle181]Frame0
+msgid "data/map/puzzle/ship/scene/pic0181.dds"
+msgstr "data/map/puzzle/ship/scene/pic0181.dds"
+
+#: [Puzzle182]FrameAmount
+msgctxt "[Puzzle182]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle182]Frame0
+msgid "data/map/puzzle/ship/scene/pic0182.dds"
+msgstr "data/map/puzzle/ship/scene/pic0182.dds"
+
+#: [Puzzle183]FrameAmount
+msgctxt "[Puzzle183]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle183]Frame0
+msgid "data/map/puzzle/ship/scene/pic0183.dds"
+msgstr "data/map/puzzle/ship/scene/pic0183.dds"
+
+#: [Puzzle184]FrameAmount
+msgctxt "[Puzzle184]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle184]Frame0
+msgid "data/map/puzzle/ship/scene/pic0184.dds"
+msgstr "data/map/puzzle/ship/scene/pic0184.dds"
+
+#: [Puzzle185]FrameAmount
+msgctxt "[Puzzle185]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle185]Frame0
+msgid "data/map/puzzle/ship/scene/pic0185.dds"
+msgstr "data/map/puzzle/ship/scene/pic0185.dds"
+
+#: [Puzzle186]FrameAmount
+msgctxt "[Puzzle186]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle186]Frame0
+msgid "data/map/puzzle/ship/scene/pic0186.dds"
+msgstr "data/map/puzzle/ship/scene/pic0186.dds"
+
+#: [Puzzle187]FrameAmount
+msgctxt "[Puzzle187]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle187]Frame0
+msgid "data/map/puzzle/ship/scene/pic0187.dds"
+msgstr "data/map/puzzle/ship/scene/pic0187.dds"
+
+#: [Puzzle188]FrameAmount
+msgctxt "[Puzzle188]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle188]Frame0
+msgid "data/map/puzzle/ship/scene/pic0188.dds"
+msgstr "data/map/puzzle/ship/scene/pic0188.dds"
+
+#: [Puzzle189]FrameAmount
+msgctxt "[Puzzle189]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle189]Frame0
+msgid "data/map/puzzle/ship/scene/pic0189.dds"
+msgstr "data/map/puzzle/ship/scene/pic0189.dds"
+
+#: [Puzzle190]FrameAmount
+msgctxt "[Puzzle190]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle190]Frame0
+msgid "data/map/puzzle/ship/scene/pic0190.dds"
+msgstr "data/map/puzzle/ship/scene/pic0190.dds"
+
+#: [Puzzle191]FrameAmount
+msgctxt "[Puzzle191]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle191]Frame0
+msgid "data/map/puzzle/ship/scene/pic0191.dds"
+msgstr "data/map/puzzle/ship/scene/pic0191.dds"
+
+#: [Puzzle192]FrameAmount
+msgctxt "[Puzzle192]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle192]Frame0
+msgid "data/map/puzzle/ship/scene/pic0192.dds"
+msgstr "data/map/puzzle/ship/scene/pic0192.dds"
+
+#: [Puzzle193]FrameAmount
+msgctxt "[Puzzle193]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle193]Frame0
+msgid "data/map/puzzle/ship/scene/pic0193.dds"
+msgstr "data/map/puzzle/ship/scene/pic0193.dds"
+
+#: [Puzzle194]FrameAmount
+msgctxt "[Puzzle194]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle194]Frame0
+msgid "data/map/puzzle/ship/scene/pic0194.dds"
+msgstr "data/map/puzzle/ship/scene/pic0194.dds"
+
+#: [Puzzle195]FrameAmount
+msgctxt "[Puzzle195]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle195]Frame0
+msgid "data/map/puzzle/ship/scene/pic0195.dds"
+msgstr "data/map/puzzle/ship/scene/pic0195.dds"
+
+#: [Puzzle196]FrameAmount
+msgctxt "[Puzzle196]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle196]Frame0
+msgid "data/map/puzzle/ship/scene/pic0196.dds"
+msgstr "data/map/puzzle/ship/scene/pic0196.dds"
+
+#: [Puzzle197]FrameAmount
+msgctxt "[Puzzle197]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle197]Frame0
+msgid "data/map/puzzle/ship/scene/pic0197.dds"
+msgstr "data/map/puzzle/ship/scene/pic0197.dds"
+
+#: [Puzzle198]FrameAmount
+msgctxt "[Puzzle198]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle198]Frame0
+msgid "data/map/puzzle/ship/scene/pic0198.dds"
+msgstr "data/map/puzzle/ship/scene/pic0198.dds"
+
+#: [Puzzle199]FrameAmount
+msgctxt "[Puzzle199]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle199]Frame0
+msgid "data/map/puzzle/ship/scene/pic0199.dds"
+msgstr "data/map/puzzle/ship/scene/pic0199.dds"
+
+#: [Puzzle200]FrameAmount
+msgctxt "[Puzzle200]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle200]Frame0
+msgid "data/map/puzzle/ship/scene/pic0200.dds"
+msgstr "data/map/puzzle/ship/scene/pic0200.dds"
+
+#: [Puzzle201]FrameAmount
+msgctxt "[Puzzle201]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle201]Frame0
+msgid "data/map/puzzle/ship/scene/pic0201.dds"
+msgstr "data/map/puzzle/ship/scene/pic0201.dds"
+
+#: [Puzzle202]FrameAmount
+msgctxt "[Puzzle202]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle202]Frame0
+msgid "data/map/puzzle/ship/scene/pic0202.dds"
+msgstr "data/map/puzzle/ship/scene/pic0202.dds"
+
+#: [Puzzle203]FrameAmount
+msgctxt "[Puzzle203]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle203]Frame0
+msgid "data/map/puzzle/ship/scene/pic0203.dds"
+msgstr "data/map/puzzle/ship/scene/pic0203.dds"
+
+#: [Puzzle204]FrameAmount
+msgctxt "[Puzzle204]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle204]Frame0
+msgid "data/map/puzzle/ship/scene/pic0204.dds"
+msgstr "data/map/puzzle/ship/scene/pic0204.dds"
+
+#: [Puzzle205]FrameAmount
+msgctxt "[Puzzle205]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle205]Frame0
+msgid "data/map/puzzle/ship/scene/pic0205.dds"
+msgstr "data/map/puzzle/ship/scene/pic0205.dds"
+
+#: [Puzzle206]FrameAmount
+msgctxt "[Puzzle206]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle206]Frame0
+msgid "data/map/puzzle/ship/scene/pic0206.dds"
+msgstr "data/map/puzzle/ship/scene/pic0206.dds"
+
+#: [Puzzle207]FrameAmount
+msgctxt "[Puzzle207]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle207]Frame0
+msgid "data/map/puzzle/ship/scene/pic0207.dds"
+msgstr "data/map/puzzle/ship/scene/pic0207.dds"
+
+#: [Puzzle208]FrameAmount
+msgctxt "[Puzzle208]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle208]Frame0
+msgid "data/map/puzzle/ship/scene/pic0208.dds"
+msgstr "data/map/puzzle/ship/scene/pic0208.dds"
+
+#: [Puzzle209]FrameAmount
+msgctxt "[Puzzle209]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle209]Frame0
+msgid "data/map/puzzle/ship/scene/pic0209.dds"
+msgstr "data/map/puzzle/ship/scene/pic0209.dds"

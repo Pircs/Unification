@@ -1,0 +1,967 @@
+#. extracted from street.ini, streetCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 21:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Puzzle0]FrameAmount
+msgctxt "[Puzzle0]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle0]Frame0
+msgid "data/map/puzzle/street/street000.dds"
+msgstr "data/map/puzzle/street/street000.dds"
+
+#: [Puzzle1]FrameAmount
+msgctxt "[Puzzle1]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle1]Frame0
+msgid "data/map/puzzle/street/street001.dds"
+msgstr "data/map/puzzle/street/street001.dds"
+
+#: [Puzzle2]FrameAmount
+msgctxt "[Puzzle2]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle2]Frame0
+msgid "data/map/puzzle/street/street002.dds"
+msgstr "data/map/puzzle/street/street002.dds"
+
+#: [Puzzle3]FrameAmount
+msgctxt "[Puzzle3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle3]Frame0
+msgid "data/map/puzzle/street/street003.dds"
+msgstr "data/map/puzzle/street/street003.dds"
+
+#: [Puzzle4]FrameAmount
+msgctxt "[Puzzle4]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle4]Frame0
+msgid "data/map/puzzle/street/street004.dds"
+msgstr "data/map/puzzle/street/street004.dds"
+
+#: [Puzzle5]FrameAmount
+msgctxt "[Puzzle5]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle5]Frame0
+msgid "data/map/puzzle/street/street005.dds"
+msgstr "data/map/puzzle/street/street005.dds"
+
+#: [Puzzle6]FrameAmount
+msgctxt "[Puzzle6]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle6]Frame0
+msgid "data/map/puzzle/street/street006.dds"
+msgstr "data/map/puzzle/street/street006.dds"
+
+#: [Puzzle7]FrameAmount
+msgctxt "[Puzzle7]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle7]Frame0
+msgid "data/map/puzzle/street/street007.dds"
+msgstr "data/map/puzzle/street/street007.dds"
+
+#: [Puzzle8]FrameAmount
+msgctxt "[Puzzle8]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle8]Frame0
+msgid "data/map/puzzle/street/street008.dds"
+msgstr "data/map/puzzle/street/street008.dds"
+
+#: [Puzzle9]FrameAmount
+msgctxt "[Puzzle9]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle9]Frame0
+msgid "data/map/puzzle/street/street009.dds"
+msgstr "data/map/puzzle/street/street009.dds"
+
+#: [Puzzle10]FrameAmount
+msgctxt "[Puzzle10]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle10]Frame0
+msgid "data/map/puzzle/street/street010.dds"
+msgstr "data/map/puzzle/street/street010.dds"
+
+#: [Puzzle11]FrameAmount
+msgctxt "[Puzzle11]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle11]Frame0
+msgid "data/map/puzzle/street/street011.dds"
+msgstr "data/map/puzzle/street/street011.dds"
+
+#: [Puzzle12]FrameAmount
+msgctxt "[Puzzle12]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle12]Frame0
+msgid "data/map/puzzle/street/street012.dds"
+msgstr "data/map/puzzle/street/street012.dds"
+
+#: [Puzzle13]FrameAmount
+msgctxt "[Puzzle13]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle13]Frame0
+msgid "data/map/puzzle/street/street013.dds"
+msgstr "data/map/puzzle/street/street013.dds"
+
+#: [Puzzle14]FrameAmount
+msgctxt "[Puzzle14]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle14]Frame0
+msgid "data/map/puzzle/street/street014.dds"
+msgstr "data/map/puzzle/street/street014.dds"
+
+#: [Puzzle15]FrameAmount
+msgctxt "[Puzzle15]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle15]Frame0
+msgid "data/map/puzzle/street/street015.dds"
+msgstr "data/map/puzzle/street/street015.dds"
+
+#: [Puzzle16]FrameAmount
+msgctxt "[Puzzle16]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle16]Frame0
+msgid "data/map/puzzle/street/street016.dds"
+msgstr "data/map/puzzle/street/street016.dds"
+
+#: [Puzzle17]FrameAmount
+msgctxt "[Puzzle17]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle17]Frame0
+msgid "data/map/puzzle/street/street017.dds"
+msgstr "data/map/puzzle/street/street017.dds"
+
+#: [Puzzle18]FrameAmount
+msgctxt "[Puzzle18]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle18]Frame0
+msgid "data/map/puzzle/street/street018.dds"
+msgstr "data/map/puzzle/street/street018.dds"
+
+#: [Puzzle19]FrameAmount
+msgctxt "[Puzzle19]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle19]Frame0
+msgid "data/map/puzzle/street/street019.dds"
+msgstr "data/map/puzzle/street/street019.dds"
+
+#: [Puzzle20]FrameAmount
+msgctxt "[Puzzle20]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle20]Frame0
+msgid "data/map/puzzle/street/street020.dds"
+msgstr "data/map/puzzle/street/street020.dds"
+
+#: [Puzzle21]FrameAmount
+msgctxt "[Puzzle21]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle21]Frame0
+msgid "data/map/puzzle/street/street021.dds"
+msgstr "data/map/puzzle/street/street021.dds"
+
+#: [Puzzle22]FrameAmount
+msgctxt "[Puzzle22]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle22]Frame0
+msgid "data/map/puzzle/street/street022.dds"
+msgstr "data/map/puzzle/street/street022.dds"
+
+#: [Puzzle23]FrameAmount
+msgctxt "[Puzzle23]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle23]Frame0
+msgid "data/map/puzzle/street/street023.dds"
+msgstr "data/map/puzzle/street/street023.dds"
+
+#: [Puzzle24]FrameAmount
+msgctxt "[Puzzle24]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle24]Frame0
+msgid "data/map/puzzle/street/street024.dds"
+msgstr "data/map/puzzle/street/street024.dds"
+
+#: [Puzzle25]FrameAmount
+msgctxt "[Puzzle25]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle25]Frame0
+msgid "data/map/puzzle/street/street025.dds"
+msgstr "data/map/puzzle/street/street025.dds"
+
+#: [Puzzle26]FrameAmount
+msgctxt "[Puzzle26]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle26]Frame0
+msgid "data/map/puzzle/street/street026.dds"
+msgstr "data/map/puzzle/street/street026.dds"
+
+#: [Puzzle27]FrameAmount
+msgctxt "[Puzzle27]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle27]Frame0
+msgid "data/map/puzzle/street/street027.dds"
+msgstr "data/map/puzzle/street/street027.dds"
+
+#: [Puzzle28]FrameAmount
+msgctxt "[Puzzle28]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle28]Frame0
+msgid "data/map/puzzle/street/street028.dds"
+msgstr "data/map/puzzle/street/street028.dds"
+
+#: [Puzzle29]FrameAmount
+msgctxt "[Puzzle29]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle29]Frame0
+msgid "data/map/puzzle/street/street029.dds"
+msgstr "data/map/puzzle/street/street029.dds"
+
+#: [Puzzle30]FrameAmount
+msgctxt "[Puzzle30]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle30]Frame0
+msgid "data/map/puzzle/street/street030.dds"
+msgstr "data/map/puzzle/street/street030.dds"
+
+#: [Puzzle31]FrameAmount
+msgctxt "[Puzzle31]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle31]Frame0
+msgid "data/map/puzzle/street/street031.dds"
+msgstr "data/map/puzzle/street/street031.dds"
+
+#: [Puzzle32]FrameAmount
+msgctxt "[Puzzle32]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle32]Frame0
+msgid "data/map/puzzle/street/street032.dds"
+msgstr "data/map/puzzle/street/street032.dds"
+
+#: [Puzzle33]FrameAmount
+msgctxt "[Puzzle33]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle33]Frame0
+msgid "data/map/puzzle/street/street033.dds"
+msgstr "data/map/puzzle/street/street033.dds"
+
+#: [Puzzle34]FrameAmount
+msgctxt "[Puzzle34]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle34]Frame0
+msgid "data/map/puzzle/street/street034.dds"
+msgstr "data/map/puzzle/street/street034.dds"
+
+#: [Puzzle35]FrameAmount
+msgctxt "[Puzzle35]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle35]Frame0
+msgid "data/map/puzzle/street/street035.dds"
+msgstr "data/map/puzzle/street/street035.dds"
+
+#: [Puzzle36]FrameAmount
+msgctxt "[Puzzle36]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle36]Frame0
+msgid "data/map/puzzle/street/street036.dds"
+msgstr "data/map/puzzle/street/street036.dds"
+
+#: [Puzzle37]FrameAmount
+msgctxt "[Puzzle37]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle37]Frame0
+msgid "data/map/puzzle/street/street037.dds"
+msgstr "data/map/puzzle/street/street037.dds"
+
+#: [Puzzle38]FrameAmount
+msgctxt "[Puzzle38]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle38]Frame0
+msgid "data/map/puzzle/street/street038.dds"
+msgstr "data/map/puzzle/street/street038.dds"
+
+#: [Puzzle39]FrameAmount
+msgctxt "[Puzzle39]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle39]Frame0
+msgid "data/map/puzzle/street/street039.dds"
+msgstr "data/map/puzzle/street/street039.dds"
+
+#: [Puzzle40]FrameAmount
+msgctxt "[Puzzle40]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle40]Frame0
+msgid "data/map/puzzle/street/street040.dds"
+msgstr "data/map/puzzle/street/street040.dds"
+
+#: [Puzzle41]FrameAmount
+msgctxt "[Puzzle41]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle41]Frame0
+msgid "data/map/puzzle/street/street041.dds"
+msgstr "data/map/puzzle/street/street041.dds"
+
+#: [Puzzle42]FrameAmount
+msgctxt "[Puzzle42]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle42]Frame0
+msgid "data/map/puzzle/street/street042.dds"
+msgstr "data/map/puzzle/street/street042.dds"
+
+#: [Puzzle43]FrameAmount
+msgctxt "[Puzzle43]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle43]Frame0
+msgid "data/map/puzzle/street/street043.dds"
+msgstr "data/map/puzzle/street/street043.dds"
+
+#: [Puzzle44]FrameAmount
+msgctxt "[Puzzle44]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle44]Frame0
+msgid "data/map/puzzle/street/street044.dds"
+msgstr "data/map/puzzle/street/street044.dds"
+
+#: [Puzzle45]FrameAmount
+msgctxt "[Puzzle45]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle45]Frame0
+msgid "data/map/puzzle/street/street045.dds"
+msgstr "data/map/puzzle/street/street045.dds"
+
+#: [Puzzle46]FrameAmount
+msgctxt "[Puzzle46]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle46]Frame0
+msgid "data/map/puzzle/street/street046.dds"
+msgstr "data/map/puzzle/street/street046.dds"
+
+#: [Puzzle47]FrameAmount
+msgctxt "[Puzzle47]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle47]Frame0
+msgid "data/map/puzzle/street/street047.dds"
+msgstr "data/map/puzzle/street/street047.dds"
+
+#: [Puzzle48]FrameAmount
+msgctxt "[Puzzle48]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle48]Frame0
+msgid "data/map/puzzle/street/street048.dds"
+msgstr "data/map/puzzle/street/street048.dds"
+
+#: [Puzzle49]FrameAmount
+msgctxt "[Puzzle49]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle49]Frame0
+msgid "data/map/puzzle/street/street049.dds"
+msgstr "data/map/puzzle/street/street049.dds"
+
+#: [Puzzle50]FrameAmount
+msgctxt "[Puzzle50]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle50]Frame0
+msgid "data/map/puzzle/street/street050.dds"
+msgstr "data/map/puzzle/street/street050.dds"
+
+#: [Puzzle51]FrameAmount
+msgctxt "[Puzzle51]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle51]Frame0
+msgid "data/map/puzzle/street/street051.dds"
+msgstr "data/map/puzzle/street/street051.dds"
+
+#: [Puzzle52]FrameAmount
+msgctxt "[Puzzle52]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle52]Frame0
+msgid "data/map/puzzle/street/street052.dds"
+msgstr "data/map/puzzle/street/street052.dds"
+
+#: [Puzzle53]FrameAmount
+msgctxt "[Puzzle53]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle53]Frame0
+msgid "data/map/puzzle/street/street053.dds"
+msgstr "data/map/puzzle/street/street053.dds"
+
+#: [Puzzle54]FrameAmount
+msgctxt "[Puzzle54]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle54]Frame0
+msgid "data/map/puzzle/street/street054.dds"
+msgstr "data/map/puzzle/street/street054.dds"
+
+#: [Puzzle55]FrameAmount
+msgctxt "[Puzzle55]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle55]Frame0
+msgid "data/map/puzzle/street/street055.dds"
+msgstr "data/map/puzzle/street/street055.dds"
+
+#: [Puzzle56]FrameAmount
+msgctxt "[Puzzle56]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle56]Frame0
+msgid "data/map/puzzle/street/street056.dds"
+msgstr "data/map/puzzle/street/street056.dds"
+
+#: [Puzzle57]FrameAmount
+msgctxt "[Puzzle57]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle57]Frame0
+msgid "data/map/puzzle/street/street057.dds"
+msgstr "data/map/puzzle/street/street057.dds"
+
+#: [Puzzle58]FrameAmount
+msgctxt "[Puzzle58]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle58]Frame0
+msgid "data/map/puzzle/street/street058.dds"
+msgstr "data/map/puzzle/street/street058.dds"
+
+#: [Puzzle59]FrameAmount
+msgctxt "[Puzzle59]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle59]Frame0
+msgid "data/map/puzzle/street/street059.dds"
+msgstr "data/map/puzzle/street/street059.dds"
+
+#: [Puzzle60]FrameAmount
+msgctxt "[Puzzle60]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle60]Frame0
+msgid "data/map/puzzle/street/street060.dds"
+msgstr "data/map/puzzle/street/street060.dds"
+
+#: [Puzzle61]FrameAmount
+msgctxt "[Puzzle61]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle61]Frame0
+msgid "data/map/puzzle/street/street061.dds"
+msgstr "data/map/puzzle/street/street061.dds"
+
+#: [Puzzle62]FrameAmount
+msgctxt "[Puzzle62]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle62]Frame0
+msgid "data/map/puzzle/street/street062.dds"
+msgstr "data/map/puzzle/street/street062.dds"
+
+#: [Puzzle63]FrameAmount
+msgctxt "[Puzzle63]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle63]Frame0
+msgid "data/map/puzzle/street/street063.dds"
+msgstr "data/map/puzzle/street/street063.dds"
+
+#: [Puzzle64]FrameAmount
+msgctxt "[Puzzle64]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle64]Frame0
+msgid "data/map/puzzle/street/street064.dds"
+msgstr "data/map/puzzle/street/street064.dds"
+
+#: [Puzzle65]FrameAmount
+msgctxt "[Puzzle65]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle65]Frame0
+msgid "data/map/puzzle/street/street065.dds"
+msgstr "data/map/puzzle/street/street065.dds"
+
+#: [Puzzle66]FrameAmount
+msgctxt "[Puzzle66]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle66]Frame0
+msgid "data/map/puzzle/street/street066.dds"
+msgstr "data/map/puzzle/street/street066.dds"
+
+#: [Puzzle67]FrameAmount
+msgctxt "[Puzzle67]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle67]Frame0
+msgid "data/map/puzzle/street/street067.dds"
+msgstr "data/map/puzzle/street/street067.dds"
+
+#: [Puzzle68]FrameAmount
+msgctxt "[Puzzle68]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle68]Frame0
+msgid "data/map/puzzle/street/street068.dds"
+msgstr "data/map/puzzle/street/street068.dds"
+
+#: [Puzzle69]FrameAmount
+msgctxt "[Puzzle69]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle69]Frame0
+msgid "data/map/puzzle/street/street069.dds"
+msgstr "data/map/puzzle/street/street069.dds"
+
+#: [Puzzle70]FrameAmount
+msgctxt "[Puzzle70]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle70]Frame0
+msgid "data/map/puzzle/street/street070.dds"
+msgstr "data/map/puzzle/street/street070.dds"
+
+#: [Puzzle71]FrameAmount
+msgctxt "[Puzzle71]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle71]Frame0
+msgid "data/map/puzzle/street/street071.dds"
+msgstr "data/map/puzzle/street/street071.dds"
+
+#: [Puzzle72]FrameAmount
+msgctxt "[Puzzle72]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle72]Frame0
+msgid "data/map/puzzle/street/street072.dds"
+msgstr "data/map/puzzle/street/street072.dds"
+
+#: [Puzzle73]FrameAmount
+msgctxt "[Puzzle73]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle73]Frame0
+msgid "data/map/puzzle/street/street073.dds"
+msgstr "data/map/puzzle/street/street073.dds"
+
+#: [Puzzle74]FrameAmount
+msgctxt "[Puzzle74]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle74]Frame0
+msgid "data/map/puzzle/street/street074.dds"
+msgstr "data/map/puzzle/street/street074.dds"
+
+#: [Puzzle75]FrameAmount
+msgctxt "[Puzzle75]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle75]Frame0
+msgid "data/map/puzzle/street/street075.dds"
+msgstr "data/map/puzzle/street/street075.dds"
+
+#: [Puzzle76]FrameAmount
+msgctxt "[Puzzle76]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle76]Frame0
+msgid "data/map/puzzle/street/street076.dds"
+msgstr "data/map/puzzle/street/street076.dds"
+
+#: [Puzzle77]FrameAmount
+msgctxt "[Puzzle77]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle77]Frame0
+msgid "data/map/puzzle/street/street077.dds"
+msgstr "data/map/puzzle/street/street077.dds"
+
+#: [Puzzle78]FrameAmount
+msgctxt "[Puzzle78]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle78]Frame0
+msgid "data/map/puzzle/street/street078.dds"
+msgstr "data/map/puzzle/street/street078.dds"
+
+#: [Puzzle79]FrameAmount
+msgctxt "[Puzzle79]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle79]Frame0
+msgid "data/map/puzzle/street/street079.dds"
+msgstr "data/map/puzzle/street/street079.dds"
+
+#: [Puzzle80]FrameAmount
+msgctxt "[Puzzle80]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle80]Frame0
+msgid "data/map/puzzle/street/street080.dds"
+msgstr "data/map/puzzle/street/street080.dds"
+
+#: [Puzzle81]FrameAmount
+msgctxt "[Puzzle81]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle81]Frame0
+msgid "data/map/puzzle/street/street081.dds"
+msgstr "data/map/puzzle/street/street081.dds"
+
+#: [Puzzle82]FrameAmount
+msgctxt "[Puzzle82]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle82]Frame0
+msgid "data/map/puzzle/street/street082.dds"
+msgstr "data/map/puzzle/street/street082.dds"
+
+#: [Puzzle83]FrameAmount
+msgctxt "[Puzzle83]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle83]Frame0
+msgid "data/map/puzzle/street/street083.dds"
+msgstr "data/map/puzzle/street/street083.dds"
+
+#: [Puzzle84]FrameAmount
+msgctxt "[Puzzle84]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle84]Frame0
+msgid "data/map/puzzle/street/street084.dds"
+msgstr "data/map/puzzle/street/street084.dds"
+
+#: [Puzzle85]FrameAmount
+msgctxt "[Puzzle85]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle85]Frame0
+msgid "data/map/puzzle/street/street085.dds"
+msgstr "data/map/puzzle/street/street085.dds"
+
+#: [Puzzle86]FrameAmount
+msgctxt "[Puzzle86]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle86]Frame0
+msgid "data/map/puzzle/street/street086.dds"
+msgstr "data/map/puzzle/street/street086.dds"
+
+#: [Puzzle87]FrameAmount
+msgctxt "[Puzzle87]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle87]Frame0
+msgid "data/map/puzzle/street/street087.dds"
+msgstr "data/map/puzzle/street/street087.dds"
+
+#: [Puzzle88]FrameAmount
+msgctxt "[Puzzle88]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle88]Frame0
+msgid "data/map/puzzle/street/street088.dds"
+msgstr "data/map/puzzle/street/street088.dds"
+
+#: [Puzzle89]FrameAmount
+msgctxt "[Puzzle89]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle89]Frame0
+msgid "data/map/puzzle/street/street089.dds"
+msgstr "data/map/puzzle/street/street089.dds"
+
+#: [Puzzle90]FrameAmount
+msgctxt "[Puzzle90]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle90]Frame0
+msgid "data/map/puzzle/street/street090.dds"
+msgstr "data/map/puzzle/street/street090.dds"
+
+#: [Puzzle91]FrameAmount
+msgctxt "[Puzzle91]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle91]Frame0
+msgid "data/map/puzzle/street/street091.dds"
+msgstr "data/map/puzzle/street/street091.dds"
+
+#: [Puzzle92]FrameAmount
+msgctxt "[Puzzle92]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle92]Frame0
+msgid "data/map/puzzle/street/street092.dds"
+msgstr "data/map/puzzle/street/street092.dds"
+
+#: [Puzzle93]FrameAmount
+msgctxt "[Puzzle93]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle93]Frame0
+msgid "data/map/puzzle/street/street093.dds"
+msgstr "data/map/puzzle/street/street093.dds"
+
+#: [Puzzle94]FrameAmount
+msgctxt "[Puzzle94]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle94]Frame0
+msgid "data/map/puzzle/street/street094.dds"
+msgstr "data/map/puzzle/street/street094.dds"
+
+#: [Puzzle95]FrameAmount
+msgctxt "[Puzzle95]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle95]Frame0
+msgid "data/map/puzzle/street/street095.dds"
+msgstr "data/map/puzzle/street/street095.dds"
+
+#: [Puzzle96]FrameAmount
+msgctxt "[Puzzle96]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle96]Frame0
+msgid "data/map/puzzle/street/street096.dds"
+msgstr "data/map/puzzle/street/street096.dds"
+
+#: [Puzzle97]FrameAmount
+msgctxt "[Puzzle97]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle97]Frame0
+msgid "data/map/puzzle/street/street097.dds"
+msgstr "data/map/puzzle/street/street097.dds"
+
+#: [Puzzle98]FrameAmount
+msgctxt "[Puzzle98]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle98]Frame0
+msgid "data/map/puzzle/street/street098.dds"
+msgstr "data/map/puzzle/street/street098.dds"
+
+#: [Puzzle99]FrameAmount
+msgctxt "[Puzzle99]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle99]Frame0
+msgid "data/map/puzzle/street/street099.dds"
+msgstr "data/map/puzzle/street/street099.dds"
+
+#: [Puzzle100]FrameAmount
+msgctxt "[Puzzle100]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle100]Frame0
+msgid "data/map/puzzle/street/street100.dds"
+msgstr "data/map/puzzle/street/street100.dds"
+
+#: [Puzzle101]FrameAmount
+msgctxt "[Puzzle101]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle101]Frame0
+msgid "data/map/puzzle/street/street101.dds"
+msgstr "data/map/puzzle/street/street101.dds"
+
+#: [Puzzle102]FrameAmount
+msgctxt "[Puzzle102]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle102]Frame0
+msgid "data/map/puzzle/street/street102.dds"
+msgstr "data/map/puzzle/street/street102.dds"
+
+#: [Puzzle103]FrameAmount
+msgctxt "[Puzzle103]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle103]Frame0
+msgid "data/map/puzzle/street/street103.dds"
+msgstr "data/map/puzzle/street/street103.dds"
+
+#: [Puzzle104]FrameAmount
+msgctxt "[Puzzle104]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle104]Frame0
+msgid "data/map/puzzle/street/street104.dds"
+msgstr "data/map/puzzle/street/street104.dds"
+
+#: [Puzzle105]FrameAmount
+msgctxt "[Puzzle105]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle105]Frame0
+msgid "data/map/puzzle/1-street/street105.dds"
+msgstr "data/map/puzzle/1-street/street105.dds"

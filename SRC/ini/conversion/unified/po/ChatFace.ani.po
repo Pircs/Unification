@@ -1,0 +1,5310 @@
+#. extracted from chatFace.ini, chatFace2.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:26+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Face0_bmp]FrameAmount
+msgctxt "[Face0_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face0_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/0.jpg"
+msgstr "data/PlayerFace/JPG/64/0.jpg"
+
+#: [Face0_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/0.jpg"
+msgstr "data/PlayerFace/JPG/16/0.jpg"
+
+#: [Face1_bmp]FrameAmount
+msgctxt "[Face1_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face1_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/1.jpg"
+msgstr "data/PlayerFace/JPG/64/1.jpg"
+
+#: [Face1_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/1.jpg"
+msgstr "data/PlayerFace/JPG/16/1.jpg"
+
+#: [Face2_bmp]FrameAmount
+msgctxt "[Face2_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face2_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/2.jpg"
+msgstr "data/PlayerFace/JPG/64/2.jpg"
+
+#: [Face2_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/2.jpg"
+msgstr "data/PlayerFace/JPG/16/2.jpg"
+
+#: [Face3_bmp]FrameAmount
+msgctxt "[Face3_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face3_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/3.jpg"
+msgstr "data/PlayerFace/JPG/64/3.jpg"
+
+#: [Face3_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/3.jpg"
+msgstr "data/PlayerFace/JPG/16/3.jpg"
+
+#: [Face4_bmp]FrameAmount
+msgctxt "[Face4_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face4_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/4.jpg"
+msgstr "data/PlayerFace/JPG/64/4.jpg"
+
+#: [Face4_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/4.jpg"
+msgstr "data/PlayerFace/JPG/16/4.jpg"
+
+#: [Face5_bmp]FrameAmount
+msgctxt "[Face5_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face5_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/5.jpg"
+msgstr "data/PlayerFace/JPG/64/5.jpg"
+
+#: [Face5_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/5.jpg"
+msgstr "data/PlayerFace/JPG/16/5.jpg"
+
+#: [Face6_bmp]FrameAmount
+msgctxt "[Face6_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face6_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/6.jpg"
+msgstr "data/PlayerFace/JPG/64/6.jpg"
+
+#: [Face6_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/6.jpg"
+msgstr "data/PlayerFace/JPG/16/6.jpg"
+
+#: [Face7_bmp]FrameAmount
+msgctxt "[Face7_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face7_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/7.jpg"
+msgstr "data/PlayerFace/JPG/64/7.jpg"
+
+#: [Face7_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/7.jpg"
+msgstr "data/PlayerFace/JPG/16/7.jpg"
+
+#: [Face8_bmp]FrameAmount
+msgctxt "[Face8_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face8_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/8.jpg"
+msgstr "data/PlayerFace/JPG/64/8.jpg"
+
+#: [Face8_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/8.jpg"
+msgstr "data/PlayerFace/JPG/16/8.jpg"
+
+#: [Face9_bmp]FrameAmount
+msgctxt "[Face9_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face9_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/9.jpg"
+msgstr "data/PlayerFace/JPG/64/9.jpg"
+
+#: [Face9_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/9.jpg"
+msgstr "data/PlayerFace/JPG/16/9.jpg"
+
+#: [Face10_bmp]FrameAmount
+msgctxt "[Face10_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face10_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/10.jpg"
+msgstr "data/PlayerFace/JPG/64/10.jpg"
+
+#: [Face10_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/10.jpg"
+msgstr "data/PlayerFace/JPG/16/10.jpg"
+
+#: [Face11_bmp]FrameAmount
+msgctxt "[Face11_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face11_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/11.jpg"
+msgstr "data/PlayerFace/JPG/64/11.jpg"
+
+#: [Face11_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/11.jpg"
+msgstr "data/PlayerFace/JPG/16/11.jpg"
+
+#: [Face12_bmp]FrameAmount
+msgctxt "[Face12_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face12_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/12.jpg"
+msgstr "data/PlayerFace/JPG/64/12.jpg"
+
+#: [Face12_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/12.jpg"
+msgstr "data/PlayerFace/JPG/16/12.jpg"
+
+#: [Face13_bmp]FrameAmount
+msgctxt "[Face13_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face13_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/13.jpg"
+msgstr "data/PlayerFace/JPG/64/13.jpg"
+
+#: [Face13_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/13.jpg"
+msgstr "data/PlayerFace/JPG/16/13.jpg"
+
+#: [Face14_bmp]FrameAmount
+msgctxt "[Face14_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face14_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/14.jpg"
+msgstr "data/PlayerFace/JPG/64/14.jpg"
+
+#: [Face14_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/14.jpg"
+msgstr "data/PlayerFace/JPG/16/14.jpg"
+
+#: [Face15_bmp]FrameAmount
+msgctxt "[Face15_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face15_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/15.jpg"
+msgstr "data/PlayerFace/JPG/64/15.jpg"
+
+#: [Face15_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/15.jpg"
+msgstr "data/PlayerFace/JPG/16/15.jpg"
+
+#: [Face16_bmp]FrameAmount
+msgctxt "[Face16_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face16_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/16.jpg"
+msgstr "data/PlayerFace/JPG/64/16.jpg"
+
+#: [Face16_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/16.jpg"
+msgstr "data/PlayerFace/JPG/16/16.jpg"
+
+#: [Face17_bmp]FrameAmount
+msgctxt "[Face17_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face17_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/17.jpg"
+msgstr "data/PlayerFace/JPG/64/17.jpg"
+
+#: [Face17_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/17.jpg"
+msgstr "data/PlayerFace/JPG/16/17.jpg"
+
+#: [Face18_bmp]FrameAmount
+msgctxt "[Face18_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face18_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/18.jpg"
+msgstr "data/PlayerFace/JPG/64/18.jpg"
+
+#: [Face18_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/18.jpg"
+msgstr "data/PlayerFace/JPG/16/18.jpg"
+
+#: [Face19_bmp]FrameAmount
+msgctxt "[Face19_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face19_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/19.jpg"
+msgstr "data/PlayerFace/JPG/64/19.jpg"
+
+#: [Face19_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/19.jpg"
+msgstr "data/PlayerFace/JPG/16/19.jpg"
+
+#: [Face20_bmp]FrameAmount
+msgctxt "[Face20_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face20_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/20.jpg"
+msgstr "data/PlayerFace/JPG/64/20.jpg"
+
+#: [Face20_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/20.jpg"
+msgstr "data/PlayerFace/JPG/16/20.jpg"
+
+#: [Face21_bmp]FrameAmount
+msgctxt "[Face21_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face21_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/21.jpg"
+msgstr "data/PlayerFace/JPG/64/21.jpg"
+
+#: [Face21_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/21.jpg"
+msgstr "data/PlayerFace/JPG/16/21.jpg"
+
+#: [Face22_bmp]FrameAmount
+msgctxt "[Face22_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face22_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/22.jpg"
+msgstr "data/PlayerFace/JPG/64/22.jpg"
+
+#: [Face22_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/22.jpg"
+msgstr "data/PlayerFace/JPG/16/22.jpg"
+
+#: [Face23_bmp]FrameAmount
+msgctxt "[Face23_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face23_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/23.jpg"
+msgstr "data/PlayerFace/JPG/64/23.jpg"
+
+#: [Face23_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/23.jpg"
+msgstr "data/PlayerFace/JPG/16/23.jpg"
+
+#: [Face24_bmp]FrameAmount
+msgctxt "[Face24_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face24_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/24.jpg"
+msgstr "data/PlayerFace/JPG/64/24.jpg"
+
+#: [Face24_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/24.jpg"
+msgstr "data/PlayerFace/JPG/16/24.jpg"
+
+#: [Face25_bmp]FrameAmount
+msgctxt "[Face25_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face25_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/25.jpg"
+msgstr "data/PlayerFace/JPG/64/25.jpg"
+
+#: [Face25_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/25.jpg"
+msgstr "data/PlayerFace/JPG/16/25.jpg"
+
+#: [Face26_bmp]FrameAmount
+msgctxt "[Face26_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face26_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/26.jpg"
+msgstr "data/PlayerFace/JPG/64/26.jpg"
+
+#: [Face26_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/26.jpg"
+msgstr "data/PlayerFace/JPG/16/26.jpg"
+
+#: [Face27_bmp]FrameAmount
+msgctxt "[Face27_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face27_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/27.jpg"
+msgstr "data/PlayerFace/JPG/64/27.jpg"
+
+#: [Face27_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/27.jpg"
+msgstr "data/PlayerFace/JPG/16/27.jpg"
+
+#: [Face28_bmp]FrameAmount
+msgctxt "[Face28_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face28_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/28.jpg"
+msgstr "data/PlayerFace/JPG/64/28.jpg"
+
+#: [Face28_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/28.jpg"
+msgstr "data/PlayerFace/JPG/16/28.jpg"
+
+#: [Face29_bmp]FrameAmount
+msgctxt "[Face29_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face29_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/29.jpg"
+msgstr "data/PlayerFace/JPG/64/29.jpg"
+
+#: [Face29_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/29.jpg"
+msgstr "data/PlayerFace/JPG/16/29.jpg"
+
+#: [Face30_bmp]FrameAmount
+msgctxt "[Face30_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face30_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/30.jpg"
+msgstr "data/PlayerFace/JPG/64/30.jpg"
+
+#: [Face30_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/30.jpg"
+msgstr "data/PlayerFace/JPG/16/30.jpg"
+
+#: [Face31_bmp]FrameAmount
+msgctxt "[Face31_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face31_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/31.jpg"
+msgstr "data/PlayerFace/JPG/64/31.jpg"
+
+#: [Face31_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/31.jpg"
+msgstr "data/PlayerFace/JPG/16/31.jpg"
+
+#: [Face32_bmp]FrameAmount
+msgctxt "[Face32_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face32_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/32.jpg"
+msgstr "data/PlayerFace/JPG/64/32.jpg"
+
+#: [Face32_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/32.jpg"
+msgstr "data/PlayerFace/JPG/16/32.jpg"
+
+#: [Face33_bmp]FrameAmount
+msgctxt "[Face33_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face33_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/33.jpg"
+msgstr "data/PlayerFace/JPG/64/33.jpg"
+
+#: [Face33_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/33.jpg"
+msgstr "data/PlayerFace/JPG/16/33.jpg"
+
+#: [Face34_bmp]FrameAmount
+msgctxt "[Face34_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face34_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/34.jpg"
+msgstr "data/PlayerFace/JPG/64/34.jpg"
+
+#: [Face34_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/34.jpg"
+msgstr "data/PlayerFace/JPG/16/34.jpg"
+
+#: [Face35_bmp]FrameAmount
+msgctxt "[Face35_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face35_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/35.jpg"
+msgstr "data/PlayerFace/JPG/64/35.jpg"
+
+#: [Face35_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/35.jpg"
+msgstr "data/PlayerFace/JPG/16/35.jpg"
+
+#: [Face36_bmp]FrameAmount
+msgctxt "[Face36_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face36_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/36.jpg"
+msgstr "data/PlayerFace/JPG/64/36.jpg"
+
+#: [Face36_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/36.jpg"
+msgstr "data/PlayerFace/JPG/16/36.jpg"
+
+#: [Face37_bmp]FrameAmount
+msgctxt "[Face37_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face37_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/37.jpg"
+msgstr "data/PlayerFace/JPG/64/37.jpg"
+
+#: [Face37_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/37.jpg"
+msgstr "data/PlayerFace/JPG/16/37.jpg"
+
+#: [Face38_bmp]FrameAmount
+msgctxt "[Face38_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face38_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/38.jpg"
+msgstr "data/PlayerFace/JPG/64/38.jpg"
+
+#: [Face38_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/38.jpg"
+msgstr "data/PlayerFace/JPG/16/38.jpg"
+
+#: [Face39_bmp]FrameAmount
+msgctxt "[Face39_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face39_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/39.jpg"
+msgstr "data/PlayerFace/JPG/64/39.jpg"
+
+#: [Face39_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/39.jpg"
+msgstr "data/PlayerFace/JPG/16/39.jpg"
+
+#: [Face40_bmp]FrameAmount
+msgctxt "[Face40_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face40_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/40.jpg"
+msgstr "data/PlayerFace/JPG/64/40.jpg"
+
+#: [Face40_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/40.jpg"
+msgstr "data/PlayerFace/JPG/16/40.jpg"
+
+#: [Face41_bmp]FrameAmount
+msgctxt "[Face41_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face41_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/41.jpg"
+msgstr "data/PlayerFace/JPG/64/41.jpg"
+
+#: [Face41_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/41.jpg"
+msgstr "data/PlayerFace/JPG/16/41.jpg"
+
+#: [Face42_bmp]FrameAmount
+msgctxt "[Face42_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face42_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/42.jpg"
+msgstr "data/PlayerFace/JPG/64/42.jpg"
+
+#: [Face42_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/42.jpg"
+msgstr "data/PlayerFace/JPG/16/42.jpg"
+
+#: [Face43_bmp]FrameAmount
+msgctxt "[Face43_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face43_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/43.jpg"
+msgstr "data/PlayerFace/JPG/64/43.jpg"
+
+#: [Face43_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/43.jpg"
+msgstr "data/PlayerFace/JPG/16/43.jpg"
+
+#: [Face44_bmp]FrameAmount
+msgctxt "[Face44_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face44_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/44.jpg"
+msgstr "data/PlayerFace/JPG/64/44.jpg"
+
+#: [Face44_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/44.jpg"
+msgstr "data/PlayerFace/JPG/16/44.jpg"
+
+#: [Face45_bmp]FrameAmount
+msgctxt "[Face45_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face45_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/45.jpg"
+msgstr "data/PlayerFace/JPG/64/45.jpg"
+
+#: [Face45_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/45.jpg"
+msgstr "data/PlayerFace/JPG/16/45.jpg"
+
+#: [Face46_bmp]FrameAmount
+msgctxt "[Face46_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face46_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/46.jpg"
+msgstr "data/PlayerFace/JPG/64/46.jpg"
+
+#: [Face46_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/46.jpg"
+msgstr "data/PlayerFace/JPG/16/46.jpg"
+
+#: [Face47_bmp]FrameAmount
+msgctxt "[Face47_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face47_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/47.jpg"
+msgstr "data/PlayerFace/JPG/64/47.jpg"
+
+#: [Face47_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/47.jpg"
+msgstr "data/PlayerFace/JPG/16/47.jpg"
+
+#: [Face48_bmp]FrameAmount
+msgctxt "[Face48_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face48_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/48.jpg"
+msgstr "data/PlayerFace/JPG/64/48.jpg"
+
+#: [Face48_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/48.jpg"
+msgstr "data/PlayerFace/JPG/16/48.jpg"
+
+#: [Face49_bmp]FrameAmount
+msgctxt "[Face49_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face49_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/49.jpg"
+msgstr "data/PlayerFace/JPG/64/49.jpg"
+
+#: [Face49_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/49.jpg"
+msgstr "data/PlayerFace/JPG/16/49.jpg"
+
+#: [Face50_bmp]FrameAmount
+msgctxt "[Face50_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face50_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/50.jpg"
+msgstr "data/PlayerFace/JPG/64/50.jpg"
+
+#: [Face50_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/50.jpg"
+msgstr "data/PlayerFace/JPG/16/50.jpg"
+
+#: [Face51_bmp]FrameAmount
+msgctxt "[Face51_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face51_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/51.jpg"
+msgstr "data/PlayerFace/JPG/64/51.jpg"
+
+#: [Face51_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/51.jpg"
+msgstr "data/PlayerFace/JPG/16/51.jpg"
+
+#: [Face52_bmp]FrameAmount
+msgctxt "[Face52_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face52_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/52.jpg"
+msgstr "data/PlayerFace/JPG/64/52.jpg"
+
+#: [Face52_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/52.jpg"
+msgstr "data/PlayerFace/JPG/16/52.jpg"
+
+#: [Face53_bmp]FrameAmount
+msgctxt "[Face53_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face53_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/53.jpg"
+msgstr "data/PlayerFace/JPG/64/53.jpg"
+
+#: [Face53_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/53.jpg"
+msgstr "data/PlayerFace/JPG/16/53.jpg"
+
+#: [Face54_bmp]FrameAmount
+msgctxt "[Face54_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face54_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/54.jpg"
+msgstr "data/PlayerFace/JPG/64/54.jpg"
+
+#: [Face54_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/54.jpg"
+msgstr "data/PlayerFace/JPG/16/54.jpg"
+
+#: [Face55_bmp]FrameAmount
+msgctxt "[Face55_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face55_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/55.jpg"
+msgstr "data/PlayerFace/JPG/64/55.jpg"
+
+#: [Face55_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/55.jpg"
+msgstr "data/PlayerFace/JPG/16/55.jpg"
+
+#: [Face56_bmp]FrameAmount
+msgctxt "[Face56_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face56_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/56.jpg"
+msgstr "data/PlayerFace/JPG/64/56.jpg"
+
+#: [Face56_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/56.jpg"
+msgstr "data/PlayerFace/JPG/16/56.jpg"
+
+#: [Face57_bmp]FrameAmount
+msgctxt "[Face57_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face57_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/57.jpg"
+msgstr "data/PlayerFace/JPG/64/57.jpg"
+
+#: [Face57_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/57.jpg"
+msgstr "data/PlayerFace/JPG/16/57.jpg"
+
+#: [Face58_bmp]FrameAmount
+msgctxt "[Face58_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face58_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/58.jpg"
+msgstr "data/PlayerFace/JPG/64/58.jpg"
+
+#: [Face58_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/58.jpg"
+msgstr "data/PlayerFace/JPG/16/58.jpg"
+
+#: [Face59_bmp]FrameAmount
+msgctxt "[Face59_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face59_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/59.jpg"
+msgstr "data/PlayerFace/JPG/64/59.jpg"
+
+#: [Face59_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/59.jpg"
+msgstr "data/PlayerFace/JPG/16/59.jpg"
+
+#: [Face60_bmp]FrameAmount
+msgctxt "[Face60_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face60_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/60.jpg"
+msgstr "data/PlayerFace/JPG/64/60.jpg"
+
+#: [Face60_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/60.jpg"
+msgstr "data/PlayerFace/JPG/16/60.jpg"
+
+#: [Face61_bmp]FrameAmount
+msgctxt "[Face61_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face61_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/61.jpg"
+msgstr "data/PlayerFace/JPG/64/61.jpg"
+
+#: [Face61_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/61.jpg"
+msgstr "data/PlayerFace/JPG/16/61.jpg"
+
+#: [Face62_bmp]FrameAmount
+msgctxt "[Face62_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face62_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/62.jpg"
+msgstr "data/PlayerFace/JPG/64/62.jpg"
+
+#: [Face62_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/62.jpg"
+msgstr "data/PlayerFace/JPG/16/62.jpg"
+
+#: [Face63_bmp]FrameAmount
+msgctxt "[Face63_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face63_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/63.jpg"
+msgstr "data/PlayerFace/JPG/64/63.jpg"
+
+#: [Face63_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/63.jpg"
+msgstr "data/PlayerFace/JPG/16/63.jpg"
+
+#: [Face64_bmp]FrameAmount
+msgctxt "[Face64_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face64_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/64.jpg"
+msgstr "data/PlayerFace/JPG/64/64.jpg"
+
+#: [Face64_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/64.jpg"
+msgstr "data/PlayerFace/JPG/16/64.jpg"
+
+#: [Face65_bmp]FrameAmount
+msgctxt "[Face65_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face65_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/65.jpg"
+msgstr "data/PlayerFace/JPG/64/65.jpg"
+
+#: [Face65_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/65.jpg"
+msgstr "data/PlayerFace/JPG/16/65.jpg"
+
+#: [Face66_bmp]FrameAmount
+msgctxt "[Face66_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face66_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/66.jpg"
+msgstr "data/PlayerFace/JPG/64/66.jpg"
+
+#: [Face66_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/66.jpg"
+msgstr "data/PlayerFace/JPG/16/66.jpg"
+
+#: [Face67_bmp]FrameAmount
+msgctxt "[Face67_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face67_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/67.jpg"
+msgstr "data/PlayerFace/JPG/64/67.jpg"
+
+#: [Face67_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/67.jpg"
+msgstr "data/PlayerFace/JPG/16/67.jpg"
+
+#: [Face68_bmp]FrameAmount
+msgctxt "[Face68_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face68_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/68.jpg"
+msgstr "data/PlayerFace/JPG/64/68.jpg"
+
+#: [Face68_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/68.jpg"
+msgstr "data/PlayerFace/JPG/16/68.jpg"
+
+#: [Face69_bmp]FrameAmount
+msgctxt "[Face69_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face69_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/69.jpg"
+msgstr "data/PlayerFace/JPG/64/69.jpg"
+
+#: [Face69_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/69.jpg"
+msgstr "data/PlayerFace/JPG/16/69.jpg"
+
+#: [Face70_bmp]FrameAmount
+msgctxt "[Face70_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face70_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/70.jpg"
+msgstr "data/PlayerFace/JPG/64/70.jpg"
+
+#: [Face70_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/70.jpg"
+msgstr "data/PlayerFace/JPG/16/70.jpg"
+
+#: [Face71_bmp]FrameAmount
+msgctxt "[Face71_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face71_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/71.jpg"
+msgstr "data/PlayerFace/JPG/64/71.jpg"
+
+#: [Face71_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/71.jpg"
+msgstr "data/PlayerFace/JPG/16/71.jpg"
+
+#: [Face72_bmp]FrameAmount
+msgctxt "[Face72_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face72_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/72.jpg"
+msgstr "data/PlayerFace/JPG/64/72.jpg"
+
+#: [Face72_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/72.jpg"
+msgstr "data/PlayerFace/JPG/16/72.jpg"
+
+#: [Face73_bmp]FrameAmount
+msgctxt "[Face73_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face73_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/73.jpg"
+msgstr "data/PlayerFace/JPG/64/73.jpg"
+
+#: [Face73_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/73.jpg"
+msgstr "data/PlayerFace/JPG/16/73.jpg"
+
+#: [Face74_bmp]FrameAmount
+msgctxt "[Face74_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face74_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/74.jpg"
+msgstr "data/PlayerFace/JPG/64/74.jpg"
+
+#: [Face74_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/74.jpg"
+msgstr "data/PlayerFace/JPG/16/74.jpg"
+
+#: [Face75_bmp]FrameAmount
+msgctxt "[Face75_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face75_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/75.jpg"
+msgstr "data/PlayerFace/JPG/64/75.jpg"
+
+#: [Face75_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/75.jpg"
+msgstr "data/PlayerFace/JPG/16/75.jpg"
+
+#: [Face76_bmp]FrameAmount
+msgctxt "[Face76_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face76_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/76.jpg"
+msgstr "data/PlayerFace/JPG/64/76.jpg"
+
+#: [Face76_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/76.jpg"
+msgstr "data/PlayerFace/JPG/16/76.jpg"
+
+#: [Face77_bmp]FrameAmount
+msgctxt "[Face77_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face77_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/77.jpg"
+msgstr "data/PlayerFace/JPG/64/77.jpg"
+
+#: [Face77_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/77.jpg"
+msgstr "data/PlayerFace/JPG/16/77.jpg"
+
+#: [Face78_bmp]FrameAmount
+msgctxt "[Face78_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face78_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/78.jpg"
+msgstr "data/PlayerFace/JPG/64/78.jpg"
+
+#: [Face78_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/78.jpg"
+msgstr "data/PlayerFace/JPG/16/78.jpg"
+
+#: [Face79_bmp]FrameAmount
+msgctxt "[Face79_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face79_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/79.jpg"
+msgstr "data/PlayerFace/JPG/64/79.jpg"
+
+#: [Face79_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/79.jpg"
+msgstr "data/PlayerFace/JPG/16/79.jpg"
+
+#: [Face80_bmp]FrameAmount
+msgctxt "[Face80_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face80_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/80.jpg"
+msgstr "data/PlayerFace/JPG/64/80.jpg"
+
+#: [Face80_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/80.jpg"
+msgstr "data/PlayerFace/JPG/16/80.jpg"
+
+#: [Face81_bmp]FrameAmount
+msgctxt "[Face81_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face81_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/81.jpg"
+msgstr "data/PlayerFace/JPG/64/81.jpg"
+
+#: [Face81_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/81.jpg"
+msgstr "data/PlayerFace/JPG/16/81.jpg"
+
+#: [Face82_bmp]FrameAmount
+msgctxt "[Face82_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face82_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/82.jpg"
+msgstr "data/PlayerFace/JPG/64/82.jpg"
+
+#: [Face82_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/82.jpg"
+msgstr "data/PlayerFace/JPG/16/82.jpg"
+
+#: [Face83_bmp]FrameAmount
+msgctxt "[Face83_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face83_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/83.jpg"
+msgstr "data/PlayerFace/JPG/64/83.jpg"
+
+#: [Face83_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/83.jpg"
+msgstr "data/PlayerFace/JPG/16/83.jpg"
+
+#: [Face84_bmp]FrameAmount
+msgctxt "[Face84_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face84_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/84.jpg"
+msgstr "data/PlayerFace/JPG/64/84.jpg"
+
+#: [Face84_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/84.jpg"
+msgstr "data/PlayerFace/JPG/16/84.jpg"
+
+#: [Face85_bmp]FrameAmount
+msgctxt "[Face85_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face85_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/85.jpg"
+msgstr "data/PlayerFace/JPG/64/85.jpg"
+
+#: [Face85_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/85.jpg"
+msgstr "data/PlayerFace/JPG/16/85.jpg"
+
+#: [Face86_bmp]FrameAmount
+msgctxt "[Face86_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face86_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/86.jpg"
+msgstr "data/PlayerFace/JPG/64/86.jpg"
+
+#: [Face86_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/86.jpg"
+msgstr "data/PlayerFace/JPG/16/86.jpg"
+
+#: [Face87_bmp]FrameAmount
+msgctxt "[Face87_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face87_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/87.jpg"
+msgstr "data/PlayerFace/JPG/64/87.jpg"
+
+#: [Face87_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/87.jpg"
+msgstr "data/PlayerFace/JPG/16/87.jpg"
+
+#: [Face88_bmp]FrameAmount
+msgctxt "[Face88_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face88_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/88.jpg"
+msgstr "data/PlayerFace/JPG/64/88.jpg"
+
+#: [Face88_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/88.jpg"
+msgstr "data/PlayerFace/JPG/16/88.jpg"
+
+#: [Face89_bmp]FrameAmount
+msgctxt "[Face89_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face89_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/89.jpg"
+msgstr "data/PlayerFace/JPG/64/89.jpg"
+
+#: [Face89_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/89.jpg"
+msgstr "data/PlayerFace/JPG/16/89.jpg"
+
+#: [Face90_bmp]FrameAmount
+msgctxt "[Face90_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face90_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/90.jpg"
+msgstr "data/PlayerFace/JPG/64/90.jpg"
+
+#: [Face90_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/90.jpg"
+msgstr "data/PlayerFace/JPG/16/90.jpg"
+
+#: [Face91_bmp]FrameAmount
+msgctxt "[Face91_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face91_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/91.jpg"
+msgstr "data/PlayerFace/JPG/64/91.jpg"
+
+#: [Face91_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/91.jpg"
+msgstr "data/PlayerFace/JPG/16/91.jpg"
+
+#: [Face92_bmp]FrameAmount
+msgctxt "[Face92_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face92_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/92.jpg"
+msgstr "data/PlayerFace/JPG/64/92.jpg"
+
+#: [Face92_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/92.jpg"
+msgstr "data/PlayerFace/JPG/16/92.jpg"
+
+#: [Face93_bmp]FrameAmount
+msgctxt "[Face93_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face93_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/93.jpg"
+msgstr "data/PlayerFace/JPG/64/93.jpg"
+
+#: [Face93_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/93.jpg"
+msgstr "data/PlayerFace/JPG/16/93.jpg"
+
+#: [Face94_bmp]FrameAmount
+msgctxt "[Face94_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face94_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/94.jpg"
+msgstr "data/PlayerFace/JPG/64/94.jpg"
+
+#: [Face94_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/94.jpg"
+msgstr "data/PlayerFace/JPG/16/94.jpg"
+
+#: [Face95_bmp]FrameAmount
+msgctxt "[Face95_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face95_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/95.jpg"
+msgstr "data/PlayerFace/JPG/64/95.jpg"
+
+#: [Face95_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/95.jpg"
+msgstr "data/PlayerFace/JPG/16/95.jpg"
+
+#: [Face96_bmp]FrameAmount
+msgctxt "[Face96_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face96_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/96.jpg"
+msgstr "data/PlayerFace/JPG/64/96.jpg"
+
+#: [Face96_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/96.jpg"
+msgstr "data/PlayerFace/JPG/16/96.jpg"
+
+#: [Face97_bmp]FrameAmount
+msgctxt "[Face97_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face97_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/97.jpg"
+msgstr "data/PlayerFace/JPG/64/97.jpg"
+
+#: [Face97_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/97.jpg"
+msgstr "data/PlayerFace/JPG/16/97.jpg"
+
+#: [Face98_bmp]FrameAmount
+msgctxt "[Face98_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face98_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/98.jpg"
+msgstr "data/PlayerFace/JPG/64/98.jpg"
+
+#: [Face98_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/98.jpg"
+msgstr "data/PlayerFace/JPG/16/98.jpg"
+
+#: [Face99_bmp]FrameAmount
+msgctxt "[Face99_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face99_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/99.jpg"
+msgstr "data/PlayerFace/JPG/64/99.jpg"
+
+#: [Face99_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/99.jpg"
+msgstr "data/PlayerFace/JPG/16/99.jpg"
+
+#: [Face100_bmp]FrameAmount
+msgctxt "[Face100_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face100_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/100.jpg"
+msgstr "data/PlayerFace/JPG/64/100.jpg"
+
+#: [Face100_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/100.jpg"
+msgstr "data/PlayerFace/JPG/16/100.jpg"
+
+#: [Face101_bmp]FrameAmount
+msgctxt "[Face101_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face101_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/101.jpg"
+msgstr "data/PlayerFace/JPG/64/101.jpg"
+
+#: [Face101_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/101.jpg"
+msgstr "data/PlayerFace/JPG/16/101.jpg"
+
+#: [Face102_bmp]FrameAmount
+msgctxt "[Face102_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face102_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/102.jpg"
+msgstr "data/PlayerFace/JPG/64/102.jpg"
+
+#: [Face102_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/102.jpg"
+msgstr "data/PlayerFace/JPG/16/102.jpg"
+
+#: [Face103_bmp]FrameAmount
+msgctxt "[Face103_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face103_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/103.jpg"
+msgstr "data/PlayerFace/JPG/64/103.jpg"
+
+#: [Face103_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/103.jpg"
+msgstr "data/PlayerFace/JPG/16/103.jpg"
+
+#: [Face104_bmp]FrameAmount
+msgctxt "[Face104_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face104_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/104.jpg"
+msgstr "data/PlayerFace/JPG/64/104.jpg"
+
+#: [Face104_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/104.jpg"
+msgstr "data/PlayerFace/JPG/16/104.jpg"
+
+#: [Face105_bmp]FrameAmount
+msgctxt "[Face105_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face105_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/105.jpg"
+msgstr "data/PlayerFace/JPG/64/105.jpg"
+
+#: [Face105_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/105.jpg"
+msgstr "data/PlayerFace/JPG/16/105.jpg"
+
+#: [Face106_bmp]FrameAmount
+msgctxt "[Face106_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face106_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/106.jpg"
+msgstr "data/PlayerFace/JPG/64/106.jpg"
+
+#: [Face106_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/106.jpg"
+msgstr "data/PlayerFace/JPG/16/106.jpg"
+
+#: [Face107_bmp]FrameAmount
+msgctxt "[Face107_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face107_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/107.jpg"
+msgstr "data/PlayerFace/JPG/64/107.jpg"
+
+#: [Face107_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/107.jpg"
+msgstr "data/PlayerFace/JPG/16/107.jpg"
+
+#: [Face108_bmp]FrameAmount
+msgctxt "[Face108_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face108_bmp]Frame0
+msgctxt "[Face108_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/296.jpg"
+msgstr "data/PlayerFace/JPG/64/296.jpg"
+
+#: [Face108_bmp]Frame1
+msgctxt "[Face108_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/296.jpg"
+msgstr "data/PlayerFace/JPG/16/296.jpg"
+
+#: [Face109_bmp]FrameAmount
+msgctxt "[Face109_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face109_bmp]Frame0
+msgctxt "[Face109_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/109.jpg"
+msgstr "data/PlayerFace/JPG/64/109.jpg"
+
+#: [Face109_bmp]Frame1
+msgctxt "[Face109_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/109.jpg"
+msgstr "data/PlayerFace/JPG/16/109.jpg"
+
+#: [Face110_bmp]FrameAmount
+msgctxt "[Face110_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face110_bmp]Frame0
+msgctxt "[Face110_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/110.jpg"
+msgstr "data/PlayerFace/JPG/64/110.jpg"
+
+#: [Face110_bmp]Frame1
+msgctxt "[Face110_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/110.jpg"
+msgstr "data/PlayerFace/JPG/16/110.jpg"
+
+#: [Face111_bmp]FrameAmount
+msgctxt "[Face111_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face111_bmp]Frame0
+msgctxt "[Face111_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/111.jpg"
+msgstr "data/PlayerFace/JPG/64/111.jpg"
+
+#: [Face111_bmp]Frame1
+msgctxt "[Face111_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/111.jpg"
+msgstr "data/PlayerFace/JPG/16/111.jpg"
+
+#: [Face112_bmp]FrameAmount
+msgctxt "[Face112_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face112_bmp]Frame0
+msgctxt "[Face112_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/112.jpg"
+msgstr "data/PlayerFace/JPG/64/112.jpg"
+
+#: [Face112_bmp]Frame1
+msgctxt "[Face112_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/112.jpg"
+msgstr "data/PlayerFace/JPG/16/112.jpg"
+
+#: [Face113_bmp]FrameAmount
+msgctxt "[Face113_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face113_bmp]Frame0
+msgctxt "[Face113_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/113.jpg"
+msgstr "data/PlayerFace/JPG/64/113.jpg"
+
+#: [Face113_bmp]Frame1
+msgctxt "[Face113_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/113.jpg"
+msgstr "data/PlayerFace/JPG/16/113.jpg"
+
+#: [Face114_bmp]FrameAmount
+msgctxt "[Face114_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face114_bmp]Frame0
+msgctxt "[Face114_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/109.jpg"
+msgstr "data/PlayerFace/JPG/64/109.jpg"
+
+#: [Face114_bmp]Frame1
+msgctxt "[Face114_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/109.jpg"
+msgstr "data/PlayerFace/JPG/16/109.jpg"
+
+#: [Face115_bmp]FrameAmount
+msgctxt "[Face115_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face115_bmp]Frame0
+msgctxt "[Face115_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/110.jpg"
+msgstr "data/PlayerFace/JPG/64/110.jpg"
+
+#: [Face115_bmp]Frame1
+msgctxt "[Face115_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/110.jpg"
+msgstr "data/PlayerFace/JPG/16/110.jpg"
+
+#: [Face116_bmp]FrameAmount
+msgctxt "[Face116_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face116_bmp]Frame0
+msgctxt "[Face116_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/111.jpg"
+msgstr "data/PlayerFace/JPG/64/111.jpg"
+
+#: [Face116_bmp]Frame1
+msgctxt "[Face116_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/111.jpg"
+msgstr "data/PlayerFace/JPG/16/111.jpg"
+
+#: [Face117_bmp]FrameAmount
+msgctxt "[Face117_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face117_bmp]Frame0
+msgctxt "[Face117_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/112.jpg"
+msgstr "data/PlayerFace/JPG/64/112.jpg"
+
+#: [Face117_bmp]Frame1
+msgctxt "[Face117_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/112.jpg"
+msgstr "data/PlayerFace/JPG/16/112.jpg"
+
+#: [Face118_bmp]FrameAmount
+msgctxt "[Face118_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face118_bmp]Frame0
+msgctxt "[Face118_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/113.jpg"
+msgstr "data/PlayerFace/JPG/64/113.jpg"
+
+#: [Face118_bmp]Frame1
+msgctxt "[Face118_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/113.jpg"
+msgstr "data/PlayerFace/JPG/16/113.jpg"
+
+#: [Face119_bmp]FrameAmount
+msgctxt "[Face119_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face119_bmp]Frame0
+msgctxt "[Face119_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/109.jpg"
+msgstr "data/PlayerFace/JPG/64/109.jpg"
+
+#: [Face119_bmp]Frame1
+msgctxt "[Face119_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/109.jpg"
+msgstr "data/PlayerFace/JPG/16/109.jpg"
+
+#: [Face120_bmp]FrameAmount
+msgctxt "[Face120_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face120_bmp]Frame0
+msgctxt "[Face120_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/110.jpg"
+msgstr "data/PlayerFace/JPG/64/110.jpg"
+
+#: [Face120_bmp]Frame1
+msgctxt "[Face120_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/110.jpg"
+msgstr "data/PlayerFace/JPG/16/110.jpg"
+
+#: [Face121_bmp]FrameAmount
+msgctxt "[Face121_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face121_bmp]Frame0
+msgctxt "[Face121_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/111.jpg"
+msgstr "data/PlayerFace/JPG/64/111.jpg"
+
+#: [Face121_bmp]Frame1
+msgctxt "[Face121_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/111.jpg"
+msgstr "data/PlayerFace/JPG/16/111.jpg"
+
+#: [Face122_bmp]FrameAmount
+msgctxt "[Face122_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face122_bmp]Frame0
+msgctxt "[Face122_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/112.jpg"
+msgstr "data/PlayerFace/JPG/64/112.jpg"
+
+#: [Face122_bmp]Frame1
+msgctxt "[Face122_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/112.jpg"
+msgstr "data/PlayerFace/JPG/16/112.jpg"
+
+#: [Face123_bmp]FrameAmount
+msgctxt "[Face123_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face123_bmp]Frame0
+msgctxt "[Face123_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/113.jpg"
+msgstr "data/PlayerFace/JPG/64/113.jpg"
+
+#: [Face123_bmp]Frame1
+msgctxt "[Face123_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/113.jpg"
+msgstr "data/PlayerFace/JPG/16/113.jpg"
+
+#: [Face124_bmp]FrameAmount
+msgctxt "[Face124_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face124_bmp]Frame0
+msgctxt "[Face124_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/109.jpg"
+msgstr "data/PlayerFace/JPG/64/109.jpg"
+
+#: [Face124_bmp]Frame1
+msgctxt "[Face124_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/109.jpg"
+msgstr "data/PlayerFace/JPG/16/109.jpg"
+
+#: [Face125_bmp]FrameAmount
+msgctxt "[Face125_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face125_bmp]Frame0
+msgctxt "[Face125_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/110.jpg"
+msgstr "data/PlayerFace/JPG/64/110.jpg"
+
+#: [Face125_bmp]Frame1
+msgctxt "[Face125_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/110.jpg"
+msgstr "data/PlayerFace/JPG/16/110.jpg"
+
+#: [Face126_bmp]FrameAmount
+msgctxt "[Face126_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face126_bmp]Frame0
+msgctxt "[Face126_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/111.jpg"
+msgstr "data/PlayerFace/JPG/64/111.jpg"
+
+#: [Face126_bmp]Frame1
+msgctxt "[Face126_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/111.jpg"
+msgstr "data/PlayerFace/JPG/16/111.jpg"
+
+#: [Face127_bmp]FrameAmount
+msgctxt "[Face127_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face127_bmp]Frame0
+msgctxt "[Face127_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/112.jpg"
+msgstr "data/PlayerFace/JPG/64/112.jpg"
+
+#: [Face127_bmp]Frame1
+msgctxt "[Face127_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/112.jpg"
+msgstr "data/PlayerFace/JPG/16/112.jpg"
+
+#: [Face128_bmp]FrameAmount
+msgctxt "[Face128_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face128_bmp]Frame0
+msgctxt "[Face128_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/113.jpg"
+msgstr "data/PlayerFace/JPG/64/113.jpg"
+
+#: [Face128_bmp]Frame1
+msgctxt "[Face128_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/113.jpg"
+msgstr "data/PlayerFace/JPG/16/113.jpg"
+
+#: [Face129_bmp]FrameAmount
+msgctxt "[Face129_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face129_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/129.jpg"
+msgstr "data/PlayerFace/JPG/64/129.jpg"
+
+#: [Face129_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/129.jpg"
+msgstr "data/PlayerFace/JPG/16/129.jpg"
+
+#: [Face130_bmp]FrameAmount
+msgctxt "[Face130_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face130_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/130.jpg"
+msgstr "data/PlayerFace/JPG/64/130.jpg"
+
+#: [Face130_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/130.jpg"
+msgstr "data/PlayerFace/JPG/16/130.jpg"
+
+#: [Face131_bmp]FrameAmount
+msgctxt "[Face131_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face131_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/131.jpg"
+msgstr "data/PlayerFace/JPG/64/131.jpg"
+
+#: [Face131_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/131.jpg"
+msgstr "data/PlayerFace/JPG/16/131.jpg"
+
+#: [Face132_bmp]FrameAmount
+msgctxt "[Face132_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face132_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/132.jpg"
+msgstr "data/PlayerFace/JPG/64/132.jpg"
+
+#: [Face132_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/132.jpg"
+msgstr "data/PlayerFace/JPG/16/132.jpg"
+
+#: [Face133_bmp]FrameAmount
+msgctxt "[Face133_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face133_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/133.jpg"
+msgstr "data/PlayerFace/JPG/64/133.jpg"
+
+#: [Face133_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/133.jpg"
+msgstr "data/PlayerFace/JPG/16/133.jpg"
+
+#: [Face134_bmp]FrameAmount
+msgctxt "[Face134_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face134_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/134.jpg"
+msgstr "data/PlayerFace/JPG/64/134.jpg"
+
+#: [Face134_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/134.jpg"
+msgstr "data/PlayerFace/JPG/16/134.jpg"
+
+#: [Face135_bmp]FrameAmount
+msgctxt "[Face135_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face135_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/135.jpg"
+msgstr "data/PlayerFace/JPG/64/135.jpg"
+
+#: [Face135_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/135.jpg"
+msgstr "data/PlayerFace/JPG/16/135.jpg"
+
+#: [Face136_bmp]FrameAmount
+msgctxt "[Face136_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face136_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/136.jpg"
+msgstr "data/PlayerFace/JPG/64/136.jpg"
+
+#: [Face136_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/136.jpg"
+msgstr "data/PlayerFace/JPG/16/136.jpg"
+
+#: [Face137_bmp]FrameAmount
+msgctxt "[Face137_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face137_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/137.jpg"
+msgstr "data/PlayerFace/JPG/64/137.jpg"
+
+#: [Face137_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/137.jpg"
+msgstr "data/PlayerFace/JPG/16/137.jpg"
+
+#: [Face138_bmp]FrameAmount
+msgctxt "[Face138_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face138_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/138.jpg"
+msgstr "data/PlayerFace/JPG/64/138.jpg"
+
+#: [Face138_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/138.jpg"
+msgstr "data/PlayerFace/JPG/16/138.jpg"
+
+#: [Face139_bmp]FrameAmount
+msgctxt "[Face139_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face139_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/139.jpg"
+msgstr "data/PlayerFace/JPG/64/139.jpg"
+
+#: [Face139_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/139.jpg"
+msgstr "data/PlayerFace/JPG/16/139.jpg"
+
+#: [Face140_bmp]FrameAmount
+msgctxt "[Face140_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face140_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/140.jpg"
+msgstr "data/PlayerFace/JPG/64/140.jpg"
+
+#: [Face140_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/140.jpg"
+msgstr "data/PlayerFace/JPG/16/140.jpg"
+
+#: [Face141_bmp]FrameAmount
+msgctxt "[Face141_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face141_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/141.jpg"
+msgstr "data/PlayerFace/JPG/64/141.jpg"
+
+#: [Face141_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/141.jpg"
+msgstr "data/PlayerFace/JPG/16/141.jpg"
+
+#: [Face142_bmp]FrameAmount
+msgctxt "[Face142_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face142_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/142.jpg"
+msgstr "data/PlayerFace/JPG/64/142.jpg"
+
+#: [Face142_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/142.jpg"
+msgstr "data/PlayerFace/JPG/16/142.jpg"
+
+#: [Face143_bmp]FrameAmount
+msgctxt "[Face143_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face143_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/143.jpg"
+msgstr "data/PlayerFace/JPG/64/143.jpg"
+
+#: [Face143_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/143.jpg"
+msgstr "data/PlayerFace/JPG/16/143.jpg"
+
+#: [Face144_bmp]FrameAmount
+msgctxt "[Face144_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face144_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/144.jpg"
+msgstr "data/PlayerFace/JPG/64/144.jpg"
+
+#: [Face144_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/144.jpg"
+msgstr "data/PlayerFace/JPG/16/144.jpg"
+
+#: [Face145_bmp]FrameAmount
+msgctxt "[Face145_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face145_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/145.jpg"
+msgstr "data/PlayerFace/JPG/64/145.jpg"
+
+#: [Face145_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/145.jpg"
+msgstr "data/PlayerFace/JPG/16/145.jpg"
+
+#: [Face146_bmp]FrameAmount
+msgctxt "[Face146_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face146_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/146.jpg"
+msgstr "data/PlayerFace/JPG/64/146.jpg"
+
+#: [Face146_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/146.jpg"
+msgstr "data/PlayerFace/JPG/16/146.jpg"
+
+#: [Face147_bmp]FrameAmount
+msgctxt "[Face147_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face147_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/147.jpg"
+msgstr "data/PlayerFace/JPG/64/147.jpg"
+
+#: [Face147_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/147.jpg"
+msgstr "data/PlayerFace/JPG/16/147.jpg"
+
+#: [Face148_bmp]FrameAmount
+msgctxt "[Face148_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face148_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/148.jpg"
+msgstr "data/PlayerFace/JPG/64/148.jpg"
+
+#: [Face148_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/148.jpg"
+msgstr "data/PlayerFace/JPG/16/148.jpg"
+
+#: [Face149_bmp]FrameAmount
+msgctxt "[Face149_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face149_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/149.jpg"
+msgstr "data/PlayerFace/JPG/64/149.jpg"
+
+#: [Face149_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/149.jpg"
+msgstr "data/PlayerFace/JPG/16/149.jpg"
+
+#: [Face150_bmp]FrameAmount
+msgctxt "[Face150_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face150_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/150.jpg"
+msgstr "data/PlayerFace/JPG/64/150.jpg"
+
+#: [Face150_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/150.jpg"
+msgstr "data/PlayerFace/JPG/16/150.jpg"
+
+#: [Face151_bmp]FrameAmount
+msgctxt "[Face151_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face151_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/151.jpg"
+msgstr "data/PlayerFace/JPG/64/151.jpg"
+
+#: [Face151_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/151.jpg"
+msgstr "data/PlayerFace/JPG/16/151.jpg"
+
+#: [Face152_bmp]FrameAmount
+msgctxt "[Face152_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face152_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/152.jpg"
+msgstr "data/PlayerFace/JPG/64/152.jpg"
+
+#: [Face152_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/152.jpg"
+msgstr "data/PlayerFace/JPG/16/152.jpg"
+
+#: [Face153_bmp]FrameAmount
+msgctxt "[Face153_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face153_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/153.jpg"
+msgstr "data/PlayerFace/JPG/64/153.jpg"
+
+#: [Face153_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/153.jpg"
+msgstr "data/PlayerFace/JPG/16/153.jpg"
+
+#: [Face154_bmp]FrameAmount
+msgctxt "[Face154_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face154_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/154.jpg"
+msgstr "data/PlayerFace/JPG/64/154.jpg"
+
+#: [Face154_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/154.jpg"
+msgstr "data/PlayerFace/JPG/16/154.jpg"
+
+#: [Face155_bmp]FrameAmount
+msgctxt "[Face155_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face155_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/155.jpg"
+msgstr "data/PlayerFace/JPG/64/155.jpg"
+
+#: [Face155_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/155.jpg"
+msgstr "data/PlayerFace/JPG/16/155.jpg"
+
+#: [Face156_bmp]FrameAmount
+msgctxt "[Face156_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face156_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/156.jpg"
+msgstr "data/PlayerFace/JPG/64/156.jpg"
+
+#: [Face156_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/156.jpg"
+msgstr "data/PlayerFace/JPG/16/156.jpg"
+
+#: [Face157_bmp]FrameAmount
+msgctxt "[Face157_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face157_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/157.jpg"
+msgstr "data/PlayerFace/JPG/64/157.jpg"
+
+#: [Face157_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/157.jpg"
+msgstr "data/PlayerFace/JPG/16/157.jpg"
+
+#: [Face158_bmp]FrameAmount
+msgctxt "[Face158_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face158_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/158.jpg"
+msgstr "data/PlayerFace/JPG/64/158.jpg"
+
+#: [Face158_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/158.jpg"
+msgstr "data/PlayerFace/JPG/16/158.jpg"
+
+#: [Face159_bmp]FrameAmount
+msgctxt "[Face159_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face159_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/159.jpg"
+msgstr "data/PlayerFace/JPG/64/159.jpg"
+
+#: [Face159_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/159.jpg"
+msgstr "data/PlayerFace/JPG/16/159.jpg"
+
+#: [Face160_bmp]FrameAmount
+msgctxt "[Face160_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face160_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/160.jpg"
+msgstr "data/PlayerFace/JPG/64/160.jpg"
+
+#: [Face160_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/160.jpg"
+msgstr "data/PlayerFace/JPG/16/160.jpg"
+
+#: [Face161_bmp]FrameAmount
+msgctxt "[Face161_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face161_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/161.jpg"
+msgstr "data/PlayerFace/JPG/64/161.jpg"
+
+#: [Face161_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/161.jpg"
+msgstr "data/PlayerFace/JPG/16/161.jpg"
+
+#: [Face162_bmp]FrameAmount
+msgctxt "[Face162_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face162_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/162.jpg"
+msgstr "data/PlayerFace/JPG/64/162.jpg"
+
+#: [Face162_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/162.jpg"
+msgstr "data/PlayerFace/JPG/16/162.jpg"
+
+#: [Face163_bmp]FrameAmount
+msgctxt "[Face163_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face163_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/163.jpg"
+msgstr "data/PlayerFace/JPG/64/163.jpg"
+
+#: [Face163_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/163.jpg"
+msgstr "data/PlayerFace/JPG/16/163.jpg"
+
+#: [Face164_bmp]FrameAmount
+msgctxt "[Face164_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face164_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/164.jpg"
+msgstr "data/PlayerFace/JPG/64/164.jpg"
+
+#: [Face164_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/164.jpg"
+msgstr "data/PlayerFace/JPG/16/164.jpg"
+
+#: [Face165_bmp]FrameAmount
+msgctxt "[Face165_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face165_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/165.jpg"
+msgstr "data/PlayerFace/JPG/64/165.jpg"
+
+#: [Face165_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/165.jpg"
+msgstr "data/PlayerFace/JPG/16/165.jpg"
+
+#: [Face166_bmp]FrameAmount
+msgctxt "[Face166_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face166_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/166.jpg"
+msgstr "data/PlayerFace/JPG/64/166.jpg"
+
+#: [Face166_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/166.jpg"
+msgstr "data/PlayerFace/JPG/16/166.jpg"
+
+#: [Face167_bmp]FrameAmount
+msgctxt "[Face167_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face167_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/167.jpg"
+msgstr "data/PlayerFace/JPG/64/167.jpg"
+
+#: [Face167_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/167.jpg"
+msgstr "data/PlayerFace/JPG/16/167.jpg"
+
+#: [Face168_bmp]FrameAmount
+msgctxt "[Face168_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face168_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/168.jpg"
+msgstr "data/PlayerFace/JPG/64/168.jpg"
+
+#: [Face168_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/168.jpg"
+msgstr "data/PlayerFace/JPG/16/168.jpg"
+
+#: [Face169_bmp]FrameAmount
+msgctxt "[Face169_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face169_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/169.jpg"
+msgstr "data/PlayerFace/JPG/64/169.jpg"
+
+#: [Face169_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/169.jpg"
+msgstr "data/PlayerFace/JPG/16/169.jpg"
+
+#: [Face170_bmp]FrameAmount
+msgctxt "[Face170_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face170_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/170.jpg"
+msgstr "data/PlayerFace/JPG/64/170.jpg"
+
+#: [Face170_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/170.jpg"
+msgstr "data/PlayerFace/JPG/16/170.jpg"
+
+#: [Face171_bmp]FrameAmount
+msgctxt "[Face171_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face171_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/171.jpg"
+msgstr "data/PlayerFace/JPG/64/171.jpg"
+
+#: [Face171_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/171.jpg"
+msgstr "data/PlayerFace/JPG/16/171.jpg"
+
+#: [Face172_bmp]FrameAmount
+msgctxt "[Face172_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face172_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/172.jpg"
+msgstr "data/PlayerFace/JPG/64/172.jpg"
+
+#: [Face172_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/172.jpg"
+msgstr "data/PlayerFace/JPG/16/172.jpg"
+
+#: [Face173_bmp]FrameAmount
+msgctxt "[Face173_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face173_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/173.jpg"
+msgstr "data/PlayerFace/JPG/64/173.jpg"
+
+#: [Face173_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/173.jpg"
+msgstr "data/PlayerFace/JPG/16/173.jpg"
+
+#: [Face174_bmp]FrameAmount
+msgctxt "[Face174_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face174_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/174.jpg"
+msgstr "data/PlayerFace/JPG/64/174.jpg"
+
+#: [Face174_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/174.jpg"
+msgstr "data/PlayerFace/JPG/16/174.jpg"
+
+#: [Face175_bmp]FrameAmount
+msgctxt "[Face175_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face175_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/175.jpg"
+msgstr "data/PlayerFace/JPG/64/175.jpg"
+
+#: [Face175_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/175.jpg"
+msgstr "data/PlayerFace/JPG/16/175.jpg"
+
+#: [Face176_bmp]FrameAmount
+msgctxt "[Face176_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face176_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/176.jpg"
+msgstr "data/PlayerFace/JPG/64/176.jpg"
+
+#: [Face176_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/176.jpg"
+msgstr "data/PlayerFace/JPG/16/176.jpg"
+
+#: [Face177_bmp]FrameAmount
+msgctxt "[Face177_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face177_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/177.jpg"
+msgstr "data/PlayerFace/JPG/64/177.jpg"
+
+#: [Face177_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/177.jpg"
+msgstr "data/PlayerFace/JPG/16/177.jpg"
+
+#: [Face178_bmp]FrameAmount
+msgctxt "[Face178_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face178_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/178.jpg"
+msgstr "data/PlayerFace/JPG/64/178.jpg"
+
+#: [Face178_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/178.jpg"
+msgstr "data/PlayerFace/JPG/16/178.jpg"
+
+#: [Face179_bmp]FrameAmount
+msgctxt "[Face179_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face179_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/179.jpg"
+msgstr "data/PlayerFace/JPG/64/179.jpg"
+
+#: [Face179_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/179.jpg"
+msgstr "data/PlayerFace/JPG/16/179.jpg"
+
+#: [Face180_bmp]FrameAmount
+msgctxt "[Face180_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face180_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/180.jpg"
+msgstr "data/PlayerFace/JPG/64/180.jpg"
+
+#: [Face180_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/180.jpg"
+msgstr "data/PlayerFace/JPG/16/180.jpg"
+
+#: [Face181_bmp]FrameAmount
+msgctxt "[Face181_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face181_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/181.jpg"
+msgstr "data/PlayerFace/JPG/64/181.jpg"
+
+#: [Face181_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/181.jpg"
+msgstr "data/PlayerFace/JPG/16/181.jpg"
+
+#: [Face182_bmp]FrameAmount
+msgctxt "[Face182_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face182_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/182.jpg"
+msgstr "data/PlayerFace/JPG/64/182.jpg"
+
+#: [Face182_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/182.jpg"
+msgstr "data/PlayerFace/JPG/16/182.jpg"
+
+#: [Face183_bmp]FrameAmount
+msgctxt "[Face183_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face183_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/183.jpg"
+msgstr "data/PlayerFace/JPG/64/183.jpg"
+
+#: [Face183_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/183.jpg"
+msgstr "data/PlayerFace/JPG/16/183.jpg"
+
+#: [Face184_bmp]FrameAmount
+msgctxt "[Face184_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face184_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/184.jpg"
+msgstr "data/PlayerFace/JPG/64/184.jpg"
+
+#: [Face184_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/184.jpg"
+msgstr "data/PlayerFace/JPG/16/184.jpg"
+
+#: [Face185_bmp]FrameAmount
+msgctxt "[Face185_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face185_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/185.jpg"
+msgstr "data/PlayerFace/JPG/64/185.jpg"
+
+#: [Face185_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/185.jpg"
+msgstr "data/PlayerFace/JPG/16/185.jpg"
+
+#: [Face186_bmp]FrameAmount
+msgctxt "[Face186_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face186_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/186.jpg"
+msgstr "data/PlayerFace/JPG/64/186.jpg"
+
+#: [Face186_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/186.jpg"
+msgstr "data/PlayerFace/JPG/16/186.jpg"
+
+#: [Face187_bmp]FrameAmount
+msgctxt "[Face187_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face187_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/187.jpg"
+msgstr "data/PlayerFace/JPG/64/187.jpg"
+
+#: [Face187_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/187.jpg"
+msgstr "data/PlayerFace/JPG/16/187.jpg"
+
+#: [Face188_bmp]FrameAmount
+msgctxt "[Face188_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face188_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/188.jpg"
+msgstr "data/PlayerFace/JPG/64/188.jpg"
+
+#: [Face188_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/188.jpg"
+msgstr "data/PlayerFace/JPG/16/188.jpg"
+
+#: [Face189_bmp]FrameAmount
+msgctxt "[Face189_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face189_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/189.jpg"
+msgstr "data/PlayerFace/JPG/64/189.jpg"
+
+#: [Face189_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/189.jpg"
+msgstr "data/PlayerFace/JPG/16/189.jpg"
+
+#: [Face190_bmp]FrameAmount
+msgctxt "[Face190_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face190_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/190.jpg"
+msgstr "data/PlayerFace/JPG/64/190.jpg"
+
+#: [Face190_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/190.jpg"
+msgstr "data/PlayerFace/JPG/16/190.jpg"
+
+#: [Face191_bmp]FrameAmount
+msgctxt "[Face191_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face191_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/191.jpg"
+msgstr "data/PlayerFace/JPG/64/191.jpg"
+
+#: [Face191_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/191.jpg"
+msgstr "data/PlayerFace/JPG/16/191.jpg"
+
+#: [Face192_bmp]FrameAmount
+msgctxt "[Face192_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face192_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/192.jpg"
+msgstr "data/PlayerFace/JPG/64/192.jpg"
+
+#: [Face192_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/192.jpg"
+msgstr "data/PlayerFace/JPG/16/192.jpg"
+
+#: [Face193_bmp]FrameAmount
+msgctxt "[Face193_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face193_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/193.jpg"
+msgstr "data/PlayerFace/JPG/64/193.jpg"
+
+#: [Face193_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/193.jpg"
+msgstr "data/PlayerFace/JPG/16/193.jpg"
+
+#: [Face194_bmp]FrameAmount
+msgctxt "[Face194_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face194_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/194.jpg"
+msgstr "data/PlayerFace/JPG/64/194.jpg"
+
+#: [Face194_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/194.jpg"
+msgstr "data/PlayerFace/JPG/16/194.jpg"
+
+#: [Face195_bmp]FrameAmount
+msgctxt "[Face195_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face195_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/195.jpg"
+msgstr "data/PlayerFace/JPG/64/195.jpg"
+
+#: [Face195_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/195.jpg"
+msgstr "data/PlayerFace/JPG/16/195.jpg"
+
+#: [Face196_bmp]FrameAmount
+msgctxt "[Face196_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face196_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/196.jpg"
+msgstr "data/PlayerFace/JPG/64/196.jpg"
+
+#: [Face196_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/196.jpg"
+msgstr "data/PlayerFace/JPG/16/196.jpg"
+
+#: [Face197_bmp]FrameAmount
+msgctxt "[Face197_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face197_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/197.jpg"
+msgstr "data/PlayerFace/JPG/64/197.jpg"
+
+#: [Face197_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/197.jpg"
+msgstr "data/PlayerFace/JPG/16/197.jpg"
+
+#: [Face198_bmp]FrameAmount
+msgctxt "[Face198_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face198_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/198.jpg"
+msgstr "data/PlayerFace/JPG/64/198.jpg"
+
+#: [Face198_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/198.jpg"
+msgstr "data/PlayerFace/JPG/16/198.jpg"
+
+#: [Face199_bmp]FrameAmount
+msgctxt "[Face199_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face199_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/199.jpg"
+msgstr "data/PlayerFace/JPG/64/199.jpg"
+
+#: [Face199_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/199.jpg"
+msgstr "data/PlayerFace/JPG/16/199.jpg"
+
+#: [Face200_bmp]FrameAmount
+msgctxt "[Face200_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face200_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/200.jpg"
+msgstr "data/PlayerFace/JPG/64/200.jpg"
+
+#: [Face200_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/200.jpg"
+msgstr "data/PlayerFace/JPG/16/200.jpg"
+
+#: [Face201_bmp]FrameAmount
+msgctxt "[Face201_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face201_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/201.jpg"
+msgstr "data/PlayerFace/JPG/64/201.jpg"
+
+#: [Face201_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/201.jpg"
+msgstr "data/PlayerFace/JPG/16/201.jpg"
+
+#: [Face202_bmp]FrameAmount
+msgctxt "[Face202_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face202_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/202.jpg"
+msgstr "data/PlayerFace/JPG/64/202.jpg"
+
+#: [Face202_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/202.jpg"
+msgstr "data/PlayerFace/JPG/16/202.jpg"
+
+#: [Face203_bmp]FrameAmount
+msgctxt "[Face203_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face203_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/203.jpg"
+msgstr "data/PlayerFace/JPG/64/203.jpg"
+
+#: [Face203_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/203.jpg"
+msgstr "data/PlayerFace/JPG/16/203.jpg"
+
+#: [Face204_bmp]FrameAmount
+msgctxt "[Face204_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face204_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/204.jpg"
+msgstr "data/PlayerFace/JPG/64/204.jpg"
+
+#: [Face204_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/204.jpg"
+msgstr "data/PlayerFace/JPG/16/204.jpg"
+
+#: [Face205_bmp]FrameAmount
+msgctxt "[Face205_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face205_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/205.jpg"
+msgstr "data/PlayerFace/JPG/64/205.jpg"
+
+#: [Face205_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/205.jpg"
+msgstr "data/PlayerFace/JPG/16/205.jpg"
+
+#: [Face206_bmp]FrameAmount
+msgctxt "[Face206_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face206_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/206.jpg"
+msgstr "data/PlayerFace/JPG/64/206.jpg"
+
+#: [Face206_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/206.jpg"
+msgstr "data/PlayerFace/JPG/16/206.jpg"
+
+#: [Face207_bmp]FrameAmount
+msgctxt "[Face207_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face207_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/207.jpg"
+msgstr "data/PlayerFace/JPG/64/207.jpg"
+
+#: [Face207_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/207.jpg"
+msgstr "data/PlayerFace/JPG/16/207.jpg"
+
+#: [Face208_bmp]FrameAmount
+msgctxt "[Face208_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face208_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/208.jpg"
+msgstr "data/PlayerFace/JPG/64/208.jpg"
+
+#: [Face208_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/208.jpg"
+msgstr "data/PlayerFace/JPG/16/208.jpg"
+
+#: [Face209_bmp]FrameAmount
+msgctxt "[Face209_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face209_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/209.jpg"
+msgstr "data/PlayerFace/JPG/64/209.jpg"
+
+#: [Face209_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/209.jpg"
+msgstr "data/PlayerFace/JPG/16/209.jpg"
+
+#: [Face210_bmp]FrameAmount
+msgctxt "[Face210_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face210_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/210.jpg"
+msgstr "data/PlayerFace/JPG/64/210.jpg"
+
+#: [Face210_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/210.jpg"
+msgstr "data/PlayerFace/JPG/16/210.jpg"
+
+#: [Face211_bmp]FrameAmount
+msgctxt "[Face211_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face211_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/211.jpg"
+msgstr "data/PlayerFace/JPG/64/211.jpg"
+
+#: [Face211_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/211.jpg"
+msgstr "data/PlayerFace/JPG/16/211.jpg"
+
+#: [Face212_bmp]FrameAmount
+msgctxt "[Face212_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face212_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/212.jpg"
+msgstr "data/PlayerFace/JPG/64/212.jpg"
+
+#: [Face212_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/212.jpg"
+msgstr "data/PlayerFace/JPG/16/212.jpg"
+
+#: [Face213_bmp]FrameAmount
+msgctxt "[Face213_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face213_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/213.jpg"
+msgstr "data/PlayerFace/JPG/64/213.jpg"
+
+#: [Face213_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/213.jpg"
+msgstr "data/PlayerFace/JPG/16/213.jpg"
+
+#: [Face214_bmp]FrameAmount
+msgctxt "[Face214_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face214_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/214.jpg"
+msgstr "data/PlayerFace/JPG/64/214.jpg"
+
+#: [Face214_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/214.jpg"
+msgstr "data/PlayerFace/JPG/16/214.jpg"
+
+#: [Face215_bmp]FrameAmount
+msgctxt "[Face215_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face215_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/215.jpg"
+msgstr "data/PlayerFace/JPG/64/215.jpg"
+
+#: [Face215_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/215.jpg"
+msgstr "data/PlayerFace/JPG/16/215.jpg"
+
+#: [Face216_bmp]FrameAmount
+msgctxt "[Face216_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face216_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/216.jpg"
+msgstr "data/PlayerFace/JPG/64/216.jpg"
+
+#: [Face216_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/216.jpg"
+msgstr "data/PlayerFace/JPG/16/216.jpg"
+
+#: [Face217_bmp]FrameAmount
+msgctxt "[Face217_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face217_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/217.jpg"
+msgstr "data/PlayerFace/JPG/64/217.jpg"
+
+#: [Face217_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/217.jpg"
+msgstr "data/PlayerFace/JPG/16/217.jpg"
+
+#: [Face218_bmp]FrameAmount
+msgctxt "[Face218_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face218_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/218.jpg"
+msgstr "data/PlayerFace/JPG/64/218.jpg"
+
+#: [Face218_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/218.jpg"
+msgstr "data/PlayerFace/JPG/16/218.jpg"
+
+#: [Face219_bmp]FrameAmount
+msgctxt "[Face219_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face219_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/219.jpg"
+msgstr "data/PlayerFace/JPG/64/219.jpg"
+
+#: [Face219_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/219.jpg"
+msgstr "data/PlayerFace/JPG/16/219.jpg"
+
+#: [Face220_bmp]FrameAmount
+msgctxt "[Face220_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face220_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/220.jpg"
+msgstr "data/PlayerFace/JPG/64/220.jpg"
+
+#: [Face220_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/220.jpg"
+msgstr "data/PlayerFace/JPG/16/220.jpg"
+
+#: [Face221_bmp]FrameAmount
+msgctxt "[Face221_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face221_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/221.jpg"
+msgstr "data/PlayerFace/JPG/64/221.jpg"
+
+#: [Face221_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/221.jpg"
+msgstr "data/PlayerFace/JPG/16/221.jpg"
+
+#: [Face222_bmp]FrameAmount
+msgctxt "[Face222_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face222_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/222.jpg"
+msgstr "data/PlayerFace/JPG/64/222.jpg"
+
+#: [Face222_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/222.jpg"
+msgstr "data/PlayerFace/JPG/16/222.jpg"
+
+#: [Face223_bmp]FrameAmount
+msgctxt "[Face223_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face223_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/223.jpg"
+msgstr "data/PlayerFace/JPG/64/223.jpg"
+
+#: [Face223_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/223.jpg"
+msgstr "data/PlayerFace/JPG/16/223.jpg"
+
+#: [Face224_bmp]FrameAmount
+msgctxt "[Face224_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face224_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/224.jpg"
+msgstr "data/PlayerFace/JPG/64/224.jpg"
+
+#: [Face224_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/224.jpg"
+msgstr "data/PlayerFace/JPG/16/224.jpg"
+
+#: [Face225_bmp]FrameAmount
+msgctxt "[Face225_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face225_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/225.jpg"
+msgstr "data/PlayerFace/JPG/64/225.jpg"
+
+#: [Face225_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/225.jpg"
+msgstr "data/PlayerFace/JPG/16/225.jpg"
+
+#: [Face226_bmp]FrameAmount
+msgctxt "[Face226_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face226_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/226.jpg"
+msgstr "data/PlayerFace/JPG/64/226.jpg"
+
+#: [Face226_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/226.jpg"
+msgstr "data/PlayerFace/JPG/16/226.jpg"
+
+#: [Face227_bmp]FrameAmount
+msgctxt "[Face227_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face227_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/227.jpg"
+msgstr "data/PlayerFace/JPG/64/227.jpg"
+
+#: [Face227_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/227.jpg"
+msgstr "data/PlayerFace/JPG/16/227.jpg"
+
+#: [Face228_bmp]FrameAmount
+msgctxt "[Face228_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face228_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/228.jpg"
+msgstr "data/PlayerFace/JPG/64/228.jpg"
+
+#: [Face228_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/228.jpg"
+msgstr "data/PlayerFace/JPG/16/228.jpg"
+
+#: [Face229_bmp]FrameAmount
+msgctxt "[Face229_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face229_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/229.jpg"
+msgstr "data/PlayerFace/JPG/64/229.jpg"
+
+#: [Face229_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/229.jpg"
+msgstr "data/PlayerFace/JPG/16/229.jpg"
+
+#: [Face230_bmp]FrameAmount
+msgctxt "[Face230_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face230_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/230.jpg"
+msgstr "data/PlayerFace/JPG/64/230.jpg"
+
+#: [Face230_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/230.jpg"
+msgstr "data/PlayerFace/JPG/16/230.jpg"
+
+#: [Face231_bmp]FrameAmount
+msgctxt "[Face231_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face231_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/231.jpg"
+msgstr "data/PlayerFace/JPG/64/231.jpg"
+
+#: [Face231_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/231.jpg"
+msgstr "data/PlayerFace/JPG/16/231.jpg"
+
+#: [Face232_bmp]FrameAmount
+msgctxt "[Face232_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face232_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/232.jpg"
+msgstr "data/PlayerFace/JPG/64/232.jpg"
+
+#: [Face232_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/232.jpg"
+msgstr "data/PlayerFace/JPG/16/232.jpg"
+
+#: [Face233_bmp]FrameAmount
+msgctxt "[Face233_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face233_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/233.jpg"
+msgstr "data/PlayerFace/JPG/64/233.jpg"
+
+#: [Face233_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/233.jpg"
+msgstr "data/PlayerFace/JPG/16/233.jpg"
+
+#: [Face234_bmp]FrameAmount
+msgctxt "[Face234_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face234_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/234.jpg"
+msgstr "data/PlayerFace/JPG/64/234.jpg"
+
+#: [Face234_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/234.jpg"
+msgstr "data/PlayerFace/JPG/16/234.jpg"
+
+#: [Face235_bmp]FrameAmount
+msgctxt "[Face235_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face235_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/235.jpg"
+msgstr "data/PlayerFace/JPG/64/235.jpg"
+
+#: [Face235_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/235.jpg"
+msgstr "data/PlayerFace/JPG/16/235.jpg"
+
+#: [Face236_bmp]FrameAmount
+msgctxt "[Face236_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face236_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/236.jpg"
+msgstr "data/PlayerFace/JPG/64/236.jpg"
+
+#: [Face236_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/236.jpg"
+msgstr "data/PlayerFace/JPG/16/236.jpg"
+
+#: [Face237_bmp]FrameAmount
+msgctxt "[Face237_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face237_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/237.jpg"
+msgstr "data/PlayerFace/JPG/64/237.jpg"
+
+#: [Face237_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/237.jpg"
+msgstr "data/PlayerFace/JPG/16/237.jpg"
+
+#: [Face238_bmp]FrameAmount
+msgctxt "[Face238_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face238_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/238.jpg"
+msgstr "data/PlayerFace/JPG/64/238.jpg"
+
+#: [Face238_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/238.jpg"
+msgstr "data/PlayerFace/JPG/16/238.jpg"
+
+#: [Face239_bmp]FrameAmount
+msgctxt "[Face239_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face239_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/239.jpg"
+msgstr "data/PlayerFace/JPG/64/239.jpg"
+
+#: [Face239_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/239.jpg"
+msgstr "data/PlayerFace/JPG/16/239.jpg"
+
+#: [Face240_bmp]FrameAmount
+msgctxt "[Face240_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face240_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/240.jpg"
+msgstr "data/PlayerFace/JPG/64/240.jpg"
+
+#: [Face240_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/240.jpg"
+msgstr "data/PlayerFace/JPG/16/240.jpg"
+
+#: [Face241_bmp]FrameAmount
+msgctxt "[Face241_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face241_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/241.jpg"
+msgstr "data/PlayerFace/JPG/64/241.jpg"
+
+#: [Face241_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/241.jpg"
+msgstr "data/PlayerFace/JPG/16/241.jpg"
+
+#: [Face242_bmp]FrameAmount
+msgctxt "[Face242_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face242_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/242.jpg"
+msgstr "data/PlayerFace/JPG/64/242.jpg"
+
+#: [Face242_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/242.jpg"
+msgstr "data/PlayerFace/JPG/16/242.jpg"
+
+#: [Face243_bmp]FrameAmount
+msgctxt "[Face243_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face243_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/243.jpg"
+msgstr "data/PlayerFace/JPG/64/243.jpg"
+
+#: [Face243_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/243.jpg"
+msgstr "data/PlayerFace/JPG/16/243.jpg"
+
+#: [Face244_bmp]FrameAmount
+msgctxt "[Face244_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face244_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/244.jpg"
+msgstr "data/PlayerFace/JPG/64/244.jpg"
+
+#: [Face244_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/244.jpg"
+msgstr "data/PlayerFace/JPG/16/244.jpg"
+
+#: [Face245_bmp]FrameAmount
+msgctxt "[Face245_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face245_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/245.jpg"
+msgstr "data/PlayerFace/JPG/64/245.jpg"
+
+#: [Face245_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/245.jpg"
+msgstr "data/PlayerFace/JPG/16/245.jpg"
+
+#: [Face246_bmp]FrameAmount
+msgctxt "[Face246_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face246_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/246.jpg"
+msgstr "data/PlayerFace/JPG/64/246.jpg"
+
+#: [Face246_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/246.jpg"
+msgstr "data/PlayerFace/JPG/16/246.jpg"
+
+#: [Face247_bmp]FrameAmount
+msgctxt "[Face247_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face247_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/247.jpg"
+msgstr "data/PlayerFace/JPG/64/247.jpg"
+
+#: [Face247_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/247.jpg"
+msgstr "data/PlayerFace/JPG/16/247.jpg"
+
+#: [Face248_bmp]FrameAmount
+msgctxt "[Face248_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face248_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/248.jpg"
+msgstr "data/PlayerFace/JPG/64/248.jpg"
+
+#: [Face248_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/248.jpg"
+msgstr "data/PlayerFace/JPG/16/248.jpg"
+
+#: [Face249_bmp]FrameAmount
+msgctxt "[Face249_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face249_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/249.jpg"
+msgstr "data/PlayerFace/JPG/64/249.jpg"
+
+#: [Face249_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/249.jpg"
+msgstr "data/PlayerFace/JPG/16/249.jpg"
+
+#: [Face250_bmp]FrameAmount
+msgctxt "[Face250_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face250_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/250.jpg"
+msgstr "data/PlayerFace/JPG/64/250.jpg"
+
+#: [Face250_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/250.jpg"
+msgstr "data/PlayerFace/JPG/16/250.jpg"
+
+#: [Face251_bmp]FrameAmount
+msgctxt "[Face251_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face251_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/251.jpg"
+msgstr "data/PlayerFace/JPG/64/251.jpg"
+
+#: [Face251_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/251.jpg"
+msgstr "data/PlayerFace/JPG/16/251.jpg"
+
+#: [Face252_bmp]FrameAmount
+msgctxt "[Face252_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face252_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/252.jpg"
+msgstr "data/PlayerFace/JPG/64/252.jpg"
+
+#: [Face252_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/252.jpg"
+msgstr "data/PlayerFace/JPG/16/252.jpg"
+
+#: [Face253_bmp]FrameAmount
+msgctxt "[Face253_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face253_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/253.jpg"
+msgstr "data/PlayerFace/JPG/64/253.jpg"
+
+#: [Face253_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/253.jpg"
+msgstr "data/PlayerFace/JPG/16/253.jpg"
+
+#: [Face254_bmp]FrameAmount
+msgctxt "[Face254_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face254_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/254.jpg"
+msgstr "data/PlayerFace/JPG/64/254.jpg"
+
+#: [Face254_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/254.jpg"
+msgstr "data/PlayerFace/JPG/16/254.jpg"
+
+#: [Face255_bmp]FrameAmount
+msgctxt "[Face255_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face255_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/255.jpg"
+msgstr "data/PlayerFace/JPG/64/255.jpg"
+
+#: [Face255_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/255.jpg"
+msgstr "data/PlayerFace/JPG/16/255.jpg"
+
+#: [Face256_bmp]FrameAmount
+msgctxt "[Face256_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face256_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/256.jpg"
+msgstr "data/PlayerFace/JPG/64/256.jpg"
+
+#: [Face256_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/256.jpg"
+msgstr "data/PlayerFace/JPG/16/256.jpg"
+
+#: [Face257_bmp]FrameAmount
+msgctxt "[Face257_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face257_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/257.jpg"
+msgstr "data/PlayerFace/JPG/64/257.jpg"
+
+#: [Face257_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/257.jpg"
+msgstr "data/PlayerFace/JPG/16/257.jpg"
+
+#: [Face258_bmp]FrameAmount
+msgctxt "[Face258_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face258_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/258.jpg"
+msgstr "data/PlayerFace/JPG/64/258.jpg"
+
+#: [Face258_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/258.jpg"
+msgstr "data/PlayerFace/JPG/16/258.jpg"
+
+#: [Face259_bmp]FrameAmount
+msgctxt "[Face259_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face259_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/259.jpg"
+msgstr "data/PlayerFace/JPG/64/259.jpg"
+
+#: [Face259_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/259.jpg"
+msgstr "data/PlayerFace/JPG/16/259.jpg"
+
+#: [Face260_bmp]FrameAmount
+msgctxt "[Face260_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face260_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/260.jpg"
+msgstr "data/PlayerFace/JPG/64/260.jpg"
+
+#: [Face260_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/260.jpg"
+msgstr "data/PlayerFace/JPG/16/260.jpg"
+
+#: [Face261_bmp]FrameAmount
+msgctxt "[Face261_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face261_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/261.jpg"
+msgstr "data/PlayerFace/JPG/64/261.jpg"
+
+#: [Face261_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/261.jpg"
+msgstr "data/PlayerFace/JPG/16/261.jpg"
+
+#: [Face262_bmp]FrameAmount
+msgctxt "[Face262_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face262_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/262.jpg"
+msgstr "data/PlayerFace/JPG/64/262.jpg"
+
+#: [Face262_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/262.jpg"
+msgstr "data/PlayerFace/JPG/16/262.jpg"
+
+#: [Face263_bmp]FrameAmount
+msgctxt "[Face263_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face263_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/263.jpg"
+msgstr "data/PlayerFace/JPG/64/263.jpg"
+
+#: [Face263_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/263.jpg"
+msgstr "data/PlayerFace/JPG/16/263.jpg"
+
+#: [Face264_bmp]FrameAmount
+msgctxt "[Face264_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face264_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/264.jpg"
+msgstr "data/PlayerFace/JPG/64/264.jpg"
+
+#: [Face264_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/264.jpg"
+msgstr "data/PlayerFace/JPG/16/264.jpg"
+
+#: [Face265_bmp]FrameAmount
+msgctxt "[Face265_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face265_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/265.jpg"
+msgstr "data/PlayerFace/JPG/64/265.jpg"
+
+#: [Face265_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/265.jpg"
+msgstr "data/PlayerFace/JPG/16/265.jpg"
+
+#: [Face266_bmp]FrameAmount
+msgctxt "[Face266_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face266_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/266.jpg"
+msgstr "data/PlayerFace/JPG/64/266.jpg"
+
+#: [Face266_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/266.jpg"
+msgstr "data/PlayerFace/JPG/16/266.jpg"
+
+#: [Face267_bmp]FrameAmount
+msgctxt "[Face267_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face267_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/267.jpg"
+msgstr "data/PlayerFace/JPG/64/267.jpg"
+
+#: [Face267_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/267.jpg"
+msgstr "data/PlayerFace/JPG/16/267.jpg"
+
+#: [Face268_bmp]FrameAmount
+msgctxt "[Face268_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face268_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/268.jpg"
+msgstr "data/PlayerFace/JPG/64/268.jpg"
+
+#: [Face268_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/268.jpg"
+msgstr "data/PlayerFace/JPG/16/268.jpg"
+
+#: [Face269_bmp]FrameAmount
+msgctxt "[Face269_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face269_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/269.jpg"
+msgstr "data/PlayerFace/JPG/64/269.jpg"
+
+#: [Face269_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/269.jpg"
+msgstr "data/PlayerFace/JPG/16/269.jpg"
+
+#: [Face270_bmp]FrameAmount
+msgctxt "[Face270_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face270_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/270.jpg"
+msgstr "data/PlayerFace/JPG/64/270.jpg"
+
+#: [Face270_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/270.jpg"
+msgstr "data/PlayerFace/JPG/16/270.jpg"
+
+#: [Face271_bmp]FrameAmount
+msgctxt "[Face271_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face271_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/271.jpg"
+msgstr "data/PlayerFace/JPG/64/271.jpg"
+
+#: [Face271_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/271.jpg"
+msgstr "data/PlayerFace/JPG/16/271.jpg"
+
+#: [Face272_bmp]FrameAmount
+msgctxt "[Face272_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face272_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/272.jpg"
+msgstr "data/PlayerFace/JPG/64/272.jpg"
+
+#: [Face272_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/272.jpg"
+msgstr "data/PlayerFace/JPG/16/272.jpg"
+
+#: [Face273_bmp]FrameAmount
+msgctxt "[Face273_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face273_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/273.jpg"
+msgstr "data/PlayerFace/JPG/64/273.jpg"
+
+#: [Face273_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/273.jpg"
+msgstr "data/PlayerFace/JPG/16/273.jpg"
+
+#: [Face274_bmp]FrameAmount
+msgctxt "[Face274_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face274_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/274.jpg"
+msgstr "data/PlayerFace/JPG/64/274.jpg"
+
+#: [Face274_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/274.jpg"
+msgstr "data/PlayerFace/JPG/16/274.jpg"
+
+#: [Face275_bmp]FrameAmount
+msgctxt "[Face275_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face275_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/275.jpg"
+msgstr "data/PlayerFace/JPG/64/275.jpg"
+
+#: [Face275_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/275.jpg"
+msgstr "data/PlayerFace/JPG/16/275.jpg"
+
+#: [Face276_bmp]FrameAmount
+msgctxt "[Face276_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face276_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/276.jpg"
+msgstr "data/PlayerFace/JPG/64/276.jpg"
+
+#: [Face276_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/276.jpg"
+msgstr "data/PlayerFace/JPG/16/276.jpg"
+
+#: [Face277_bmp]FrameAmount
+msgctxt "[Face277_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face277_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/277.jpg"
+msgstr "data/PlayerFace/JPG/64/277.jpg"
+
+#: [Face277_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/277.jpg"
+msgstr "data/PlayerFace/JPG/16/277.jpg"
+
+#: [Face278_bmp]FrameAmount
+msgctxt "[Face278_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face278_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/278.jpg"
+msgstr "data/PlayerFace/JPG/64/278.jpg"
+
+#: [Face278_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/278.jpg"
+msgstr "data/PlayerFace/JPG/16/278.jpg"
+
+#: [Face279_bmp]FrameAmount
+msgctxt "[Face279_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face279_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/279.jpg"
+msgstr "data/PlayerFace/JPG/64/279.jpg"
+
+#: [Face279_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/279.jpg"
+msgstr "data/PlayerFace/JPG/16/279.jpg"
+
+#: [Face280_bmp]FrameAmount
+msgctxt "[Face280_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face280_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/280.jpg"
+msgstr "data/PlayerFace/JPG/64/280.jpg"
+
+#: [Face280_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/280.jpg"
+msgstr "data/PlayerFace/JPG/16/280.jpg"
+
+#: [Face281_bmp]FrameAmount
+msgctxt "[Face281_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face281_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/281.jpg"
+msgstr "data/PlayerFace/JPG/64/281.jpg"
+
+#: [Face281_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/281.jpg"
+msgstr "data/PlayerFace/JPG/16/281.jpg"
+
+#: [Face282_bmp]FrameAmount
+msgctxt "[Face282_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face282_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/282.jpg"
+msgstr "data/PlayerFace/JPG/64/282.jpg"
+
+#: [Face282_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/282.jpg"
+msgstr "data/PlayerFace/JPG/16/282.jpg"
+
+#: [Face283_bmp]FrameAmount
+msgctxt "[Face283_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face283_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/283.jpg"
+msgstr "data/PlayerFace/JPG/64/283.jpg"
+
+#: [Face283_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/283.jpg"
+msgstr "data/PlayerFace/JPG/16/283.jpg"
+
+#: [Face284_bmp]FrameAmount
+msgctxt "[Face284_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face284_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/284.jpg"
+msgstr "data/PlayerFace/JPG/64/284.jpg"
+
+#: [Face284_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/284.jpg"
+msgstr "data/PlayerFace/JPG/16/284.jpg"
+
+#: [Face285_bmp]FrameAmount
+msgctxt "[Face285_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face285_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/285.jpg"
+msgstr "data/PlayerFace/JPG/64/285.jpg"
+
+#: [Face285_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/285.jpg"
+msgstr "data/PlayerFace/JPG/16/285.jpg"
+
+#: [Face286_bmp]FrameAmount
+msgctxt "[Face286_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face286_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/286.jpg"
+msgstr "data/PlayerFace/JPG/64/286.jpg"
+
+#: [Face286_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/286.jpg"
+msgstr "data/PlayerFace/JPG/16/286.jpg"
+
+#: [Face287_bmp]FrameAmount
+msgctxt "[Face287_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face287_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/287.jpg"
+msgstr "data/PlayerFace/JPG/64/287.jpg"
+
+#: [Face287_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/287.jpg"
+msgstr "data/PlayerFace/JPG/16/287.jpg"
+
+#: [Face288_bmp]FrameAmount
+msgctxt "[Face288_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face288_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/288.jpg"
+msgstr "data/PlayerFace/JPG/64/288.jpg"
+
+#: [Face288_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/288.jpg"
+msgstr "data/PlayerFace/JPG/16/288.jpg"
+
+#: [Face289_bmp]FrameAmount
+msgctxt "[Face289_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face289_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/289.jpg"
+msgstr "data/PlayerFace/JPG/64/289.jpg"
+
+#: [Face289_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/289.jpg"
+msgstr "data/PlayerFace/JPG/16/289.jpg"
+
+#: [Face290_bmp]FrameAmount
+msgctxt "[Face290_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face290_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/290.jpg"
+msgstr "data/PlayerFace/JPG/64/290.jpg"
+
+#: [Face290_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/290.jpg"
+msgstr "data/PlayerFace/JPG/16/290.jpg"
+
+#: [Face291_bmp]FrameAmount
+msgctxt "[Face291_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face291_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/291.jpg"
+msgstr "data/PlayerFace/JPG/64/291.jpg"
+
+#: [Face291_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/291.jpg"
+msgstr "data/PlayerFace/JPG/16/291.jpg"
+
+#: [Face292_bmp]FrameAmount
+msgctxt "[Face292_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face292_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/292.jpg"
+msgstr "data/PlayerFace/JPG/64/292.jpg"
+
+#: [Face292_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/292.jpg"
+msgstr "data/PlayerFace/JPG/16/292.jpg"
+
+#: [Face293_bmp]FrameAmount
+msgctxt "[Face293_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face293_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/293.jpg"
+msgstr "data/PlayerFace/JPG/64/293.jpg"
+
+#: [Face293_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/293.jpg"
+msgstr "data/PlayerFace/JPG/16/293.jpg"
+
+#: [Face294_bmp]FrameAmount
+msgctxt "[Face294_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face294_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/294.jpg"
+msgstr "data/PlayerFace/JPG/64/294.jpg"
+
+#: [Face294_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/294.jpg"
+msgstr "data/PlayerFace/JPG/16/294.jpg"
+
+#: [Face295_bmp]FrameAmount
+msgctxt "[Face295_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face295_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/295.jpg"
+msgstr "data/PlayerFace/JPG/64/295.jpg"
+
+#: [Face295_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/295.jpg"
+msgstr "data/PlayerFace/JPG/16/295.jpg"
+
+#: [Face296_bmp]FrameAmount
+msgctxt "[Face296_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face296_bmp]Frame0
+msgctxt "[Face296_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/296.jpg"
+msgstr "data/PlayerFace/JPG/64/296.jpg"
+
+#: [Face296_bmp]Frame1
+msgctxt "[Face296_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/296.jpg"
+msgstr "data/PlayerFace/JPG/16/296.jpg"
+
+#: [Face297_bmp]FrameAmount
+msgctxt "[Face297_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face297_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/297.jpg"
+msgstr "data/PlayerFace/JPG/64/297.jpg"
+
+#: [Face297_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/297.jpg"
+msgstr "data/PlayerFace/JPG/16/297.jpg"
+
+#: [Face298_bmp]FrameAmount
+msgctxt "[Face298_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face298_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/298.jpg"
+msgstr "data/PlayerFace/JPG/64/298.jpg"
+
+#: [Face298_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/298.jpg"
+msgstr "data/PlayerFace/JPG/16/298.jpg"
+
+#: [Face299_bmp]FrameAmount
+msgctxt "[Face299_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face299_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/299.jpg"
+msgstr "data/PlayerFace/JPG/64/299.jpg"
+
+#: [Face299_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/299.jpg"
+msgstr "data/PlayerFace/JPG/16/299.jpg"
+
+#: [Face300_bmp]FrameAmount
+msgctxt "[Face300_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face300_bmp]Frame0
+msgctxt "[Face300_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/300.jpg"
+msgstr "data/PlayerFace/JPG/64/300.jpg"
+
+#: [Face300_bmp]Frame1
+msgctxt "[Face300_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/300.jpg"
+msgstr "data/PlayerFace/JPG/16/300.jpg"
+
+#: [Face301_bmp]FrameAmount
+msgctxt "[Face301_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face301_bmp]Frame0
+msgctxt "[Face301_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/301.jpg"
+msgstr "data/PlayerFace/JPG/64/301.jpg"
+
+#: [Face301_bmp]Frame1
+msgctxt "[Face301_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/301.jpg"
+msgstr "data/PlayerFace/JPG/16/301.jpg"
+
+#: [Face302_bmp]FrameAmount
+msgctxt "[Face302_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face302_bmp]Frame0
+msgctxt "[Face302_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/302.jpg"
+msgstr "data/PlayerFace/JPG/64/302.jpg"
+
+#: [Face302_bmp]Frame1
+msgctxt "[Face302_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/302.jpg"
+msgstr "data/PlayerFace/JPG/16/302.jpg"
+
+#: [Face303_bmp]FrameAmount
+msgctxt "[Face303_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face303_bmp]Frame0
+msgctxt "[Face303_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/303.jpg"
+msgstr "data/PlayerFace/JPG/64/303.jpg"
+
+#: [Face303_bmp]Frame1
+msgctxt "[Face303_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/303.jpg"
+msgstr "data/PlayerFace/JPG/16/303.jpg"
+
+#: [Face304_bmp]FrameAmount
+msgctxt "[Face304_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face304_bmp]Frame0
+msgctxt "[Face304_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/304.jpg"
+msgstr "data/PlayerFace/JPG/64/304.jpg"
+
+#: [Face304_bmp]Frame1
+msgctxt "[Face304_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/304.jpg"
+msgstr "data/PlayerFace/JPG/16/304.jpg"
+
+#: [Face305_bmp]FrameAmount
+msgctxt "[Face305_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face305_bmp]Frame0
+msgctxt "[Face305_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/300.jpg"
+msgstr "data/PlayerFace/JPG/64/300.jpg"
+
+#: [Face305_bmp]Frame1
+msgctxt "[Face305_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/300.jpg"
+msgstr "data/PlayerFace/JPG/16/300.jpg"
+
+#: [Face306_bmp]FrameAmount
+msgctxt "[Face306_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face306_bmp]Frame0
+msgctxt "[Face306_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/301.jpg"
+msgstr "data/PlayerFace/JPG/64/301.jpg"
+
+#: [Face306_bmp]Frame1
+msgctxt "[Face306_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/301.jpg"
+msgstr "data/PlayerFace/JPG/16/301.jpg"
+
+#: [Face307_bmp]FrameAmount
+msgctxt "[Face307_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face307_bmp]Frame0
+msgctxt "[Face307_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/302.jpg"
+msgstr "data/PlayerFace/JPG/64/302.jpg"
+
+#: [Face307_bmp]Frame1
+msgctxt "[Face307_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/302.jpg"
+msgstr "data/PlayerFace/JPG/16/302.jpg"
+
+#: [Face308_bmp]FrameAmount
+msgctxt "[Face308_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face308_bmp]Frame0
+msgctxt "[Face308_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/303.jpg"
+msgstr "data/PlayerFace/JPG/64/303.jpg"
+
+#: [Face308_bmp]Frame1
+msgctxt "[Face308_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/303.jpg"
+msgstr "data/PlayerFace/JPG/16/303.jpg"
+
+#: [Face309_bmp]FrameAmount
+msgctxt "[Face309_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face309_bmp]Frame0
+msgctxt "[Face309_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/304.jpg"
+msgstr "data/PlayerFace/JPG/64/304.jpg"
+
+#: [Face309_bmp]Frame1
+msgctxt "[Face309_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/304.jpg"
+msgstr "data/PlayerFace/JPG/16/304.jpg"
+
+#: [Face310_bmp]FrameAmount
+msgctxt "[Face310_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face310_bmp]Frame0
+msgctxt "[Face310_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/300.jpg"
+msgstr "data/PlayerFace/JPG/64/300.jpg"
+
+#: [Face310_bmp]Frame1
+msgctxt "[Face310_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/300.jpg"
+msgstr "data/PlayerFace/JPG/16/300.jpg"
+
+#: [Face311_bmp]FrameAmount
+msgctxt "[Face311_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face311_bmp]Frame0
+msgctxt "[Face311_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/301.jpg"
+msgstr "data/PlayerFace/JPG/64/301.jpg"
+
+#: [Face311_bmp]Frame1
+msgctxt "[Face311_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/301.jpg"
+msgstr "data/PlayerFace/JPG/16/301.jpg"
+
+#: [Face312_bmp]FrameAmount
+msgctxt "[Face312_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face312_bmp]Frame0
+msgctxt "[Face312_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/302.jpg"
+msgstr "data/PlayerFace/JPG/64/302.jpg"
+
+#: [Face312_bmp]Frame1
+msgctxt "[Face312_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/302.jpg"
+msgstr "data/PlayerFace/JPG/16/302.jpg"
+
+#: [Face313_bmp]FrameAmount
+msgctxt "[Face313_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face313_bmp]Frame0
+msgctxt "[Face313_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/303.jpg"
+msgstr "data/PlayerFace/JPG/64/303.jpg"
+
+#: [Face313_bmp]Frame1
+msgctxt "[Face313_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/303.jpg"
+msgstr "data/PlayerFace/JPG/16/303.jpg"
+
+#: [Face314_bmp]FrameAmount
+msgctxt "[Face314_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face314_bmp]Frame0
+msgctxt "[Face314_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/304.jpg"
+msgstr "data/PlayerFace/JPG/64/304.jpg"
+
+#: [Face314_bmp]Frame1
+msgctxt "[Face314_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/304.jpg"
+msgstr "data/PlayerFace/JPG/16/304.jpg"
+
+#: [Face315_bmp]FrameAmount
+msgctxt "[Face315_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face315_bmp]Frame0
+msgctxt "[Face315_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/300.jpg"
+msgstr "data/PlayerFace/JPG/64/300.jpg"
+
+#: [Face315_bmp]Frame1
+msgctxt "[Face315_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/300.jpg"
+msgstr "data/PlayerFace/JPG/16/300.jpg"
+
+#: [Face316_bmp]FrameAmount
+msgctxt "[Face316_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face316_bmp]Frame0
+msgctxt "[Face316_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/301.jpg"
+msgstr "data/PlayerFace/JPG/64/301.jpg"
+
+#: [Face316_bmp]Frame1
+msgctxt "[Face316_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/301.jpg"
+msgstr "data/PlayerFace/JPG/16/301.jpg"
+
+#: [Face317_bmp]FrameAmount
+msgctxt "[Face317_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face317_bmp]Frame0
+msgctxt "[Face317_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/302.jpg"
+msgstr "data/PlayerFace/JPG/64/302.jpg"
+
+#: [Face317_bmp]Frame1
+msgctxt "[Face317_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/302.jpg"
+msgstr "data/PlayerFace/JPG/16/302.jpg"
+
+#: [Face318_bmp]FrameAmount
+msgctxt "[Face318_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face318_bmp]Frame0
+msgctxt "[Face318_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/303.jpg"
+msgstr "data/PlayerFace/JPG/64/303.jpg"
+
+#: [Face318_bmp]Frame1
+msgctxt "[Face318_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/303.jpg"
+msgstr "data/PlayerFace/JPG/16/303.jpg"
+
+#: [Face319_bmp]FrameAmount
+msgctxt "[Face319_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face319_bmp]Frame0
+msgctxt "[Face319_bmp]Frame0"
+msgid "data/PlayerFace/JPG/64/304.jpg"
+msgstr "data/PlayerFace/JPG/64/304.jpg"
+
+#: [Face319_bmp]Frame1
+msgctxt "[Face319_bmp]Frame1"
+msgid "data/PlayerFace/JPG/16/304.jpg"
+msgstr "data/PlayerFace/JPG/16/304.jpg"
+
+#: [Face320_bmp]FrameAmount
+msgctxt "[Face320_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face320_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/320.jpg"
+msgstr "data/PlayerFace/JPG/64/320.jpg"
+
+#: [Face320_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/320.jpg"
+msgstr "data/PlayerFace/JPG/16/320.jpg"
+
+#: [Face321_bmp]FrameAmount
+msgctxt "[Face321_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face321_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/321.jpg"
+msgstr "data/PlayerFace/JPG/64/321.jpg"
+
+#: [Face321_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/321.jpg"
+msgstr "data/PlayerFace/JPG/16/321.jpg"
+
+#: [Face322_bmp]FrameAmount
+msgctxt "[Face322_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face322_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/322.jpg"
+msgstr "data/PlayerFace/JPG/64/322.jpg"
+
+#: [Face322_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/322.jpg"
+msgstr "data/PlayerFace/JPG/16/322.jpg"
+
+#: [Face323_bmp]FrameAmount
+msgctxt "[Face323_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face323_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/323.jpg"
+msgstr "data/PlayerFace/JPG/64/323.jpg"
+
+#: [Face323_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/323.jpg"
+msgstr "data/PlayerFace/JPG/16/323.jpg"
+
+#: [Face324_bmp]FrameAmount
+msgctxt "[Face324_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face324_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/324.jpg"
+msgstr "data/PlayerFace/JPG/64/324.jpg"
+
+#: [Face324_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/324.jpg"
+msgstr "data/PlayerFace/JPG/16/324.jpg"
+
+#: [Face325_bmp]FrameAmount
+msgctxt "[Face325_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face325_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/325.jpg"
+msgstr "data/PlayerFace/JPG/64/325.jpg"
+
+#: [Face325_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/325.jpg"
+msgstr "data/PlayerFace/JPG/16/325.jpg"
+
+#: [Face326_bmp]FrameAmount
+msgctxt "[Face326_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face326_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/326.jpg"
+msgstr "data/PlayerFace/JPG/64/326.jpg"
+
+#: [Face326_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/326.jpg"
+msgstr "data/PlayerFace/JPG/16/326.jpg"
+
+#: [Face327_bmp]FrameAmount
+msgctxt "[Face327_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face327_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/327.jpg"
+msgstr "data/PlayerFace/JPG/64/327.jpg"
+
+#: [Face327_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/327.jpg"
+msgstr "data/PlayerFace/JPG/16/327.jpg"
+
+#: [Face328_bmp]FrameAmount
+msgctxt "[Face328_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face328_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/328.jpg"
+msgstr "data/PlayerFace/JPG/64/328.jpg"
+
+#: [Face328_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/328.jpg"
+msgstr "data/PlayerFace/JPG/16/328.jpg"
+
+#: [Face329_bmp]FrameAmount
+msgctxt "[Face329_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face329_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/329.jpg"
+msgstr "data/PlayerFace/JPG/64/329.jpg"
+
+#: [Face329_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/329.jpg"
+msgstr "data/PlayerFace/JPG/16/329.jpg"
+
+#: [Face330_bmp]FrameAmount
+msgctxt "[Face330_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face330_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/330.jpg"
+msgstr "data/PlayerFace/JPG/64/330.jpg"
+
+#: [Face330_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/330.jpg"
+msgstr "data/PlayerFace/JPG/16/330.jpg"
+
+#: [Face331_bmp]FrameAmount
+msgctxt "[Face331_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face331_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/331.jpg"
+msgstr "data/PlayerFace/JPG/64/331.jpg"
+
+#: [Face331_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/331.jpg"
+msgstr "data/PlayerFace/JPG/16/331.jpg"
+
+#: [Face332_bmp]FrameAmount
+msgctxt "[Face332_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face332_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/332.jpg"
+msgstr "data/PlayerFace/JPG/64/332.jpg"
+
+#: [Face332_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/332.jpg"
+msgstr "data/PlayerFace/JPG/16/332.jpg"
+
+#: [Face333_bmp]FrameAmount
+msgctxt "[Face333_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face333_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/333.jpg"
+msgstr "data/PlayerFace/JPG/64/333.jpg"
+
+#: [Face333_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/333.jpg"
+msgstr "data/PlayerFace/JPG/16/333.jpg"
+
+#: [Face334_bmp]FrameAmount
+msgctxt "[Face334_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face334_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/334.jpg"
+msgstr "data/PlayerFace/JPG/64/334.jpg"
+
+#: [Face334_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/334.jpg"
+msgstr "data/PlayerFace/JPG/16/334.jpg"
+
+#: [Face335_bmp]FrameAmount
+msgctxt "[Face335_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face335_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/335.jpg"
+msgstr "data/PlayerFace/JPG/64/335.jpg"
+
+#: [Face335_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/335.jpg"
+msgstr "data/PlayerFace/JPG/16/335.jpg"
+
+#: [Face336_bmp]FrameAmount
+msgctxt "[Face336_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face336_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/336.jpg"
+msgstr "data/PlayerFace/JPG/64/336.jpg"
+
+#: [Face336_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/336.jpg"
+msgstr "data/PlayerFace/JPG/16/336.jpg"
+
+#: [Face337_bmp]FrameAmount
+msgctxt "[Face337_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face337_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/337.jpg"
+msgstr "data/PlayerFace/JPG/64/337.jpg"
+
+#: [Face337_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/337.jpg"
+msgstr "data/PlayerFace/JPG/16/337.jpg"
+
+#: [Face338_bmp]FrameAmount
+msgctxt "[Face338_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face338_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/338.jpg"
+msgstr "data/PlayerFace/JPG/64/338.jpg"
+
+#: [Face338_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/338.jpg"
+msgstr "data/PlayerFace/JPG/16/338.jpg"
+
+#: [Face339_bmp]FrameAmount
+msgctxt "[Face339_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face339_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/339.jpg"
+msgstr "data/PlayerFace/JPG/64/339.jpg"
+
+#: [Face339_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/339.jpg"
+msgstr "data/PlayerFace/JPG/16/339.jpg"
+
+#: [Face340_bmp]FrameAmount
+msgctxt "[Face340_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face340_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/340.jpg"
+msgstr "data/PlayerFace/JPG/64/340.jpg"
+
+#: [Face340_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/340.jpg"
+msgstr "data/PlayerFace/JPG/16/340.jpg"
+
+#: [Face341_bmp]FrameAmount
+msgctxt "[Face341_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face341_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/341.jpg"
+msgstr "data/PlayerFace/JPG/64/341.jpg"
+
+#: [Face341_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/341.jpg"
+msgstr "data/PlayerFace/JPG/16/341.jpg"
+
+#: [Face342_bmp]FrameAmount
+msgctxt "[Face342_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face342_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/342.jpg"
+msgstr "data/PlayerFace/JPG/64/342.jpg"
+
+#: [Face342_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/342.jpg"
+msgstr "data/PlayerFace/JPG/16/342.jpg"
+
+#: [Face343_bmp]FrameAmount
+msgctxt "[Face343_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face343_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/343.jpg"
+msgstr "data/PlayerFace/JPG/64/343.jpg"
+
+#: [Face343_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/343.jpg"
+msgstr "data/PlayerFace/JPG/16/343.jpg"
+
+#: [Face344_bmp]FrameAmount
+msgctxt "[Face344_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face344_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/344.jpg"
+msgstr "data/PlayerFace/JPG/64/344.jpg"
+
+#: [Face344_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/344.jpg"
+msgstr "data/PlayerFace/JPG/16/344.jpg"
+
+#: [Face345_bmp]FrameAmount
+msgctxt "[Face345_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face345_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/345.jpg"
+msgstr "data/PlayerFace/JPG/64/345.jpg"
+
+#: [Face345_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/345.jpg"
+msgstr "data/PlayerFace/JPG/16/345.jpg"
+
+#: [Face346_bmp]FrameAmount
+msgctxt "[Face346_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face346_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/346.jpg"
+msgstr "data/PlayerFace/JPG/64/346.jpg"
+
+#: [Face346_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/346.jpg"
+msgstr "data/PlayerFace/JPG/16/346.jpg"
+
+#: [Face347_bmp]FrameAmount
+msgctxt "[Face347_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face347_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/347.jpg"
+msgstr "data/PlayerFace/JPG/64/347.jpg"
+
+#: [Face347_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/347.jpg"
+msgstr "data/PlayerFace/JPG/16/347.jpg"
+
+#: [Face348_bmp]FrameAmount
+msgctxt "[Face348_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face348_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/348.jpg"
+msgstr "data/PlayerFace/JPG/64/348.jpg"
+
+#: [Face348_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/348.jpg"
+msgstr "data/PlayerFace/JPG/16/348.jpg"
+
+#: [Face349_bmp]FrameAmount
+msgctxt "[Face349_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face349_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/349.jpg"
+msgstr "data/PlayerFace/JPG/64/349.jpg"
+
+#: [Face349_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/349.jpg"
+msgstr "data/PlayerFace/JPG/16/349.jpg"
+
+#: [Face350_bmp]FrameAmount
+msgctxt "[Face350_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face350_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/350.jpg"
+msgstr "data/PlayerFace/JPG/64/350.jpg"
+
+#: [Face350_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/350.jpg"
+msgstr "data/PlayerFace/JPG/16/350.jpg"
+
+#: [Face351_bmp]FrameAmount
+msgctxt "[Face351_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face351_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/351.jpg"
+msgstr "data/PlayerFace/JPG/64/351.jpg"
+
+#: [Face351_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/351.jpg"
+msgstr "data/PlayerFace/JPG/16/351.jpg"
+
+#: [Face352_bmp]FrameAmount
+msgctxt "[Face352_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face352_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/352.jpg"
+msgstr "data/PlayerFace/JPG/64/352.jpg"
+
+#: [Face352_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/352.jpg"
+msgstr "data/PlayerFace/JPG/16/352.jpg"
+
+#: [Face353_bmp]FrameAmount
+msgctxt "[Face353_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face353_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/353.jpg"
+msgstr "data/PlayerFace/JPG/64/353.jpg"
+
+#: [Face353_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/353.jpg"
+msgstr "data/PlayerFace/JPG/16/353.jpg"
+
+#: [Face354_bmp]FrameAmount
+msgctxt "[Face354_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face354_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/354.jpg"
+msgstr "data/PlayerFace/JPG/64/354.jpg"
+
+#: [Face354_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/354.jpg"
+msgstr "data/PlayerFace/JPG/16/354.jpg"
+
+#: [Face355_bmp]FrameAmount
+msgctxt "[Face355_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face355_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/355.jpg"
+msgstr "data/PlayerFace/JPG/64/355.jpg"
+
+#: [Face355_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/355.jpg"
+msgstr "data/PlayerFace/JPG/16/355.jpg"
+
+#: [Face356_bmp]FrameAmount
+msgctxt "[Face356_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face356_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/356.jpg"
+msgstr "data/PlayerFace/JPG/64/356.jpg"
+
+#: [Face356_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/356.jpg"
+msgstr "data/PlayerFace/JPG/16/356.jpg"
+
+#: [Face357_bmp]FrameAmount
+msgctxt "[Face357_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face357_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/357.jpg"
+msgstr "data/PlayerFace/JPG/64/357.jpg"
+
+#: [Face357_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/357.jpg"
+msgstr "data/PlayerFace/JPG/16/357.jpg"
+
+#: [Face358_bmp]FrameAmount
+msgctxt "[Face358_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face358_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/358.jpg"
+msgstr "data/PlayerFace/JPG/64/358.jpg"
+
+#: [Face358_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/358.jpg"
+msgstr "data/PlayerFace/JPG/16/358.jpg"
+
+#: [Face359_bmp]FrameAmount
+msgctxt "[Face359_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face359_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/359.jpg"
+msgstr "data/PlayerFace/JPG/64/359.jpg"
+
+#: [Face359_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/359.jpg"
+msgstr "data/PlayerFace/JPG/16/359.jpg"
+
+#: [Face360_bmp]FrameAmount
+msgctxt "[Face360_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face360_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/360.jpg"
+msgstr "data/PlayerFace/JPG/64/360.jpg"
+
+#: [Face360_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/360.jpg"
+msgstr "data/PlayerFace/JPG/16/360.jpg"
+
+#: [Face361_bmp]FrameAmount
+msgctxt "[Face361_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face361_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/361.jpg"
+msgstr "data/PlayerFace/JPG/64/361.jpg"
+
+#: [Face361_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/361.jpg"
+msgstr "data/PlayerFace/JPG/16/361.jpg"
+
+#: [Face362_bmp]FrameAmount
+msgctxt "[Face362_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face362_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/362.jpg"
+msgstr "data/PlayerFace/JPG/64/362.jpg"
+
+#: [Face362_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/362.jpg"
+msgstr "data/PlayerFace/JPG/16/362.jpg"
+
+#: [Face363_bmp]FrameAmount
+msgctxt "[Face363_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face363_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/363.jpg"
+msgstr "data/PlayerFace/JPG/64/363.jpg"
+
+#: [Face363_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/363.jpg"
+msgstr "data/PlayerFace/JPG/16/363.jpg"
+
+#: [Face364_bmp]FrameAmount
+msgctxt "[Face364_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face364_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/364.jpg"
+msgstr "data/PlayerFace/JPG/64/364.jpg"
+
+#: [Face364_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/364.jpg"
+msgstr "data/PlayerFace/JPG/16/364.jpg"
+
+#: [Face365_bmp]FrameAmount
+msgctxt "[Face365_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face365_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/365.jpg"
+msgstr "data/PlayerFace/JPG/64/365.jpg"
+
+#: [Face365_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/365.jpg"
+msgstr "data/PlayerFace/JPG/16/365.jpg"
+
+#: [Face366_bmp]FrameAmount
+msgctxt "[Face366_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face366_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/366.jpg"
+msgstr "data/PlayerFace/JPG/64/366.jpg"
+
+#: [Face366_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/366.jpg"
+msgstr "data/PlayerFace/JPG/16/366.jpg"
+
+#: [Face367_bmp]FrameAmount
+msgctxt "[Face367_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face367_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/367.jpg"
+msgstr "data/PlayerFace/JPG/64/367.jpg"
+
+#: [Face367_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/367.jpg"
+msgstr "data/PlayerFace/JPG/16/367.jpg"
+
+#: [Face368_bmp]FrameAmount
+msgctxt "[Face368_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face368_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/368.jpg"
+msgstr "data/PlayerFace/JPG/64/368.jpg"
+
+#: [Face368_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/368.jpg"
+msgstr "data/PlayerFace/JPG/16/368.jpg"
+
+#: [Face369_bmp]FrameAmount
+msgctxt "[Face369_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face369_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/369.jpg"
+msgstr "data/PlayerFace/JPG/64/369.jpg"
+
+#: [Face369_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/369.jpg"
+msgstr "data/PlayerFace/JPG/16/369.jpg"
+
+#: [Face370_bmp]FrameAmount
+msgctxt "[Face370_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face370_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/370.jpg"
+msgstr "data/PlayerFace/JPG/64/370.jpg"
+
+#: [Face370_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/370.jpg"
+msgstr "data/PlayerFace/JPG/16/370.jpg"
+
+#: [Face371_bmp]FrameAmount
+msgctxt "[Face371_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face371_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/371.jpg"
+msgstr "data/PlayerFace/JPG/64/371.jpg"
+
+#: [Face371_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/371.jpg"
+msgstr "data/PlayerFace/JPG/16/371.jpg"
+
+#: [Face372_bmp]FrameAmount
+msgctxt "[Face372_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face372_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/372.jpg"
+msgstr "data/PlayerFace/JPG/64/372.jpg"
+
+#: [Face372_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/372.jpg"
+msgstr "data/PlayerFace/JPG/16/372.jpg"
+
+#: [Face373_bmp]FrameAmount
+msgctxt "[Face373_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face373_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/373.jpg"
+msgstr "data/PlayerFace/JPG/64/373.jpg"
+
+#: [Face373_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/373.jpg"
+msgstr "data/PlayerFace/JPG/16/373.jpg"
+
+#: [Face374_bmp]FrameAmount
+msgctxt "[Face374_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face374_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/374.jpg"
+msgstr "data/PlayerFace/JPG/64/374.jpg"
+
+#: [Face374_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/374.jpg"
+msgstr "data/PlayerFace/JPG/16/374.jpg"
+
+#: [Face375_bmp]FrameAmount
+msgctxt "[Face375_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face375_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/375.jpg"
+msgstr "data/PlayerFace/JPG/64/375.jpg"
+
+#: [Face375_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/375.jpg"
+msgstr "data/PlayerFace/JPG/16/375.jpg"
+
+#: [Face376_bmp]FrameAmount
+msgctxt "[Face376_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face376_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/376.jpg"
+msgstr "data/PlayerFace/JPG/64/376.jpg"
+
+#: [Face376_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/376.jpg"
+msgstr "data/PlayerFace/JPG/16/376.jpg"
+
+#: [Face377_bmp]FrameAmount
+msgctxt "[Face377_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face377_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/377.jpg"
+msgstr "data/PlayerFace/JPG/64/377.jpg"
+
+#: [Face377_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/377.jpg"
+msgstr "data/PlayerFace/JPG/16/377.jpg"
+
+#: [Face378_bmp]FrameAmount
+msgctxt "[Face378_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face378_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/378.jpg"
+msgstr "data/PlayerFace/JPG/64/378.jpg"
+
+#: [Face378_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/378.jpg"
+msgstr "data/PlayerFace/JPG/16/378.jpg"
+
+#: [Face379_bmp]FrameAmount
+msgctxt "[Face379_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face379_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/379.jpg"
+msgstr "data/PlayerFace/JPG/64/379.jpg"
+
+#: [Face379_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/379.jpg"
+msgstr "data/PlayerFace/JPG/16/379.jpg"
+
+#: [Face380_bmp]FrameAmount
+msgctxt "[Face380_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face380_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/380.jpg"
+msgstr "data/PlayerFace/JPG/64/380.jpg"
+
+#: [Face380_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/380.jpg"
+msgstr "data/PlayerFace/JPG/16/380.jpg"
+
+#: [Face381_bmp]FrameAmount
+msgctxt "[Face381_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face381_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/381.jpg"
+msgstr "data/PlayerFace/JPG/64/381.jpg"
+
+#: [Face381_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/381.jpg"
+msgstr "data/PlayerFace/JPG/16/381.jpg"
+
+#: [Face382_bmp]FrameAmount
+msgctxt "[Face382_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face382_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/382.jpg"
+msgstr "data/PlayerFace/JPG/64/382.jpg"
+
+#: [Face382_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/382.jpg"
+msgstr "data/PlayerFace/JPG/16/382.jpg"
+
+#: [Face383_bmp]FrameAmount
+msgctxt "[Face383_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face383_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/383.jpg"
+msgstr "data/PlayerFace/JPG/64/383.jpg"
+
+#: [Face383_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/383.jpg"
+msgstr "data/PlayerFace/JPG/16/383.jpg"
+
+#: [Face384_bmp]FrameAmount
+msgctxt "[Face384_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face384_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/384.jpg"
+msgstr "data/PlayerFace/JPG/64/384.jpg"
+
+#: [Face384_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/384.jpg"
+msgstr "data/PlayerFace/JPG/16/384.jpg"
+
+#: [Face385_bmp]FrameAmount
+msgctxt "[Face385_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face385_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/385.jpg"
+msgstr "data/PlayerFace/JPG/64/385.jpg"
+
+#: [Face385_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/385.jpg"
+msgstr "data/PlayerFace/JPG/16/385.jpg"
+
+#: [Face386_bmp]FrameAmount
+msgctxt "[Face386_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face386_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/386.jpg"
+msgstr "data/PlayerFace/JPG/64/386.jpg"
+
+#: [Face386_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/386.jpg"
+msgstr "data/PlayerFace/JPG/16/386.jpg"
+
+#: [Face387_bmp]FrameAmount
+msgctxt "[Face387_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face387_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/387.jpg"
+msgstr "data/PlayerFace/JPG/64/387.jpg"
+
+#: [Face387_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/387.jpg"
+msgstr "data/PlayerFace/JPG/16/387.jpg"
+
+#: [Face388_bmp]FrameAmount
+msgctxt "[Face388_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face388_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/388.jpg"
+msgstr "data/PlayerFace/JPG/64/388.jpg"
+
+#: [Face388_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/388.jpg"
+msgstr "data/PlayerFace/JPG/16/388.jpg"
+
+#: [Face389_bmp]FrameAmount
+msgctxt "[Face389_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face389_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/389.jpg"
+msgstr "data/PlayerFace/JPG/64/389.jpg"
+
+#: [Face389_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/389.jpg"
+msgstr "data/PlayerFace/JPG/16/389.jpg"
+
+#: [Face390_bmp]FrameAmount
+msgctxt "[Face390_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face390_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/390.jpg"
+msgstr "data/PlayerFace/JPG/64/390.jpg"
+
+#: [Face390_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/390.jpg"
+msgstr "data/PlayerFace/JPG/16/390.jpg"
+
+#: [Face391_bmp]FrameAmount
+msgctxt "[Face391_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face391_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/391.jpg"
+msgstr "data/PlayerFace/JPG/64/391.jpg"
+
+#: [Face391_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/391.jpg"
+msgstr "data/PlayerFace/JPG/16/391.jpg"
+
+#: [Face392_bmp]FrameAmount
+msgctxt "[Face392_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face392_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/392.jpg"
+msgstr "data/PlayerFace/JPG/64/392.jpg"
+
+#: [Face392_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/392.jpg"
+msgstr "data/PlayerFace/JPG/16/392.jpg"
+
+#: [Face393_bmp]FrameAmount
+msgctxt "[Face393_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face393_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/393.jpg"
+msgstr "data/PlayerFace/JPG/64/393.jpg"
+
+#: [Face393_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/393.jpg"
+msgstr "data/PlayerFace/JPG/16/393.jpg"
+
+#: [Face394_bmp]FrameAmount
+msgctxt "[Face394_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face394_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/394.jpg"
+msgstr "data/PlayerFace/JPG/64/394.jpg"
+
+#: [Face394_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/394.jpg"
+msgstr "data/PlayerFace/JPG/16/394.jpg"
+
+#: [Face395_bmp]FrameAmount
+msgctxt "[Face395_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face395_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/395.jpg"
+msgstr "data/PlayerFace/JPG/64/395.jpg"
+
+#: [Face395_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/395.jpg"
+msgstr "data/PlayerFace/JPG/16/395.jpg"
+
+#: [Face396_bmp]FrameAmount
+msgctxt "[Face396_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face396_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/396.jpg"
+msgstr "data/PlayerFace/JPG/64/396.jpg"
+
+#: [Face396_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/396.jpg"
+msgstr "data/PlayerFace/JPG/16/396.jpg"
+
+#: [Face397_bmp]FrameAmount
+msgctxt "[Face397_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face397_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/397.jpg"
+msgstr "data/PlayerFace/JPG/64/397.jpg"
+
+#: [Face397_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/397.jpg"
+msgstr "data/PlayerFace/JPG/16/397.jpg"
+
+#: [Face398_bmp]FrameAmount
+msgctxt "[Face398_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face398_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/398.jpg"
+msgstr "data/PlayerFace/JPG/64/398.jpg"
+
+#: [Face398_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/398.jpg"
+msgstr "data/PlayerFace/JPG/16/398.jpg"
+
+#: [Face399_bmp]FrameAmount
+msgctxt "[Face399_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face399_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/399.jpg"
+msgstr "data/PlayerFace/JPG/64/399.jpg"
+
+#: [Face399_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/399.jpg"
+msgstr "data/PlayerFace/JPG/16/399.jpg"
+
+#: [Face400_bmp]FrameAmount
+msgctxt "[Face400_bmp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Face400_bmp]Frame0
+msgid "data/PlayerFace/JPG/64/400.jpg"
+msgstr "data/PlayerFace/JPG/64/400.jpg"
+
+#: [Face400_bmp]Frame1
+msgid "data/PlayerFace/JPG/16/400.jpg"
+msgstr "data/PlayerFace/JPG/16/400.jpg"

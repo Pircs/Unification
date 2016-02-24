@@ -1,0 +1,1930 @@
+#. extracted from MapScene-saya.ini, MapScene-sayaCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [altar00]FrameAmount
+msgctxt "[altar00]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar00]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar00.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar00.dds"
+
+#: [altar01]FrameAmount
+msgctxt "[altar01]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar01]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar01.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar01.dds"
+
+#: [altar02]FrameAmount
+msgctxt "[altar02]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar02]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar02.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar02.dds"
+
+#: [altar03]FrameAmount
+msgctxt "[altar03]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar03]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar03.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar03.dds"
+
+#: [altar04]FrameAmount
+msgctxt "[altar04]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar04]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar04.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar04.dds"
+
+#: [altar05]FrameAmount
+msgctxt "[altar05]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar05]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar05.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar05.dds"
+
+#: [altar06]FrameAmount
+msgctxt "[altar06]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar06]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar06.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar06.dds"
+
+#: [altar07]FrameAmount
+msgctxt "[altar07]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar07]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar07.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar07.dds"
+
+#: [altar08]FrameAmount
+msgctxt "[altar08]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar08]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar08.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar08.dds"
+
+#: [altar09]FrameAmount
+msgctxt "[altar09]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar09]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar09.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar09.dds"
+
+#: [altar10]FrameAmount
+msgctxt "[altar10]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar10]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar10.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar10.dds"
+
+#: [altar11]FrameAmount
+msgctxt "[altar11]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar11]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar11.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar11.dds"
+
+#: [altar12]FrameAmount
+msgctxt "[altar12]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar12]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar12.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar12.dds"
+
+#: [altar13]FrameAmount
+msgctxt "[altar13]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar13]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar13.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar13.dds"
+
+#: [altar14]FrameAmount
+msgctxt "[altar14]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar14]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar14.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar14.dds"
+
+#: [altar15]FrameAmount
+msgctxt "[altar15]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar15]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar15.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar15.dds"
+
+#: [altar16]FrameAmount
+msgctxt "[altar16]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar16]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar16.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar16.dds"
+
+#: [altar17]FrameAmount
+msgctxt "[altar17]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar17]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar17.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar17.dds"
+
+#: [altar18]FrameAmount
+msgctxt "[altar18]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar18]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar18.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar18.dds"
+
+#: [altar19]FrameAmount
+msgctxt "[altar19]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar19]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar19.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar19.dds"
+
+#: [altar20]FrameAmount
+msgctxt "[altar20]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar20]Frame0
+msgid "data/map/mapobj/1-newplain/altar/altar20.dds"
+msgstr "data/map/mapobj/1-newplain/altar/altar20.dds"
+
+#: [altar21]FrameAmount
+msgctxt "[altar21]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar21]Frame0
+msgid "data/map/mapobj/newplain/altar/altar21.dds"
+msgstr "data/map/mapobj/newplain/altar/altar21.dds"
+
+#: [altar22]FrameAmount
+msgctxt "[altar22]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar22]Frame0
+msgid "data/map/mapobj/newplain/altar/altar22.dds"
+msgstr "data/map/mapobj/newplain/altar/altar22.dds"
+
+#: [altar23]FrameAmount
+msgctxt "[altar23]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar23]Frame0
+msgid "data/map/mapobj/newplain/altar/altar23.dds"
+msgstr "data/map/mapobj/newplain/altar/altar23.dds"
+
+#: [altar24]FrameAmount
+msgctxt "[altar24]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar24]Frame0
+msgid "data/map/mapobj/newplain/altar/altar24.dds"
+msgstr "data/map/mapobj/newplain/altar/altar24.dds"
+
+#: [altar25]FrameAmount
+msgctxt "[altar25]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar25]Frame0
+msgid "data/map/mapobj/newplain/altar/altar25.dds"
+msgstr "data/map/mapobj/newplain/altar/altar25.dds"
+
+#: [altar26]FrameAmount
+msgctxt "[altar26]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar26]Frame0
+msgid "data/map/mapobj/newplain/altar/altar26.dds"
+msgstr "data/map/mapobj/newplain/altar/altar26.dds"
+
+#: [altar27]FrameAmount
+msgctxt "[altar27]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar27]Frame0
+msgid "data/map/mapobj/newplain/altar/altar27.dds"
+msgstr "data/map/mapobj/newplain/altar/altar27.dds"
+
+#: [altar28]FrameAmount
+msgctxt "[altar28]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar28]Frame0
+msgid "data/map/mapobj/newplain/altar/altar28.dds"
+msgstr "data/map/mapobj/newplain/altar/altar28.dds"
+
+#: [altar29]FrameAmount
+msgctxt "[altar29]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar29]Frame0
+msgid "data/map/mapobj/newplain/altar/altar29.dds"
+msgstr "data/map/mapobj/newplain/altar/altar29.dds"
+
+#: [altar30]FrameAmount
+msgctxt "[altar30]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar30]Frame0
+msgid "data/map/mapobj/newplain/altar/altar30.dds"
+msgstr "data/map/mapobj/newplain/altar/altar30.dds"
+
+#: [altar31]FrameAmount
+msgctxt "[altar31]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar31]Frame0
+msgid "data/map/mapobj/newplain/altar/altar31.dds"
+msgstr "data/map/mapobj/newplain/altar/altar31.dds"
+
+#: [altar32]FrameAmount
+msgctxt "[altar32]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar32]Frame0
+msgid "data/map/mapobj/newplain/altar/altar32.dds"
+msgstr "data/map/mapobj/newplain/altar/altar32.dds"
+
+#: [altar33]FrameAmount
+msgctxt "[altar33]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar33]Frame0
+msgid "data/map/mapobj/newplain/altar/altar33.dds"
+msgstr "data/map/mapobj/newplain/altar/altar33.dds"
+
+#: [altar34]FrameAmount
+msgctxt "[altar34]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar34]Frame0
+msgid "data/map/mapobj/newplain/altar/altar34.dds"
+msgstr "data/map/mapobj/newplain/altar/altar34.dds"
+
+#: [altar35]FrameAmount
+msgctxt "[altar35]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar35]Frame0
+msgid "data/map/mapobj/newplain/altar/altar35.dds"
+msgstr "data/map/mapobj/newplain/altar/altar35.dds"
+
+#: [altar36]FrameAmount
+msgctxt "[altar36]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar36]Frame0
+msgid "data/map/mapobj/newplain/altar/altar36.dds"
+msgstr "data/map/mapobj/newplain/altar/altar36.dds"
+
+#: [altar37]FrameAmount
+msgctxt "[altar37]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar37]Frame0
+msgid "data/map/mapobj/newplain/altar/altar37.dds"
+msgstr "data/map/mapobj/newplain/altar/altar37.dds"
+
+#: [altar38]FrameAmount
+msgctxt "[altar38]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar38]Frame0
+msgid "data/map/mapobj/newplain/altar/altar38.dds"
+msgstr "data/map/mapobj/newplain/altar/altar38.dds"
+
+#: [altar39]FrameAmount
+msgctxt "[altar39]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar39]Frame0
+msgid "data/map/mapobj/newplain/altar/altar39.dds"
+msgstr "data/map/mapobj/newplain/altar/altar39.dds"
+
+#: [altar40]FrameAmount
+msgctxt "[altar40]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar40]Frame0
+msgid "data/map/mapobj/newplain/altar/altar40.dds"
+msgstr "data/map/mapobj/newplain/altar/altar40.dds"
+
+#: [altar41]FrameAmount
+msgctxt "[altar41]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar41]Frame0
+msgid "data/map/mapobj/newplain/altar/altar41.dds"
+msgstr "data/map/mapobj/newplain/altar/altar41.dds"
+
+#: [altar42]FrameAmount
+msgctxt "[altar42]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar42]Frame0
+msgid "data/map/mapobj/newplain/altar/altar42.dds"
+msgstr "data/map/mapobj/newplain/altar/altar42.dds"
+
+#: [altar43]FrameAmount
+msgctxt "[altar43]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar43]Frame0
+msgid "data/map/mapobj/newplain/altar/altar43.dds"
+msgstr "data/map/mapobj/newplain/altar/altar43.dds"
+
+#: [altar44]FrameAmount
+msgctxt "[altar44]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar44]Frame0
+msgid "data/map/mapobj/newplain/altar/altar44.dds"
+msgstr "data/map/mapobj/newplain/altar/altar44.dds"
+
+#: [altar45]FrameAmount
+msgctxt "[altar45]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar45]Frame0
+msgid "data/map/mapobj/newplain/altar/altar45.dds"
+msgstr "data/map/mapobj/newplain/altar/altar45.dds"
+
+#: [altar46]FrameAmount
+msgctxt "[altar46]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar46]Frame0
+msgid "data/map/mapobj/newplain/altar/altar46.dds"
+msgstr "data/map/mapobj/newplain/altar/altar46.dds"
+
+#: [altar47]FrameAmount
+msgctxt "[altar47]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar47]Frame0
+msgid "data/map/mapobj/newplain/altar/altar47.dds"
+msgstr "data/map/mapobj/newplain/altar/altar47.dds"
+
+#: [altar48]FrameAmount
+msgctxt "[altar48]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar48]Frame0
+msgid "data/map/mapobj/newplain/altar/altar48.dds"
+msgstr "data/map/mapobj/newplain/altar/altar48.dds"
+
+#: [altar49]FrameAmount
+msgctxt "[altar49]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar49]Frame0
+msgid "data/map/mapobj/newplain/altar/altar49.dds"
+msgstr "data/map/mapobj/newplain/altar/altar49.dds"
+
+#: [altar50]FrameAmount
+msgctxt "[altar50]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar50]Frame0
+msgid "data/map/mapobj/newplain/altar/altar50.dds"
+msgstr "data/map/mapobj/newplain/altar/altar50.dds"
+
+#: [altar51]FrameAmount
+msgctxt "[altar51]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar51]Frame0
+msgid "data/map/mapobj/newplain/altar/altar51.dds"
+msgstr "data/map/mapobj/newplain/altar/altar51.dds"
+
+#: [altar52]FrameAmount
+msgctxt "[altar52]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar52]Frame0
+msgid "data/map/mapobj/newplain/altar/altar52.dds"
+msgstr "data/map/mapobj/newplain/altar/altar52.dds"
+
+#: [altar53]FrameAmount
+msgctxt "[altar53]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar53]Frame0
+msgid "data/map/mapobj/newplain/altar/altar53.dds"
+msgstr "data/map/mapobj/newplain/altar/altar53.dds"
+
+#: [altar54]FrameAmount
+msgctxt "[altar54]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar54]Frame0
+msgid "data/map/mapobj/newplain/altar/altar54.dds"
+msgstr "data/map/mapobj/newplain/altar/altar54.dds"
+
+#: [altar55]FrameAmount
+msgctxt "[altar55]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar55]Frame0
+msgid "data/map/mapobj/newplain/altar/altar55.dds"
+msgstr "data/map/mapobj/newplain/altar/altar55.dds"
+
+#: [altar56]FrameAmount
+msgctxt "[altar56]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar56]Frame0
+msgid "data/map/mapobj/newplain/altar/altar56.dds"
+msgstr "data/map/mapobj/newplain/altar/altar56.dds"
+
+#: [altar57]FrameAmount
+msgctxt "[altar57]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar57]Frame0
+msgid "data/map/mapobj/newplain/altar/altar57.dds"
+msgstr "data/map/mapobj/newplain/altar/altar57.dds"
+
+#: [altar58]FrameAmount
+msgctxt "[altar58]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar58]Frame0
+msgid "data/map/mapobj/newplain/altar/altar58.dds"
+msgstr "data/map/mapobj/newplain/altar/altar58.dds"
+
+#: [altar59]FrameAmount
+msgctxt "[altar59]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar59]Frame0
+msgid "data/map/mapobj/newplain/altar/altar59.dds"
+msgstr "data/map/mapobj/newplain/altar/altar59.dds"
+
+#: [altar60]FrameAmount
+msgctxt "[altar60]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar60]Frame0
+msgid "data/map/mapobj/newplain/altar/altar60.dds"
+msgstr "data/map/mapobj/newplain/altar/altar60.dds"
+
+#: [altar61]FrameAmount
+msgctxt "[altar61]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar61]Frame0
+msgid "data/map/mapobj/newplain/altar/altar61.dds"
+msgstr "data/map/mapobj/newplain/altar/altar61.dds"
+
+#: [altar62]FrameAmount
+msgctxt "[altar62]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar62]Frame0
+msgid "data/map/mapobj/newplain/altar/altar62.dds"
+msgstr "data/map/mapobj/newplain/altar/altar62.dds"
+
+#: [altar63]FrameAmount
+msgctxt "[altar63]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar63]Frame0
+msgid "data/map/mapobj/newplain/altar/altar63.dds"
+msgstr "data/map/mapobj/newplain/altar/altar63.dds"
+
+#: [altar64]FrameAmount
+msgctxt "[altar64]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar64]Frame0
+msgid "data/map/mapobj/newplain/altar/altar64.dds"
+msgstr "data/map/mapobj/newplain/altar/altar64.dds"
+
+#: [altar65]FrameAmount
+msgctxt "[altar65]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar65]Frame0
+msgid "data/map/mapobj/newplain/altar/altar65.dds"
+msgstr "data/map/mapobj/newplain/altar/altar65.dds"
+
+#: [altar66]FrameAmount
+msgctxt "[altar66]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar66]Frame0
+msgid "data/map/mapobj/newplain/altar/altar66.dds"
+msgstr "data/map/mapobj/newplain/altar/altar66.dds"
+
+#: [altar67]FrameAmount
+msgctxt "[altar67]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar67]Frame0
+msgid "data/map/mapobj/newplain/altar/altar67.dds"
+msgstr "data/map/mapobj/newplain/altar/altar67.dds"
+
+#: [altar68]FrameAmount
+msgctxt "[altar68]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar68]Frame0
+msgid "data/map/mapobj/newplain/altar/altar68.dds"
+msgstr "data/map/mapobj/newplain/altar/altar68.dds"
+
+#: [altar69]FrameAmount
+msgctxt "[altar69]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [altar69]Frame0
+msgid "data/map/mapobj/newplain/altar/altar69.dds"
+msgstr "data/map/mapobj/newplain/altar/altar69.dds"
+
+#: [nc01.tga]FrameAmount
+msgctxt "[nc01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc01.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc01.dds"
+msgstr "data/map/mapobj/newplain/nc/nc01.dds"
+
+#: [nc02.tga]FrameAmount
+msgctxt "[nc02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc02.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc02.dds"
+msgstr "data/map/mapobj/newplain/nc/nc02.dds"
+
+#: [nc03.tga]FrameAmount
+msgctxt "[nc03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc03.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc03.dds"
+msgstr "data/map/mapobj/newplain/nc/nc03.dds"
+
+#: [nc04.tga]FrameAmount
+msgctxt "[nc04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc04.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc04.dds"
+msgstr "data/map/mapobj/newplain/nc/nc04.dds"
+
+#: [nc05.tga]FrameAmount
+msgctxt "[nc05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc05.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc05.dds"
+msgstr "data/map/mapobj/newplain/nc/nc05.dds"
+
+#: [nc06.tga]FrameAmount
+msgctxt "[nc06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc06.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc06.dds"
+msgstr "data/map/mapobj/newplain/nc/nc06.dds"
+
+#: [nc07.tga]FrameAmount
+msgctxt "[nc07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc07.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc07.dds"
+msgstr "data/map/mapobj/newplain/nc/nc07.dds"
+
+#: [nc08.tga]FrameAmount
+msgctxt "[nc08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc08.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc08.dds"
+msgstr "data/map/mapobj/newplain/nc/nc08.dds"
+
+#: [nc09.tga]FrameAmount
+msgctxt "[nc09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc09.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc09.dds"
+msgstr "data/map/mapobj/newplain/nc/nc09.dds"
+
+#: [nc10.tga]FrameAmount
+msgctxt "[nc10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc10.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc10.dds"
+msgstr "data/map/mapobj/newplain/nc/nc10.dds"
+
+#: [nc11.tga]FrameAmount
+msgctxt "[nc11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc11.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc11.dds"
+msgstr "data/map/mapobj/newplain/nc/nc11.dds"
+
+#: [nc12.tga]FrameAmount
+msgctxt "[nc12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc12.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc12.dds"
+msgstr "data/map/mapobj/newplain/nc/nc12.dds"
+
+#: [nc13.tga]FrameAmount
+msgctxt "[nc13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc13.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc13.dds"
+msgstr "data/map/mapobj/newplain/nc/nc13.dds"
+
+#: [nc14.tga]FrameAmount
+msgctxt "[nc14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc14.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc14.dds"
+msgstr "data/map/mapobj/newplain/nc/nc14.dds"
+
+#: [nc15.tga]FrameAmount
+msgctxt "[nc15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc15.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc15.dds"
+msgstr "data/map/mapobj/newplain/nc/nc15.dds"
+
+#: [nc16.tga]FrameAmount
+msgctxt "[nc16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc16.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc16.dds"
+msgstr "data/map/mapobj/newplain/nc/nc16.dds"
+
+#: [nc17.tga]FrameAmount
+msgctxt "[nc17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc17.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc17.dds"
+msgstr "data/map/mapobj/newplain/nc/nc17.dds"
+
+#: [nc18.tga]FrameAmount
+msgctxt "[nc18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc18.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc18.dds"
+msgstr "data/map/mapobj/newplain/nc/nc18.dds"
+
+#: [nc19.tga]FrameAmount
+msgctxt "[nc19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc19.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc19.dds"
+msgstr "data/map/mapobj/newplain/nc/nc19.dds"
+
+#: [nc20.tga]FrameAmount
+msgctxt "[nc20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc20.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc20.dds"
+msgstr "data/map/mapobj/newplain/nc/nc20.dds"
+
+#: [nc21.tga]FrameAmount
+msgctxt "[nc21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc21.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc21.dds"
+msgstr "data/map/mapobj/newplain/nc/nc21.dds"
+
+#: [nc22.tga]FrameAmount
+msgctxt "[nc22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc22.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc22.dds"
+msgstr "data/map/mapobj/newplain/nc/nc22.dds"
+
+#: [nc23.tga]FrameAmount
+msgctxt "[nc23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc23.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc23.dds"
+msgstr "data/map/mapobj/newplain/nc/nc23.dds"
+
+#: [nc24.tga]FrameAmount
+msgctxt "[nc24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc24.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc24.dds"
+msgstr "data/map/mapobj/newplain/nc/nc24.dds"
+
+#: [nc25.tga]FrameAmount
+msgctxt "[nc25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc25.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc25.dds"
+msgstr "data/map/mapobj/newplain/nc/nc25.dds"
+
+#: [nc26.tga]FrameAmount
+msgctxt "[nc26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc26.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc26.dds"
+msgstr "data/map/mapobj/newplain/nc/nc26.dds"
+
+#: [nc27.tga]FrameAmount
+msgctxt "[nc27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc27.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc27.dds"
+msgstr "data/map/mapobj/newplain/nc/nc27.dds"
+
+#: [nc28.tga]FrameAmount
+msgctxt "[nc28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc28.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc28.dds"
+msgstr "data/map/mapobj/newplain/nc/nc28.dds"
+
+#: [nc29.tga]FrameAmount
+msgctxt "[nc29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc29.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc29.dds"
+msgstr "data/map/mapobj/newplain/nc/nc29.dds"
+
+#: [nc30.tga]FrameAmount
+msgctxt "[nc30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc30.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc30.dds"
+msgstr "data/map/mapobj/newplain/nc/nc30.dds"
+
+#: [nc31.tga]FrameAmount
+msgctxt "[nc31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc31.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc31.dds"
+msgstr "data/map/mapobj/newplain/nc/nc31.dds"
+
+#: [nc32.tga]FrameAmount
+msgctxt "[nc32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc32.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc32.dds"
+msgstr "data/map/mapobj/newplain/nc/nc32.dds"
+
+#: [nc33.tga]FrameAmount
+msgctxt "[nc33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc33.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc33.dds"
+msgstr "data/map/mapobj/newplain/nc/nc33.dds"
+
+#: [nc34.tga]FrameAmount
+msgctxt "[nc34.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc34.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc34.dds"
+msgstr "data/map/mapobj/newplain/nc/nc34.dds"
+
+#: [nc35.tga]FrameAmount
+msgctxt "[nc35.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc35.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc35.dds"
+msgstr "data/map/mapobj/newplain/nc/nc35.dds"
+
+#: [nc36.tga]FrameAmount
+msgctxt "[nc36.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc36.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc36.dds"
+msgstr "data/map/mapobj/newplain/nc/nc36.dds"
+
+#: [nc37.tga]FrameAmount
+msgctxt "[nc37.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nc37.tga]Frame0
+msgid "data/map/mapobj/newplain/nc/nc37.dds"
+msgstr "data/map/mapobj/newplain/nc/nc37.dds"
+
+#: [ct001.tga]FrameAmount
+msgctxt "[ct001.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct001.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct001.dds"
+msgstr "data/map/mapobj/newplain/city/ct001.dds"
+
+#: [ct002.tga]FrameAmount
+msgctxt "[ct002.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct002.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct002.dds"
+msgstr "data/map/mapobj/newplain/city/ct002.dds"
+
+#: [ct003.tga]FrameAmount
+msgctxt "[ct003.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct003.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct003.dds"
+msgstr "data/map/mapobj/newplain/city/ct003.dds"
+
+#: [ct004.tga]FrameAmount
+msgctxt "[ct004.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct004.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct004.dds"
+msgstr "data/map/mapobj/newplain/city/ct004.dds"
+
+#: [ct005.tga]FrameAmount
+msgctxt "[ct005.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct005.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct005.dds"
+msgstr "data/map/mapobj/newplain/city/ct005.dds"
+
+#: [ct006.tga]FrameAmount
+msgctxt "[ct006.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct006.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct006.dds"
+msgstr "data/map/mapobj/newplain/city/ct006.dds"
+
+#: [ct007.tga]FrameAmount
+msgctxt "[ct007.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct007.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct007.dds"
+msgstr "data/map/mapobj/newplain/city/ct007.dds"
+
+#: [ct008.tga]FrameAmount
+msgctxt "[ct008.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct008.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct008.dds"
+msgstr "data/map/mapobj/newplain/city/ct008.dds"
+
+#: [ct009.tga]FrameAmount
+msgctxt "[ct009.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct009.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct009.dds"
+msgstr "data/map/mapobj/newplain/city/ct009.dds"
+
+#: [ct010.tga]FrameAmount
+msgctxt "[ct010.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct010.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct010.dds"
+msgstr "data/map/mapobj/newplain/city/ct010.dds"
+
+#: [ct011.tga]FrameAmount
+msgctxt "[ct011.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct011.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct011.dds"
+msgstr "data/map/mapobj/newplain/city/ct011.dds"
+
+#: [ct012.tga]FrameAmount
+msgctxt "[ct012.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct012.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct012.dds"
+msgstr "data/map/mapobj/newplain/city/ct012.dds"
+
+#: [ct013.tga]FrameAmount
+msgctxt "[ct013.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct013.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct013.dds"
+msgstr "data/map/mapobj/newplain/city/ct013.dds"
+
+#: [ct014.tga]FrameAmount
+msgctxt "[ct014.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct014.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct014.dds"
+msgstr "data/map/mapobj/newplain/city/ct014.dds"
+
+#: [ct015.tga]FrameAmount
+msgctxt "[ct015.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct015.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct015.dds"
+msgstr "data/map/mapobj/newplain/city/ct015.dds"
+
+#: [ct016.tga]FrameAmount
+msgctxt "[ct016.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct016.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct016.dds"
+msgstr "data/map/mapobj/newplain/city/ct016.dds"
+
+#: [ct017.tga]FrameAmount
+msgctxt "[ct017.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct017.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct017.dds"
+msgstr "data/map/mapobj/newplain/city/ct017.dds"
+
+#: [ct018.tga]FrameAmount
+msgctxt "[ct018.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct018.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct018.dds"
+msgstr "data/map/mapobj/newplain/city/ct018.dds"
+
+#: [ct019.tga]FrameAmount
+msgctxt "[ct019.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct019.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct019.dds"
+msgstr "data/map/mapobj/newplain/city/ct019.dds"
+
+#: [ct020.tga]FrameAmount
+msgctxt "[ct020.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct020.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct020.dds"
+msgstr "data/map/mapobj/newplain/city/ct020.dds"
+
+#: [ct021.tga]FrameAmount
+msgctxt "[ct021.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct021.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct021.dds"
+msgstr "data/map/mapobj/newplain/city/ct021.dds"
+
+#: [ct022.tga]FrameAmount
+msgctxt "[ct022.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct022.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct022.dds"
+msgstr "data/map/mapobj/newplain/city/ct022.dds"
+
+#: [ct023.tga]FrameAmount
+msgctxt "[ct023.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct023.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct023.dds"
+msgstr "data/map/mapobj/newplain/city/ct023.dds"
+
+#: [ct024.tga]FrameAmount
+msgctxt "[ct024.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct024.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct024.dds"
+msgstr "data/map/mapobj/newplain/city/ct024.dds"
+
+#: [ct025.tga]FrameAmount
+msgctxt "[ct025.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct025.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct025.dds"
+msgstr "data/map/mapobj/newplain/city/ct025.dds"
+
+#: [ct026.tga]FrameAmount
+msgctxt "[ct026.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct026.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct026.dds"
+msgstr "data/map/mapobj/newplain/city/ct026.dds"
+
+#: [ct027.tga]FrameAmount
+msgctxt "[ct027.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct027.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct027.dds"
+msgstr "data/map/mapobj/newplain/city/ct027.dds"
+
+#: [ct028.tga]FrameAmount
+msgctxt "[ct028.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct028.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct028.dds"
+msgstr "data/map/mapobj/newplain/city/ct028.dds"
+
+#: [ct029.tga]FrameAmount
+msgctxt "[ct029.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct029.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct029.dds"
+msgstr "data/map/mapobj/newplain/city/ct029.dds"
+
+#: [ct030.tga]FrameAmount
+msgctxt "[ct030.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct030.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct030.dds"
+msgstr "data/map/mapobj/newplain/city/ct030.dds"
+
+#: [ct031.tga]FrameAmount
+msgctxt "[ct031.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct031.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct031.dds"
+msgstr "data/map/mapobj/newplain/city/ct031.dds"
+
+#: [ct032.tga]FrameAmount
+msgctxt "[ct032.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct032.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct032.dds"
+msgstr "data/map/mapobj/newplain/city/ct032.dds"
+
+#: [ct033.tga]FrameAmount
+msgctxt "[ct033.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct033.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct033.dds"
+msgstr "data/map/mapobj/newplain/city/ct033.dds"
+
+#: [ct034.tga]FrameAmount
+msgctxt "[ct034.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct034.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct034.dds"
+msgstr "data/map/mapobj/newplain/city/ct034.dds"
+
+#: [ct035.tga]FrameAmount
+msgctxt "[ct035.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct035.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct035.dds"
+msgstr "data/map/mapobj/newplain/city/ct035.dds"
+
+#: [ct036.tga]FrameAmount
+msgctxt "[ct036.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct036.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct036.dds"
+msgstr "data/map/mapobj/newplain/city/ct036.dds"
+
+#: [ct037.tga]FrameAmount
+msgctxt "[ct037.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct037.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct037.dds"
+msgstr "data/map/mapobj/newplain/city/ct037.dds"
+
+#: [ct038.tga]FrameAmount
+msgctxt "[ct038.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct038.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct038.dds"
+msgstr "data/map/mapobj/newplain/city/ct038.dds"
+
+#: [ct039.tga]FrameAmount
+msgctxt "[ct039.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct039.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct039.dds"
+msgstr "data/map/mapobj/newplain/city/ct039.dds"
+
+#: [ct040.tga]FrameAmount
+msgctxt "[ct040.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct040.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct040.dds"
+msgstr "data/map/mapobj/newplain/city/ct040.dds"
+
+#: [ct041.tga]FrameAmount
+msgctxt "[ct041.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct041.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct041.dds"
+msgstr "data/map/mapobj/newplain/city/ct041.dds"
+
+#: [ct042.tga]FrameAmount
+msgctxt "[ct042.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct042.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct042.dds"
+msgstr "data/map/mapobj/newplain/city/ct042.dds"
+
+#: [ct043.tga]FrameAmount
+msgctxt "[ct043.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct043.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct043.dds"
+msgstr "data/map/mapobj/newplain/city/ct043.dds"
+
+#: [ct044.tga]FrameAmount
+msgctxt "[ct044.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct044.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct044.dds"
+msgstr "data/map/mapobj/newplain/city/ct044.dds"
+
+#: [ct045.tga]FrameAmount
+msgctxt "[ct045.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct045.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct045.dds"
+msgstr "data/map/mapobj/newplain/city/ct045.dds"
+
+#: [ct046.tga]FrameAmount
+msgctxt "[ct046.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct046.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct046.dds"
+msgstr "data/map/mapobj/newplain/city/ct046.dds"
+
+#: [ct047.tga]FrameAmount
+msgctxt "[ct047.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct047.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct047.dds"
+msgstr "data/map/mapobj/newplain/city/ct047.dds"
+
+#: [ct048.tga]FrameAmount
+msgctxt "[ct048.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct048.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct048.dds"
+msgstr "data/map/mapobj/newplain/city/ct048.dds"
+
+#: [ct049.tga]FrameAmount
+msgctxt "[ct049.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct049.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct049.dds"
+msgstr "data/map/mapobj/newplain/city/ct049.dds"
+
+#: [ct050.tga]FrameAmount
+msgctxt "[ct050.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct050.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct050.dds"
+msgstr "data/map/mapobj/newplain/city/ct050.dds"
+
+#: [ct051.tga]FrameAmount
+msgctxt "[ct051.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct051.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct051.dds"
+msgstr "data/map/mapobj/newplain/city/ct051.dds"
+
+#: [ct052.tga]FrameAmount
+msgctxt "[ct052.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct052.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct052.dds"
+msgstr "data/map/mapobj/newplain/city/ct052.dds"
+
+#: [ct053.tga]FrameAmount
+msgctxt "[ct053.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct053.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct053.dds"
+msgstr "data/map/mapobj/newplain/city/ct053.dds"
+
+#: [ct054.tga]FrameAmount
+msgctxt "[ct054.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct054.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct054.dds"
+msgstr "data/map/mapobj/newplain/city/ct054.dds"
+
+#: [ct055.tga]FrameAmount
+msgctxt "[ct055.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct055.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct055.dds"
+msgstr "data/map/mapobj/newplain/city/ct055.dds"
+
+#: [ct056.tga]FrameAmount
+msgctxt "[ct056.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct056.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct056.dds"
+msgstr "data/map/mapobj/newplain/city/ct056.dds"
+
+#: [ct057.tga]FrameAmount
+msgctxt "[ct057.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct057.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct057.dds"
+msgstr "data/map/mapobj/newplain/city/ct057.dds"
+
+#: [ct058.tga]FrameAmount
+msgctxt "[ct058.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct058.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct058.dds"
+msgstr "data/map/mapobj/newplain/city/ct058.dds"
+
+#: [ct059.tga]FrameAmount
+msgctxt "[ct059.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct059.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct059.dds"
+msgstr "data/map/mapobj/newplain/city/ct059.dds"
+
+#: [ct060.tga]FrameAmount
+msgctxt "[ct060.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct060.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct060.dds"
+msgstr "data/map/mapobj/newplain/city/ct060.dds"
+
+#: [ct061.tga]FrameAmount
+msgctxt "[ct061.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct061.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct061.dds"
+msgstr "data/map/mapobj/newplain/city/ct061.dds"
+
+#: [ct062.tga]FrameAmount
+msgctxt "[ct062.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct062.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct062.dds"
+msgstr "data/map/mapobj/newplain/city/ct062.dds"
+
+#: [ct063.tga]FrameAmount
+msgctxt "[ct063.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct063.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct063.dds"
+msgstr "data/map/mapobj/newplain/city/ct063.dds"
+
+#: [ct064.tga]FrameAmount
+msgctxt "[ct064.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct064.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct064.dds"
+msgstr "data/map/mapobj/newplain/city/ct064.dds"
+
+#: [ct065.tga]FrameAmount
+msgctxt "[ct065.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct065.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct065.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct065.dds"
+
+#: [ct066.tga]FrameAmount
+msgctxt "[ct066.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct066.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct066.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct066.dds"
+
+#: [ct067.tga]FrameAmount
+msgctxt "[ct067.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct067.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct067.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct067.dds"
+
+#: [ct068.tga]FrameAmount
+msgctxt "[ct068.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct068.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct068.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct068.dds"
+
+#: [ct069.tga]FrameAmount
+msgctxt "[ct069.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct069.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct069.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct069.dds"
+
+#: [ct070.tga]FrameAmount
+msgctxt "[ct070.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct070.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct070.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct070.dds"
+
+#: [ct071.tga]FrameAmount
+msgctxt "[ct071.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct071.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct071.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct071.dds"
+
+#: [ct072.tga]FrameAmount
+msgctxt "[ct072.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct072.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct072.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct072.dds"
+
+#: [ct073.tga]FrameAmount
+msgctxt "[ct073.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct073.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct073.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct073.dds"
+
+#: [ct074.tga]FrameAmount
+msgctxt "[ct074.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct074.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct074.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct074.dds"
+
+#: [ct075.tga]FrameAmount
+msgctxt "[ct075.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct075.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct075.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct075.dds"
+
+#: [ct076.tga]FrameAmount
+msgctxt "[ct076.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct076.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct076.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct076.dds"
+
+#: [ct077.tga]FrameAmount
+msgctxt "[ct077.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct077.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct077.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct077.dds"
+
+#: [ct078.tga]FrameAmount
+msgctxt "[ct078.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct078.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct078.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct078.dds"
+
+#: [ct079.tga]FrameAmount
+msgctxt "[ct079.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct079.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct079.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct079.dds"
+
+#: [ct080.tga]FrameAmount
+msgctxt "[ct080.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct080.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct080.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct080.dds"
+
+#: [ct081.tga]FrameAmount
+msgctxt "[ct081.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct081.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct081.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct081.dds"
+
+#: [ct082.tga]FrameAmount
+msgctxt "[ct082.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct082.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct082.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct082.dds"
+
+#: [ct083.tga]FrameAmount
+msgctxt "[ct083.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct083.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct083.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct083.dds"
+
+#: [ct084.tga]FrameAmount
+msgctxt "[ct084.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct084.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct084.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct084.dds"
+
+#: [ct085.tga]FrameAmount
+msgctxt "[ct085.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct085.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct085.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct085.dds"
+
+#: [ct086.tga]FrameAmount
+msgctxt "[ct086.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct086.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct086.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct086.dds"
+
+#: [ct087.tga]FrameAmount
+msgctxt "[ct087.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct087.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct087.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct087.dds"
+
+#: [ct088.tga]FrameAmount
+msgctxt "[ct088.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct088.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct088.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct088.dds"
+
+#: [ct089.tga]FrameAmount
+msgctxt "[ct089.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct089.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct089.dds"
+msgstr "data/map/mapobj/newplain/city/ct089.dds"
+
+#: [ct090.tga]FrameAmount
+msgctxt "[ct090.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct090.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct090.dds"
+msgstr "data/map/mapobj/newplain/city/ct090.dds"
+
+#: [ct091.tga]FrameAmount
+msgctxt "[ct091.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct091.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct091.dds"
+msgstr "data/map/mapobj/newplain/city/ct091.dds"
+
+#: [ct092.tga]FrameAmount
+msgctxt "[ct092.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct092.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct092.dds"
+msgstr "data/map/mapobj/newplain/city/ct092.dds"
+
+#: [ct093.tga]FrameAmount
+msgctxt "[ct093.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct093.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct093.dds"
+msgstr "data/map/mapobj/newplain/city/ct093.dds"
+
+#: [ct094.tga]FrameAmount
+msgctxt "[ct094.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct094.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct094.dds"
+msgstr "data/map/mapobj/newplain/city/ct094.dds"
+
+#: [ct095.tga]FrameAmount
+msgctxt "[ct095.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct095.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct095.dds"
+msgstr "data/map/mapobj/newplain/city/ct095.dds"
+
+#: [ct096.tga]FrameAmount
+msgctxt "[ct096.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct096.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct096.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct096.dds"
+
+#: [ct097.tga]FrameAmount
+msgctxt "[ct097.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct097.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct097.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct097.dds"
+
+#: [ct098.tga]FrameAmount
+msgctxt "[ct098.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct098.tga]Frame0
+msgid "data/map/mapobj/1-newplain/city/ct098.dds"
+msgstr "data/map/mapobj/1-newplain/city/ct098.dds"
+
+#: [ct099.tga]FrameAmount
+msgctxt "[ct099.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct099.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct099.dds"
+msgstr "data/map/mapobj/newplain/city/ct099.dds"
+
+#: [ct100.tga]FrameAmount
+msgctxt "[ct100.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct100.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct100.dds"
+msgstr "data/map/mapobj/newplain/city/ct100.dds"
+
+#: [ct101.tga]FrameAmount
+msgctxt "[ct101.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct101.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct101.dds"
+msgstr "data/map/mapobj/newplain/city/ct101.dds"
+
+#: [ct102.tga]FrameAmount
+msgctxt "[ct102.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct102.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct102.dds"
+msgstr "data/map/mapobj/newplain/city/ct102.dds"
+
+#: [ct103.tga]FrameAmount
+msgctxt "[ct103.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct103.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct103.dds"
+msgstr "data/map/mapobj/newplain/city/ct103.dds"
+
+#: [ct104.tga]FrameAmount
+msgctxt "[ct104.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct104.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct104.dds"
+msgstr "data/map/mapobj/newplain/city/ct104.dds"
+
+#: [ct105.tga]FrameAmount
+msgctxt "[ct105.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct105.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct105.dds"
+msgstr "data/map/mapobj/newplain/city/ct105.dds"
+
+#: [ct106.tga]FrameAmount
+msgctxt "[ct106.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ct106.tga]Frame0
+msgid "data/map/mapobj/newplain/city/ct106.dds"
+msgstr "data/map/mapobj/newplain/city/ct106.dds"

@@ -1,0 +1,121 @@
+#. extracted from pond.ini, pondopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 21:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Puzzle0]FrameAmount
+msgctxt "[Puzzle0]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle0]Frame0
+msgid "data/map/puzzle/newplain/pond/pond000.dds"
+msgstr "data/map/puzzle/newplain/pond/pond000.dds"
+
+#: [Puzzle1]FrameAmount
+msgctxt "[Puzzle1]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle1]Frame0
+msgid "data/map/puzzle/newplain/pond/pond001.dds"
+msgstr "data/map/puzzle/newplain/pond/pond001.dds"
+
+#: [Puzzle2]FrameAmount
+msgctxt "[Puzzle2]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle2]Frame0
+msgid "data/map/puzzle/newplain/pond/pond002.dds"
+msgstr "data/map/puzzle/newplain/pond/pond002.dds"
+
+#: [Puzzle3]FrameAmount
+msgctxt "[Puzzle3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle3]Frame0
+msgid "data/map/puzzle/newplain/pond/pond003.dds"
+msgstr "data/map/puzzle/newplain/pond/pond003.dds"
+
+#: [Puzzle4]FrameAmount
+msgctxt "[Puzzle4]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle4]Frame0
+msgid "data/map/puzzle/newplain/pond/pond004.dds"
+msgstr "data/map/puzzle/newplain/pond/pond004.dds"
+
+#: [Puzzle5]FrameAmount
+msgctxt "[Puzzle5]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle5]Frame0
+msgid "data/map/puzzle/newplain/pond/pond005.dds"
+msgstr "data/map/puzzle/newplain/pond/pond005.dds"
+
+#: [Puzzle6]FrameAmount
+msgctxt "[Puzzle6]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle6]Frame0
+msgid "data/map/puzzle/newplain/pond/pond006.dds"
+msgstr "data/map/puzzle/newplain/pond/pond006.dds"
+
+#: [Puzzle7]FrameAmount
+msgctxt "[Puzzle7]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle7]Frame0
+msgid "data/map/puzzle/newplain/pond/pond007.dds"
+msgstr "data/map/puzzle/newplain/pond/pond007.dds"
+
+#: [Puzzle8]FrameAmount
+msgctxt "[Puzzle8]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle8]Frame0
+msgid "data/map/puzzle/newplain/pond/pond008.dds"
+msgstr "data/map/puzzle/newplain/pond/pond008.dds"
+
+#: [Puzzle9]FrameAmount
+msgctxt "[Puzzle9]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle9]Frame0
+msgid "data/map/puzzle/newplain/pond/pond009.dds"
+msgstr "data/map/puzzle/newplain/pond/pond009.dds"
+
+#: [Puzzle10]FrameAmount
+msgctxt "[Puzzle10]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle10]Frame0
+msgid "data/map/puzzle/newplain/pond/pond010.dds"
+msgstr "data/map/puzzle/newplain/pond/pond010.dds"
+
+#: [Puzzle11]FrameAmount
+msgctxt "[Puzzle11]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle11]Frame0
+msgid "data/map/puzzle/newplain/pond/pond011.dds"
+msgstr "data/map/puzzle/newplain/pond/pond011.dds"

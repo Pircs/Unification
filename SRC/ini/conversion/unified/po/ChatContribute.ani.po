@@ -1,0 +1,173 @@
+#. extracted from chatContribute.ini, chatContribute2.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+# 郡公
+#: [nob_FatherJPG]FrameAmount
+msgctxt "[nob_FatherJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_FatherJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_father.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_father.bmp"
+
+# 郡守
+#: [nob_GuardJPG]FrameAmount
+msgctxt "[nob_GuardJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_GuardJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_guard.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_guard.bmp"
+
+# 郡主
+#: [nob_InfantaJPG]FrameAmount
+msgctxt "[nob_InfantaJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_InfantaJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_infanta.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_infanta.bmp"
+
+# 亲王
+#: [nob_InfanteJPG]FrameAmount
+msgctxt "[nob_InfanteJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_InfanteJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_infante.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_infante.bmp"
+
+# 郡侯
+#: [nob_MarquisJPG]FrameAmount
+msgctxt "[nob_MarquisJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_MarquisJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_marquis.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_marquis.bmp"
+
+# 郡爵
+#: [nob_NobilityJPG]FrameAmount
+msgctxt "[nob_NobilityJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_NobilityJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_nobility.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_nobility.bmp"
+
+# 郡伯
+#: [nob_UncleJPG]FrameAmount
+msgctxt "[nob_UncleJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_UncleJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_uncle.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_uncle.bmp"
+
+# 白衣
+#: [nob_WhiteJPG]FrameAmount
+msgctxt "[nob_WhiteJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_WhiteJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_white.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_white.bmp"
+
+# 郡公文字图标
+#: [nob_FatherFontJPG]FrameAmount
+msgctxt "[nob_FatherFontJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_FatherFontJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_FatherFont.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_FatherFont.bmp"
+
+# 郡守文字图标
+#: [nob_GuardFontJPG]FrameAmount
+msgctxt "[nob_GuardFontJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_GuardFontJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_GuardFont.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_GuardFont.bmp"
+
+# 郡主文字图标
+#: [nob_InfantaFontJPG]FrameAmount
+msgctxt "[nob_InfantaFontJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_InfantaFontJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_InfantaFont.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_InfantaFont.bmp"
+
+# 亲王文字图标
+#: [nob_InfanteFontJPG]FrameAmount
+msgctxt "[nob_InfanteFontJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_InfanteFontJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_InfanteFont.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_InfanteFont.bmp"
+
+# 郡侯文字图标
+#: [nob_MarquisFontJPG]FrameAmount
+msgctxt "[nob_MarquisFontJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_MarquisFontJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_MarquisFont.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_MarquisFont.bmp"
+
+# 郡爵文字图标
+#: [nob_NobilityFontJPG]FrameAmount
+msgctxt "[nob_NobilityFontJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_NobilityFontJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_NobilityFont.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_NobilityFont.bmp"
+
+# 郡伯文字图标
+#: [nob_UncleFontJPG]FrameAmount
+msgctxt "[nob_UncleFontJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_UncleFontJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_UncleFont.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_UncleFont.bmp"
+
+# 白衣文字图标
+#: [nob_WhiteFontJPG]FrameAmount
+msgctxt "[nob_WhiteFontJPG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nob_WhiteFontJPG]Frame0
+msgid "data/interface/Style01/chatsystem/nobility_JPG/nob_WhiteFont.bmp"
+msgstr "data/interface/Style01/chatsystem/nobility_JPG/nob_WhiteFont.bmp"

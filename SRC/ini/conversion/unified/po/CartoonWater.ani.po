@@ -1,0 +1,1929 @@
+#. extracted from cartoonwater.ini, cartoonwater2.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Puzzle0]FrameAmount
+msgctxt "[Puzzle0]FrameAmount"
+msgid "45"
+msgstr "45"
+
+#: [Puzzle0]Frame0
+msgid "data/map/cartoon/water/a/A_Water00.dds"
+msgstr "data/map/cartoon/water/a/A_Water00.dds"
+
+#: [Puzzle0]Frame1
+msgid "data/map/cartoon/water/a/A_Water01.dds"
+msgstr "data/map/cartoon/water/a/A_Water01.dds"
+
+#: [Puzzle0]Frame2
+msgid "data/map/cartoon/water/a/A_Water02.dds"
+msgstr "data/map/cartoon/water/a/A_Water02.dds"
+
+#: [Puzzle0]Frame3
+msgid "data/map/cartoon/water/a/A_Water03.dds"
+msgstr "data/map/cartoon/water/a/A_Water03.dds"
+
+#: [Puzzle0]Frame4
+msgid "data/map/cartoon/water/a/A_Water04.dds"
+msgstr "data/map/cartoon/water/a/A_Water04.dds"
+
+#: [Puzzle0]Frame5
+msgid "data/map/cartoon/water/a/A_Water05.dds"
+msgstr "data/map/cartoon/water/a/A_Water05.dds"
+
+#: [Puzzle0]Frame6
+msgid "data/map/cartoon/water/a/A_Water06.dds"
+msgstr "data/map/cartoon/water/a/A_Water06.dds"
+
+#: [Puzzle0]Frame7
+msgid "data/map/cartoon/water/a/A_Water07.dds"
+msgstr "data/map/cartoon/water/a/A_Water07.dds"
+
+#: [Puzzle0]Frame8
+msgid "data/map/cartoon/water/a/A_Water08.dds"
+msgstr "data/map/cartoon/water/a/A_Water08.dds"
+
+#: [Puzzle0]Frame9
+msgid "data/map/cartoon/water/a/A_Water09.dds"
+msgstr "data/map/cartoon/water/a/A_Water09.dds"
+
+#: [Puzzle0]Frame10
+msgid "data/map/cartoon/water/a/A_Water10.dds"
+msgstr "data/map/cartoon/water/a/A_Water10.dds"
+
+#: [Puzzle0]Frame11
+msgid "data/map/cartoon/water/a/A_Water11.dds"
+msgstr "data/map/cartoon/water/a/A_Water11.dds"
+
+#: [Puzzle0]Frame12
+msgid "data/map/cartoon/water/a/A_Water12.dds"
+msgstr "data/map/cartoon/water/a/A_Water12.dds"
+
+#: [Puzzle0]Frame13
+msgid "data/map/cartoon/water/a/A_Water13.dds"
+msgstr "data/map/cartoon/water/a/A_Water13.dds"
+
+#: [Puzzle0]Frame14
+msgid "data/map/cartoon/water/a/A_Water14.dds"
+msgstr "data/map/cartoon/water/a/A_Water14.dds"
+
+#: [Puzzle0]Frame15
+msgid "data/map/cartoon/water/a/A_Water15.dds"
+msgstr "data/map/cartoon/water/a/A_Water15.dds"
+
+#: [Puzzle0]Frame16
+msgid "data/map/cartoon/water/a/A_Water16.dds"
+msgstr "data/map/cartoon/water/a/A_Water16.dds"
+
+#: [Puzzle0]Frame17
+msgid "data/map/cartoon/water/a/A_Water17.dds"
+msgstr "data/map/cartoon/water/a/A_Water17.dds"
+
+#: [Puzzle0]Frame18
+msgid "data/map/cartoon/water/a/A_Water18.dds"
+msgstr "data/map/cartoon/water/a/A_Water18.dds"
+
+#: [Puzzle0]Frame19
+msgid "data/map/cartoon/water/a/A_Water19.dds"
+msgstr "data/map/cartoon/water/a/A_Water19.dds"
+
+#: [Puzzle0]Frame20
+msgid "data/map/cartoon/water/a/A_Water20.dds"
+msgstr "data/map/cartoon/water/a/A_Water20.dds"
+
+#: [Puzzle0]Frame21
+msgid "data/map/cartoon/water/a/A_Water21.dds"
+msgstr "data/map/cartoon/water/a/A_Water21.dds"
+
+#: [Puzzle0]Frame22
+msgid "data/map/cartoon/water/a/A_Water22.dds"
+msgstr "data/map/cartoon/water/a/A_Water22.dds"
+
+#: [Puzzle0]Frame23
+msgid "data/map/cartoon/water/a/A_Water23.dds"
+msgstr "data/map/cartoon/water/a/A_Water23.dds"
+
+#: [Puzzle0]Frame24
+msgid "data/map/cartoon/water/a/A_Water24.dds"
+msgstr "data/map/cartoon/water/a/A_Water24.dds"
+
+#: [Puzzle0]Frame25
+msgid "data/map/cartoon/water/a/A_Water25.dds"
+msgstr "data/map/cartoon/water/a/A_Water25.dds"
+
+#: [Puzzle0]Frame26
+msgid "data/map/cartoon/water/a/A_Water26.dds"
+msgstr "data/map/cartoon/water/a/A_Water26.dds"
+
+#: [Puzzle0]Frame27
+msgid "data/map/cartoon/water/a/A_Water27.dds"
+msgstr "data/map/cartoon/water/a/A_Water27.dds"
+
+#: [Puzzle0]Frame28
+msgid "data/map/cartoon/water/a/A_Water28.dds"
+msgstr "data/map/cartoon/water/a/A_Water28.dds"
+
+#: [Puzzle0]Frame29
+msgid "data/map/cartoon/water/a/A_Water29.dds"
+msgstr "data/map/cartoon/water/a/A_Water29.dds"
+
+#: [Puzzle0]Frame30
+msgid "data/map/cartoon/water/a/A_Water30.dds"
+msgstr "data/map/cartoon/water/a/A_Water30.dds"
+
+#: [Puzzle0]Frame31
+msgid "data/map/cartoon/water/a/A_Water31.dds"
+msgstr "data/map/cartoon/water/a/A_Water31.dds"
+
+#: [Puzzle0]Frame32
+msgid "data/map/cartoon/water/a/A_Water32.dds"
+msgstr "data/map/cartoon/water/a/A_Water32.dds"
+
+#: [Puzzle0]Frame33
+msgid "data/map/cartoon/water/a/A_Water33.dds"
+msgstr "data/map/cartoon/water/a/A_Water33.dds"
+
+#: [Puzzle0]Frame34
+msgid "data/map/cartoon/water/a/A_Water34.dds"
+msgstr "data/map/cartoon/water/a/A_Water34.dds"
+
+#: [Puzzle0]Frame35
+msgid "data/map/cartoon/water/a/A_Water35.dds"
+msgstr "data/map/cartoon/water/a/A_Water35.dds"
+
+#: [Puzzle0]Frame36
+msgid "data/map/cartoon/water/a/A_Water36.dds"
+msgstr "data/map/cartoon/water/a/A_Water36.dds"
+
+#: [Puzzle0]Frame37
+msgid "data/map/cartoon/water/a/A_Water37.dds"
+msgstr "data/map/cartoon/water/a/A_Water37.dds"
+
+#: [Puzzle0]Frame38
+msgid "data/map/cartoon/water/a/A_Water38.dds"
+msgstr "data/map/cartoon/water/a/A_Water38.dds"
+
+#: [Puzzle0]Frame39
+msgid "data/map/cartoon/water/a/A_Water39.dds"
+msgstr "data/map/cartoon/water/a/A_Water39.dds"
+
+#: [Puzzle0]Frame40
+msgid "data/map/cartoon/water/a/A_Water40.dds"
+msgstr "data/map/cartoon/water/a/A_Water40.dds"
+
+#: [Puzzle0]Frame41
+msgid "data/map/cartoon/water/a/A_Water41.dds"
+msgstr "data/map/cartoon/water/a/A_Water41.dds"
+
+#: [Puzzle0]Frame42
+msgid "data/map/cartoon/water/a/A_Water42.dds"
+msgstr "data/map/cartoon/water/a/A_Water42.dds"
+
+#: [Puzzle0]Frame43
+msgid "data/map/cartoon/water/a/A_Water43.dds"
+msgstr "data/map/cartoon/water/a/A_Water43.dds"
+
+#: [Puzzle0]Frame44
+msgid "data/map/cartoon/water/a/A_Water44.dds"
+msgstr "data/map/cartoon/water/a/A_Water44.dds"
+
+#: [Puzzle1]FrameAmount
+msgctxt "[Puzzle1]FrameAmount"
+msgid "45"
+msgstr "45"
+
+#: [Puzzle1]Frame0
+msgid "data/map/cartoon/water/b/B_Water00.dds"
+msgstr "data/map/cartoon/water/b/B_Water00.dds"
+
+#: [Puzzle1]Frame1
+msgid "data/map/cartoon/water/b/B_Water01.dds"
+msgstr "data/map/cartoon/water/b/B_Water01.dds"
+
+#: [Puzzle1]Frame2
+msgid "data/map/cartoon/water/b/B_Water02.dds"
+msgstr "data/map/cartoon/water/b/B_Water02.dds"
+
+#: [Puzzle1]Frame3
+msgid "data/map/cartoon/water/b/B_Water03.dds"
+msgstr "data/map/cartoon/water/b/B_Water03.dds"
+
+#: [Puzzle1]Frame4
+msgid "data/map/cartoon/water/b/B_Water04.dds"
+msgstr "data/map/cartoon/water/b/B_Water04.dds"
+
+#: [Puzzle1]Frame5
+msgid "data/map/cartoon/water/b/B_Water05.dds"
+msgstr "data/map/cartoon/water/b/B_Water05.dds"
+
+#: [Puzzle1]Frame6
+msgid "data/map/cartoon/water/b/B_Water06.dds"
+msgstr "data/map/cartoon/water/b/B_Water06.dds"
+
+#: [Puzzle1]Frame7
+msgid "data/map/cartoon/water/b/B_Water07.dds"
+msgstr "data/map/cartoon/water/b/B_Water07.dds"
+
+#: [Puzzle1]Frame8
+msgid "data/map/cartoon/water/b/B_Water08.dds"
+msgstr "data/map/cartoon/water/b/B_Water08.dds"
+
+#: [Puzzle1]Frame9
+msgid "data/map/cartoon/water/b/B_Water09.dds"
+msgstr "data/map/cartoon/water/b/B_Water09.dds"
+
+#: [Puzzle1]Frame10
+msgid "data/map/cartoon/water/b/B_Water10.dds"
+msgstr "data/map/cartoon/water/b/B_Water10.dds"
+
+#: [Puzzle1]Frame11
+msgid "data/map/cartoon/water/b/B_Water11.dds"
+msgstr "data/map/cartoon/water/b/B_Water11.dds"
+
+#: [Puzzle1]Frame12
+msgid "data/map/cartoon/water/b/B_Water12.dds"
+msgstr "data/map/cartoon/water/b/B_Water12.dds"
+
+#: [Puzzle1]Frame13
+msgid "data/map/cartoon/water/b/B_Water13.dds"
+msgstr "data/map/cartoon/water/b/B_Water13.dds"
+
+#: [Puzzle1]Frame14
+msgid "data/map/cartoon/water/b/B_Water14.dds"
+msgstr "data/map/cartoon/water/b/B_Water14.dds"
+
+#: [Puzzle1]Frame15
+msgid "data/map/cartoon/water/b/B_Water15.dds"
+msgstr "data/map/cartoon/water/b/B_Water15.dds"
+
+#: [Puzzle1]Frame16
+msgid "data/map/cartoon/water/b/B_Water16.dds"
+msgstr "data/map/cartoon/water/b/B_Water16.dds"
+
+#: [Puzzle1]Frame17
+msgid "data/map/cartoon/water/b/B_Water17.dds"
+msgstr "data/map/cartoon/water/b/B_Water17.dds"
+
+#: [Puzzle1]Frame18
+msgid "data/map/cartoon/water/b/B_Water18.dds"
+msgstr "data/map/cartoon/water/b/B_Water18.dds"
+
+#: [Puzzle1]Frame19
+msgid "data/map/cartoon/water/b/B_Water19.dds"
+msgstr "data/map/cartoon/water/b/B_Water19.dds"
+
+#: [Puzzle1]Frame20
+msgid "data/map/cartoon/water/b/B_Water20.dds"
+msgstr "data/map/cartoon/water/b/B_Water20.dds"
+
+#: [Puzzle1]Frame21
+msgid "data/map/cartoon/water/b/B_Water21.dds"
+msgstr "data/map/cartoon/water/b/B_Water21.dds"
+
+#: [Puzzle1]Frame22
+msgid "data/map/cartoon/water/b/B_Water22.dds"
+msgstr "data/map/cartoon/water/b/B_Water22.dds"
+
+#: [Puzzle1]Frame23
+msgid "data/map/cartoon/water/b/B_Water23.dds"
+msgstr "data/map/cartoon/water/b/B_Water23.dds"
+
+#: [Puzzle1]Frame24
+msgid "data/map/cartoon/water/b/B_Water24.dds"
+msgstr "data/map/cartoon/water/b/B_Water24.dds"
+
+#: [Puzzle1]Frame25
+msgid "data/map/cartoon/water/b/B_Water25.dds"
+msgstr "data/map/cartoon/water/b/B_Water25.dds"
+
+#: [Puzzle1]Frame26
+msgid "data/map/cartoon/water/b/B_Water26.dds"
+msgstr "data/map/cartoon/water/b/B_Water26.dds"
+
+#: [Puzzle1]Frame27
+msgid "data/map/cartoon/water/b/B_Water27.dds"
+msgstr "data/map/cartoon/water/b/B_Water27.dds"
+
+#: [Puzzle1]Frame28
+msgid "data/map/cartoon/water/b/B_Water28.dds"
+msgstr "data/map/cartoon/water/b/B_Water28.dds"
+
+#: [Puzzle1]Frame29
+msgid "data/map/cartoon/water/b/B_Water29.dds"
+msgstr "data/map/cartoon/water/b/B_Water29.dds"
+
+#: [Puzzle1]Frame30
+msgid "data/map/cartoon/water/b/B_Water30.dds"
+msgstr "data/map/cartoon/water/b/B_Water30.dds"
+
+#: [Puzzle1]Frame31
+msgid "data/map/cartoon/water/b/B_Water31.dds"
+msgstr "data/map/cartoon/water/b/B_Water31.dds"
+
+#: [Puzzle1]Frame32
+msgid "data/map/cartoon/water/b/B_Water32.dds"
+msgstr "data/map/cartoon/water/b/B_Water32.dds"
+
+#: [Puzzle1]Frame33
+msgid "data/map/cartoon/water/b/B_Water33.dds"
+msgstr "data/map/cartoon/water/b/B_Water33.dds"
+
+#: [Puzzle1]Frame34
+msgid "data/map/cartoon/water/b/B_Water34.dds"
+msgstr "data/map/cartoon/water/b/B_Water34.dds"
+
+#: [Puzzle1]Frame35
+msgid "data/map/cartoon/water/b/B_Water35.dds"
+msgstr "data/map/cartoon/water/b/B_Water35.dds"
+
+#: [Puzzle1]Frame36
+msgid "data/map/cartoon/water/b/B_Water36.dds"
+msgstr "data/map/cartoon/water/b/B_Water36.dds"
+
+#: [Puzzle1]Frame37
+msgid "data/map/cartoon/water/b/B_Water37.dds"
+msgstr "data/map/cartoon/water/b/B_Water37.dds"
+
+#: [Puzzle1]Frame38
+msgid "data/map/cartoon/water/b/B_Water38.dds"
+msgstr "data/map/cartoon/water/b/B_Water38.dds"
+
+#: [Puzzle1]Frame39
+msgid "data/map/cartoon/water/b/B_Water39.dds"
+msgstr "data/map/cartoon/water/b/B_Water39.dds"
+
+#: [Puzzle1]Frame40
+msgid "data/map/cartoon/water/b/B_Water40.dds"
+msgstr "data/map/cartoon/water/b/B_Water40.dds"
+
+#: [Puzzle1]Frame41
+msgid "data/map/cartoon/water/b/B_Water41.dds"
+msgstr "data/map/cartoon/water/b/B_Water41.dds"
+
+#: [Puzzle1]Frame42
+msgid "data/map/cartoon/water/b/B_Water42.dds"
+msgstr "data/map/cartoon/water/b/B_Water42.dds"
+
+#: [Puzzle1]Frame43
+msgid "data/map/cartoon/water/b/B_Water43.dds"
+msgstr "data/map/cartoon/water/b/B_Water43.dds"
+
+#: [Puzzle1]Frame44
+msgid "data/map/cartoon/water/b/B_Water44.dds"
+msgstr "data/map/cartoon/water/b/B_Water44.dds"
+
+#: [Puzzle2]FrameAmount
+msgctxt "[Puzzle2]FrameAmount"
+msgid "45"
+msgstr "45"
+
+#: [Puzzle2]Frame0
+msgid "data/map/cartoon/water/c/C_Water00.dds"
+msgstr "data/map/cartoon/water/c/C_Water00.dds"
+
+#: [Puzzle2]Frame1
+msgid "data/map/cartoon/water/c/C_Water01.dds"
+msgstr "data/map/cartoon/water/c/C_Water01.dds"
+
+#: [Puzzle2]Frame2
+msgid "data/map/cartoon/water/c/C_Water02.dds"
+msgstr "data/map/cartoon/water/c/C_Water02.dds"
+
+#: [Puzzle2]Frame3
+msgid "data/map/cartoon/water/c/C_Water03.dds"
+msgstr "data/map/cartoon/water/c/C_Water03.dds"
+
+#: [Puzzle2]Frame4
+msgid "data/map/cartoon/water/c/C_Water04.dds"
+msgstr "data/map/cartoon/water/c/C_Water04.dds"
+
+#: [Puzzle2]Frame5
+msgid "data/map/cartoon/water/c/C_Water05.dds"
+msgstr "data/map/cartoon/water/c/C_Water05.dds"
+
+#: [Puzzle2]Frame6
+msgid "data/map/cartoon/water/c/C_Water06.dds"
+msgstr "data/map/cartoon/water/c/C_Water06.dds"
+
+#: [Puzzle2]Frame7
+msgid "data/map/cartoon/water/c/C_Water07.dds"
+msgstr "data/map/cartoon/water/c/C_Water07.dds"
+
+#: [Puzzle2]Frame8
+msgid "data/map/cartoon/water/c/C_Water08.dds"
+msgstr "data/map/cartoon/water/c/C_Water08.dds"
+
+#: [Puzzle2]Frame9
+msgid "data/map/cartoon/water/c/C_Water09.dds"
+msgstr "data/map/cartoon/water/c/C_Water09.dds"
+
+#: [Puzzle2]Frame10
+msgid "data/map/cartoon/water/c/C_Water10.dds"
+msgstr "data/map/cartoon/water/c/C_Water10.dds"
+
+#: [Puzzle2]Frame11
+msgid "data/map/cartoon/water/c/C_Water11.dds"
+msgstr "data/map/cartoon/water/c/C_Water11.dds"
+
+#: [Puzzle2]Frame12
+msgid "data/map/cartoon/water/c/C_Water12.dds"
+msgstr "data/map/cartoon/water/c/C_Water12.dds"
+
+#: [Puzzle2]Frame13
+msgid "data/map/cartoon/water/c/C_Water13.dds"
+msgstr "data/map/cartoon/water/c/C_Water13.dds"
+
+#: [Puzzle2]Frame14
+msgid "data/map/cartoon/water/c/C_Water14.dds"
+msgstr "data/map/cartoon/water/c/C_Water14.dds"
+
+#: [Puzzle2]Frame15
+msgid "data/map/cartoon/water/c/C_Water15.dds"
+msgstr "data/map/cartoon/water/c/C_Water15.dds"
+
+#: [Puzzle2]Frame16
+msgid "data/map/cartoon/water/c/C_Water16.dds"
+msgstr "data/map/cartoon/water/c/C_Water16.dds"
+
+#: [Puzzle2]Frame17
+msgid "data/map/cartoon/water/c/C_Water17.dds"
+msgstr "data/map/cartoon/water/c/C_Water17.dds"
+
+#: [Puzzle2]Frame18
+msgid "data/map/cartoon/water/c/C_Water18.dds"
+msgstr "data/map/cartoon/water/c/C_Water18.dds"
+
+#: [Puzzle2]Frame19
+msgid "data/map/cartoon/water/c/C_Water19.dds"
+msgstr "data/map/cartoon/water/c/C_Water19.dds"
+
+#: [Puzzle2]Frame20
+msgid "data/map/cartoon/water/c/C_Water20.dds"
+msgstr "data/map/cartoon/water/c/C_Water20.dds"
+
+#: [Puzzle2]Frame21
+msgid "data/map/cartoon/water/c/C_Water21.dds"
+msgstr "data/map/cartoon/water/c/C_Water21.dds"
+
+#: [Puzzle2]Frame22
+msgid "data/map/cartoon/water/c/C_Water22.dds"
+msgstr "data/map/cartoon/water/c/C_Water22.dds"
+
+#: [Puzzle2]Frame23
+msgid "data/map/cartoon/water/c/C_Water23.dds"
+msgstr "data/map/cartoon/water/c/C_Water23.dds"
+
+#: [Puzzle2]Frame24
+msgid "data/map/cartoon/water/c/C_Water24.dds"
+msgstr "data/map/cartoon/water/c/C_Water24.dds"
+
+#: [Puzzle2]Frame25
+msgid "data/map/cartoon/water/c/C_Water25.dds"
+msgstr "data/map/cartoon/water/c/C_Water25.dds"
+
+#: [Puzzle2]Frame26
+msgid "data/map/cartoon/water/c/C_Water26.dds"
+msgstr "data/map/cartoon/water/c/C_Water26.dds"
+
+#: [Puzzle2]Frame27
+msgid "data/map/cartoon/water/c/C_Water27.dds"
+msgstr "data/map/cartoon/water/c/C_Water27.dds"
+
+#: [Puzzle2]Frame28
+msgid "data/map/cartoon/water/c/C_Water28.dds"
+msgstr "data/map/cartoon/water/c/C_Water28.dds"
+
+#: [Puzzle2]Frame29
+msgid "data/map/cartoon/water/c/C_Water29.dds"
+msgstr "data/map/cartoon/water/c/C_Water29.dds"
+
+#: [Puzzle2]Frame30
+msgid "data/map/cartoon/water/c/C_Water30.dds"
+msgstr "data/map/cartoon/water/c/C_Water30.dds"
+
+#: [Puzzle2]Frame31
+msgid "data/map/cartoon/water/c/C_Water31.dds"
+msgstr "data/map/cartoon/water/c/C_Water31.dds"
+
+#: [Puzzle2]Frame32
+msgid "data/map/cartoon/water/c/C_Water32.dds"
+msgstr "data/map/cartoon/water/c/C_Water32.dds"
+
+#: [Puzzle2]Frame33
+msgid "data/map/cartoon/water/c/C_Water33.dds"
+msgstr "data/map/cartoon/water/c/C_Water33.dds"
+
+#: [Puzzle2]Frame34
+msgid "data/map/cartoon/water/c/C_Water34.dds"
+msgstr "data/map/cartoon/water/c/C_Water34.dds"
+
+#: [Puzzle2]Frame35
+msgid "data/map/cartoon/water/c/C_Water35.dds"
+msgstr "data/map/cartoon/water/c/C_Water35.dds"
+
+#: [Puzzle2]Frame36
+msgid "data/map/cartoon/water/c/C_Water36.dds"
+msgstr "data/map/cartoon/water/c/C_Water36.dds"
+
+#: [Puzzle2]Frame37
+msgid "data/map/cartoon/water/c/C_Water37.dds"
+msgstr "data/map/cartoon/water/c/C_Water37.dds"
+
+#: [Puzzle2]Frame38
+msgid "data/map/cartoon/water/c/C_Water38.dds"
+msgstr "data/map/cartoon/water/c/C_Water38.dds"
+
+#: [Puzzle2]Frame39
+msgid "data/map/cartoon/water/c/C_Water39.dds"
+msgstr "data/map/cartoon/water/c/C_Water39.dds"
+
+#: [Puzzle2]Frame40
+msgid "data/map/cartoon/water/c/C_Water40.dds"
+msgstr "data/map/cartoon/water/c/C_Water40.dds"
+
+#: [Puzzle2]Frame41
+msgid "data/map/cartoon/water/c/C_Water41.dds"
+msgstr "data/map/cartoon/water/c/C_Water41.dds"
+
+#: [Puzzle2]Frame42
+msgid "data/map/cartoon/water/c/C_Water42.dds"
+msgstr "data/map/cartoon/water/c/C_Water42.dds"
+
+#: [Puzzle2]Frame43
+msgid "data/map/cartoon/water/c/C_Water43.dds"
+msgstr "data/map/cartoon/water/c/C_Water43.dds"
+
+#: [Puzzle2]Frame44
+msgid "data/map/cartoon/water/c/C_Water44.dds"
+msgstr "data/map/cartoon/water/c/C_Water44.dds"
+
+#: [Puzzle3]FrameAmount
+msgctxt "[Puzzle3]FrameAmount"
+msgid "45"
+msgstr "45"
+
+#: [Puzzle3]Frame0
+msgid "data/map/cartoon/water/d/D_Water00.dds"
+msgstr "data/map/cartoon/water/d/D_Water00.dds"
+
+#: [Puzzle3]Frame1
+msgid "data/map/cartoon/water/d/D_Water01.dds"
+msgstr "data/map/cartoon/water/d/D_Water01.dds"
+
+#: [Puzzle3]Frame2
+msgid "data/map/cartoon/water/d/D_Water02.dds"
+msgstr "data/map/cartoon/water/d/D_Water02.dds"
+
+#: [Puzzle3]Frame3
+msgid "data/map/cartoon/water/d/D_Water03.dds"
+msgstr "data/map/cartoon/water/d/D_Water03.dds"
+
+#: [Puzzle3]Frame4
+msgid "data/map/cartoon/water/d/D_Water04.dds"
+msgstr "data/map/cartoon/water/d/D_Water04.dds"
+
+#: [Puzzle3]Frame5
+msgid "data/map/cartoon/water/d/D_Water05.dds"
+msgstr "data/map/cartoon/water/d/D_Water05.dds"
+
+#: [Puzzle3]Frame6
+msgid "data/map/cartoon/water/d/D_Water06.dds"
+msgstr "data/map/cartoon/water/d/D_Water06.dds"
+
+#: [Puzzle3]Frame7
+msgid "data/map/cartoon/water/d/D_Water07.dds"
+msgstr "data/map/cartoon/water/d/D_Water07.dds"
+
+#: [Puzzle3]Frame8
+msgid "data/map/cartoon/water/d/D_Water08.dds"
+msgstr "data/map/cartoon/water/d/D_Water08.dds"
+
+#: [Puzzle3]Frame9
+msgid "data/map/cartoon/water/d/D_Water09.dds"
+msgstr "data/map/cartoon/water/d/D_Water09.dds"
+
+#: [Puzzle3]Frame10
+msgid "data/map/cartoon/water/d/D_Water10.dds"
+msgstr "data/map/cartoon/water/d/D_Water10.dds"
+
+#: [Puzzle3]Frame11
+msgid "data/map/cartoon/water/d/D_Water11.dds"
+msgstr "data/map/cartoon/water/d/D_Water11.dds"
+
+#: [Puzzle3]Frame12
+msgid "data/map/cartoon/water/d/D_Water12.dds"
+msgstr "data/map/cartoon/water/d/D_Water12.dds"
+
+#: [Puzzle3]Frame13
+msgid "data/map/cartoon/water/d/D_Water13.dds"
+msgstr "data/map/cartoon/water/d/D_Water13.dds"
+
+#: [Puzzle3]Frame14
+msgid "data/map/cartoon/water/d/D_Water14.dds"
+msgstr "data/map/cartoon/water/d/D_Water14.dds"
+
+#: [Puzzle3]Frame15
+msgid "data/map/cartoon/water/d/D_Water15.dds"
+msgstr "data/map/cartoon/water/d/D_Water15.dds"
+
+#: [Puzzle3]Frame16
+msgid "data/map/cartoon/water/d/D_Water16.dds"
+msgstr "data/map/cartoon/water/d/D_Water16.dds"
+
+#: [Puzzle3]Frame17
+msgid "data/map/cartoon/water/d/D_Water17.dds"
+msgstr "data/map/cartoon/water/d/D_Water17.dds"
+
+#: [Puzzle3]Frame18
+msgid "data/map/cartoon/water/d/D_Water18.dds"
+msgstr "data/map/cartoon/water/d/D_Water18.dds"
+
+#: [Puzzle3]Frame19
+msgid "data/map/cartoon/water/d/D_Water19.dds"
+msgstr "data/map/cartoon/water/d/D_Water19.dds"
+
+#: [Puzzle3]Frame20
+msgid "data/map/cartoon/water/d/D_Water20.dds"
+msgstr "data/map/cartoon/water/d/D_Water20.dds"
+
+#: [Puzzle3]Frame21
+msgid "data/map/cartoon/water/d/D_Water21.dds"
+msgstr "data/map/cartoon/water/d/D_Water21.dds"
+
+#: [Puzzle3]Frame22
+msgid "data/map/cartoon/water/d/D_Water22.dds"
+msgstr "data/map/cartoon/water/d/D_Water22.dds"
+
+#: [Puzzle3]Frame23
+msgid "data/map/cartoon/water/d/D_Water23.dds"
+msgstr "data/map/cartoon/water/d/D_Water23.dds"
+
+#: [Puzzle3]Frame24
+msgid "data/map/cartoon/water/d/D_Water24.dds"
+msgstr "data/map/cartoon/water/d/D_Water24.dds"
+
+#: [Puzzle3]Frame25
+msgid "data/map/cartoon/water/d/D_Water25.dds"
+msgstr "data/map/cartoon/water/d/D_Water25.dds"
+
+#: [Puzzle3]Frame26
+msgid "data/map/cartoon/water/d/D_Water26.dds"
+msgstr "data/map/cartoon/water/d/D_Water26.dds"
+
+#: [Puzzle3]Frame27
+msgid "data/map/cartoon/water/d/D_Water27.dds"
+msgstr "data/map/cartoon/water/d/D_Water27.dds"
+
+#: [Puzzle3]Frame28
+msgid "data/map/cartoon/water/d/D_Water28.dds"
+msgstr "data/map/cartoon/water/d/D_Water28.dds"
+
+#: [Puzzle3]Frame29
+msgid "data/map/cartoon/water/d/D_Water29.dds"
+msgstr "data/map/cartoon/water/d/D_Water29.dds"
+
+#: [Puzzle3]Frame30
+msgid "data/map/cartoon/water/d/D_Water30.dds"
+msgstr "data/map/cartoon/water/d/D_Water30.dds"
+
+#: [Puzzle3]Frame31
+msgid "data/map/cartoon/water/d/D_Water31.dds"
+msgstr "data/map/cartoon/water/d/D_Water31.dds"
+
+#: [Puzzle3]Frame32
+msgid "data/map/cartoon/water/d/D_Water32.dds"
+msgstr "data/map/cartoon/water/d/D_Water32.dds"
+
+#: [Puzzle3]Frame33
+msgid "data/map/cartoon/water/d/D_Water33.dds"
+msgstr "data/map/cartoon/water/d/D_Water33.dds"
+
+#: [Puzzle3]Frame34
+msgid "data/map/cartoon/water/d/D_Water34.dds"
+msgstr "data/map/cartoon/water/d/D_Water34.dds"
+
+#: [Puzzle3]Frame35
+msgid "data/map/cartoon/water/d/D_Water35.dds"
+msgstr "data/map/cartoon/water/d/D_Water35.dds"
+
+#: [Puzzle3]Frame36
+msgid "data/map/cartoon/water/d/D_Water36.dds"
+msgstr "data/map/cartoon/water/d/D_Water36.dds"
+
+#: [Puzzle3]Frame37
+msgid "data/map/cartoon/water/d/D_Water37.dds"
+msgstr "data/map/cartoon/water/d/D_Water37.dds"
+
+#: [Puzzle3]Frame38
+msgid "data/map/cartoon/water/d/D_Water38.dds"
+msgstr "data/map/cartoon/water/d/D_Water38.dds"
+
+#: [Puzzle3]Frame39
+msgid "data/map/cartoon/water/d/D_Water39.dds"
+msgstr "data/map/cartoon/water/d/D_Water39.dds"
+
+#: [Puzzle3]Frame40
+msgid "data/map/cartoon/water/d/D_Water40.dds"
+msgstr "data/map/cartoon/water/d/D_Water40.dds"
+
+#: [Puzzle3]Frame41
+msgid "data/map/cartoon/water/d/D_Water41.dds"
+msgstr "data/map/cartoon/water/d/D_Water41.dds"
+
+#: [Puzzle3]Frame42
+msgid "data/map/cartoon/water/d/D_Water42.dds"
+msgstr "data/map/cartoon/water/d/D_Water42.dds"
+
+#: [Puzzle3]Frame43
+msgid "data/map/cartoon/water/d/D_Water43.dds"
+msgstr "data/map/cartoon/water/d/D_Water43.dds"
+
+#: [Puzzle3]Frame44
+msgid "data/map/cartoon/water/d/D_Water44.dds"
+msgstr "data/map/cartoon/water/d/D_Water44.dds"
+
+#: [Puzzle4]FrameAmount
+msgctxt "[Puzzle4]FrameAmount"
+msgid "45"
+msgstr "45"
+
+#: [Puzzle4]Frame0
+msgid "data/map/cartoon/water/n/N_Water00.dds"
+msgstr "data/map/cartoon/water/n/N_Water00.dds"
+
+#: [Puzzle4]Frame1
+msgid "data/map/cartoon/water/n/N_Water01.dds"
+msgstr "data/map/cartoon/water/n/N_Water01.dds"
+
+#: [Puzzle4]Frame2
+msgid "data/map/cartoon/water/n/N_Water02.dds"
+msgstr "data/map/cartoon/water/n/N_Water02.dds"
+
+#: [Puzzle4]Frame3
+msgid "data/map/cartoon/water/n/N_Water03.dds"
+msgstr "data/map/cartoon/water/n/N_Water03.dds"
+
+#: [Puzzle4]Frame4
+msgid "data/map/cartoon/water/n/N_Water04.dds"
+msgstr "data/map/cartoon/water/n/N_Water04.dds"
+
+#: [Puzzle4]Frame5
+msgid "data/map/cartoon/water/n/N_Water05.dds"
+msgstr "data/map/cartoon/water/n/N_Water05.dds"
+
+#: [Puzzle4]Frame6
+msgid "data/map/cartoon/water/n/N_Water06.dds"
+msgstr "data/map/cartoon/water/n/N_Water06.dds"
+
+#: [Puzzle4]Frame7
+msgid "data/map/cartoon/water/n/N_Water07.dds"
+msgstr "data/map/cartoon/water/n/N_Water07.dds"
+
+#: [Puzzle4]Frame8
+msgid "data/map/cartoon/water/n/N_Water08.dds"
+msgstr "data/map/cartoon/water/n/N_Water08.dds"
+
+#: [Puzzle4]Frame9
+msgid "data/map/cartoon/water/n/N_Water09.dds"
+msgstr "data/map/cartoon/water/n/N_Water09.dds"
+
+#: [Puzzle4]Frame10
+msgid "data/map/cartoon/water/n/N_Water10.dds"
+msgstr "data/map/cartoon/water/n/N_Water10.dds"
+
+#: [Puzzle4]Frame11
+msgid "data/map/cartoon/water/n/N_Water11.dds"
+msgstr "data/map/cartoon/water/n/N_Water11.dds"
+
+#: [Puzzle4]Frame12
+msgid "data/map/cartoon/water/n/N_Water12.dds"
+msgstr "data/map/cartoon/water/n/N_Water12.dds"
+
+#: [Puzzle4]Frame13
+msgid "data/map/cartoon/water/n/N_Water13.dds"
+msgstr "data/map/cartoon/water/n/N_Water13.dds"
+
+#: [Puzzle4]Frame14
+msgid "data/map/cartoon/water/n/N_Water14.dds"
+msgstr "data/map/cartoon/water/n/N_Water14.dds"
+
+#: [Puzzle4]Frame15
+msgid "data/map/cartoon/water/n/N_Water15.dds"
+msgstr "data/map/cartoon/water/n/N_Water15.dds"
+
+#: [Puzzle4]Frame16
+msgid "data/map/cartoon/water/n/N_Water16.dds"
+msgstr "data/map/cartoon/water/n/N_Water16.dds"
+
+#: [Puzzle4]Frame17
+msgid "data/map/cartoon/water/n/N_Water17.dds"
+msgstr "data/map/cartoon/water/n/N_Water17.dds"
+
+#: [Puzzle4]Frame18
+msgid "data/map/cartoon/water/n/N_Water18.dds"
+msgstr "data/map/cartoon/water/n/N_Water18.dds"
+
+#: [Puzzle4]Frame19
+msgid "data/map/cartoon/water/n/N_Water19.dds"
+msgstr "data/map/cartoon/water/n/N_Water19.dds"
+
+#: [Puzzle4]Frame20
+msgid "data/map/cartoon/water/n/N_Water20.dds"
+msgstr "data/map/cartoon/water/n/N_Water20.dds"
+
+#: [Puzzle4]Frame21
+msgid "data/map/cartoon/water/n/N_Water21.dds"
+msgstr "data/map/cartoon/water/n/N_Water21.dds"
+
+#: [Puzzle4]Frame22
+msgid "data/map/cartoon/water/n/N_Water22.dds"
+msgstr "data/map/cartoon/water/n/N_Water22.dds"
+
+#: [Puzzle4]Frame23
+msgid "data/map/cartoon/water/n/N_Water23.dds"
+msgstr "data/map/cartoon/water/n/N_Water23.dds"
+
+#: [Puzzle4]Frame24
+msgid "data/map/cartoon/water/n/N_Water24.dds"
+msgstr "data/map/cartoon/water/n/N_Water24.dds"
+
+#: [Puzzle4]Frame25
+msgid "data/map/cartoon/water/n/N_Water25.dds"
+msgstr "data/map/cartoon/water/n/N_Water25.dds"
+
+#: [Puzzle4]Frame26
+msgid "data/map/cartoon/water/n/N_Water26.dds"
+msgstr "data/map/cartoon/water/n/N_Water26.dds"
+
+#: [Puzzle4]Frame27
+msgid "data/map/cartoon/water/n/N_Water27.dds"
+msgstr "data/map/cartoon/water/n/N_Water27.dds"
+
+#: [Puzzle4]Frame28
+msgid "data/map/cartoon/water/n/N_Water28.dds"
+msgstr "data/map/cartoon/water/n/N_Water28.dds"
+
+#: [Puzzle4]Frame29
+msgid "data/map/cartoon/water/n/N_Water29.dds"
+msgstr "data/map/cartoon/water/n/N_Water29.dds"
+
+#: [Puzzle4]Frame30
+msgid "data/map/cartoon/water/n/N_Water30.dds"
+msgstr "data/map/cartoon/water/n/N_Water30.dds"
+
+#: [Puzzle4]Frame31
+msgid "data/map/cartoon/water/n/N_Water31.dds"
+msgstr "data/map/cartoon/water/n/N_Water31.dds"
+
+#: [Puzzle4]Frame32
+msgid "data/map/cartoon/water/n/N_Water32.dds"
+msgstr "data/map/cartoon/water/n/N_Water32.dds"
+
+#: [Puzzle4]Frame33
+msgid "data/map/cartoon/water/n/N_Water33.dds"
+msgstr "data/map/cartoon/water/n/N_Water33.dds"
+
+#: [Puzzle4]Frame34
+msgid "data/map/cartoon/water/n/N_Water34.dds"
+msgstr "data/map/cartoon/water/n/N_Water34.dds"
+
+#: [Puzzle4]Frame35
+msgid "data/map/cartoon/water/n/N_Water35.dds"
+msgstr "data/map/cartoon/water/n/N_Water35.dds"
+
+#: [Puzzle4]Frame36
+msgid "data/map/cartoon/water/n/N_Water36.dds"
+msgstr "data/map/cartoon/water/n/N_Water36.dds"
+
+#: [Puzzle4]Frame37
+msgid "data/map/cartoon/water/n/N_Water37.dds"
+msgstr "data/map/cartoon/water/n/N_Water37.dds"
+
+#: [Puzzle4]Frame38
+msgid "data/map/cartoon/water/n/N_Water38.dds"
+msgstr "data/map/cartoon/water/n/N_Water38.dds"
+
+#: [Puzzle4]Frame39
+msgid "data/map/cartoon/water/n/N_Water39.dds"
+msgstr "data/map/cartoon/water/n/N_Water39.dds"
+
+#: [Puzzle4]Frame40
+msgid "data/map/cartoon/water/n/N_Water40.dds"
+msgstr "data/map/cartoon/water/n/N_Water40.dds"
+
+#: [Puzzle4]Frame41
+msgid "data/map/cartoon/water/n/N_Water41.dds"
+msgstr "data/map/cartoon/water/n/N_Water41.dds"
+
+#: [Puzzle4]Frame42
+msgid "data/map/cartoon/water/n/N_Water42.dds"
+msgstr "data/map/cartoon/water/n/N_Water42.dds"
+
+#: [Puzzle4]Frame43
+msgid "data/map/cartoon/water/n/N_Water43.dds"
+msgstr "data/map/cartoon/water/n/N_Water43.dds"
+
+#: [Puzzle4]Frame44
+msgid "data/map/cartoon/water/n/N_Water44.dds"
+msgstr "data/map/cartoon/water/n/N_Water44.dds"
+
+#: [Puzzle5]FrameAmount
+msgctxt "[Puzzle5]FrameAmount"
+msgid "45"
+msgstr "45"
+
+#: [Puzzle5]Frame0
+msgid "data/map/cartoon/water/w/Water00.dds"
+msgstr "data/map/cartoon/water/w/Water00.dds"
+
+#: [Puzzle5]Frame1
+msgid "data/map/cartoon/water/w/Water01.dds"
+msgstr "data/map/cartoon/water/w/Water01.dds"
+
+#: [Puzzle5]Frame2
+msgid "data/map/cartoon/water/w/Water02.dds"
+msgstr "data/map/cartoon/water/w/Water02.dds"
+
+#: [Puzzle5]Frame3
+msgid "data/map/cartoon/water/w/Water03.dds"
+msgstr "data/map/cartoon/water/w/Water03.dds"
+
+#: [Puzzle5]Frame4
+msgid "data/map/cartoon/water/w/Water04.dds"
+msgstr "data/map/cartoon/water/w/Water04.dds"
+
+#: [Puzzle5]Frame5
+msgid "data/map/cartoon/water/w/Water05.dds"
+msgstr "data/map/cartoon/water/w/Water05.dds"
+
+#: [Puzzle5]Frame6
+msgid "data/map/cartoon/water/w/Water06.dds"
+msgstr "data/map/cartoon/water/w/Water06.dds"
+
+#: [Puzzle5]Frame7
+msgid "data/map/cartoon/water/w/Water07.dds"
+msgstr "data/map/cartoon/water/w/Water07.dds"
+
+#: [Puzzle5]Frame8
+msgid "data/map/cartoon/water/w/Water08.dds"
+msgstr "data/map/cartoon/water/w/Water08.dds"
+
+#: [Puzzle5]Frame9
+msgid "data/map/cartoon/water/w/Water09.dds"
+msgstr "data/map/cartoon/water/w/Water09.dds"
+
+#: [Puzzle5]Frame10
+msgid "data/map/cartoon/water/w/Water10.dds"
+msgstr "data/map/cartoon/water/w/Water10.dds"
+
+#: [Puzzle5]Frame11
+msgid "data/map/cartoon/water/w/Water11.dds"
+msgstr "data/map/cartoon/water/w/Water11.dds"
+
+#: [Puzzle5]Frame12
+msgid "data/map/cartoon/water/w/Water12.dds"
+msgstr "data/map/cartoon/water/w/Water12.dds"
+
+#: [Puzzle5]Frame13
+msgid "data/map/cartoon/water/w/Water13.dds"
+msgstr "data/map/cartoon/water/w/Water13.dds"
+
+#: [Puzzle5]Frame14
+msgid "data/map/cartoon/water/w/Water14.dds"
+msgstr "data/map/cartoon/water/w/Water14.dds"
+
+#: [Puzzle5]Frame15
+msgid "data/map/cartoon/water/w/Water15.dds"
+msgstr "data/map/cartoon/water/w/Water15.dds"
+
+#: [Puzzle5]Frame16
+msgid "data/map/cartoon/water/w/Water16.dds"
+msgstr "data/map/cartoon/water/w/Water16.dds"
+
+#: [Puzzle5]Frame17
+msgid "data/map/cartoon/water/w/Water17.dds"
+msgstr "data/map/cartoon/water/w/Water17.dds"
+
+#: [Puzzle5]Frame18
+msgid "data/map/cartoon/water/w/Water18.dds"
+msgstr "data/map/cartoon/water/w/Water18.dds"
+
+#: [Puzzle5]Frame19
+msgid "data/map/cartoon/water/w/Water19.dds"
+msgstr "data/map/cartoon/water/w/Water19.dds"
+
+#: [Puzzle5]Frame20
+msgid "data/map/cartoon/water/w/Water20.dds"
+msgstr "data/map/cartoon/water/w/Water20.dds"
+
+#: [Puzzle5]Frame21
+msgid "data/map/cartoon/water/w/Water21.dds"
+msgstr "data/map/cartoon/water/w/Water21.dds"
+
+#: [Puzzle5]Frame22
+msgid "data/map/cartoon/water/w/Water22.dds"
+msgstr "data/map/cartoon/water/w/Water22.dds"
+
+#: [Puzzle5]Frame23
+msgid "data/map/cartoon/water/w/Water23.dds"
+msgstr "data/map/cartoon/water/w/Water23.dds"
+
+#: [Puzzle5]Frame24
+msgid "data/map/cartoon/water/w/Water24.dds"
+msgstr "data/map/cartoon/water/w/Water24.dds"
+
+#: [Puzzle5]Frame25
+msgid "data/map/cartoon/water/w/Water25.dds"
+msgstr "data/map/cartoon/water/w/Water25.dds"
+
+#: [Puzzle5]Frame26
+msgid "data/map/cartoon/water/w/Water26.dds"
+msgstr "data/map/cartoon/water/w/Water26.dds"
+
+#: [Puzzle5]Frame27
+msgid "data/map/cartoon/water/w/Water27.dds"
+msgstr "data/map/cartoon/water/w/Water27.dds"
+
+#: [Puzzle5]Frame28
+msgid "data/map/cartoon/water/w/Water28.dds"
+msgstr "data/map/cartoon/water/w/Water28.dds"
+
+#: [Puzzle5]Frame29
+msgid "data/map/cartoon/water/w/Water29.dds"
+msgstr "data/map/cartoon/water/w/Water29.dds"
+
+#: [Puzzle5]Frame30
+msgid "data/map/cartoon/water/w/Water30.dds"
+msgstr "data/map/cartoon/water/w/Water30.dds"
+
+#: [Puzzle5]Frame31
+msgid "data/map/cartoon/water/w/Water31.dds"
+msgstr "data/map/cartoon/water/w/Water31.dds"
+
+#: [Puzzle5]Frame32
+msgid "data/map/cartoon/water/w/Water32.dds"
+msgstr "data/map/cartoon/water/w/Water32.dds"
+
+#: [Puzzle5]Frame33
+msgid "data/map/cartoon/water/w/Water33.dds"
+msgstr "data/map/cartoon/water/w/Water33.dds"
+
+#: [Puzzle5]Frame34
+msgid "data/map/cartoon/water/w/Water34.dds"
+msgstr "data/map/cartoon/water/w/Water34.dds"
+
+#: [Puzzle5]Frame35
+msgid "data/map/cartoon/water/w/Water35.dds"
+msgstr "data/map/cartoon/water/w/Water35.dds"
+
+#: [Puzzle5]Frame36
+msgid "data/map/cartoon/water/w/Water36.dds"
+msgstr "data/map/cartoon/water/w/Water36.dds"
+
+#: [Puzzle5]Frame37
+msgid "data/map/cartoon/water/w/Water37.dds"
+msgstr "data/map/cartoon/water/w/Water37.dds"
+
+#: [Puzzle5]Frame38
+msgid "data/map/cartoon/water/w/Water38.dds"
+msgstr "data/map/cartoon/water/w/Water38.dds"
+
+#: [Puzzle5]Frame39
+msgid "data/map/cartoon/water/w/Water39.dds"
+msgstr "data/map/cartoon/water/w/Water39.dds"
+
+#: [Puzzle5]Frame40
+msgid "data/map/cartoon/water/w/Water40.dds"
+msgstr "data/map/cartoon/water/w/Water40.dds"
+
+#: [Puzzle5]Frame41
+msgid "data/map/cartoon/water/w/Water41.dds"
+msgstr "data/map/cartoon/water/w/Water41.dds"
+
+#: [Puzzle5]Frame42
+msgid "data/map/cartoon/water/w/Water42.dds"
+msgstr "data/map/cartoon/water/w/Water42.dds"
+
+#: [Puzzle5]Frame43
+msgid "data/map/cartoon/water/w/Water43.dds"
+msgstr "data/map/cartoon/water/w/Water43.dds"
+
+#: [Puzzle5]Frame44
+msgid "data/map/cartoon/water/w/Water44.dds"
+msgstr "data/map/cartoon/water/w/Water44.dds"
+
+#: [Puzzle6]FrameAmount
+msgctxt "[Puzzle6]FrameAmount"
+msgid "45"
+msgstr "45"
+
+#: [Puzzle6]Frame0
+msgid "data/map/cartoon/water/x/X_Water00.dds"
+msgstr "data/map/cartoon/water/x/X_Water00.dds"
+
+#: [Puzzle6]Frame1
+msgid "data/map/cartoon/water/x/X_Water01.dds"
+msgstr "data/map/cartoon/water/x/X_Water01.dds"
+
+#: [Puzzle6]Frame2
+msgid "data/map/cartoon/water/x/X_Water02.dds"
+msgstr "data/map/cartoon/water/x/X_Water02.dds"
+
+#: [Puzzle6]Frame3
+msgid "data/map/cartoon/water/x/X_Water03.dds"
+msgstr "data/map/cartoon/water/x/X_Water03.dds"
+
+#: [Puzzle6]Frame4
+msgid "data/map/cartoon/water/x/X_Water04.dds"
+msgstr "data/map/cartoon/water/x/X_Water04.dds"
+
+#: [Puzzle6]Frame5
+msgid "data/map/cartoon/water/x/X_Water05.dds"
+msgstr "data/map/cartoon/water/x/X_Water05.dds"
+
+#: [Puzzle6]Frame6
+msgid "data/map/cartoon/water/x/X_Water06.dds"
+msgstr "data/map/cartoon/water/x/X_Water06.dds"
+
+#: [Puzzle6]Frame7
+msgid "data/map/cartoon/water/x/X_Water07.dds"
+msgstr "data/map/cartoon/water/x/X_Water07.dds"
+
+#: [Puzzle6]Frame8
+msgid "data/map/cartoon/water/x/X_Water08.dds"
+msgstr "data/map/cartoon/water/x/X_Water08.dds"
+
+#: [Puzzle6]Frame9
+msgid "data/map/cartoon/water/x/X_Water09.dds"
+msgstr "data/map/cartoon/water/x/X_Water09.dds"
+
+#: [Puzzle6]Frame10
+msgid "data/map/cartoon/water/x/X_Water10.dds"
+msgstr "data/map/cartoon/water/x/X_Water10.dds"
+
+#: [Puzzle6]Frame11
+msgid "data/map/cartoon/water/x/X_Water11.dds"
+msgstr "data/map/cartoon/water/x/X_Water11.dds"
+
+#: [Puzzle6]Frame12
+msgid "data/map/cartoon/water/x/X_Water12.dds"
+msgstr "data/map/cartoon/water/x/X_Water12.dds"
+
+#: [Puzzle6]Frame13
+msgid "data/map/cartoon/water/x/X_Water13.dds"
+msgstr "data/map/cartoon/water/x/X_Water13.dds"
+
+#: [Puzzle6]Frame14
+msgid "data/map/cartoon/water/x/X_Water14.dds"
+msgstr "data/map/cartoon/water/x/X_Water14.dds"
+
+#: [Puzzle6]Frame15
+msgid "data/map/cartoon/water/x/X_Water15.dds"
+msgstr "data/map/cartoon/water/x/X_Water15.dds"
+
+#: [Puzzle6]Frame16
+msgid "data/map/cartoon/water/x/X_Water16.dds"
+msgstr "data/map/cartoon/water/x/X_Water16.dds"
+
+#: [Puzzle6]Frame17
+msgid "data/map/cartoon/water/x/X_Water17.dds"
+msgstr "data/map/cartoon/water/x/X_Water17.dds"
+
+#: [Puzzle6]Frame18
+msgid "data/map/cartoon/water/x/X_Water18.dds"
+msgstr "data/map/cartoon/water/x/X_Water18.dds"
+
+#: [Puzzle6]Frame19
+msgid "data/map/cartoon/water/x/X_Water19.dds"
+msgstr "data/map/cartoon/water/x/X_Water19.dds"
+
+#: [Puzzle6]Frame20
+msgid "data/map/cartoon/water/x/X_Water20.dds"
+msgstr "data/map/cartoon/water/x/X_Water20.dds"
+
+#: [Puzzle6]Frame21
+msgid "data/map/cartoon/water/x/X_Water21.dds"
+msgstr "data/map/cartoon/water/x/X_Water21.dds"
+
+#: [Puzzle6]Frame22
+msgid "data/map/cartoon/water/x/X_Water22.dds"
+msgstr "data/map/cartoon/water/x/X_Water22.dds"
+
+#: [Puzzle6]Frame23
+msgid "data/map/cartoon/water/x/X_Water23.dds"
+msgstr "data/map/cartoon/water/x/X_Water23.dds"
+
+#: [Puzzle6]Frame24
+msgid "data/map/cartoon/water/x/X_Water24.dds"
+msgstr "data/map/cartoon/water/x/X_Water24.dds"
+
+#: [Puzzle6]Frame25
+msgid "data/map/cartoon/water/x/X_Water25.dds"
+msgstr "data/map/cartoon/water/x/X_Water25.dds"
+
+#: [Puzzle6]Frame26
+msgid "data/map/cartoon/water/x/X_Water26.dds"
+msgstr "data/map/cartoon/water/x/X_Water26.dds"
+
+#: [Puzzle6]Frame27
+msgid "data/map/cartoon/water/x/X_Water27.dds"
+msgstr "data/map/cartoon/water/x/X_Water27.dds"
+
+#: [Puzzle6]Frame28
+msgid "data/map/cartoon/water/x/X_Water28.dds"
+msgstr "data/map/cartoon/water/x/X_Water28.dds"
+
+#: [Puzzle6]Frame29
+msgid "data/map/cartoon/water/x/X_Water29.dds"
+msgstr "data/map/cartoon/water/x/X_Water29.dds"
+
+#: [Puzzle6]Frame30
+msgid "data/map/cartoon/water/x/X_Water30.dds"
+msgstr "data/map/cartoon/water/x/X_Water30.dds"
+
+#: [Puzzle6]Frame31
+msgid "data/map/cartoon/water/x/X_Water31.dds"
+msgstr "data/map/cartoon/water/x/X_Water31.dds"
+
+#: [Puzzle6]Frame32
+msgid "data/map/cartoon/water/x/X_Water32.dds"
+msgstr "data/map/cartoon/water/x/X_Water32.dds"
+
+#: [Puzzle6]Frame33
+msgid "data/map/cartoon/water/x/X_Water33.dds"
+msgstr "data/map/cartoon/water/x/X_Water33.dds"
+
+#: [Puzzle6]Frame34
+msgid "data/map/cartoon/water/x/X_Water34.dds"
+msgstr "data/map/cartoon/water/x/X_Water34.dds"
+
+#: [Puzzle6]Frame35
+msgid "data/map/cartoon/water/x/X_Water35.dds"
+msgstr "data/map/cartoon/water/x/X_Water35.dds"
+
+#: [Puzzle6]Frame36
+msgid "data/map/cartoon/water/x/X_Water36.dds"
+msgstr "data/map/cartoon/water/x/X_Water36.dds"
+
+#: [Puzzle6]Frame37
+msgid "data/map/cartoon/water/x/X_Water37.dds"
+msgstr "data/map/cartoon/water/x/X_Water37.dds"
+
+#: [Puzzle6]Frame38
+msgid "data/map/cartoon/water/x/X_Water38.dds"
+msgstr "data/map/cartoon/water/x/X_Water38.dds"
+
+#: [Puzzle6]Frame39
+msgid "data/map/cartoon/water/x/X_Water39.dds"
+msgstr "data/map/cartoon/water/x/X_Water39.dds"
+
+#: [Puzzle6]Frame40
+msgid "data/map/cartoon/water/x/X_Water40.dds"
+msgstr "data/map/cartoon/water/x/X_Water40.dds"
+
+#: [Puzzle6]Frame41
+msgid "data/map/cartoon/water/x/X_Water41.dds"
+msgstr "data/map/cartoon/water/x/X_Water41.dds"
+
+#: [Puzzle6]Frame42
+msgid "data/map/cartoon/water/x/X_Water42.dds"
+msgstr "data/map/cartoon/water/x/X_Water42.dds"
+
+#: [Puzzle6]Frame43
+msgid "data/map/cartoon/water/x/X_Water43.dds"
+msgstr "data/map/cartoon/water/x/X_Water43.dds"
+
+#: [Puzzle6]Frame44
+msgid "data/map/cartoon/water/x/X_Water44.dds"
+msgstr "data/map/cartoon/water/x/X_Water44.dds"
+
+#: [Puzzle7]FrameAmount
+msgctxt "[Puzzle7]FrameAmount"
+msgid "21"
+msgstr "21"
+
+#: [Puzzle7]Frame0
+msgctxt "[Puzzle7]Frame0"
+msgid "data/map/cartoon/water/water/01/pic000.dds"
+msgstr "data/map/cartoon/water/water/01/pic000.dds"
+
+#: [Puzzle7]Frame1
+msgctxt "[Puzzle7]Frame1"
+msgid "data/map/cartoon/water/water/02/pic000.dds"
+msgstr "data/map/cartoon/water/water/02/pic000.dds"
+
+#: [Puzzle7]Frame2
+msgctxt "[Puzzle7]Frame2"
+msgid "data/map/cartoon/water/water/03/pic000.dds"
+msgstr "data/map/cartoon/water/water/03/pic000.dds"
+
+#: [Puzzle7]Frame3
+msgctxt "[Puzzle7]Frame3"
+msgid "data/map/cartoon/water/water/04/pic000.dds"
+msgstr "data/map/cartoon/water/water/04/pic000.dds"
+
+#: [Puzzle7]Frame4
+msgctxt "[Puzzle7]Frame4"
+msgid "data/map/cartoon/water/water/05/pic000.dds"
+msgstr "data/map/cartoon/water/water/05/pic000.dds"
+
+#: [Puzzle7]Frame5
+msgctxt "[Puzzle7]Frame5"
+msgid "data/map/cartoon/water/water/06/pic000.dds"
+msgstr "data/map/cartoon/water/water/06/pic000.dds"
+
+#: [Puzzle7]Frame6
+msgctxt "[Puzzle7]Frame6"
+msgid "data/map/cartoon/water/water/07/pic000.dds"
+msgstr "data/map/cartoon/water/water/07/pic000.dds"
+
+#: [Puzzle7]Frame7
+msgctxt "[Puzzle7]Frame7"
+msgid "data/map/cartoon/water/water/08/pic000.dds"
+msgstr "data/map/cartoon/water/water/08/pic000.dds"
+
+#: [Puzzle7]Frame8
+msgctxt "[Puzzle7]Frame8"
+msgid "data/map/cartoon/water/water/09/pic000.dds"
+msgstr "data/map/cartoon/water/water/09/pic000.dds"
+
+#: [Puzzle7]Frame9
+msgctxt "[Puzzle7]Frame9"
+msgid "data/map/cartoon/water/water/10/pic000.dds"
+msgstr "data/map/cartoon/water/water/10/pic000.dds"
+
+#: [Puzzle7]Frame10
+msgid "data/map/cartoon/water/water/11/pic000.dds"
+msgstr "data/map/cartoon/water/water/11/pic000.dds"
+
+#: [Puzzle7]Frame11
+msgctxt "[Puzzle7]Frame11"
+msgid "data/map/cartoon/water/water/10/pic000.dds"
+msgstr "data/map/cartoon/water/water/10/pic000.dds"
+
+#: [Puzzle7]Frame12
+msgctxt "[Puzzle7]Frame12"
+msgid "data/map/cartoon/water/water/09/pic000.dds"
+msgstr "data/map/cartoon/water/water/09/pic000.dds"
+
+#: [Puzzle7]Frame13
+msgctxt "[Puzzle7]Frame13"
+msgid "data/map/cartoon/water/water/08/pic000.dds"
+msgstr "data/map/cartoon/water/water/08/pic000.dds"
+
+#: [Puzzle7]Frame14
+msgctxt "[Puzzle7]Frame14"
+msgid "data/map/cartoon/water/water/07/pic000.dds"
+msgstr "data/map/cartoon/water/water/07/pic000.dds"
+
+#: [Puzzle7]Frame15
+msgctxt "[Puzzle7]Frame15"
+msgid "data/map/cartoon/water/water/06/pic000.dds"
+msgstr "data/map/cartoon/water/water/06/pic000.dds"
+
+#: [Puzzle7]Frame16
+msgctxt "[Puzzle7]Frame16"
+msgid "data/map/cartoon/water/water/05/pic000.dds"
+msgstr "data/map/cartoon/water/water/05/pic000.dds"
+
+#: [Puzzle7]Frame17
+msgctxt "[Puzzle7]Frame17"
+msgid "data/map/cartoon/water/water/04/pic000.dds"
+msgstr "data/map/cartoon/water/water/04/pic000.dds"
+
+#: [Puzzle7]Frame18
+msgctxt "[Puzzle7]Frame18"
+msgid "data/map/cartoon/water/water/03/pic000.dds"
+msgstr "data/map/cartoon/water/water/03/pic000.dds"
+
+#: [Puzzle7]Frame19
+msgctxt "[Puzzle7]Frame19"
+msgid "data/map/cartoon/water/water/02/pic000.dds"
+msgstr "data/map/cartoon/water/water/02/pic000.dds"
+
+#: [Puzzle7]Frame20
+msgctxt "[Puzzle7]Frame20"
+msgid "data/map/cartoon/water/water/01/pic000.dds"
+msgstr "data/map/cartoon/water/water/01/pic000.dds"
+
+#: [Puzzle8]FrameAmount
+msgctxt "[Puzzle8]FrameAmount"
+msgid "21"
+msgstr "21"
+
+#: [Puzzle8]Frame0
+msgctxt "[Puzzle8]Frame0"
+msgid "data/map/cartoon/water/water/01/pic001.dds"
+msgstr "data/map/cartoon/water/water/01/pic001.dds"
+
+#: [Puzzle8]Frame1
+msgctxt "[Puzzle8]Frame1"
+msgid "data/map/cartoon/water/water/02/pic001.dds"
+msgstr "data/map/cartoon/water/water/02/pic001.dds"
+
+#: [Puzzle8]Frame2
+msgctxt "[Puzzle8]Frame2"
+msgid "data/map/cartoon/water/water/03/pic001.dds"
+msgstr "data/map/cartoon/water/water/03/pic001.dds"
+
+#: [Puzzle8]Frame3
+msgctxt "[Puzzle8]Frame3"
+msgid "data/map/cartoon/water/water/04/pic001.dds"
+msgstr "data/map/cartoon/water/water/04/pic001.dds"
+
+#: [Puzzle8]Frame4
+msgctxt "[Puzzle8]Frame4"
+msgid "data/map/cartoon/water/water/05/pic001.dds"
+msgstr "data/map/cartoon/water/water/05/pic001.dds"
+
+#: [Puzzle8]Frame5
+msgctxt "[Puzzle8]Frame5"
+msgid "data/map/cartoon/water/water/06/pic001.dds"
+msgstr "data/map/cartoon/water/water/06/pic001.dds"
+
+#: [Puzzle8]Frame6
+msgctxt "[Puzzle8]Frame6"
+msgid "data/map/cartoon/water/water/07/pic001.dds"
+msgstr "data/map/cartoon/water/water/07/pic001.dds"
+
+#: [Puzzle8]Frame7
+msgctxt "[Puzzle8]Frame7"
+msgid "data/map/cartoon/water/water/08/pic001.dds"
+msgstr "data/map/cartoon/water/water/08/pic001.dds"
+
+#: [Puzzle8]Frame8
+msgctxt "[Puzzle8]Frame8"
+msgid "data/map/cartoon/water/water/09/pic001.dds"
+msgstr "data/map/cartoon/water/water/09/pic001.dds"
+
+#: [Puzzle8]Frame9
+msgctxt "[Puzzle8]Frame9"
+msgid "data/map/cartoon/water/water/10/pic001.dds"
+msgstr "data/map/cartoon/water/water/10/pic001.dds"
+
+#: [Puzzle8]Frame10
+msgid "data/map/cartoon/water/water/11/pic001.dds"
+msgstr "data/map/cartoon/water/water/11/pic001.dds"
+
+#: [Puzzle8]Frame11
+msgctxt "[Puzzle8]Frame11"
+msgid "data/map/cartoon/water/water/10/pic001.dds"
+msgstr "data/map/cartoon/water/water/10/pic001.dds"
+
+#: [Puzzle8]Frame12
+msgctxt "[Puzzle8]Frame12"
+msgid "data/map/cartoon/water/water/09/pic001.dds"
+msgstr "data/map/cartoon/water/water/09/pic001.dds"
+
+#: [Puzzle8]Frame13
+msgctxt "[Puzzle8]Frame13"
+msgid "data/map/cartoon/water/water/08/pic001.dds"
+msgstr "data/map/cartoon/water/water/08/pic001.dds"
+
+#: [Puzzle8]Frame14
+msgctxt "[Puzzle8]Frame14"
+msgid "data/map/cartoon/water/water/07/pic001.dds"
+msgstr "data/map/cartoon/water/water/07/pic001.dds"
+
+#: [Puzzle8]Frame15
+msgctxt "[Puzzle8]Frame15"
+msgid "data/map/cartoon/water/water/06/pic001.dds"
+msgstr "data/map/cartoon/water/water/06/pic001.dds"
+
+#: [Puzzle8]Frame16
+msgctxt "[Puzzle8]Frame16"
+msgid "data/map/cartoon/water/water/05/pic001.dds"
+msgstr "data/map/cartoon/water/water/05/pic001.dds"
+
+#: [Puzzle8]Frame17
+msgctxt "[Puzzle8]Frame17"
+msgid "data/map/cartoon/water/water/04/pic001.dds"
+msgstr "data/map/cartoon/water/water/04/pic001.dds"
+
+#: [Puzzle8]Frame18
+msgctxt "[Puzzle8]Frame18"
+msgid "data/map/cartoon/water/water/03/pic001.dds"
+msgstr "data/map/cartoon/water/water/03/pic001.dds"
+
+#: [Puzzle8]Frame19
+msgctxt "[Puzzle8]Frame19"
+msgid "data/map/cartoon/water/water/02/pic001.dds"
+msgstr "data/map/cartoon/water/water/02/pic001.dds"
+
+#: [Puzzle8]Frame20
+msgctxt "[Puzzle8]Frame20"
+msgid "data/map/cartoon/water/water/01/pic001.dds"
+msgstr "data/map/cartoon/water/water/01/pic001.dds"
+
+#: [Puzzle9]FrameAmount
+msgctxt "[Puzzle9]FrameAmount"
+msgid "21"
+msgstr "21"
+
+#: [Puzzle9]Frame0
+msgctxt "[Puzzle9]Frame0"
+msgid "data/map/cartoon/water/water/01/pic002.dds"
+msgstr "data/map/cartoon/water/water/01/pic002.dds"
+
+#: [Puzzle9]Frame1
+msgctxt "[Puzzle9]Frame1"
+msgid "data/map/cartoon/water/water/02/pic002.dds"
+msgstr "data/map/cartoon/water/water/02/pic002.dds"
+
+#: [Puzzle9]Frame2
+msgctxt "[Puzzle9]Frame2"
+msgid "data/map/cartoon/water/water/03/pic002.dds"
+msgstr "data/map/cartoon/water/water/03/pic002.dds"
+
+#: [Puzzle9]Frame3
+msgctxt "[Puzzle9]Frame3"
+msgid "data/map/cartoon/water/water/04/pic002.dds"
+msgstr "data/map/cartoon/water/water/04/pic002.dds"
+
+#: [Puzzle9]Frame4
+msgctxt "[Puzzle9]Frame4"
+msgid "data/map/cartoon/water/water/05/pic002.dds"
+msgstr "data/map/cartoon/water/water/05/pic002.dds"
+
+#: [Puzzle9]Frame5
+msgctxt "[Puzzle9]Frame5"
+msgid "data/map/cartoon/water/water/06/pic002.dds"
+msgstr "data/map/cartoon/water/water/06/pic002.dds"
+
+#: [Puzzle9]Frame6
+msgctxt "[Puzzle9]Frame6"
+msgid "data/map/cartoon/water/water/07/pic002.dds"
+msgstr "data/map/cartoon/water/water/07/pic002.dds"
+
+#: [Puzzle9]Frame7
+msgctxt "[Puzzle9]Frame7"
+msgid "data/map/cartoon/water/water/08/pic002.dds"
+msgstr "data/map/cartoon/water/water/08/pic002.dds"
+
+#: [Puzzle9]Frame8
+msgctxt "[Puzzle9]Frame8"
+msgid "data/map/cartoon/water/water/09/pic002.dds"
+msgstr "data/map/cartoon/water/water/09/pic002.dds"
+
+#: [Puzzle9]Frame9
+msgctxt "[Puzzle9]Frame9"
+msgid "data/map/cartoon/water/water/10/pic002.dds"
+msgstr "data/map/cartoon/water/water/10/pic002.dds"
+
+#: [Puzzle9]Frame10
+msgid "data/map/cartoon/water/water/11/pic002.dds"
+msgstr "data/map/cartoon/water/water/11/pic002.dds"
+
+#: [Puzzle9]Frame11
+msgctxt "[Puzzle9]Frame11"
+msgid "data/map/cartoon/water/water/10/pic002.dds"
+msgstr "data/map/cartoon/water/water/10/pic002.dds"
+
+#: [Puzzle9]Frame12
+msgctxt "[Puzzle9]Frame12"
+msgid "data/map/cartoon/water/water/09/pic002.dds"
+msgstr "data/map/cartoon/water/water/09/pic002.dds"
+
+#: [Puzzle9]Frame13
+msgctxt "[Puzzle9]Frame13"
+msgid "data/map/cartoon/water/water/08/pic002.dds"
+msgstr "data/map/cartoon/water/water/08/pic002.dds"
+
+#: [Puzzle9]Frame14
+msgctxt "[Puzzle9]Frame14"
+msgid "data/map/cartoon/water/water/07/pic002.dds"
+msgstr "data/map/cartoon/water/water/07/pic002.dds"
+
+#: [Puzzle9]Frame15
+msgctxt "[Puzzle9]Frame15"
+msgid "data/map/cartoon/water/water/06/pic002.dds"
+msgstr "data/map/cartoon/water/water/06/pic002.dds"
+
+#: [Puzzle9]Frame16
+msgctxt "[Puzzle9]Frame16"
+msgid "data/map/cartoon/water/water/05/pic002.dds"
+msgstr "data/map/cartoon/water/water/05/pic002.dds"
+
+#: [Puzzle9]Frame17
+msgctxt "[Puzzle9]Frame17"
+msgid "data/map/cartoon/water/water/04/pic002.dds"
+msgstr "data/map/cartoon/water/water/04/pic002.dds"
+
+#: [Puzzle9]Frame18
+msgctxt "[Puzzle9]Frame18"
+msgid "data/map/cartoon/water/water/03/pic002.dds"
+msgstr "data/map/cartoon/water/water/03/pic002.dds"
+
+#: [Puzzle9]Frame19
+msgctxt "[Puzzle9]Frame19"
+msgid "data/map/cartoon/water/water/02/pic002.dds"
+msgstr "data/map/cartoon/water/water/02/pic002.dds"
+
+#: [Puzzle9]Frame20
+msgctxt "[Puzzle9]Frame20"
+msgid "data/map/cartoon/water/water/01/pic002.dds"
+msgstr "data/map/cartoon/water/water/01/pic002.dds"
+
+#: [Puzzle10]FrameAmount
+msgctxt "[Puzzle10]FrameAmount"
+msgid "21"
+msgstr "21"
+
+#: [Puzzle10]Frame0
+msgctxt "[Puzzle10]Frame0"
+msgid "data/map/cartoon/water/water/01/pic003.dds"
+msgstr "data/map/cartoon/water/water/01/pic003.dds"
+
+#: [Puzzle10]Frame1
+msgctxt "[Puzzle10]Frame1"
+msgid "data/map/cartoon/water/water/02/pic003.dds"
+msgstr "data/map/cartoon/water/water/02/pic003.dds"
+
+#: [Puzzle10]Frame2
+msgctxt "[Puzzle10]Frame2"
+msgid "data/map/cartoon/water/water/03/pic003.dds"
+msgstr "data/map/cartoon/water/water/03/pic003.dds"
+
+#: [Puzzle10]Frame3
+msgctxt "[Puzzle10]Frame3"
+msgid "data/map/cartoon/water/water/04/pic003.dds"
+msgstr "data/map/cartoon/water/water/04/pic003.dds"
+
+#: [Puzzle10]Frame4
+msgctxt "[Puzzle10]Frame4"
+msgid "data/map/cartoon/water/water/05/pic003.dds"
+msgstr "data/map/cartoon/water/water/05/pic003.dds"
+
+#: [Puzzle10]Frame5
+msgctxt "[Puzzle10]Frame5"
+msgid "data/map/cartoon/water/water/06/pic003.dds"
+msgstr "data/map/cartoon/water/water/06/pic003.dds"
+
+#: [Puzzle10]Frame6
+msgctxt "[Puzzle10]Frame6"
+msgid "data/map/cartoon/water/water/07/pic003.dds"
+msgstr "data/map/cartoon/water/water/07/pic003.dds"
+
+#: [Puzzle10]Frame7
+msgctxt "[Puzzle10]Frame7"
+msgid "data/map/cartoon/water/water/08/pic003.dds"
+msgstr "data/map/cartoon/water/water/08/pic003.dds"
+
+#: [Puzzle10]Frame8
+msgctxt "[Puzzle10]Frame8"
+msgid "data/map/cartoon/water/water/09/pic003.dds"
+msgstr "data/map/cartoon/water/water/09/pic003.dds"
+
+#: [Puzzle10]Frame9
+msgctxt "[Puzzle10]Frame9"
+msgid "data/map/cartoon/water/water/10/pic003.dds"
+msgstr "data/map/cartoon/water/water/10/pic003.dds"
+
+#: [Puzzle10]Frame10
+msgid "data/map/cartoon/water/water/11/pic003.dds"
+msgstr "data/map/cartoon/water/water/11/pic003.dds"
+
+#: [Puzzle10]Frame11
+msgctxt "[Puzzle10]Frame11"
+msgid "data/map/cartoon/water/water/10/pic003.dds"
+msgstr "data/map/cartoon/water/water/10/pic003.dds"
+
+#: [Puzzle10]Frame12
+msgctxt "[Puzzle10]Frame12"
+msgid "data/map/cartoon/water/water/09/pic003.dds"
+msgstr "data/map/cartoon/water/water/09/pic003.dds"
+
+#: [Puzzle10]Frame13
+msgctxt "[Puzzle10]Frame13"
+msgid "data/map/cartoon/water/water/08/pic003.dds"
+msgstr "data/map/cartoon/water/water/08/pic003.dds"
+
+#: [Puzzle10]Frame14
+msgctxt "[Puzzle10]Frame14"
+msgid "data/map/cartoon/water/water/07/pic003.dds"
+msgstr "data/map/cartoon/water/water/07/pic003.dds"
+
+#: [Puzzle10]Frame15
+msgctxt "[Puzzle10]Frame15"
+msgid "data/map/cartoon/water/water/06/pic003.dds"
+msgstr "data/map/cartoon/water/water/06/pic003.dds"
+
+#: [Puzzle10]Frame16
+msgctxt "[Puzzle10]Frame16"
+msgid "data/map/cartoon/water/water/05/pic003.dds"
+msgstr "data/map/cartoon/water/water/05/pic003.dds"
+
+#: [Puzzle10]Frame17
+msgctxt "[Puzzle10]Frame17"
+msgid "data/map/cartoon/water/water/04/pic003.dds"
+msgstr "data/map/cartoon/water/water/04/pic003.dds"
+
+#: [Puzzle10]Frame18
+msgctxt "[Puzzle10]Frame18"
+msgid "data/map/cartoon/water/water/03/pic003.dds"
+msgstr "data/map/cartoon/water/water/03/pic003.dds"
+
+#: [Puzzle10]Frame19
+msgctxt "[Puzzle10]Frame19"
+msgid "data/map/cartoon/water/water/02/pic003.dds"
+msgstr "data/map/cartoon/water/water/02/pic003.dds"
+
+#: [Puzzle10]Frame20
+msgctxt "[Puzzle10]Frame20"
+msgid "data/map/cartoon/water/water/01/pic003.dds"
+msgstr "data/map/cartoon/water/water/01/pic003.dds"
+
+#: [Puzzle11]FrameAmount
+msgctxt "[Puzzle11]FrameAmount"
+msgid "45"
+msgstr "45"
+
+#: [Puzzle11]Frame0
+msgid "data/map/cartoon/water/e/e_Water00.dds"
+msgstr "data/map/cartoon/water/e/e_Water00.dds"
+
+#: [Puzzle11]Frame1
+msgid "data/map/cartoon/water/e/e_Water01.dds"
+msgstr "data/map/cartoon/water/e/e_Water01.dds"
+
+#: [Puzzle11]Frame2
+msgid "data/map/cartoon/water/e/e_Water02.dds"
+msgstr "data/map/cartoon/water/e/e_Water02.dds"
+
+#: [Puzzle11]Frame3
+msgid "data/map/cartoon/water/e/e_Water03.dds"
+msgstr "data/map/cartoon/water/e/e_Water03.dds"
+
+#: [Puzzle11]Frame4
+msgid "data/map/cartoon/water/e/e_Water04.dds"
+msgstr "data/map/cartoon/water/e/e_Water04.dds"
+
+#: [Puzzle11]Frame5
+msgid "data/map/cartoon/water/e/e_Water05.dds"
+msgstr "data/map/cartoon/water/e/e_Water05.dds"
+
+#: [Puzzle11]Frame6
+msgid "data/map/cartoon/water/e/e_Water06.dds"
+msgstr "data/map/cartoon/water/e/e_Water06.dds"
+
+#: [Puzzle11]Frame7
+msgid "data/map/cartoon/water/e/e_Water07.dds"
+msgstr "data/map/cartoon/water/e/e_Water07.dds"
+
+#: [Puzzle11]Frame8
+msgid "data/map/cartoon/water/e/e_Water08.dds"
+msgstr "data/map/cartoon/water/e/e_Water08.dds"
+
+#: [Puzzle11]Frame9
+msgid "data/map/cartoon/water/e/e_Water09.dds"
+msgstr "data/map/cartoon/water/e/e_Water09.dds"
+
+#: [Puzzle11]Frame10
+msgid "data/map/cartoon/water/e/e_Water10.dds"
+msgstr "data/map/cartoon/water/e/e_Water10.dds"
+
+#: [Puzzle11]Frame11
+msgid "data/map/cartoon/water/e/e_Water11.dds"
+msgstr "data/map/cartoon/water/e/e_Water11.dds"
+
+#: [Puzzle11]Frame12
+msgid "data/map/cartoon/water/e/e_Water12.dds"
+msgstr "data/map/cartoon/water/e/e_Water12.dds"
+
+#: [Puzzle11]Frame13
+msgid "data/map/cartoon/water/e/e_Water13.dds"
+msgstr "data/map/cartoon/water/e/e_Water13.dds"
+
+#: [Puzzle11]Frame14
+msgid "data/map/cartoon/water/e/e_Water14.dds"
+msgstr "data/map/cartoon/water/e/e_Water14.dds"
+
+#: [Puzzle11]Frame15
+msgid "data/map/cartoon/water/e/e_Water15.dds"
+msgstr "data/map/cartoon/water/e/e_Water15.dds"
+
+#: [Puzzle11]Frame16
+msgid "data/map/cartoon/water/e/e_Water16.dds"
+msgstr "data/map/cartoon/water/e/e_Water16.dds"
+
+#: [Puzzle11]Frame17
+msgid "data/map/cartoon/water/e/e_Water17.dds"
+msgstr "data/map/cartoon/water/e/e_Water17.dds"
+
+#: [Puzzle11]Frame18
+msgid "data/map/cartoon/water/e/e_Water18.dds"
+msgstr "data/map/cartoon/water/e/e_Water18.dds"
+
+#: [Puzzle11]Frame19
+msgid "data/map/cartoon/water/e/e_Water19.dds"
+msgstr "data/map/cartoon/water/e/e_Water19.dds"
+
+#: [Puzzle11]Frame20
+msgid "data/map/cartoon/water/e/e_Water20.dds"
+msgstr "data/map/cartoon/water/e/e_Water20.dds"
+
+#: [Puzzle11]Frame21
+msgid "data/map/cartoon/water/e/e_Water21.dds"
+msgstr "data/map/cartoon/water/e/e_Water21.dds"
+
+#: [Puzzle11]Frame22
+msgid "data/map/cartoon/water/e/e_Water22.dds"
+msgstr "data/map/cartoon/water/e/e_Water22.dds"
+
+#: [Puzzle11]Frame23
+msgid "data/map/cartoon/water/e/e_Water23.dds"
+msgstr "data/map/cartoon/water/e/e_Water23.dds"
+
+#: [Puzzle11]Frame24
+msgid "data/map/cartoon/water/e/e_Water24.dds"
+msgstr "data/map/cartoon/water/e/e_Water24.dds"
+
+#: [Puzzle11]Frame25
+msgid "data/map/cartoon/water/e/e_Water25.dds"
+msgstr "data/map/cartoon/water/e/e_Water25.dds"
+
+#: [Puzzle11]Frame26
+msgid "data/map/cartoon/water/e/e_Water26.dds"
+msgstr "data/map/cartoon/water/e/e_Water26.dds"
+
+#: [Puzzle11]Frame27
+msgid "data/map/cartoon/water/e/e_Water27.dds"
+msgstr "data/map/cartoon/water/e/e_Water27.dds"
+
+#: [Puzzle11]Frame28
+msgid "data/map/cartoon/water/e/e_Water28.dds"
+msgstr "data/map/cartoon/water/e/e_Water28.dds"
+
+#: [Puzzle11]Frame29
+msgid "data/map/cartoon/water/e/e_Water29.dds"
+msgstr "data/map/cartoon/water/e/e_Water29.dds"
+
+#: [Puzzle11]Frame30
+msgid "data/map/cartoon/water/e/e_Water30.dds"
+msgstr "data/map/cartoon/water/e/e_Water30.dds"
+
+#: [Puzzle11]Frame31
+msgid "data/map/cartoon/water/e/e_Water31.dds"
+msgstr "data/map/cartoon/water/e/e_Water31.dds"
+
+#: [Puzzle11]Frame32
+msgid "data/map/cartoon/water/e/e_Water32.dds"
+msgstr "data/map/cartoon/water/e/e_Water32.dds"
+
+#: [Puzzle11]Frame33
+msgid "data/map/cartoon/water/e/e_Water33.dds"
+msgstr "data/map/cartoon/water/e/e_Water33.dds"
+
+#: [Puzzle11]Frame34
+msgid "data/map/cartoon/water/e/e_Water34.dds"
+msgstr "data/map/cartoon/water/e/e_Water34.dds"
+
+#: [Puzzle11]Frame35
+msgid "data/map/cartoon/water/e/e_Water35.dds"
+msgstr "data/map/cartoon/water/e/e_Water35.dds"
+
+#: [Puzzle11]Frame36
+msgid "data/map/cartoon/water/e/e_Water36.dds"
+msgstr "data/map/cartoon/water/e/e_Water36.dds"
+
+#: [Puzzle11]Frame37
+msgid "data/map/cartoon/water/e/e_Water37.dds"
+msgstr "data/map/cartoon/water/e/e_Water37.dds"
+
+#: [Puzzle11]Frame38
+msgid "data/map/cartoon/water/e/e_Water38.dds"
+msgstr "data/map/cartoon/water/e/e_Water38.dds"
+
+#: [Puzzle11]Frame39
+msgid "data/map/cartoon/water/e/e_Water39.dds"
+msgstr "data/map/cartoon/water/e/e_Water39.dds"
+
+#: [Puzzle11]Frame40
+msgid "data/map/cartoon/water/e/e_Water40.dds"
+msgstr "data/map/cartoon/water/e/e_Water40.dds"
+
+#: [Puzzle11]Frame41
+msgid "data/map/cartoon/water/e/e_Water41.dds"
+msgstr "data/map/cartoon/water/e/e_Water41.dds"
+
+#: [Puzzle11]Frame42
+msgid "data/map/cartoon/water/e/e_Water42.dds"
+msgstr "data/map/cartoon/water/e/e_Water42.dds"
+
+#: [Puzzle11]Frame43
+msgid "data/map/cartoon/water/e/e_Water43.dds"
+msgstr "data/map/cartoon/water/e/e_Water43.dds"
+
+#: [Puzzle11]Frame44
+msgid "data/map/cartoon/water/e/e_Water44.dds"
+msgstr "data/map/cartoon/water/e/e_Water44.dds"

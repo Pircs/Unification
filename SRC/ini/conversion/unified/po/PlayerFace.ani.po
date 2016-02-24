@@ -1,0 +1,3664 @@
+#. extracted from PlayerFace.ini, PlayerFaceCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 21:03+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Face0]FrameAmount
+msgctxt "[Face0]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face0]Frame0
+msgid "data/PlayerFace/0.dds"
+msgstr "data/PlayerFace/0.dds"
+
+#: [Face1]FrameAmount
+msgctxt "[Face1]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face1]Frame0
+msgid "data/PlayerFace/1.dds"
+msgstr "data/PlayerFace/1.dds"
+
+#: [Face2]FrameAmount
+msgctxt "[Face2]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face2]Frame0
+msgid "data/PlayerFace/2.dds"
+msgstr "data/PlayerFace/2.dds"
+
+#: [Face3]FrameAmount
+msgctxt "[Face3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face3]Frame0
+msgid "data/PlayerFace/3.dds"
+msgstr "data/PlayerFace/3.dds"
+
+#: [Face4]FrameAmount
+msgctxt "[Face4]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face4]Frame0
+msgid "data/PlayerFace/4.dds"
+msgstr "data/PlayerFace/4.dds"
+
+#: [Face5]FrameAmount
+msgctxt "[Face5]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face5]Frame0
+msgid "data/PlayerFace/5.dds"
+msgstr "data/PlayerFace/5.dds"
+
+#: [Face6]FrameAmount
+msgctxt "[Face6]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face6]Frame0
+msgid "data/PlayerFace/6.dds"
+msgstr "data/PlayerFace/6.dds"
+
+#: [Face7]FrameAmount
+msgctxt "[Face7]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face7]Frame0
+msgid "data/PlayerFace/7.dds"
+msgstr "data/PlayerFace/7.dds"
+
+#: [Face8]FrameAmount
+msgctxt "[Face8]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face8]Frame0
+msgid "data/PlayerFace/8.dds"
+msgstr "data/PlayerFace/8.dds"
+
+#: [Face9]FrameAmount
+msgctxt "[Face9]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face9]Frame0
+msgid "data/PlayerFace/9.dds"
+msgstr "data/PlayerFace/9.dds"
+
+#: [Face10]FrameAmount
+msgctxt "[Face10]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face10]Frame0
+msgid "data/PlayerFace/10.dds"
+msgstr "data/PlayerFace/10.dds"
+
+#: [Face11]FrameAmount
+msgctxt "[Face11]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face11]Frame0
+msgid "data/PlayerFace/11.dds"
+msgstr "data/PlayerFace/11.dds"
+
+#: [Face12]FrameAmount
+msgctxt "[Face12]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face12]Frame0
+msgid "data/PlayerFace/12.dds"
+msgstr "data/PlayerFace/12.dds"
+
+#: [Face13]FrameAmount
+msgctxt "[Face13]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face13]Frame0
+msgid "data/PlayerFace/13.dds"
+msgstr "data/PlayerFace/13.dds"
+
+#: [Face14]FrameAmount
+msgctxt "[Face14]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face14]Frame0
+msgid "data/PlayerFace/14.dds"
+msgstr "data/PlayerFace/14.dds"
+
+#: [Face15]FrameAmount
+msgctxt "[Face15]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face15]Frame0
+msgid "data/PlayerFace/15.dds"
+msgstr "data/PlayerFace/15.dds"
+
+#: [Face16]FrameAmount
+msgctxt "[Face16]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face16]Frame0
+msgid "data/PlayerFace/16.dds"
+msgstr "data/PlayerFace/16.dds"
+
+#: [Face17]FrameAmount
+msgctxt "[Face17]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face17]Frame0
+msgid "data/PlayerFace/17.dds"
+msgstr "data/PlayerFace/17.dds"
+
+#: [Face18]FrameAmount
+msgctxt "[Face18]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face18]Frame0
+msgid "data/PlayerFace/18.dds"
+msgstr "data/PlayerFace/18.dds"
+
+#: [Face19]FrameAmount
+msgctxt "[Face19]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face19]Frame0
+msgid "data/PlayerFace/19.dds"
+msgstr "data/PlayerFace/19.dds"
+
+#: [Face20]FrameAmount
+msgctxt "[Face20]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face20]Frame0
+msgid "data/PlayerFace/20.dds"
+msgstr "data/PlayerFace/20.dds"
+
+#: [Face21]FrameAmount
+msgctxt "[Face21]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face21]Frame0
+msgid "data/PlayerFace/21.dds"
+msgstr "data/PlayerFace/21.dds"
+
+#: [Face22]FrameAmount
+msgctxt "[Face22]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face22]Frame0
+msgid "data/PlayerFace/22.dds"
+msgstr "data/PlayerFace/22.dds"
+
+#: [Face23]FrameAmount
+msgctxt "[Face23]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face23]Frame0
+msgid "data/PlayerFace/23.dds"
+msgstr "data/PlayerFace/23.dds"
+
+#: [Face24]FrameAmount
+msgctxt "[Face24]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face24]Frame0
+msgid "data/PlayerFace/24.dds"
+msgstr "data/PlayerFace/24.dds"
+
+#: [Face25]FrameAmount
+msgctxt "[Face25]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face25]Frame0
+msgid "data/PlayerFace/25.dds"
+msgstr "data/PlayerFace/25.dds"
+
+#: [Face26]FrameAmount
+msgctxt "[Face26]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face26]Frame0
+msgid "data/PlayerFace/26.dds"
+msgstr "data/PlayerFace/26.dds"
+
+#: [Face27]FrameAmount
+msgctxt "[Face27]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face27]Frame0
+msgid "data/PlayerFace/27.dds"
+msgstr "data/PlayerFace/27.dds"
+
+#: [Face28]FrameAmount
+msgctxt "[Face28]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face28]Frame0
+msgid "data/PlayerFace/28.dds"
+msgstr "data/PlayerFace/28.dds"
+
+#: [Face29]FrameAmount
+msgctxt "[Face29]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face29]Frame0
+msgid "data/PlayerFace/29.dds"
+msgstr "data/PlayerFace/29.dds"
+
+#: [Face30]FrameAmount
+msgctxt "[Face30]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face30]Frame0
+msgid "data/PlayerFace/30.dds"
+msgstr "data/PlayerFace/30.dds"
+
+#: [Face31]FrameAmount
+msgctxt "[Face31]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face31]Frame0
+msgid "data/PlayerFace/31.dds"
+msgstr "data/PlayerFace/31.dds"
+
+#: [Face32]FrameAmount
+msgctxt "[Face32]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face32]Frame0
+msgid "data/PlayerFace/32.dds"
+msgstr "data/PlayerFace/32.dds"
+
+#: [Face33]FrameAmount
+msgctxt "[Face33]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face33]Frame0
+msgid "data/PlayerFace/33.dds"
+msgstr "data/PlayerFace/33.dds"
+
+#: [Face34]FrameAmount
+msgctxt "[Face34]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face34]Frame0
+msgid "data/PlayerFace/34.dds"
+msgstr "data/PlayerFace/34.dds"
+
+#: [Face35]FrameAmount
+msgctxt "[Face35]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face35]Frame0
+msgid "data/PlayerFace/35.dds"
+msgstr "data/PlayerFace/35.dds"
+
+#: [Face36]FrameAmount
+msgctxt "[Face36]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face36]Frame0
+msgid "data/PlayerFace/36.dds"
+msgstr "data/PlayerFace/36.dds"
+
+#: [Face37]FrameAmount
+msgctxt "[Face37]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face37]Frame0
+msgid "data/PlayerFace/37.dds"
+msgstr "data/PlayerFace/37.dds"
+
+#: [Face38]FrameAmount
+msgctxt "[Face38]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face38]Frame0
+msgid "data/PlayerFace/38.dds"
+msgstr "data/PlayerFace/38.dds"
+
+#: [Face39]FrameAmount
+msgctxt "[Face39]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face39]Frame0
+msgid "data/PlayerFace/39.dds"
+msgstr "data/PlayerFace/39.dds"
+
+#: [Face40]FrameAmount
+msgctxt "[Face40]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face40]Frame0
+msgid "data/PlayerFace/40.dds"
+msgstr "data/PlayerFace/40.dds"
+
+#: [Face41]FrameAmount
+msgctxt "[Face41]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face41]Frame0
+msgid "data/PlayerFace/41.dds"
+msgstr "data/PlayerFace/41.dds"
+
+#: [Face42]FrameAmount
+msgctxt "[Face42]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face42]Frame0
+msgid "data/PlayerFace/42.dds"
+msgstr "data/PlayerFace/42.dds"
+
+#: [Face43]FrameAmount
+msgctxt "[Face43]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face43]Frame0
+msgid "data/PlayerFace/43.dds"
+msgstr "data/PlayerFace/43.dds"
+
+#: [Face44]FrameAmount
+msgctxt "[Face44]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face44]Frame0
+msgid "data/PlayerFace/44.dds"
+msgstr "data/PlayerFace/44.dds"
+
+#: [Face45]FrameAmount
+msgctxt "[Face45]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face45]Frame0
+msgid "data/PlayerFace/45.dds"
+msgstr "data/PlayerFace/45.dds"
+
+#: [Face46]FrameAmount
+msgctxt "[Face46]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face46]Frame0
+msgid "data/PlayerFace/46.dds"
+msgstr "data/PlayerFace/46.dds"
+
+#: [Face47]FrameAmount
+msgctxt "[Face47]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face47]Frame0
+msgid "data/PlayerFace/47.dds"
+msgstr "data/PlayerFace/47.dds"
+
+#: [Face48]FrameAmount
+msgctxt "[Face48]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face48]Frame0
+msgid "data/PlayerFace/48.dds"
+msgstr "data/PlayerFace/48.dds"
+
+#: [Face49]FrameAmount
+msgctxt "[Face49]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face49]Frame0
+msgid "data/PlayerFace/49.dds"
+msgstr "data/PlayerFace/49.dds"
+
+#: [Face50]FrameAmount
+msgctxt "[Face50]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face50]Frame0
+msgid "data/PlayerFace/50.dds"
+msgstr "data/PlayerFace/50.dds"
+
+#: [Face51]FrameAmount
+msgctxt "[Face51]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face51]Frame0
+msgid "data/PlayerFace/51.dds"
+msgstr "data/PlayerFace/51.dds"
+
+#: [Face52]FrameAmount
+msgctxt "[Face52]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face52]Frame0
+msgid "data/PlayerFace/52.dds"
+msgstr "data/PlayerFace/52.dds"
+
+#: [Face53]FrameAmount
+msgctxt "[Face53]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face53]Frame0
+msgid "data/PlayerFace/53.dds"
+msgstr "data/PlayerFace/53.dds"
+
+#: [Face54]FrameAmount
+msgctxt "[Face54]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face54]Frame0
+msgid "data/PlayerFace/54.dds"
+msgstr "data/PlayerFace/54.dds"
+
+#: [Face55]FrameAmount
+msgctxt "[Face55]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face55]Frame0
+msgid "data/PlayerFace/55.dds"
+msgstr "data/PlayerFace/55.dds"
+
+#: [Face56]FrameAmount
+msgctxt "[Face56]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face56]Frame0
+msgid "data/PlayerFace/56.dds"
+msgstr "data/PlayerFace/56.dds"
+
+#: [Face57]FrameAmount
+msgctxt "[Face57]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face57]Frame0
+msgid "data/PlayerFace/57.dds"
+msgstr "data/PlayerFace/57.dds"
+
+#: [Face58]FrameAmount
+msgctxt "[Face58]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face58]Frame0
+msgid "data/PlayerFace/58.dds"
+msgstr "data/PlayerFace/58.dds"
+
+#: [Face59]FrameAmount
+msgctxt "[Face59]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face59]Frame0
+msgid "data/PlayerFace/59.dds"
+msgstr "data/PlayerFace/59.dds"
+
+#: [Face60]FrameAmount
+msgctxt "[Face60]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face60]Frame0
+msgid "data/PlayerFace/60.dds"
+msgstr "data/PlayerFace/60.dds"
+
+#: [Face61]FrameAmount
+msgctxt "[Face61]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face61]Frame0
+msgid "data/PlayerFace/61.dds"
+msgstr "data/PlayerFace/61.dds"
+
+#: [Face62]FrameAmount
+msgctxt "[Face62]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face62]Frame0
+msgid "data/PlayerFace/62.dds"
+msgstr "data/PlayerFace/62.dds"
+
+#: [Face63]FrameAmount
+msgctxt "[Face63]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face63]Frame0
+msgid "data/PlayerFace/63.dds"
+msgstr "data/PlayerFace/63.dds"
+
+#: [Face64]FrameAmount
+msgctxt "[Face64]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face64]Frame0
+msgid "data/PlayerFace/64.dds"
+msgstr "data/PlayerFace/64.dds"
+
+#: [Face65]FrameAmount
+msgctxt "[Face65]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face65]Frame0
+msgid "data/PlayerFace/65.dds"
+msgstr "data/PlayerFace/65.dds"
+
+#: [Face66]FrameAmount
+msgctxt "[Face66]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face66]Frame0
+msgid "data/PlayerFace/66.dds"
+msgstr "data/PlayerFace/66.dds"
+
+#: [Face67]FrameAmount
+msgctxt "[Face67]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face67]Frame0
+msgid "data/PlayerFace/67.dds"
+msgstr "data/PlayerFace/67.dds"
+
+#: [Face68]FrameAmount
+msgctxt "[Face68]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face68]Frame0
+msgid "data/PlayerFace/68.dds"
+msgstr "data/PlayerFace/68.dds"
+
+#: [Face69]FrameAmount
+msgctxt "[Face69]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face69]Frame0
+msgid "data/PlayerFace/69.dds"
+msgstr "data/PlayerFace/69.dds"
+
+#: [Face70]FrameAmount
+msgctxt "[Face70]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face70]Frame0
+msgid "data/PlayerFace/70.dds"
+msgstr "data/PlayerFace/70.dds"
+
+#: [Face71]FrameAmount
+msgctxt "[Face71]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face71]Frame0
+msgid "data/PlayerFace/71.dds"
+msgstr "data/PlayerFace/71.dds"
+
+#: [Face72]FrameAmount
+msgctxt "[Face72]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face72]Frame0
+msgid "data/PlayerFace/72.dds"
+msgstr "data/PlayerFace/72.dds"
+
+#: [Face73]FrameAmount
+msgctxt "[Face73]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face73]Frame0
+msgid "data/PlayerFace/73.dds"
+msgstr "data/PlayerFace/73.dds"
+
+#: [Face74]FrameAmount
+msgctxt "[Face74]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face74]Frame0
+msgid "data/PlayerFace/74.dds"
+msgstr "data/PlayerFace/74.dds"
+
+#: [Face75]FrameAmount
+msgctxt "[Face75]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face75]Frame0
+msgid "data/PlayerFace/75.dds"
+msgstr "data/PlayerFace/75.dds"
+
+#: [Face76]FrameAmount
+msgctxt "[Face76]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face76]Frame0
+msgid "data/PlayerFace/76.dds"
+msgstr "data/PlayerFace/76.dds"
+
+#: [Face77]FrameAmount
+msgctxt "[Face77]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face77]Frame0
+msgid "data/PlayerFace/77.dds"
+msgstr "data/PlayerFace/77.dds"
+
+#: [Face78]FrameAmount
+msgctxt "[Face78]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face78]Frame0
+msgid "data/PlayerFace/78.dds"
+msgstr "data/PlayerFace/78.dds"
+
+#: [Face79]FrameAmount
+msgctxt "[Face79]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face79]Frame0
+msgid "data/PlayerFace/79.dds"
+msgstr "data/PlayerFace/79.dds"
+
+#: [Face80]FrameAmount
+msgctxt "[Face80]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face80]Frame0
+msgid "data/PlayerFace/80.dds"
+msgstr "data/PlayerFace/80.dds"
+
+#: [Face81]FrameAmount
+msgctxt "[Face81]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face81]Frame0
+msgid "data/PlayerFace/81.dds"
+msgstr "data/PlayerFace/81.dds"
+
+#: [Face82]FrameAmount
+msgctxt "[Face82]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face82]Frame0
+msgid "data/PlayerFace/82.dds"
+msgstr "data/PlayerFace/82.dds"
+
+#: [Face83]FrameAmount
+msgctxt "[Face83]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face83]Frame0
+msgid "data/PlayerFace/83.dds"
+msgstr "data/PlayerFace/83.dds"
+
+#: [Face84]FrameAmount
+msgctxt "[Face84]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face84]Frame0
+msgid "data/PlayerFace/84.dds"
+msgstr "data/PlayerFace/84.dds"
+
+#: [Face85]FrameAmount
+msgctxt "[Face85]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face85]Frame0
+msgid "data/PlayerFace/85.dds"
+msgstr "data/PlayerFace/85.dds"
+
+#: [Face86]FrameAmount
+msgctxt "[Face86]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face86]Frame0
+msgid "data/PlayerFace/86.dds"
+msgstr "data/PlayerFace/86.dds"
+
+#: [Face87]FrameAmount
+msgctxt "[Face87]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face87]Frame0
+msgid "data/PlayerFace/87.dds"
+msgstr "data/PlayerFace/87.dds"
+
+#: [Face88]FrameAmount
+msgctxt "[Face88]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face88]Frame0
+msgid "data/PlayerFace/88.dds"
+msgstr "data/PlayerFace/88.dds"
+
+#: [Face89]FrameAmount
+msgctxt "[Face89]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face89]Frame0
+msgid "data/PlayerFace/89.dds"
+msgstr "data/PlayerFace/89.dds"
+
+#: [Face90]FrameAmount
+msgctxt "[Face90]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face90]Frame0
+msgid "data/PlayerFace/90.dds"
+msgstr "data/PlayerFace/90.dds"
+
+#: [Face91]FrameAmount
+msgctxt "[Face91]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face91]Frame0
+msgid "data/PlayerFace/91.dds"
+msgstr "data/PlayerFace/91.dds"
+
+#: [Face92]FrameAmount
+msgctxt "[Face92]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face92]Frame0
+msgid "data/PlayerFace/92.dds"
+msgstr "data/PlayerFace/92.dds"
+
+#: [Face93]FrameAmount
+msgctxt "[Face93]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face93]Frame0
+msgid "data/PlayerFace/93.dds"
+msgstr "data/PlayerFace/93.dds"
+
+#: [Face94]FrameAmount
+msgctxt "[Face94]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face94]Frame0
+msgid "data/PlayerFace/94.dds"
+msgstr "data/PlayerFace/94.dds"
+
+#: [Face95]FrameAmount
+msgctxt "[Face95]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face95]Frame0
+msgid "data/PlayerFace/95.dds"
+msgstr "data/PlayerFace/95.dds"
+
+#: [Face96]FrameAmount
+msgctxt "[Face96]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face96]Frame0
+msgid "data/PlayerFace/96.dds"
+msgstr "data/PlayerFace/96.dds"
+
+#: [Face97]FrameAmount
+msgctxt "[Face97]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face97]Frame0
+msgid "data/PlayerFace/97.dds"
+msgstr "data/PlayerFace/97.dds"
+
+#: [Face98]FrameAmount
+msgctxt "[Face98]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face98]Frame0
+msgid "data/PlayerFace/98.dds"
+msgstr "data/PlayerFace/98.dds"
+
+#: [Face99]FrameAmount
+msgctxt "[Face99]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face99]Frame0
+msgid "data/PlayerFace/99.dds"
+msgstr "data/PlayerFace/99.dds"
+
+#: [Face100]FrameAmount
+msgctxt "[Face100]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face100]Frame0
+msgid "data/PlayerFace/100.dds"
+msgstr "data/PlayerFace/100.dds"
+
+#: [Face101]FrameAmount
+msgctxt "[Face101]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face101]Frame0
+msgid "data/PlayerFace/101.dds"
+msgstr "data/PlayerFace/101.dds"
+
+#: [Face102]FrameAmount
+msgctxt "[Face102]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face102]Frame0
+msgid "data/PlayerFace/102.dds"
+msgstr "data/PlayerFace/102.dds"
+
+#: [Face103]FrameAmount
+msgctxt "[Face103]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face103]Frame0
+msgid "data/PlayerFace/103.dds"
+msgstr "data/PlayerFace/103.dds"
+
+#: [Face104]FrameAmount
+msgctxt "[Face104]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face104]Frame0
+msgid "data/PlayerFace/104.dds"
+msgstr "data/PlayerFace/104.dds"
+
+#: [Face105]FrameAmount
+msgctxt "[Face105]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face105]Frame0
+msgid "data/PlayerFace/105.dds"
+msgstr "data/PlayerFace/105.dds"
+
+#: [Face106]FrameAmount
+msgctxt "[Face106]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face106]Frame0
+msgid "data/PlayerFace/106.dds"
+msgstr "data/PlayerFace/106.dds"
+
+#: [Face107]FrameAmount
+msgctxt "[Face107]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face107]Frame0
+msgid "data/PlayerFace/107.dds"
+msgstr "data/PlayerFace/107.dds"
+
+#: [Face108]FrameAmount
+msgctxt "[Face108]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face108]Frame0
+msgctxt "[Face108]Frame0"
+msgid "data/PlayerFace/296.dds"
+msgstr "data/PlayerFace/296.dds"
+
+#: [Face109]FrameAmount
+msgctxt "[Face109]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face109]Frame0
+msgctxt "[Face109]Frame0"
+msgid "data/PlayerFace/109.dds"
+msgstr "data/PlayerFace/109.dds"
+
+#: [Face110]FrameAmount
+msgctxt "[Face110]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face110]Frame0
+msgctxt "[Face110]Frame0"
+msgid "data/PlayerFace/110.dds"
+msgstr "data/PlayerFace/110.dds"
+
+#: [Face111]FrameAmount
+msgctxt "[Face111]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face111]Frame0
+msgctxt "[Face111]Frame0"
+msgid "data/PlayerFace/111.dds"
+msgstr "data/PlayerFace/111.dds"
+
+#: [Face112]FrameAmount
+msgctxt "[Face112]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face112]Frame0
+msgctxt "[Face112]Frame0"
+msgid "data/PlayerFace/112.dds"
+msgstr "data/PlayerFace/112.dds"
+
+#: [Face113]FrameAmount
+msgctxt "[Face113]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face113]Frame0
+msgctxt "[Face113]Frame0"
+msgid "data/PlayerFace/113.dds"
+msgstr "data/PlayerFace/113.dds"
+
+#: [Face114]FrameAmount
+msgctxt "[Face114]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face114]Frame0
+msgctxt "[Face114]Frame0"
+msgid "data/PlayerFace/109.dds"
+msgstr "data/PlayerFace/109.dds"
+
+#: [Face115]FrameAmount
+msgctxt "[Face115]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face115]Frame0
+msgctxt "[Face115]Frame0"
+msgid "data/PlayerFace/110.dds"
+msgstr "data/PlayerFace/110.dds"
+
+#: [Face116]FrameAmount
+msgctxt "[Face116]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face116]Frame0
+msgctxt "[Face116]Frame0"
+msgid "data/PlayerFace/111.dds"
+msgstr "data/PlayerFace/111.dds"
+
+#: [Face117]FrameAmount
+msgctxt "[Face117]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face117]Frame0
+msgctxt "[Face117]Frame0"
+msgid "data/PlayerFace/112.dds"
+msgstr "data/PlayerFace/112.dds"
+
+#: [Face118]FrameAmount
+msgctxt "[Face118]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face118]Frame0
+msgctxt "[Face118]Frame0"
+msgid "data/PlayerFace/113.dds"
+msgstr "data/PlayerFace/113.dds"
+
+#: [Face119]FrameAmount
+msgctxt "[Face119]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face119]Frame0
+msgctxt "[Face119]Frame0"
+msgid "data/PlayerFace/109.dds"
+msgstr "data/PlayerFace/109.dds"
+
+#: [Face120]FrameAmount
+msgctxt "[Face120]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face120]Frame0
+msgctxt "[Face120]Frame0"
+msgid "data/PlayerFace/110.dds"
+msgstr "data/PlayerFace/110.dds"
+
+#: [Face121]FrameAmount
+msgctxt "[Face121]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face121]Frame0
+msgctxt "[Face121]Frame0"
+msgid "data/PlayerFace/111.dds"
+msgstr "data/PlayerFace/111.dds"
+
+#: [Face122]FrameAmount
+msgctxt "[Face122]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face122]Frame0
+msgctxt "[Face122]Frame0"
+msgid "data/PlayerFace/112.dds"
+msgstr "data/PlayerFace/112.dds"
+
+#: [Face123]FrameAmount
+msgctxt "[Face123]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face123]Frame0
+msgctxt "[Face123]Frame0"
+msgid "data/PlayerFace/113.dds"
+msgstr "data/PlayerFace/113.dds"
+
+#: [Face124]FrameAmount
+msgctxt "[Face124]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face124]Frame0
+msgctxt "[Face124]Frame0"
+msgid "data/PlayerFace/109.dds"
+msgstr "data/PlayerFace/109.dds"
+
+#: [Face125]FrameAmount
+msgctxt "[Face125]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face125]Frame0
+msgctxt "[Face125]Frame0"
+msgid "data/PlayerFace/110.dds"
+msgstr "data/PlayerFace/110.dds"
+
+#: [Face126]FrameAmount
+msgctxt "[Face126]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face126]Frame0
+msgctxt "[Face126]Frame0"
+msgid "data/PlayerFace/111.dds"
+msgstr "data/PlayerFace/111.dds"
+
+#: [Face127]FrameAmount
+msgctxt "[Face127]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face127]Frame0
+msgctxt "[Face127]Frame0"
+msgid "data/PlayerFace/112.dds"
+msgstr "data/PlayerFace/112.dds"
+
+#: [Face128]FrameAmount
+msgctxt "[Face128]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face128]Frame0
+msgctxt "[Face128]Frame0"
+msgid "data/PlayerFace/113.dds"
+msgstr "data/PlayerFace/113.dds"
+
+#: [Face129]FrameAmount
+msgctxt "[Face129]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face129]Frame0
+msgid "data/PlayerFace/129.dds"
+msgstr "data/PlayerFace/129.dds"
+
+#: [Face130]FrameAmount
+msgctxt "[Face130]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face130]Frame0
+msgid "data/PlayerFace/130.dds"
+msgstr "data/PlayerFace/130.dds"
+
+#: [Face131]FrameAmount
+msgctxt "[Face131]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face131]Frame0
+msgid "data/PlayerFace/131.dds"
+msgstr "data/PlayerFace/131.dds"
+
+#: [Face132]FrameAmount
+msgctxt "[Face132]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face132]Frame0
+msgid "data/PlayerFace/132.dds"
+msgstr "data/PlayerFace/132.dds"
+
+#: [Face133]FrameAmount
+msgctxt "[Face133]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face133]Frame0
+msgid "data/PlayerFace/133.dds"
+msgstr "data/PlayerFace/133.dds"
+
+#: [Face134]FrameAmount
+msgctxt "[Face134]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face134]Frame0
+msgid "data/PlayerFace/134.dds"
+msgstr "data/PlayerFace/134.dds"
+
+#: [Face135]FrameAmount
+msgctxt "[Face135]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face135]Frame0
+msgid "data/PlayerFace/135.dds"
+msgstr "data/PlayerFace/135.dds"
+
+#: [Face136]FrameAmount
+msgctxt "[Face136]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face136]Frame0
+msgid "data/PlayerFace/136.dds"
+msgstr "data/PlayerFace/136.dds"
+
+#: [Face137]FrameAmount
+msgctxt "[Face137]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face137]Frame0
+msgid "data/PlayerFace/137.dds"
+msgstr "data/PlayerFace/137.dds"
+
+#: [Face138]FrameAmount
+msgctxt "[Face138]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face138]Frame0
+msgid "data/PlayerFace/138.dds"
+msgstr "data/PlayerFace/138.dds"
+
+#: [Face139]FrameAmount
+msgctxt "[Face139]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face139]Frame0
+msgid "data/PlayerFace/139.dds"
+msgstr "data/PlayerFace/139.dds"
+
+#: [Face140]FrameAmount
+msgctxt "[Face140]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face140]Frame0
+msgid "data/PlayerFace/140.dds"
+msgstr "data/PlayerFace/140.dds"
+
+#: [Face141]FrameAmount
+msgctxt "[Face141]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face141]Frame0
+msgid "data/PlayerFace/141.dds"
+msgstr "data/PlayerFace/141.dds"
+
+#: [Face142]FrameAmount
+msgctxt "[Face142]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face142]Frame0
+msgid "data/PlayerFace/142.dds"
+msgstr "data/PlayerFace/142.dds"
+
+#: [Face143]FrameAmount
+msgctxt "[Face143]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face143]Frame0
+msgid "data/PlayerFace/143.dds"
+msgstr "data/PlayerFace/143.dds"
+
+#: [Face144]FrameAmount
+msgctxt "[Face144]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face144]Frame0
+msgid "data/PlayerFace/144.dds"
+msgstr "data/PlayerFace/144.dds"
+
+#: [Face145]FrameAmount
+msgctxt "[Face145]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face145]Frame0
+msgid "data/PlayerFace/145.dds"
+msgstr "data/PlayerFace/145.dds"
+
+#: [Face146]FrameAmount
+msgctxt "[Face146]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face146]Frame0
+msgid "data/PlayerFace/146.dds"
+msgstr "data/PlayerFace/146.dds"
+
+#: [Face147]FrameAmount
+msgctxt "[Face147]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face147]Frame0
+msgid "data/PlayerFace/147.dds"
+msgstr "data/PlayerFace/147.dds"
+
+#: [Face148]FrameAmount
+msgctxt "[Face148]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face148]Frame0
+msgid "data/PlayerFace/148.dds"
+msgstr "data/PlayerFace/148.dds"
+
+#: [Face149]FrameAmount
+msgctxt "[Face149]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face149]Frame0
+msgid "data/PlayerFace/149.dds"
+msgstr "data/PlayerFace/149.dds"
+
+#: [Face150]FrameAmount
+msgctxt "[Face150]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face150]Frame0
+msgid "data/PlayerFace/150.dds"
+msgstr "data/PlayerFace/150.dds"
+
+#: [Face151]FrameAmount
+msgctxt "[Face151]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face151]Frame0
+msgid "data/PlayerFace/151.dds"
+msgstr "data/PlayerFace/151.dds"
+
+#: [Face152]FrameAmount
+msgctxt "[Face152]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face152]Frame0
+msgid "data/PlayerFace/152.dds"
+msgstr "data/PlayerFace/152.dds"
+
+#: [Face153]FrameAmount
+msgctxt "[Face153]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face153]Frame0
+msgid "data/PlayerFace/153.dds"
+msgstr "data/PlayerFace/153.dds"
+
+#: [Face154]FrameAmount
+msgctxt "[Face154]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face154]Frame0
+msgid "data/PlayerFace/154.dds"
+msgstr "data/PlayerFace/154.dds"
+
+#: [Face155]FrameAmount
+msgctxt "[Face155]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face155]Frame0
+msgid "data/PlayerFace/155.dds"
+msgstr "data/PlayerFace/155.dds"
+
+#: [Face156]FrameAmount
+msgctxt "[Face156]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face156]Frame0
+msgid "data/PlayerFace/156.dds"
+msgstr "data/PlayerFace/156.dds"
+
+#: [Face157]FrameAmount
+msgctxt "[Face157]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face157]Frame0
+msgid "data/PlayerFace/157.dds"
+msgstr "data/PlayerFace/157.dds"
+
+#: [Face158]FrameAmount
+msgctxt "[Face158]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face158]Frame0
+msgid "data/PlayerFace/158.dds"
+msgstr "data/PlayerFace/158.dds"
+
+#: [Face159]FrameAmount
+msgctxt "[Face159]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face159]Frame0
+msgid "data/PlayerFace/159.dds"
+msgstr "data/PlayerFace/159.dds"
+
+#: [Face160]FrameAmount
+msgctxt "[Face160]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face160]Frame0
+msgid "data/PlayerFace/160.dds"
+msgstr "data/PlayerFace/160.dds"
+
+#: [Face161]FrameAmount
+msgctxt "[Face161]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face161]Frame0
+msgid "data/PlayerFace/161.dds"
+msgstr "data/PlayerFace/161.dds"
+
+#: [Face162]FrameAmount
+msgctxt "[Face162]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face162]Frame0
+msgid "data/PlayerFace/162.dds"
+msgstr "data/PlayerFace/162.dds"
+
+#: [Face163]FrameAmount
+msgctxt "[Face163]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face163]Frame0
+msgid "data/PlayerFace/163.dds"
+msgstr "data/PlayerFace/163.dds"
+
+#: [Face164]FrameAmount
+msgctxt "[Face164]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face164]Frame0
+msgid "data/PlayerFace/164.dds"
+msgstr "data/PlayerFace/164.dds"
+
+#: [Face165]FrameAmount
+msgctxt "[Face165]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face165]Frame0
+msgid "data/PlayerFace/165.dds"
+msgstr "data/PlayerFace/165.dds"
+
+#: [Face166]FrameAmount
+msgctxt "[Face166]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face166]Frame0
+msgid "data/PlayerFace/166.dds"
+msgstr "data/PlayerFace/166.dds"
+
+#: [Face167]FrameAmount
+msgctxt "[Face167]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face167]Frame0
+msgid "data/PlayerFace/167.dds"
+msgstr "data/PlayerFace/167.dds"
+
+#: [Face168]FrameAmount
+msgctxt "[Face168]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face168]Frame0
+msgid "data/PlayerFace/168.dds"
+msgstr "data/PlayerFace/168.dds"
+
+#: [Face169]FrameAmount
+msgctxt "[Face169]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face169]Frame0
+msgid "data/PlayerFace/169.dds"
+msgstr "data/PlayerFace/169.dds"
+
+#: [Face170]FrameAmount
+msgctxt "[Face170]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face170]Frame0
+msgid "data/PlayerFace/170.dds"
+msgstr "data/PlayerFace/170.dds"
+
+#: [Face171]FrameAmount
+msgctxt "[Face171]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face171]Frame0
+msgid "data/PlayerFace/171.dds"
+msgstr "data/PlayerFace/171.dds"
+
+#: [Face172]FrameAmount
+msgctxt "[Face172]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face172]Frame0
+msgid "data/PlayerFace/172.dds"
+msgstr "data/PlayerFace/172.dds"
+
+#: [Face173]FrameAmount
+msgctxt "[Face173]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face173]Frame0
+msgid "data/PlayerFace/173.dds"
+msgstr "data/PlayerFace/173.dds"
+
+#: [Face174]FrameAmount
+msgctxt "[Face174]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face174]Frame0
+msgid "data/PlayerFace/174.dds"
+msgstr "data/PlayerFace/174.dds"
+
+#: [Face175]FrameAmount
+msgctxt "[Face175]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face175]Frame0
+msgid "data/PlayerFace/175.dds"
+msgstr "data/PlayerFace/175.dds"
+
+#: [Face176]FrameAmount
+msgctxt "[Face176]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face176]Frame0
+msgid "data/PlayerFace/176.dds"
+msgstr "data/PlayerFace/176.dds"
+
+#: [Face177]FrameAmount
+msgctxt "[Face177]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face177]Frame0
+msgid "data/PlayerFace/177.dds"
+msgstr "data/PlayerFace/177.dds"
+
+#: [Face178]FrameAmount
+msgctxt "[Face178]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face178]Frame0
+msgid "data/PlayerFace/178.dds"
+msgstr "data/PlayerFace/178.dds"
+
+#: [Face179]FrameAmount
+msgctxt "[Face179]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face179]Frame0
+msgid "data/PlayerFace/179.dds"
+msgstr "data/PlayerFace/179.dds"
+
+#: [Face180]FrameAmount
+msgctxt "[Face180]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face180]Frame0
+msgid "data/PlayerFace/180.dds"
+msgstr "data/PlayerFace/180.dds"
+
+#: [Face181]FrameAmount
+msgctxt "[Face181]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face181]Frame0
+msgid "data/PlayerFace/181.dds"
+msgstr "data/PlayerFace/181.dds"
+
+#: [Face182]FrameAmount
+msgctxt "[Face182]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face182]Frame0
+msgid "data/PlayerFace/182.dds"
+msgstr "data/PlayerFace/182.dds"
+
+#: [Face183]FrameAmount
+msgctxt "[Face183]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face183]Frame0
+msgid "data/PlayerFace/183.dds"
+msgstr "data/PlayerFace/183.dds"
+
+#: [Face184]FrameAmount
+msgctxt "[Face184]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face184]Frame0
+msgid "data/PlayerFace/184.dds"
+msgstr "data/PlayerFace/184.dds"
+
+#: [Face185]FrameAmount
+msgctxt "[Face185]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face185]Frame0
+msgid "data/PlayerFace/185.dds"
+msgstr "data/PlayerFace/185.dds"
+
+#: [Face186]FrameAmount
+msgctxt "[Face186]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face186]Frame0
+msgid "data/PlayerFace/186.dds"
+msgstr "data/PlayerFace/186.dds"
+
+#: [Face187]FrameAmount
+msgctxt "[Face187]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face187]Frame0
+msgid "data/PlayerFace/187.dds"
+msgstr "data/PlayerFace/187.dds"
+
+#: [Face188]FrameAmount
+msgctxt "[Face188]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face188]Frame0
+msgid "data/PlayerFace/188.dds"
+msgstr "data/PlayerFace/188.dds"
+
+#: [Face189]FrameAmount
+msgctxt "[Face189]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face189]Frame0
+msgid "data/PlayerFace/189.dds"
+msgstr "data/PlayerFace/189.dds"
+
+#: [Face190]FrameAmount
+msgctxt "[Face190]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face190]Frame0
+msgid "data/PlayerFace/190.dds"
+msgstr "data/PlayerFace/190.dds"
+
+#: [Face191]FrameAmount
+msgctxt "[Face191]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face191]Frame0
+msgid "data/PlayerFace/191.dds"
+msgstr "data/PlayerFace/191.dds"
+
+#: [Face192]FrameAmount
+msgctxt "[Face192]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face192]Frame0
+msgid "data/PlayerFace/192.dds"
+msgstr "data/PlayerFace/192.dds"
+
+#: [Face193]FrameAmount
+msgctxt "[Face193]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face193]Frame0
+msgid "data/PlayerFace/193.dds"
+msgstr "data/PlayerFace/193.dds"
+
+#: [Face194]FrameAmount
+msgctxt "[Face194]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face194]Frame0
+msgid "data/PlayerFace/194.dds"
+msgstr "data/PlayerFace/194.dds"
+
+#: [Face195]FrameAmount
+msgctxt "[Face195]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face195]Frame0
+msgid "data/PlayerFace/195.dds"
+msgstr "data/PlayerFace/195.dds"
+
+#: [Face196]FrameAmount
+msgctxt "[Face196]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face196]Frame0
+msgid "data/PlayerFace/196.dds"
+msgstr "data/PlayerFace/196.dds"
+
+#: [Face197]FrameAmount
+msgctxt "[Face197]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face197]Frame0
+msgid "data/PlayerFace/197.dds"
+msgstr "data/PlayerFace/197.dds"
+
+#: [Face198]FrameAmount
+msgctxt "[Face198]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face198]Frame0
+msgid "data/PlayerFace/198.dds"
+msgstr "data/PlayerFace/198.dds"
+
+#: [Face199]FrameAmount
+msgctxt "[Face199]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face199]Frame0
+msgid "data/PlayerFace/199.dds"
+msgstr "data/PlayerFace/199.dds"
+
+#: [Face200]FrameAmount
+msgctxt "[Face200]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face200]Frame0
+msgid "data/PlayerFace/200.dds"
+msgstr "data/PlayerFace/200.dds"
+
+#: [Face201]FrameAmount
+msgctxt "[Face201]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face201]Frame0
+msgid "data/PlayerFace/201.dds"
+msgstr "data/PlayerFace/201.dds"
+
+#: [Face202]FrameAmount
+msgctxt "[Face202]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face202]Frame0
+msgid "data/PlayerFace/202.dds"
+msgstr "data/PlayerFace/202.dds"
+
+#: [Face203]FrameAmount
+msgctxt "[Face203]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face203]Frame0
+msgid "data/PlayerFace/203.dds"
+msgstr "data/PlayerFace/203.dds"
+
+#: [Face204]FrameAmount
+msgctxt "[Face204]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face204]Frame0
+msgid "data/PlayerFace/204.dds"
+msgstr "data/PlayerFace/204.dds"
+
+#: [Face205]FrameAmount
+msgctxt "[Face205]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face205]Frame0
+msgid "data/PlayerFace/205.dds"
+msgstr "data/PlayerFace/205.dds"
+
+#: [Face206]FrameAmount
+msgctxt "[Face206]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face206]Frame0
+msgid "data/PlayerFace/206.dds"
+msgstr "data/PlayerFace/206.dds"
+
+#: [Face207]FrameAmount
+msgctxt "[Face207]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face207]Frame0
+msgid "data/PlayerFace/207.dds"
+msgstr "data/PlayerFace/207.dds"
+
+#: [Face208]FrameAmount
+msgctxt "[Face208]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face208]Frame0
+msgid "data/PlayerFace/208.dds"
+msgstr "data/PlayerFace/208.dds"
+
+#: [Face209]FrameAmount
+msgctxt "[Face209]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face209]Frame0
+msgid "data/PlayerFace/209.dds"
+msgstr "data/PlayerFace/209.dds"
+
+#: [Face210]FrameAmount
+msgctxt "[Face210]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face210]Frame0
+msgid "data/PlayerFace/210.dds"
+msgstr "data/PlayerFace/210.dds"
+
+#: [Face211]FrameAmount
+msgctxt "[Face211]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face211]Frame0
+msgid "data/PlayerFace/211.dds"
+msgstr "data/PlayerFace/211.dds"
+
+#: [Face212]FrameAmount
+msgctxt "[Face212]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face212]Frame0
+msgid "data/PlayerFace/212.dds"
+msgstr "data/PlayerFace/212.dds"
+
+#: [Face213]FrameAmount
+msgctxt "[Face213]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face213]Frame0
+msgid "data/PlayerFace/213.dds"
+msgstr "data/PlayerFace/213.dds"
+
+#: [Face214]FrameAmount
+msgctxt "[Face214]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face214]Frame0
+msgid "data/PlayerFace/214.dds"
+msgstr "data/PlayerFace/214.dds"
+
+#: [Face215]FrameAmount
+msgctxt "[Face215]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face215]Frame0
+msgid "data/PlayerFace/215.dds"
+msgstr "data/PlayerFace/215.dds"
+
+#: [Face216]FrameAmount
+msgctxt "[Face216]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face216]Frame0
+msgid "data/PlayerFace/216.dds"
+msgstr "data/PlayerFace/216.dds"
+
+#: [Face217]FrameAmount
+msgctxt "[Face217]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face217]Frame0
+msgid "data/PlayerFace/217.dds"
+msgstr "data/PlayerFace/217.dds"
+
+#: [Face218]FrameAmount
+msgctxt "[Face218]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face218]Frame0
+msgid "data/PlayerFace/218.dds"
+msgstr "data/PlayerFace/218.dds"
+
+#: [Face219]FrameAmount
+msgctxt "[Face219]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face219]Frame0
+msgid "data/PlayerFace/219.dds"
+msgstr "data/PlayerFace/219.dds"
+
+#: [Face220]FrameAmount
+msgctxt "[Face220]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face220]Frame0
+msgid "data/PlayerFace/220.dds"
+msgstr "data/PlayerFace/220.dds"
+
+#: [Face221]FrameAmount
+msgctxt "[Face221]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face221]Frame0
+msgid "data/PlayerFace/221.dds"
+msgstr "data/PlayerFace/221.dds"
+
+#: [Face222]FrameAmount
+msgctxt "[Face222]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face222]Frame0
+msgid "data/PlayerFace/222.dds"
+msgstr "data/PlayerFace/222.dds"
+
+#: [Face223]FrameAmount
+msgctxt "[Face223]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face223]Frame0
+msgid "data/PlayerFace/223.dds"
+msgstr "data/PlayerFace/223.dds"
+
+#: [Face224]FrameAmount
+msgctxt "[Face224]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face224]Frame0
+msgid "data/PlayerFace/224.dds"
+msgstr "data/PlayerFace/224.dds"
+
+#: [Face225]FrameAmount
+msgctxt "[Face225]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face225]Frame0
+msgid "data/PlayerFace/225.dds"
+msgstr "data/PlayerFace/225.dds"
+
+#: [Face226]FrameAmount
+msgctxt "[Face226]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face226]Frame0
+msgid "data/PlayerFace/226.dds"
+msgstr "data/PlayerFace/226.dds"
+
+#: [Face227]FrameAmount
+msgctxt "[Face227]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face227]Frame0
+msgid "data/PlayerFace/227.dds"
+msgstr "data/PlayerFace/227.dds"
+
+#: [Face228]FrameAmount
+msgctxt "[Face228]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face228]Frame0
+msgid "data/PlayerFace/228.dds"
+msgstr "data/PlayerFace/228.dds"
+
+#: [Face229]FrameAmount
+msgctxt "[Face229]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face229]Frame0
+msgid "data/PlayerFace/229.dds"
+msgstr "data/PlayerFace/229.dds"
+
+#: [Face230]FrameAmount
+msgctxt "[Face230]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face230]Frame0
+msgid "data/PlayerFace/230.dds"
+msgstr "data/PlayerFace/230.dds"
+
+#: [Face231]FrameAmount
+msgctxt "[Face231]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face231]Frame0
+msgid "data/PlayerFace/231.dds"
+msgstr "data/PlayerFace/231.dds"
+
+#: [Face232]FrameAmount
+msgctxt "[Face232]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face232]Frame0
+msgid "data/PlayerFace/232.dds"
+msgstr "data/PlayerFace/232.dds"
+
+#: [Face233]FrameAmount
+msgctxt "[Face233]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face233]Frame0
+msgid "data/PlayerFace/233.dds"
+msgstr "data/PlayerFace/233.dds"
+
+#: [Face234]FrameAmount
+msgctxt "[Face234]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face234]Frame0
+msgid "data/PlayerFace/234.dds"
+msgstr "data/PlayerFace/234.dds"
+
+#: [Face235]FrameAmount
+msgctxt "[Face235]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face235]Frame0
+msgid "data/PlayerFace/235.dds"
+msgstr "data/PlayerFace/235.dds"
+
+#: [Face236]FrameAmount
+msgctxt "[Face236]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face236]Frame0
+msgid "data/PlayerFace/236.dds"
+msgstr "data/PlayerFace/236.dds"
+
+#: [Face237]FrameAmount
+msgctxt "[Face237]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face237]Frame0
+msgid "data/PlayerFace/237.dds"
+msgstr "data/PlayerFace/237.dds"
+
+#: [Face238]FrameAmount
+msgctxt "[Face238]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face238]Frame0
+msgid "data/PlayerFace/238.dds"
+msgstr "data/PlayerFace/238.dds"
+
+#: [Face239]FrameAmount
+msgctxt "[Face239]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face239]Frame0
+msgid "data/PlayerFace/239.dds"
+msgstr "data/PlayerFace/239.dds"
+
+#: [Face240]FrameAmount
+msgctxt "[Face240]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face240]Frame0
+msgid "data/PlayerFace/240.dds"
+msgstr "data/PlayerFace/240.dds"
+
+#: [Face241]FrameAmount
+msgctxt "[Face241]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face241]Frame0
+msgid "data/PlayerFace/241.dds"
+msgstr "data/PlayerFace/241.dds"
+
+#: [Face242]FrameAmount
+msgctxt "[Face242]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face242]Frame0
+msgid "data/PlayerFace/242.dds"
+msgstr "data/PlayerFace/242.dds"
+
+#: [Face243]FrameAmount
+msgctxt "[Face243]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face243]Frame0
+msgid "data/PlayerFace/243.dds"
+msgstr "data/PlayerFace/243.dds"
+
+#: [Face244]FrameAmount
+msgctxt "[Face244]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face244]Frame0
+msgid "data/PlayerFace/244.dds"
+msgstr "data/PlayerFace/244.dds"
+
+#: [Face245]FrameAmount
+msgctxt "[Face245]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face245]Frame0
+msgid "data/PlayerFace/245.dds"
+msgstr "data/PlayerFace/245.dds"
+
+#: [Face246]FrameAmount
+msgctxt "[Face246]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face246]Frame0
+msgid "data/PlayerFace/246.dds"
+msgstr "data/PlayerFace/246.dds"
+
+#: [Face247]FrameAmount
+msgctxt "[Face247]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face247]Frame0
+msgid "data/PlayerFace/247.dds"
+msgstr "data/PlayerFace/247.dds"
+
+#: [Face248]FrameAmount
+msgctxt "[Face248]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face248]Frame0
+msgid "data/PlayerFace/248.dds"
+msgstr "data/PlayerFace/248.dds"
+
+#: [Face249]FrameAmount
+msgctxt "[Face249]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face249]Frame0
+msgid "data/PlayerFace/249.dds"
+msgstr "data/PlayerFace/249.dds"
+
+#: [Face250]FrameAmount
+msgctxt "[Face250]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face250]Frame0
+msgid "data/PlayerFace/250.dds"
+msgstr "data/PlayerFace/250.dds"
+
+#: [Face251]FrameAmount
+msgctxt "[Face251]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face251]Frame0
+msgid "data/PlayerFace/251.dds"
+msgstr "data/PlayerFace/251.dds"
+
+#: [Face252]FrameAmount
+msgctxt "[Face252]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face252]Frame0
+msgid "data/PlayerFace/252.dds"
+msgstr "data/PlayerFace/252.dds"
+
+#: [Face253]FrameAmount
+msgctxt "[Face253]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face253]Frame0
+msgid "data/PlayerFace/253.dds"
+msgstr "data/PlayerFace/253.dds"
+
+#: [Face254]FrameAmount
+msgctxt "[Face254]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face254]Frame0
+msgid "data/PlayerFace/254.dds"
+msgstr "data/PlayerFace/254.dds"
+
+#: [Face255]FrameAmount
+msgctxt "[Face255]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face255]Frame0
+msgid "data/PlayerFace/255.dds"
+msgstr "data/PlayerFace/255.dds"
+
+#: [Face256]FrameAmount
+msgctxt "[Face256]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face256]Frame0
+msgid "data/PlayerFace/256.dds"
+msgstr "data/PlayerFace/256.dds"
+
+#: [Face257]FrameAmount
+msgctxt "[Face257]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face257]Frame0
+msgid "data/PlayerFace/257.dds"
+msgstr "data/PlayerFace/257.dds"
+
+#: [Face258]FrameAmount
+msgctxt "[Face258]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face258]Frame0
+msgid "data/PlayerFace/258.dds"
+msgstr "data/PlayerFace/258.dds"
+
+#: [Face259]FrameAmount
+msgctxt "[Face259]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face259]Frame0
+msgid "data/PlayerFace/259.dds"
+msgstr "data/PlayerFace/259.dds"
+
+#: [Face260]FrameAmount
+msgctxt "[Face260]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face260]Frame0
+msgid "data/PlayerFace/260.dds"
+msgstr "data/PlayerFace/260.dds"
+
+#: [Face261]FrameAmount
+msgctxt "[Face261]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face261]Frame0
+msgid "data/PlayerFace/261.dds"
+msgstr "data/PlayerFace/261.dds"
+
+#: [Face262]FrameAmount
+msgctxt "[Face262]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face262]Frame0
+msgid "data/PlayerFace/262.dds"
+msgstr "data/PlayerFace/262.dds"
+
+#: [Face263]FrameAmount
+msgctxt "[Face263]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face263]Frame0
+msgid "data/PlayerFace/263.dds"
+msgstr "data/PlayerFace/263.dds"
+
+#: [Face264]FrameAmount
+msgctxt "[Face264]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face264]Frame0
+msgid "data/PlayerFace/264.dds"
+msgstr "data/PlayerFace/264.dds"
+
+#: [Face265]FrameAmount
+msgctxt "[Face265]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face265]Frame0
+msgid "data/PlayerFace/265.dds"
+msgstr "data/PlayerFace/265.dds"
+
+#: [Face266]FrameAmount
+msgctxt "[Face266]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face266]Frame0
+msgid "data/PlayerFace/266.dds"
+msgstr "data/PlayerFace/266.dds"
+
+#: [Face267]FrameAmount
+msgctxt "[Face267]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face267]Frame0
+msgid "data/PlayerFace/267.dds"
+msgstr "data/PlayerFace/267.dds"
+
+#: [Face268]FrameAmount
+msgctxt "[Face268]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face268]Frame0
+msgid "data/PlayerFace/268.dds"
+msgstr "data/PlayerFace/268.dds"
+
+#: [Face269]FrameAmount
+msgctxt "[Face269]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face269]Frame0
+msgid "data/PlayerFace/269.dds"
+msgstr "data/PlayerFace/269.dds"
+
+#: [Face270]FrameAmount
+msgctxt "[Face270]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face270]Frame0
+msgid "data/PlayerFace/270.dds"
+msgstr "data/PlayerFace/270.dds"
+
+#: [Face271]FrameAmount
+msgctxt "[Face271]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face271]Frame0
+msgid "data/PlayerFace/271.dds"
+msgstr "data/PlayerFace/271.dds"
+
+#: [Face272]FrameAmount
+msgctxt "[Face272]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face272]Frame0
+msgid "data/PlayerFace/272.dds"
+msgstr "data/PlayerFace/272.dds"
+
+#: [Face273]FrameAmount
+msgctxt "[Face273]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face273]Frame0
+msgid "data/PlayerFace/273.dds"
+msgstr "data/PlayerFace/273.dds"
+
+#: [Face274]FrameAmount
+msgctxt "[Face274]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face274]Frame0
+msgid "data/PlayerFace/274.dds"
+msgstr "data/PlayerFace/274.dds"
+
+#: [Face275]FrameAmount
+msgctxt "[Face275]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face275]Frame0
+msgid "data/PlayerFace/275.dds"
+msgstr "data/PlayerFace/275.dds"
+
+#: [Face276]FrameAmount
+msgctxt "[Face276]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face276]Frame0
+msgid "data/PlayerFace/276.dds"
+msgstr "data/PlayerFace/276.dds"
+
+#: [Face277]FrameAmount
+msgctxt "[Face277]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face277]Frame0
+msgid "data/PlayerFace/277.dds"
+msgstr "data/PlayerFace/277.dds"
+
+#: [Face278]FrameAmount
+msgctxt "[Face278]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face278]Frame0
+msgid "data/PlayerFace/278.dds"
+msgstr "data/PlayerFace/278.dds"
+
+#: [Face279]FrameAmount
+msgctxt "[Face279]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face279]Frame0
+msgid "data/PlayerFace/279.dds"
+msgstr "data/PlayerFace/279.dds"
+
+#: [Face280]FrameAmount
+msgctxt "[Face280]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face280]Frame0
+msgid "data/PlayerFace/280.dds"
+msgstr "data/PlayerFace/280.dds"
+
+#: [Face281]FrameAmount
+msgctxt "[Face281]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face281]Frame0
+msgid "data/PlayerFace/281.dds"
+msgstr "data/PlayerFace/281.dds"
+
+#: [Face282]FrameAmount
+msgctxt "[Face282]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face282]Frame0
+msgid "data/PlayerFace/282.dds"
+msgstr "data/PlayerFace/282.dds"
+
+#: [Face283]FrameAmount
+msgctxt "[Face283]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face283]Frame0
+msgid "data/PlayerFace/283.dds"
+msgstr "data/PlayerFace/283.dds"
+
+#: [Face284]FrameAmount
+msgctxt "[Face284]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face284]Frame0
+msgid "data/PlayerFace/284.dds"
+msgstr "data/PlayerFace/284.dds"
+
+#: [Face285]FrameAmount
+msgctxt "[Face285]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face285]Frame0
+msgid "data/PlayerFace/285.dds"
+msgstr "data/PlayerFace/285.dds"
+
+#: [Face286]FrameAmount
+msgctxt "[Face286]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face286]Frame0
+msgid "data/PlayerFace/286.dds"
+msgstr "data/PlayerFace/286.dds"
+
+#: [Face287]FrameAmount
+msgctxt "[Face287]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face287]Frame0
+msgid "data/PlayerFace/287.dds"
+msgstr "data/PlayerFace/287.dds"
+
+#: [Face288]FrameAmount
+msgctxt "[Face288]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face288]Frame0
+msgid "data/PlayerFace/288.dds"
+msgstr "data/PlayerFace/288.dds"
+
+#: [Face289]FrameAmount
+msgctxt "[Face289]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face289]Frame0
+msgid "data/PlayerFace/289.dds"
+msgstr "data/PlayerFace/289.dds"
+
+#: [Face290]FrameAmount
+msgctxt "[Face290]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face290]Frame0
+msgid "data/PlayerFace/290.dds"
+msgstr "data/PlayerFace/290.dds"
+
+#: [Face291]FrameAmount
+msgctxt "[Face291]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face291]Frame0
+msgid "data/PlayerFace/291.dds"
+msgstr "data/PlayerFace/291.dds"
+
+#: [Face292]FrameAmount
+msgctxt "[Face292]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face292]Frame0
+msgid "data/PlayerFace/292.dds"
+msgstr "data/PlayerFace/292.dds"
+
+#: [Face293]FrameAmount
+msgctxt "[Face293]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face293]Frame0
+msgid "data/PlayerFace/293.dds"
+msgstr "data/PlayerFace/293.dds"
+
+#: [Face294]FrameAmount
+msgctxt "[Face294]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face294]Frame0
+msgid "data/PlayerFace/294.dds"
+msgstr "data/PlayerFace/294.dds"
+
+#: [Face295]FrameAmount
+msgctxt "[Face295]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face295]Frame0
+msgid "data/PlayerFace/295.dds"
+msgstr "data/PlayerFace/295.dds"
+
+#: [Face296]FrameAmount
+msgctxt "[Face296]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face296]Frame0
+msgctxt "[Face296]Frame0"
+msgid "data/PlayerFace/296.dds"
+msgstr "data/PlayerFace/296.dds"
+
+#: [Face297]FrameAmount
+msgctxt "[Face297]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face297]Frame0
+msgid "data/PlayerFace/297.dds"
+msgstr "data/PlayerFace/297.dds"
+
+#: [Face298]FrameAmount
+msgctxt "[Face298]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face298]Frame0
+msgid "data/PlayerFace/298.dds"
+msgstr "data/PlayerFace/298.dds"
+
+#: [Face299]FrameAmount
+msgctxt "[Face299]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face299]Frame0
+msgid "data/PlayerFace/299.dds"
+msgstr "data/PlayerFace/299.dds"
+
+#: [Face300]FrameAmount
+msgctxt "[Face300]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face300]Frame0
+msgctxt "[Face300]Frame0"
+msgid "data/PlayerFace/300.dds"
+msgstr "data/PlayerFace/300.dds"
+
+#: [Face301]FrameAmount
+msgctxt "[Face301]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face301]Frame0
+msgctxt "[Face301]Frame0"
+msgid "data/PlayerFace/301.dds"
+msgstr "data/PlayerFace/301.dds"
+
+#: [Face302]FrameAmount
+msgctxt "[Face302]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face302]Frame0
+msgctxt "[Face302]Frame0"
+msgid "data/PlayerFace/302.dds"
+msgstr "data/PlayerFace/302.dds"
+
+#: [Face303]FrameAmount
+msgctxt "[Face303]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face303]Frame0
+msgctxt "[Face303]Frame0"
+msgid "data/PlayerFace/303.dds"
+msgstr "data/PlayerFace/303.dds"
+
+#: [Face304]FrameAmount
+msgctxt "[Face304]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face304]Frame0
+msgctxt "[Face304]Frame0"
+msgid "data/PlayerFace/304.dds"
+msgstr "data/PlayerFace/304.dds"
+
+#: [Face305]FrameAmount
+msgctxt "[Face305]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face305]Frame0
+msgctxt "[Face305]Frame0"
+msgid "data/PlayerFace/300.dds"
+msgstr "data/PlayerFace/300.dds"
+
+#: [Face306]FrameAmount
+msgctxt "[Face306]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face306]Frame0
+msgctxt "[Face306]Frame0"
+msgid "data/PlayerFace/301.dds"
+msgstr "data/PlayerFace/301.dds"
+
+#: [Face307]FrameAmount
+msgctxt "[Face307]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face307]Frame0
+msgctxt "[Face307]Frame0"
+msgid "data/PlayerFace/302.dds"
+msgstr "data/PlayerFace/302.dds"
+
+#: [Face308]FrameAmount
+msgctxt "[Face308]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face308]Frame0
+msgctxt "[Face308]Frame0"
+msgid "data/PlayerFace/303.dds"
+msgstr "data/PlayerFace/303.dds"
+
+#: [Face309]FrameAmount
+msgctxt "[Face309]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face309]Frame0
+msgctxt "[Face309]Frame0"
+msgid "data/PlayerFace/304.dds"
+msgstr "data/PlayerFace/304.dds"
+
+#: [Face310]FrameAmount
+msgctxt "[Face310]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face310]Frame0
+msgctxt "[Face310]Frame0"
+msgid "data/PlayerFace/300.dds"
+msgstr "data/PlayerFace/300.dds"
+
+#: [Face311]FrameAmount
+msgctxt "[Face311]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face311]Frame0
+msgctxt "[Face311]Frame0"
+msgid "data/PlayerFace/301.dds"
+msgstr "data/PlayerFace/301.dds"
+
+#: [Face312]FrameAmount
+msgctxt "[Face312]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face312]Frame0
+msgctxt "[Face312]Frame0"
+msgid "data/PlayerFace/302.dds"
+msgstr "data/PlayerFace/302.dds"
+
+#: [Face313]FrameAmount
+msgctxt "[Face313]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face313]Frame0
+msgctxt "[Face313]Frame0"
+msgid "data/PlayerFace/303.dds"
+msgstr "data/PlayerFace/303.dds"
+
+#: [Face314]FrameAmount
+msgctxt "[Face314]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face314]Frame0
+msgctxt "[Face314]Frame0"
+msgid "data/PlayerFace/304.dds"
+msgstr "data/PlayerFace/304.dds"
+
+#: [Face315]FrameAmount
+msgctxt "[Face315]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face315]Frame0
+msgctxt "[Face315]Frame0"
+msgid "data/PlayerFace/300.dds"
+msgstr "data/PlayerFace/300.dds"
+
+#: [Face316]FrameAmount
+msgctxt "[Face316]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face316]Frame0
+msgctxt "[Face316]Frame0"
+msgid "data/PlayerFace/301.dds"
+msgstr "data/PlayerFace/301.dds"
+
+#: [Face317]FrameAmount
+msgctxt "[Face317]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face317]Frame0
+msgctxt "[Face317]Frame0"
+msgid "data/PlayerFace/302.dds"
+msgstr "data/PlayerFace/302.dds"
+
+#: [Face318]FrameAmount
+msgctxt "[Face318]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face318]Frame0
+msgctxt "[Face318]Frame0"
+msgid "data/PlayerFace/303.dds"
+msgstr "data/PlayerFace/303.dds"
+
+#: [Face319]FrameAmount
+msgctxt "[Face319]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face319]Frame0
+msgctxt "[Face319]Frame0"
+msgid "data/PlayerFace/304.dds"
+msgstr "data/PlayerFace/304.dds"
+
+#: [Face320]FrameAmount
+msgctxt "[Face320]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face320]Frame0
+msgid "data/PlayerFace/320.dds"
+msgstr "data/PlayerFace/320.dds"
+
+#: [Face321]FrameAmount
+msgctxt "[Face321]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face321]Frame0
+msgid "data/PlayerFace/321.dds"
+msgstr "data/PlayerFace/321.dds"
+
+#: [Face322]FrameAmount
+msgctxt "[Face322]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face322]Frame0
+msgid "data/PlayerFace/322.dds"
+msgstr "data/PlayerFace/322.dds"
+
+#: [Face323]FrameAmount
+msgctxt "[Face323]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face323]Frame0
+msgid "data/PlayerFace/323.dds"
+msgstr "data/PlayerFace/323.dds"
+
+#: [Face324]FrameAmount
+msgctxt "[Face324]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face324]Frame0
+msgid "data/PlayerFace/324.dds"
+msgstr "data/PlayerFace/324.dds"
+
+#: [Face325]FrameAmount
+msgctxt "[Face325]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face325]Frame0
+msgid "data/PlayerFace/325.dds"
+msgstr "data/PlayerFace/325.dds"
+
+#: [Face326]FrameAmount
+msgctxt "[Face326]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face326]Frame0
+msgid "data/PlayerFace/326.dds"
+msgstr "data/PlayerFace/326.dds"
+
+#: [Face327]FrameAmount
+msgctxt "[Face327]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face327]Frame0
+msgid "data/PlayerFace/327.dds"
+msgstr "data/PlayerFace/327.dds"
+
+#: [Face328]FrameAmount
+msgctxt "[Face328]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face328]Frame0
+msgid "data/PlayerFace/328.dds"
+msgstr "data/PlayerFace/328.dds"
+
+#: [Face329]FrameAmount
+msgctxt "[Face329]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face329]Frame0
+msgid "data/PlayerFace/329.dds"
+msgstr "data/PlayerFace/329.dds"
+
+#: [Face330]FrameAmount
+msgctxt "[Face330]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face330]Frame0
+msgid "data/PlayerFace/330.dds"
+msgstr "data/PlayerFace/330.dds"
+
+#: [Face331]FrameAmount
+msgctxt "[Face331]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face331]Frame0
+msgid "data/PlayerFace/331.dds"
+msgstr "data/PlayerFace/331.dds"
+
+#: [Face332]FrameAmount
+msgctxt "[Face332]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face332]Frame0
+msgid "data/PlayerFace/332.dds"
+msgstr "data/PlayerFace/332.dds"
+
+#: [Face333]FrameAmount
+msgctxt "[Face333]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face333]Frame0
+msgid "data/PlayerFace/333.dds"
+msgstr "data/PlayerFace/333.dds"
+
+#: [Face334]FrameAmount
+msgctxt "[Face334]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face334]Frame0
+msgid "data/PlayerFace/334.dds"
+msgstr "data/PlayerFace/334.dds"
+
+#: [Face335]FrameAmount
+msgctxt "[Face335]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face335]Frame0
+msgid "data/PlayerFace/335.dds"
+msgstr "data/PlayerFace/335.dds"
+
+#: [Face336]FrameAmount
+msgctxt "[Face336]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face336]Frame0
+msgid "data/PlayerFace/336.dds"
+msgstr "data/PlayerFace/336.dds"
+
+#: [Face337]FrameAmount
+msgctxt "[Face337]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face337]Frame0
+msgid "data/PlayerFace/337.dds"
+msgstr "data/PlayerFace/337.dds"
+
+#: [Face338]FrameAmount
+msgctxt "[Face338]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face338]Frame0
+msgid "data/PlayerFace/338.dds"
+msgstr "data/PlayerFace/338.dds"
+
+#: [Face339]FrameAmount
+msgctxt "[Face339]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face339]Frame0
+msgid "data/PlayerFace/339.dds"
+msgstr "data/PlayerFace/339.dds"
+
+#: [Face340]FrameAmount
+msgctxt "[Face340]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face340]Frame0
+msgid "data/PlayerFace/340.dds"
+msgstr "data/PlayerFace/340.dds"
+
+#: [Face341]FrameAmount
+msgctxt "[Face341]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face341]Frame0
+msgid "data/PlayerFace/341.dds"
+msgstr "data/PlayerFace/341.dds"
+
+#: [Face342]FrameAmount
+msgctxt "[Face342]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face342]Frame0
+msgid "data/PlayerFace/342.dds"
+msgstr "data/PlayerFace/342.dds"
+
+#: [Face343]FrameAmount
+msgctxt "[Face343]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face343]Frame0
+msgid "data/PlayerFace/343.dds"
+msgstr "data/PlayerFace/343.dds"
+
+#: [Face344]FrameAmount
+msgctxt "[Face344]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face344]Frame0
+msgid "data/PlayerFace/344.dds"
+msgstr "data/PlayerFace/344.dds"
+
+#: [Face345]FrameAmount
+msgctxt "[Face345]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face345]Frame0
+msgid "data/PlayerFace/345.dds"
+msgstr "data/PlayerFace/345.dds"
+
+#: [Face346]FrameAmount
+msgctxt "[Face346]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face346]Frame0
+msgid "data/PlayerFace/346.dds"
+msgstr "data/PlayerFace/346.dds"
+
+#: [Face347]FrameAmount
+msgctxt "[Face347]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face347]Frame0
+msgid "data/PlayerFace/347.dds"
+msgstr "data/PlayerFace/347.dds"
+
+#: [Face348]FrameAmount
+msgctxt "[Face348]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face348]Frame0
+msgid "data/PlayerFace/348.dds"
+msgstr "data/PlayerFace/348.dds"
+
+#: [Face349]FrameAmount
+msgctxt "[Face349]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face349]Frame0
+msgid "data/PlayerFace/349.dds"
+msgstr "data/PlayerFace/349.dds"
+
+#: [Face350]FrameAmount
+msgctxt "[Face350]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face350]Frame0
+msgid "data/PlayerFace/350.dds"
+msgstr "data/PlayerFace/350.dds"
+
+#: [Face351]FrameAmount
+msgctxt "[Face351]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face351]Frame0
+msgid "data/PlayerFace/351.dds"
+msgstr "data/PlayerFace/351.dds"
+
+#: [Face352]FrameAmount
+msgctxt "[Face352]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face352]Frame0
+msgid "data/PlayerFace/352.dds"
+msgstr "data/PlayerFace/352.dds"
+
+#: [Face353]FrameAmount
+msgctxt "[Face353]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face353]Frame0
+msgid "data/PlayerFace/353.dds"
+msgstr "data/PlayerFace/353.dds"
+
+#: [Face354]FrameAmount
+msgctxt "[Face354]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face354]Frame0
+msgid "data/PlayerFace/354.dds"
+msgstr "data/PlayerFace/354.dds"
+
+#: [Face355]FrameAmount
+msgctxt "[Face355]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face355]Frame0
+msgid "data/PlayerFace/355.dds"
+msgstr "data/PlayerFace/355.dds"
+
+#: [Face356]FrameAmount
+msgctxt "[Face356]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face356]Frame0
+msgid "data/PlayerFace/356.dds"
+msgstr "data/PlayerFace/356.dds"
+
+#: [Face357]FrameAmount
+msgctxt "[Face357]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face357]Frame0
+msgid "data/PlayerFace/357.dds"
+msgstr "data/PlayerFace/357.dds"
+
+#: [Face358]FrameAmount
+msgctxt "[Face358]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face358]Frame0
+msgid "data/PlayerFace/358.dds"
+msgstr "data/PlayerFace/358.dds"
+
+#: [Face359]FrameAmount
+msgctxt "[Face359]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face359]Frame0
+msgid "data/PlayerFace/359.dds"
+msgstr "data/PlayerFace/359.dds"
+
+#: [Face360]FrameAmount
+msgctxt "[Face360]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face360]Frame0
+msgid "data/PlayerFace/360.dds"
+msgstr "data/PlayerFace/360.dds"
+
+#: [Face361]FrameAmount
+msgctxt "[Face361]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face361]Frame0
+msgid "data/PlayerFace/361.dds"
+msgstr "data/PlayerFace/361.dds"
+
+#: [Face362]FrameAmount
+msgctxt "[Face362]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face362]Frame0
+msgid "data/PlayerFace/362.dds"
+msgstr "data/PlayerFace/362.dds"
+
+#: [Face363]FrameAmount
+msgctxt "[Face363]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face363]Frame0
+msgid "data/PlayerFace/363.dds"
+msgstr "data/PlayerFace/363.dds"
+
+#: [Face364]FrameAmount
+msgctxt "[Face364]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face364]Frame0
+msgid "data/PlayerFace/364.dds"
+msgstr "data/PlayerFace/364.dds"
+
+#: [Face365]FrameAmount
+msgctxt "[Face365]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face365]Frame0
+msgid "data/PlayerFace/365.dds"
+msgstr "data/PlayerFace/365.dds"
+
+#: [Face366]FrameAmount
+msgctxt "[Face366]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face366]Frame0
+msgid "data/PlayerFace/366.dds"
+msgstr "data/PlayerFace/366.dds"
+
+#: [Face367]FrameAmount
+msgctxt "[Face367]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face367]Frame0
+msgid "data/PlayerFace/367.dds"
+msgstr "data/PlayerFace/367.dds"
+
+#: [Face368]FrameAmount
+msgctxt "[Face368]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face368]Frame0
+msgid "data/PlayerFace/368.dds"
+msgstr "data/PlayerFace/368.dds"
+
+#: [Face369]FrameAmount
+msgctxt "[Face369]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face369]Frame0
+msgid "data/PlayerFace/369.dds"
+msgstr "data/PlayerFace/369.dds"
+
+#: [Face370]FrameAmount
+msgctxt "[Face370]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face370]Frame0
+msgid "data/PlayerFace/370.dds"
+msgstr "data/PlayerFace/370.dds"
+
+#: [Face371]FrameAmount
+msgctxt "[Face371]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face371]Frame0
+msgid "data/PlayerFace/371.dds"
+msgstr "data/PlayerFace/371.dds"
+
+#: [Face372]FrameAmount
+msgctxt "[Face372]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face372]Frame0
+msgid "data/PlayerFace/372.dds"
+msgstr "data/PlayerFace/372.dds"
+
+#: [Face373]FrameAmount
+msgctxt "[Face373]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face373]Frame0
+msgid "data/PlayerFace/373.dds"
+msgstr "data/PlayerFace/373.dds"
+
+#: [Face374]FrameAmount
+msgctxt "[Face374]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face374]Frame0
+msgid "data/PlayerFace/374.dds"
+msgstr "data/PlayerFace/374.dds"
+
+#: [Face375]FrameAmount
+msgctxt "[Face375]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face375]Frame0
+msgid "data/PlayerFace/375.dds"
+msgstr "data/PlayerFace/375.dds"
+
+#: [Face376]FrameAmount
+msgctxt "[Face376]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face376]Frame0
+msgid "data/PlayerFace/376.dds"
+msgstr "data/PlayerFace/376.dds"
+
+#: [Face377]FrameAmount
+msgctxt "[Face377]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face377]Frame0
+msgid "data/PlayerFace/377.dds"
+msgstr "data/PlayerFace/377.dds"
+
+#: [Face378]FrameAmount
+msgctxt "[Face378]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face378]Frame0
+msgid "data/PlayerFace/378.dds"
+msgstr "data/PlayerFace/378.dds"
+
+#: [Face379]FrameAmount
+msgctxt "[Face379]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face379]Frame0
+msgid "data/PlayerFace/379.dds"
+msgstr "data/PlayerFace/379.dds"
+
+#: [Face380]FrameAmount
+msgctxt "[Face380]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face380]Frame0
+msgid "data/PlayerFace/380.dds"
+msgstr "data/PlayerFace/380.dds"
+
+#: [Face381]FrameAmount
+msgctxt "[Face381]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face381]Frame0
+msgid "data/PlayerFace/381.dds"
+msgstr "data/PlayerFace/381.dds"
+
+#: [Face382]FrameAmount
+msgctxt "[Face382]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face382]Frame0
+msgid "data/PlayerFace/382.dds"
+msgstr "data/PlayerFace/382.dds"
+
+#: [Face383]FrameAmount
+msgctxt "[Face383]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face383]Frame0
+msgid "data/PlayerFace/383.dds"
+msgstr "data/PlayerFace/383.dds"
+
+#: [Face384]FrameAmount
+msgctxt "[Face384]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face384]Frame0
+msgid "data/PlayerFace/384.dds"
+msgstr "data/PlayerFace/384.dds"
+
+#: [Face385]FrameAmount
+msgctxt "[Face385]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face385]Frame0
+msgid "data/PlayerFace/385.dds"
+msgstr "data/PlayerFace/385.dds"
+
+#: [Face386]FrameAmount
+msgctxt "[Face386]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face386]Frame0
+msgid "data/PlayerFace/386.dds"
+msgstr "data/PlayerFace/386.dds"
+
+#: [Face387]FrameAmount
+msgctxt "[Face387]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face387]Frame0
+msgid "data/PlayerFace/387.dds"
+msgstr "data/PlayerFace/387.dds"
+
+#: [Face388]FrameAmount
+msgctxt "[Face388]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face388]Frame0
+msgid "data/PlayerFace/388.dds"
+msgstr "data/PlayerFace/388.dds"
+
+#: [Face389]FrameAmount
+msgctxt "[Face389]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face389]Frame0
+msgid "data/PlayerFace/389.dds"
+msgstr "data/PlayerFace/389.dds"
+
+#: [Face390]FrameAmount
+msgctxt "[Face390]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face390]Frame0
+msgid "data/PlayerFace/390.dds"
+msgstr "data/PlayerFace/390.dds"
+
+#: [Face391]FrameAmount
+msgctxt "[Face391]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face391]Frame0
+msgid "data/PlayerFace/391.dds"
+msgstr "data/PlayerFace/391.dds"
+
+#: [Face392]FrameAmount
+msgctxt "[Face392]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face392]Frame0
+msgid "data/PlayerFace/392.dds"
+msgstr "data/PlayerFace/392.dds"
+
+#: [Face393]FrameAmount
+msgctxt "[Face393]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face393]Frame0
+msgid "data/PlayerFace/393.dds"
+msgstr "data/PlayerFace/393.dds"
+
+#: [Face394]FrameAmount
+msgctxt "[Face394]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face394]Frame0
+msgid "data/PlayerFace/394.dds"
+msgstr "data/PlayerFace/394.dds"
+
+#: [Face395]FrameAmount
+msgctxt "[Face395]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face395]Frame0
+msgid "data/PlayerFace/395.dds"
+msgstr "data/PlayerFace/395.dds"
+
+#: [Face396]FrameAmount
+msgctxt "[Face396]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face396]Frame0
+msgid "data/PlayerFace/396.dds"
+msgstr "data/PlayerFace/396.dds"
+
+#: [Face397]FrameAmount
+msgctxt "[Face397]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face397]Frame0
+msgid "data/PlayerFace/397.dds"
+msgstr "data/PlayerFace/397.dds"
+
+#: [Face398]FrameAmount
+msgctxt "[Face398]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face398]Frame0
+msgid "data/PlayerFace/398.dds"
+msgstr "data/PlayerFace/398.dds"
+
+#: [Face399]FrameAmount
+msgctxt "[Face399]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face399]Frame0
+msgid "data/PlayerFace/399.dds"
+msgstr "data/PlayerFace/399.dds"
+
+#: [Face400]FrameAmount
+msgctxt "[Face400]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Face400]Frame0
+msgid "data/PlayerFace/400.dds"
+msgstr "data/PlayerFace/400.dds"

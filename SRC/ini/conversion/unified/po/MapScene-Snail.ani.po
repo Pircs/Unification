@@ -1,0 +1,616 @@
+#. extracted from MapScene-snail.ini, MapScene-snailCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [house25.tga]FrameAmount
+msgctxt "[house25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house25.tga]Frame0
+msgid "data/map/mapobj/family/house25.dds"
+msgstr "data/map/mapobj/family/house25.dds"
+
+#: [house26.tga]FrameAmount
+msgctxt "[house26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house26.tga]Frame0
+msgid "data/map/mapobj/family/house26.dds"
+msgstr "data/map/mapobj/family/house26.dds"
+
+#: [house27.tga]FrameAmount
+msgctxt "[house27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house27.tga]Frame0
+msgid "data/map/mapobj/family/house27.dds"
+msgstr "data/map/mapobj/family/house27.dds"
+
+#: [house28.tga]FrameAmount
+msgctxt "[house28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house28.tga]Frame0
+msgid "data/map/mapobj/family/house28.dds"
+msgstr "data/map/mapobj/family/house28.dds"
+
+#: [house29.tga]FrameAmount
+msgctxt "[house29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house29.tga]Frame0
+msgid "data/map/mapobj/family/house29.dds"
+msgstr "data/map/mapobj/family/house29.dds"
+
+#: [furni01.tga]FrameAmount
+msgctxt "[furni01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni01.tga]Frame0
+msgid "data/map/mapobj/furni/furni01.msk"
+msgstr "data/map/mapobj/furni/furni01.msk"
+
+#: [furni02.tga]FrameAmount
+msgctxt "[furni02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni02.tga]Frame0
+msgid "data/map/mapobj/furni/furni02.msk"
+msgstr "data/map/mapobj/furni/furni02.msk"
+
+#: [furni03.tga]FrameAmount
+msgctxt "[furni03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni03.tga]Frame0
+msgid "data/map/mapobj/furni/furni03.msk"
+msgstr "data/map/mapobj/furni/furni03.msk"
+
+#: [furni04.tga]FrameAmount
+msgctxt "[furni04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni04.tga]Frame0
+msgid "data/map/mapobj/furni/furni04.msk"
+msgstr "data/map/mapobj/furni/furni04.msk"
+
+#: [furni05.tga]FrameAmount
+msgctxt "[furni05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni05.tga]Frame0
+msgid "data/map/mapobj/furni/furni05.msk"
+msgstr "data/map/mapobj/furni/furni05.msk"
+
+#: [furni06.tga]FrameAmount
+msgctxt "[furni06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni06.tga]Frame0
+msgid "data/map/mapobj/furni/furni06.msk"
+msgstr "data/map/mapobj/furni/furni06.msk"
+
+#: [furni07.tga]FrameAmount
+msgctxt "[furni07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni07.tga]Frame0
+msgid "data/map/mapobj/furni/furni07.msk"
+msgstr "data/map/mapobj/furni/furni07.msk"
+
+#: [furni08.tga]FrameAmount
+msgctxt "[furni08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni08.tga]Frame0
+msgid "data/map/mapobj/furni/furni08.msk"
+msgstr "data/map/mapobj/furni/furni08.msk"
+
+#: [furni09.tga]FrameAmount
+msgctxt "[furni09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni09.tga]Frame0
+msgid "data/map/mapobj/furni/furni09.msk"
+msgstr "data/map/mapobj/furni/furni09.msk"
+
+#: [furni10.tga]FrameAmount
+msgctxt "[furni10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni10.tga]Frame0
+msgid "data/map/mapobj/furni/furni10.msk"
+msgstr "data/map/mapobj/furni/furni10.msk"
+
+#: [furni11.tga]FrameAmount
+msgctxt "[furni11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni11.tga]Frame0
+msgid "data/map/mapobj/furni/furni11.msk"
+msgstr "data/map/mapobj/furni/furni11.msk"
+
+#: [furni12.tga]FrameAmount
+msgctxt "[furni12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni12.tga]Frame0
+msgid "data/map/mapobj/furni/furni12.msk"
+msgstr "data/map/mapobj/furni/furni12.msk"
+
+#: [furni13.tga]FrameAmount
+msgctxt "[furni13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni13.tga]Frame0
+msgid "data/map/mapobj/furni/furni13.msk"
+msgstr "data/map/mapobj/furni/furni13.msk"
+
+#: [furni14.tga]FrameAmount
+msgctxt "[furni14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni14.tga]Frame0
+msgid "data/map/mapobj/furni/furni14.msk"
+msgstr "data/map/mapobj/furni/furni14.msk"
+
+#: [furni15.tga]FrameAmount
+msgctxt "[furni15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni15.tga]Frame0
+msgid "data/map/mapobj/furni/furni15.msk"
+msgstr "data/map/mapobj/furni/furni15.msk"
+
+#: [furni16.tga]FrameAmount
+msgctxt "[furni16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni16.tga]Frame0
+msgid "data/map/mapobj/furni/furni16.msk"
+msgstr "data/map/mapobj/furni/furni16.msk"
+
+#: [furni17.tga]FrameAmount
+msgctxt "[furni17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni17.tga]Frame0
+msgid "data/map/mapobj/furni/furni17.msk"
+msgstr "data/map/mapobj/furni/furni17.msk"
+
+#: [furni18.tga]FrameAmount
+msgctxt "[furni18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni18.tga]Frame0
+msgid "data/map/mapobj/furni/furni18.msk"
+msgstr "data/map/mapobj/furni/furni18.msk"
+
+#: [furni19.tga]FrameAmount
+msgctxt "[furni19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni19.tga]Frame0
+msgid "data/map/mapobj/furni/furni19.msk"
+msgstr "data/map/mapobj/furni/furni19.msk"
+
+#: [furni20.tga]FrameAmount
+msgctxt "[furni20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni20.tga]Frame0
+msgid "data/map/mapobj/furni/furni20.msk"
+msgstr "data/map/mapobj/furni/furni20.msk"
+
+#: [furni21.tga]FrameAmount
+msgctxt "[furni21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [furni21.tga]Frame0
+msgid "data/map/mapobj/furni/furni21.msk"
+msgstr "data/map/mapobj/furni/furni21.msk"
+
+#: [wall01.tga]FrameAmount
+msgctxt "[wall01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall01.tga]Frame0
+msgid "data/map/mapobj/wall/wall01.dds"
+msgstr "data/map/mapobj/wall/wall01.dds"
+
+#: [wall02.tga]FrameAmount
+msgctxt "[wall02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall02.tga]Frame0
+msgid "data/map/mapobj/wall/wall02.dds"
+msgstr "data/map/mapobj/wall/wall02.dds"
+
+#: [wall03.tga]FrameAmount
+msgctxt "[wall03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall03.tga]Frame0
+msgid "data/map/mapobj/wall/wall03.dds"
+msgstr "data/map/mapobj/wall/wall03.dds"
+
+#: [wall04.tga]FrameAmount
+msgctxt "[wall04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall04.tga]Frame0
+msgid "data/map/mapobj/wall/wall04.dds"
+msgstr "data/map/mapobj/wall/wall04.dds"
+
+#: [wall05.tga]FrameAmount
+msgctxt "[wall05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall05.tga]Frame0
+msgid "data/map/mapobj/wall/wall05.dds"
+msgstr "data/map/mapobj/wall/wall05.dds"
+
+#: [wall06.tga]FrameAmount
+msgctxt "[wall06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall06.tga]Frame0
+msgid "data/map/mapobj/wall/wall06.dds"
+msgstr "data/map/mapobj/wall/wall06.dds"
+
+#: [wall07.tga]FrameAmount
+msgctxt "[wall07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall07.tga]Frame0
+msgid "data/map/mapobj/wall/wall07.dds"
+msgstr "data/map/mapobj/wall/wall07.dds"
+
+#: [wall08.tga]FrameAmount
+msgctxt "[wall08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall08.tga]Frame0
+msgid "data/map/mapobj/wall/wall08.dds"
+msgstr "data/map/mapobj/wall/wall08.dds"
+
+#: [wall09.tga]FrameAmount
+msgctxt "[wall09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall09.tga]Frame0
+msgid "data/map/mapobj/wall/wall09.dds"
+msgstr "data/map/mapobj/wall/wall09.dds"
+
+#: [wall10.tga]FrameAmount
+msgctxt "[wall10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall10.tga]Frame0
+msgid "data/map/mapobj/wall/wall10.dds"
+msgstr "data/map/mapobj/wall/wall10.dds"
+
+#: [wall11.tga]FrameAmount
+msgctxt "[wall11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall11.tga]Frame0
+msgid "data/map/mapobj/wall/wall11.dds"
+msgstr "data/map/mapobj/wall/wall11.dds"
+
+#: [wall12.tga]FrameAmount
+msgctxt "[wall12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall12.tga]Frame0
+msgid "data/map/mapobj/wall/wall12.msk"
+msgstr "data/map/mapobj/wall/wall12.msk"
+
+#: [wall13.tga]FrameAmount
+msgctxt "[wall13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall13.tga]Frame0
+msgid "data/map/mapobj/wall/wall13.msk"
+msgstr "data/map/mapobj/wall/wall13.msk"
+
+#: [wall14.tga]FrameAmount
+msgctxt "[wall14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall14.tga]Frame0
+msgid "data/map/mapobj/wall/wall14.dds"
+msgstr "data/map/mapobj/wall/wall14.dds"
+
+#: [wall15.tga]FrameAmount
+msgctxt "[wall15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall15.tga]Frame0
+msgid "data/map/mapobj/wall/wall15.dds"
+msgstr "data/map/mapobj/wall/wall15.dds"
+
+#: [wall15a.tga]FrameAmount
+msgctxt "[wall15a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall15a.tga]Frame0
+msgid "data/map/mapobj/wall/wall15a.dds"
+msgstr "data/map/mapobj/wall/wall15a.dds"
+
+#: [wall16.tga]FrameAmount
+msgctxt "[wall16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall16.tga]Frame0
+msgid "data/map/mapobj/wall/wall16.msk"
+msgstr "data/map/mapobj/wall/wall16.msk"
+
+#: [wall17.tga]FrameAmount
+msgctxt "[wall17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall17.tga]Frame0
+msgid "data/map/mapobj/wall/wall17.msk"
+msgstr "data/map/mapobj/wall/wall17.msk"
+
+#: [wall18-01.tga]FrameAmount
+msgctxt "[wall18-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall18-01.tga]Frame0
+msgid "data/map/mapobj/wall/wall18-01.dds"
+msgstr "data/map/mapobj/wall/wall18-01.dds"
+
+#: [wall18-02.tga]FrameAmount
+msgctxt "[wall18-02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall18-02.tga]Frame0
+msgid "data/map/mapobj/wall/wall18-02.dds"
+msgstr "data/map/mapobj/wall/wall18-02.dds"
+
+#: [wall18-03.tga]FrameAmount
+msgctxt "[wall18-03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall18-03.tga]Frame0
+msgid "data/map/mapobj/wall/wall18-03.dds"
+msgstr "data/map/mapobj/wall/wall18-03.dds"
+
+#: [wall19-01.tga]FrameAmount
+msgctxt "[wall19-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall19-01.tga]Frame0
+msgid "data/map/mapobj/wall/wall19-01.dds"
+msgstr "data/map/mapobj/wall/wall19-01.dds"
+
+#: [wall19-02.tga]FrameAmount
+msgctxt "[wall19-02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall19-02.tga]Frame0
+msgid "data/map/mapobj/wall/wall19-02.dds"
+msgstr "data/map/mapobj/wall/wall19-02.dds"
+
+#: [wall19-03.tga]FrameAmount
+msgctxt "[wall19-03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall19-03.tga]Frame0
+msgid "data/map/mapobj/wall/wall19-03.dds"
+msgstr "data/map/mapobj/wall/wall19-03.dds"
+
+#: [wall20.tga]FrameAmount
+msgctxt "[wall20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall20.tga]Frame0
+msgid "data/map/mapobj/wall/wall20.msk"
+msgstr "data/map/mapobj/wall/wall20.msk"
+
+#: [wall21.tga]FrameAmount
+msgctxt "[wall21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall21.tga]Frame0
+msgid "data/map/mapobj/wall/wall21.msk"
+msgstr "data/map/mapobj/wall/wall21.msk"
+
+#: [wall22-01.tga]FrameAmount
+msgctxt "[wall22-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall22-01.tga]Frame0
+msgid "data/map/mapobj/wall/wall22-01.dds"
+msgstr "data/map/mapobj/wall/wall22-01.dds"
+
+#: [wall22-02.tga]FrameAmount
+msgctxt "[wall22-02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall22-02.tga]Frame0
+msgid "data/map/mapobj/wall/wall22-02.dds"
+msgstr "data/map/mapobj/wall/wall22-02.dds"
+
+#: [wall22-03.tga]FrameAmount
+msgctxt "[wall22-03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall22-03.tga]Frame0
+msgid "data/map/mapobj/wall/wall22-03.dds"
+msgstr "data/map/mapobj/wall/wall22-03.dds"
+
+#: [wall23-01.tga]FrameAmount
+msgctxt "[wall23-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall23-01.tga]Frame0
+msgid "data/map/mapobj/wall/wall23-01.dds"
+msgstr "data/map/mapobj/wall/wall23-01.dds"
+
+#: [wall23-02.tga]FrameAmount
+msgctxt "[wall23-02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall23-02.tga]Frame0
+msgid "data/map/mapobj/wall/wall23-02.dds"
+msgstr "data/map/mapobj/wall/wall23-02.dds"
+
+#: [wall23-03.tga]FrameAmount
+msgctxt "[wall23-03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall23-03.tga]Frame0
+msgid "data/map/mapobj/wall/wall23-03.dds"
+msgstr "data/map/mapobj/wall/wall23-03.dds"
+
+#: [wall24.tga]FrameAmount
+msgctxt "[wall24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall24.tga]Frame0
+msgid "data/map/mapobj/wall/wall24.msk"
+msgstr "data/map/mapobj/wall/wall24.msk"
+
+#: [wall25.tga]FrameAmount
+msgctxt "[wall25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wall25.tga]Frame0
+msgid "data/map/mapobj/wall/wall25.msk"
+msgstr "data/map/mapobj/wall/wall25.msk"
+
+#: [street01.tga]FrameAmount
+msgctxt "[street01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [street01.tga]Frame0
+msgid "data/map/mapobj/street/street01.dds"
+msgstr "data/map/mapobj/street/street01.dds"
+
+#: [ladder1.tga]FrameAmount
+msgctxt "[ladder1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ladder1.tga]Frame0
+msgid "data/map/mapobj/mine/ladder1.dds"
+msgstr "data/map/mapobj/mine/ladder1.dds"
+
+#: [ladder2.tga]FrameAmount
+msgctxt "[ladder2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ladder2.tga]Frame0
+msgid "data/map/mapobj/mine/ladder2.dds"
+msgstr "data/map/mapobj/mine/ladder2.dds"
+
+#: [ladder3.tga]FrameAmount
+msgctxt "[ladder3.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ladder3.tga]Frame0
+msgid "data/map/mapobj/mine/ladder3.dds"
+msgstr "data/map/mapobj/mine/ladder3.dds"
+
+#: [ladder4.tga]FrameAmount
+msgctxt "[ladder4.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ladder4.tga]Frame0
+msgid "data/map/mapobj/mine/ladder4.dds"
+msgstr "data/map/mapobj/mine/ladder4.dds"
+
+#: [snowman0.tga]FrameAmount
+msgctxt "[snowman0.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [snowman0.tga]Frame0
+msgid "data/map/mapobj/snowman/snowman0.dds"
+msgstr "data/map/mapobj/snowman/snowman0.dds"
+
+#: [snowman1.tga]FrameAmount
+msgctxt "[snowman1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [snowman1.tga]Frame0
+msgid "data/map/mapobj/snowman/snowman1.dds"
+msgstr "data/map/mapobj/snowman/snowman1.dds"

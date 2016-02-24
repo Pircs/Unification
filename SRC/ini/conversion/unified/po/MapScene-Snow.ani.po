@@ -1,0 +1,1375 @@
+#. extracted from MapScene-snow.ini, MapScene-snowCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:59+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [wbridge01.tga]FrameAmount
+msgctxt "[wbridge01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge01.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge01.dds"
+msgstr "data/map/mapobj/woods/wbridge01.dds"
+
+#: [wbridge02.tga]FrameAmount
+msgctxt "[wbridge02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge02.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge02.dds"
+msgstr "data/map/mapobj/woods/wbridge02.dds"
+
+#: [wbridge03.tga]FrameAmount
+msgctxt "[wbridge03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge03.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge03.dds"
+msgstr "data/map/mapobj/woods/wbridge03.dds"
+
+#: [wbridge04.tga]FrameAmount
+msgctxt "[wbridge04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge04.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge04.dds"
+msgstr "data/map/mapobj/woods/wbridge04.dds"
+
+#: [wbridge05.tga]FrameAmount
+msgctxt "[wbridge05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge05.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge05.dds"
+msgstr "data/map/mapobj/woods/wbridge05.dds"
+
+#: [wbridge06.tga]FrameAmount
+msgctxt "[wbridge06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge06.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge06.dds"
+msgstr "data/map/mapobj/woods/wbridge06.dds"
+
+#: [wbridge07.tga]FrameAmount
+msgctxt "[wbridge07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge07.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge07.dds"
+msgstr "data/map/mapobj/woods/wbridge07.dds"
+
+#: [wbridge08.tga]FrameAmount
+msgctxt "[wbridge08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge08.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge08.dds"
+msgstr "data/map/mapobj/woods/wbridge08.dds"
+
+#: [wbridge09.tga]FrameAmount
+msgctxt "[wbridge09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [wbridge09.tga]Frame0
+msgid "data/map/mapobj/woods/wbridge09.dds"
+msgstr "data/map/mapobj/woods/wbridge09.dds"
+
+#: [fountain00.tga]FrameAmount
+msgctxt "[fountain00.tga]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [fountain00.tga]Frame0
+msgid "data/map/mapobj/desert/garden/fountain00.dds"
+msgstr "data/map/mapobj/desert/garden/fountain00.dds"
+
+#: [fountain00.tga]Frame1
+msgid "data/map/mapobj/desert/garden/fountain01.dds"
+msgstr "data/map/mapobj/desert/garden/fountain01.dds"
+
+#: [fountain00.tga]Frame2
+msgid "data/map/mapobj/desert/garden/fountain02.dds"
+msgstr "data/map/mapobj/desert/garden/fountain02.dds"
+
+#: [fountain00.tga]Frame3
+msgid "data/map/mapobj/desert/garden/fountain03.dds"
+msgstr "data/map/mapobj/desert/garden/fountain03.dds"
+
+#: [fountain00.tga]Frame4
+msgid "data/map/mapobj/desert/garden/fountain04.dds"
+msgstr "data/map/mapobj/desert/garden/fountain04.dds"
+
+#: [fountain00.tga]Frame5
+msgid "data/map/mapobj/desert/garden/fountain05.dds"
+msgstr "data/map/mapobj/desert/garden/fountain05.dds"
+
+#: [fountain00.tga]Frame6
+msgid "data/map/mapobj/desert/garden/fountain06.dds"
+msgstr "data/map/mapobj/desert/garden/fountain06.dds"
+
+#: [fountain00.tga]Frame7
+msgid "data/map/mapobj/desert/garden/fountain07.dds"
+msgstr "data/map/mapobj/desert/garden/fountain07.dds"
+
+#: [grotto04.tga]FrameAmount
+msgctxt "[grotto04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [grotto04.tga]Frame0
+msgid "data/map/mapobj/plain/plain/grotto04.dds"
+msgstr "data/map/mapobj/plain/plain/grotto04.dds"
+
+#: [grotto05.tga]FrameAmount
+msgctxt "[grotto05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [grotto05.tga]Frame0
+msgid "data/map/mapobj/plain/plain/grotto05.dds"
+msgstr "data/map/mapobj/plain/plain/grotto05.dds"
+
+#: [np01.tga]FrameAmount
+msgctxt "[np01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np01.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np01.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np01.dds"
+
+#: [np02.tga]FrameAmount
+msgctxt "[np02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np02.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np02.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np02.dds"
+
+#: [np03.tga]FrameAmount
+msgctxt "[np03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np03.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np03.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np03.dds"
+
+#: [np04.tga]FrameAmount
+msgctxt "[np04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np04.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np04.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np04.dds"
+
+#: [np05.tga]FrameAmount
+msgctxt "[np05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np05.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np05.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np05.dds"
+
+#: [np06.tga]FrameAmount
+msgctxt "[np06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np06.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np06.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np06.dds"
+
+#: [np07.tga]FrameAmount
+msgctxt "[np07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np07.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np07.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np07.dds"
+
+#: [np08.tga]FrameAmount
+msgctxt "[np08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np08.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np08.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np08.dds"
+
+#: [np09.tga]FrameAmount
+msgctxt "[np09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np09.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np09.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np09.dds"
+
+#: [np10.tga]FrameAmount
+msgctxt "[np10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np10.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np10.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np10.dds"
+
+#: [np11.tga]FrameAmount
+msgctxt "[np11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np11.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np11.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np11.dds"
+
+#: [np12.tga]FrameAmount
+msgctxt "[np12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np12.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np12.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np12.dds"
+
+#: [np13.tga]FrameAmount
+msgctxt "[np13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np13.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np13.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np13.dds"
+
+#: [np14.tga]FrameAmount
+msgctxt "[np14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np14.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np14.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np14.dds"
+
+#: [np15.tga]FrameAmount
+msgctxt "[np15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np15.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np15.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np15.dds"
+
+#: [np16.tga]FrameAmount
+msgctxt "[np16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np16.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np16.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np16.dds"
+
+#: [np17.tga]FrameAmount
+msgctxt "[np17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np17.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np17.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np17.dds"
+
+#: [np18.tga]FrameAmount
+msgctxt "[np18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np18.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np18.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np18.dds"
+
+#: [np19.tga]FrameAmount
+msgctxt "[np19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np19.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np19.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np19.dds"
+
+#: [np20.tga]FrameAmount
+msgctxt "[np20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np20.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np20.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np20.dds"
+
+#: [np21.tga]FrameAmount
+msgctxt "[np21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np21.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np21.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np21.dds"
+
+#: [np22.tga]FrameAmount
+msgctxt "[np22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np22.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np22.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np22.dds"
+
+#: [np23.tga]FrameAmount
+msgctxt "[np23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np23.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np23.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np23.dds"
+
+#: [np24.tga]FrameAmount
+msgctxt "[np24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np24.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np24.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np24.dds"
+
+#: [np25.tga]FrameAmount
+msgctxt "[np25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np25.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np25.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np25.dds"
+
+#: [np26.tga]FrameAmount
+msgctxt "[np26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np26.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np26.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np26.dds"
+
+#: [np27.tga]FrameAmount
+msgctxt "[np27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np27.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np27.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np27.dds"
+
+#: [np28.tga]FrameAmount
+msgctxt "[np28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np28.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np28.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np28.dds"
+
+#: [np29.tga]FrameAmount
+msgctxt "[np29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np29.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np29.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np29.dds"
+
+#: [np30.tga]FrameAmount
+msgctxt "[np30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np30.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np30.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np30.dds"
+
+#: [np31.tga]FrameAmount
+msgctxt "[np31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np31.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np31.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np31.dds"
+
+#: [np32.tga]FrameAmount
+msgctxt "[np32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np32.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np32.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np32.dds"
+
+#: [np33.tga]FrameAmount
+msgctxt "[np33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np33.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np33.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np33.dds"
+
+#: [np34.tga]FrameAmount
+msgctxt "[np34.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np34.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np34.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np34.dds"
+
+#: [np35.tga]FrameAmount
+msgctxt "[np35.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np35.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np35.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np35.dds"
+
+#: [np36.tga]FrameAmount
+msgctxt "[np36.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [np36.tga]Frame0
+msgid "data/map/mapobj/1-newplain/plain/np36.dds"
+msgstr "data/map/mapobj/1-newplain/plain/np36.dds"
+
+#: [c-city01.tga]FrameAmount
+msgctxt "[c-city01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city01.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city01.dds"
+msgstr "data/map/mapobj/1-canyon/c-city01.dds"
+
+#: [c-city02.tga]FrameAmount
+msgctxt "[c-city02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city02.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city02.dds"
+msgstr "data/map/mapobj/1-canyon/c-city02.dds"
+
+#: [c-city03.tga]FrameAmount
+msgctxt "[c-city03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city03.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city03.dds"
+msgstr "data/map/mapobj/1-canyon/c-city03.dds"
+
+#: [c-city04.tga]FrameAmount
+msgctxt "[c-city04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city04.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city04.dds"
+msgstr "data/map/mapobj/1-canyon/c-city04.dds"
+
+#: [c-city05.tga]FrameAmount
+msgctxt "[c-city05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city05.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city05.dds"
+msgstr "data/map/mapobj/1-canyon/c-city05.dds"
+
+#: [c-city06.tga]FrameAmount
+msgctxt "[c-city06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city06.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city06.dds"
+msgstr "data/map/mapobj/1-canyon/c-city06.dds"
+
+#: [c-city07.tga]FrameAmount
+msgctxt "[c-city07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city07.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city07.dds"
+msgstr "data/map/mapobj/1-canyon/c-city07.dds"
+
+#: [c-city08.tga]FrameAmount
+msgctxt "[c-city08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city08.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city08.dds"
+msgstr "data/map/mapobj/1-canyon/c-city08.dds"
+
+#: [c-city09.tga]FrameAmount
+msgctxt "[c-city09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city09.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city09.dds"
+msgstr "data/map/mapobj/1-canyon/c-city09.dds"
+
+#: [c-city10.tga]FrameAmount
+msgctxt "[c-city10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city10.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city10.dds"
+msgstr "data/map/mapobj/1-canyon/c-city10.dds"
+
+#: [c-city11.tga]FrameAmount
+msgctxt "[c-city11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city11.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city11.dds"
+msgstr "data/map/mapobj/1-canyon/c-city11.dds"
+
+#: [c-city12.tga]FrameAmount
+msgctxt "[c-city12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city12.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city12.dds"
+msgstr "data/map/mapobj/1-canyon/c-city12.dds"
+
+#: [c-city13.tga]FrameAmount
+msgctxt "[c-city13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city13.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city13.dds"
+msgstr "data/map/mapobj/1-canyon/c-city13.dds"
+
+#: [c-city14.tga]FrameAmount
+msgctxt "[c-city14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city14.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city14.dds"
+msgstr "data/map/mapobj/1-canyon/c-city14.dds"
+
+#: [c-city15.tga]FrameAmount
+msgctxt "[c-city15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city15.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city15.dds"
+msgstr "data/map/mapobj/1-canyon/c-city15.dds"
+
+#: [c-city16.tga]FrameAmount
+msgctxt "[c-city16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city16.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city16.dds"
+msgstr "data/map/mapobj/1-canyon/c-city16.dds"
+
+#: [c-city17.tga]FrameAmount
+msgctxt "[c-city17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city17.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city17.dds"
+msgstr "data/map/mapobj/1-canyon/c-city17.dds"
+
+#: [c-city18.tga]FrameAmount
+msgctxt "[c-city18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city18.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city18.dds"
+msgstr "data/map/mapobj/1-canyon/c-city18.dds"
+
+#: [c-city19.tga]FrameAmount
+msgctxt "[c-city19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city19.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city19.dds"
+msgstr "data/map/mapobj/1-canyon/c-city19.dds"
+
+#: [c-city20.tga]FrameAmount
+msgctxt "[c-city20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city20.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city20.dds"
+msgstr "data/map/mapobj/1-canyon/c-city20.dds"
+
+#: [c-city21.tga]FrameAmount
+msgctxt "[c-city21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city21.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city21.dds"
+msgstr "data/map/mapobj/1-canyon/c-city21.dds"
+
+#: [c-city22.tga]FrameAmount
+msgctxt "[c-city22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city22.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city22.dds"
+msgstr "data/map/mapobj/1-canyon/c-city22.dds"
+
+#: [c-city23.tga]FrameAmount
+msgctxt "[c-city23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city23.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city23.dds"
+msgstr "data/map/mapobj/1-canyon/c-city23.dds"
+
+#: [c-city24.tga]FrameAmount
+msgctxt "[c-city24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city24.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city24.dds"
+msgstr "data/map/mapobj/1-canyon/c-city24.dds"
+
+#: [c-city25.tga]FrameAmount
+msgctxt "[c-city25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city25.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city25.dds"
+msgstr "data/map/mapobj/1-canyon/c-city25.dds"
+
+#: [c-city26.tga]FrameAmount
+msgctxt "[c-city26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city26.tga]Frame0
+msgid "data/map/mapobj/canyon/c-city26.dds"
+msgstr "data/map/mapobj/canyon/c-city26.dds"
+
+#: [c-city27.tga]FrameAmount
+msgctxt "[c-city27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city27.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city27.dds"
+msgstr "data/map/mapobj/1-canyon/c-city27.dds"
+
+#: [c-city28.tga]FrameAmount
+msgctxt "[c-city28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city28.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city28.dds"
+msgstr "data/map/mapobj/1-canyon/c-city28.dds"
+
+#: [c-city29.tga]FrameAmount
+msgctxt "[c-city29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city29.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city29.dds"
+msgstr "data/map/mapobj/1-canyon/c-city29.dds"
+
+#: [c-city30.tga]FrameAmount
+msgctxt "[c-city30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city30.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city30.dds"
+msgstr "data/map/mapobj/1-canyon/c-city30.dds"
+
+#: [c-city31.tga]FrameAmount
+msgctxt "[c-city31.tga]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [c-city31.tga]Frame0
+msgid "data/map/mapobj/canyon/c-city31.dds"
+msgstr "data/map/mapobj/canyon/c-city31.dds"
+
+#: [c-city31.tga]Frame1
+msgid "data/map/mapobj/canyon/c-city32.dds"
+msgstr "data/map/mapobj/canyon/c-city32.dds"
+
+#: [c-city31.tga]Frame2
+msgid "data/map/mapobj/canyon/c-city33.dds"
+msgstr "data/map/mapobj/canyon/c-city33.dds"
+
+#: [c-city31.tga]Frame3
+msgid "data/map/mapobj/canyon/c-city34.dds"
+msgstr "data/map/mapobj/canyon/c-city34.dds"
+
+#: [c-city35.tga]FrameAmount
+msgctxt "[c-city35.tga]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [c-city35.tga]Frame0
+msgid "data/map/mapobj/canyon/c-city35.dds"
+msgstr "data/map/mapobj/canyon/c-city35.dds"
+
+#: [c-city35.tga]Frame1
+msgid "data/map/mapobj/canyon/c-city36.dds"
+msgstr "data/map/mapobj/canyon/c-city36.dds"
+
+#: [c-city35.tga]Frame2
+msgid "data/map/mapobj/canyon/c-city37.dds"
+msgstr "data/map/mapobj/canyon/c-city37.dds"
+
+#: [c-city35.tga]Frame3
+msgid "data/map/mapobj/canyon/c-city38.dds"
+msgstr "data/map/mapobj/canyon/c-city38.dds"
+
+#: [c-city39.tga]FrameAmount
+msgctxt "[c-city39.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [c-city39.tga]Frame0
+msgid "data/map/mapobj/canyon/c-city39.dds"
+msgstr "data/map/mapobj/canyon/c-city39.dds"
+
+#: [c-city39.tga]Frame1
+msgid "data/map/mapobj/canyon/c-city40.dds"
+msgstr "data/map/mapobj/canyon/c-city40.dds"
+
+#: [c-city41.tga]FrameAmount
+msgctxt "[c-city41.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [c-city41.tga]Frame0
+msgid "data/map/mapobj/canyon/c-city41.dds"
+msgstr "data/map/mapobj/canyon/c-city41.dds"
+
+#: [c-city41.tga]Frame1
+msgid "data/map/mapobj/canyon/c-city42.dds"
+msgstr "data/map/mapobj/canyon/c-city42.dds"
+
+#: [c-city43.tga]FrameAmount
+msgctxt "[c-city43.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [c-city43.tga]Frame0
+msgid "data/map/mapobj/canyon/c-city43.dds"
+msgstr "data/map/mapobj/canyon/c-city43.dds"
+
+#: [c-city43.tga]Frame1
+msgid "data/map/mapobj/canyon/c-city44.dds"
+msgstr "data/map/mapobj/canyon/c-city44.dds"
+
+#: [c-city45.tga]FrameAmount
+msgctxt "[c-city45.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city45.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city45.dds"
+msgstr "data/map/mapobj/1-canyon/c-city45.dds"
+
+#: [c-city46.tga]FrameAmount
+msgctxt "[c-city46.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city46.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city46.dds"
+msgstr "data/map/mapobj/1-canyon/c-city46.dds"
+
+#: [c-city47.tga]FrameAmount
+msgctxt "[c-city47.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city47.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city47.dds"
+msgstr "data/map/mapobj/1-canyon/c-city47.dds"
+
+#: [c-city48.tga]FrameAmount
+msgctxt "[c-city48.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city48.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city48.dds"
+msgstr "data/map/mapobj/1-canyon/c-city48.dds"
+
+#: [c-city49.tga]FrameAmount
+msgctxt "[c-city49.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city49.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city49.dds"
+msgstr "data/map/mapobj/1-canyon/c-city49.dds"
+
+#: [c-city50.tga]FrameAmount
+msgctxt "[c-city50.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [c-city50.tga]Frame0
+msgid "data/map/mapobj/1-canyon/c-city50.dds"
+msgstr "data/map/mapobj/1-canyon/c-city50.dds"
+
+#: [c-fire.tga]FrameAmount
+msgctxt "[c-fire.tga]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [c-fire.tga]Frame0
+msgid "data/map/mapobj/canyon/c-fire01.dds"
+msgstr "data/map/mapobj/canyon/c-fire01.dds"
+
+#: [c-fire.tga]Frame1
+msgid "data/map/mapobj/canyon/c-fire02.dds"
+msgstr "data/map/mapobj/canyon/c-fire02.dds"
+
+#: [c-fire.tga]Frame2
+msgid "data/map/mapobj/canyon/c-fire03.dds"
+msgstr "data/map/mapobj/canyon/c-fire03.dds"
+
+#: [c-fire.tga]Frame3
+msgid "data/map/mapobj/canyon/c-fire04.dds"
+msgstr "data/map/mapobj/canyon/c-fire04.dds"
+
+#: [c-fire.tga]Frame4
+msgid "data/map/mapobj/canyon/c-fire05.dds"
+msgstr "data/map/mapobj/canyon/c-fire05.dds"
+
+#: [c-fire.tga]Frame5
+msgid "data/map/mapobj/canyon/c-fire06.dds"
+msgstr "data/map/mapobj/canyon/c-fire06.dds"
+
+#: [c-fire.tga]Frame6
+msgid "data/map/mapobj/canyon/c-fire07.dds"
+msgstr "data/map/mapobj/canyon/c-fire07.dds"
+
+#: [c-fire.tga]Frame7
+msgid "data/map/mapobj/canyon/c-fire08.dds"
+msgstr "data/map/mapobj/canyon/c-fire08.dds"
+
+#: [cbridge01.tga]FrameAmount
+msgctxt "[cbridge01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge01.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge01.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge01.dds"
+
+#: [cbridge02.tga]FrameAmount
+msgctxt "[cbridge02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge02.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge02.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge02.dds"
+
+#: [cbridge03.tga]FrameAmount
+msgctxt "[cbridge03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge03.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge03.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge03.dds"
+
+#: [cbridge04.tga]FrameAmount
+msgctxt "[cbridge04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge04.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge04.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge04.dds"
+
+#: [cbridge05.tga]FrameAmount
+msgctxt "[cbridge05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge05.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge05.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge05.dds"
+
+#: [cbridge06.tga]FrameAmount
+msgctxt "[cbridge06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge06.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge06.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge06.dds"
+
+#: [cbridge07.tga]FrameAmount
+msgctxt "[cbridge07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge07.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge07.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge07.dds"
+
+#: [cbridge08.tga]FrameAmount
+msgctxt "[cbridge08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge08.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge08.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge08.dds"
+
+#: [cbridge09.tga]FrameAmount
+msgctxt "[cbridge09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge09.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge09.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge09.dds"
+
+#: [cbridge10.tga]FrameAmount
+msgctxt "[cbridge10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge10.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge10.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge10.dds"
+
+#: [cbridge11.tga]FrameAmount
+msgctxt "[cbridge11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge11.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge11.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge11.dds"
+
+#: [cbridge12.tga]FrameAmount
+msgctxt "[cbridge12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge12.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge12.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge12.dds"
+
+#: [cbridge13.tga]FrameAmount
+msgctxt "[cbridge13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge13.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge13.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge13.dds"
+
+#: [cbridge14.tga]FrameAmount
+msgctxt "[cbridge14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cbridge14.tga]Frame0
+msgid "data/map/mapobj/1-canyon/cbridge14.dds"
+msgstr "data/map/mapobj/1-canyon/cbridge14.dds"
+
+#: [faction01.tga]FrameAmount
+msgctxt "[faction01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [faction01.tga]Frame0
+msgid "data/map/mapobj/faction/faction01.dds"
+msgstr "data/map/mapobj/faction/faction01.dds"
+
+#: [faction02.tga]FrameAmount
+msgctxt "[faction02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [faction02.tga]Frame0
+msgid "data/map/mapobj/faction/faction02.dds"
+msgstr "data/map/mapobj/faction/faction02.dds"
+
+#: [faction03.tga]FrameAmount
+msgctxt "[faction03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [faction03.tga]Frame0
+msgid "data/map/mapobj/faction/faction03.dds"
+msgstr "data/map/mapobj/faction/faction03.dds"
+
+#: [saleflag01]FrameAmount
+msgctxt "[saleflag01]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [saleflag01]Frame0
+msgid "data/map/cartoon/saleflag/01.dds"
+msgstr "data/map/cartoon/saleflag/01.dds"
+
+#: [saleflag01]Frame1
+msgid "data/map/cartoon/saleflag/02.dds"
+msgstr "data/map/cartoon/saleflag/02.dds"
+
+#: [saleflag01]Frame2
+msgid "data/map/cartoon/saleflag/03.dds"
+msgstr "data/map/cartoon/saleflag/03.dds"
+
+#: [saleflag01]Frame3
+msgid "data/map/cartoon/saleflag/04.dds"
+msgstr "data/map/cartoon/saleflag/04.dds"
+
+#: [saleflag01]Frame4
+msgid "data/map/cartoon/saleflag/05.dds"
+msgstr "data/map/cartoon/saleflag/05.dds"
+
+#: [saleflag01]Frame5
+msgid "data/map/cartoon/saleflag/06.dds"
+msgstr "data/map/cartoon/saleflag/06.dds"
+
+#: [saleflag01]Frame6
+msgid "data/map/cartoon/saleflag/07.dds"
+msgstr "data/map/cartoon/saleflag/07.dds"
+
+#: [saleflag01]Frame7
+msgid "data/map/cartoon/saleflag/08.dds"
+msgstr "data/map/cartoon/saleflag/08.dds"
+
+#: [heart]FrameAmount
+msgctxt "[heart]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [heart]Frame0
+msgid "data/map/mapobj/street/heart.dds"
+msgstr "data/map/mapobj/street/heart.dds"
+
+#: [house01.tga]FrameAmount
+msgctxt "[house01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house01.tga]Frame0
+msgid "data/map/mapobj/family/house01.dds"
+msgstr "data/map/mapobj/family/house01.dds"
+
+#: [house02.tga]FrameAmount
+msgctxt "[house02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house02.tga]Frame0
+msgid "data/map/mapobj/family/house02.dds"
+msgstr "data/map/mapobj/family/house02.dds"
+
+#: [house02-1.tga]FrameAmount
+msgctxt "[house02-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house02-1.tga]Frame0
+msgid "data/map/mapobj/family/house02-1.dds"
+msgstr "data/map/mapobj/family/house02-1.dds"
+
+#: [house03.tga]FrameAmount
+msgctxt "[house03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house03.tga]Frame0
+msgid "data/map/mapobj/family/house03.dds"
+msgstr "data/map/mapobj/family/house03.dds"
+
+#: [house04.tga]FrameAmount
+msgctxt "[house04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house04.tga]Frame0
+msgid "data/map/mapobj/family/house04.dds"
+msgstr "data/map/mapobj/family/house04.dds"
+
+#: [house05.tga]FrameAmount
+msgctxt "[house05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house05.tga]Frame0
+msgid "data/map/mapobj/family/house05.dds"
+msgstr "data/map/mapobj/family/house05.dds"
+
+#: [house06.tga]FrameAmount
+msgctxt "[house06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house06.tga]Frame0
+msgid "data/map/mapobj/family/house06.dds"
+msgstr "data/map/mapobj/family/house06.dds"
+
+#: [house07.tga]FrameAmount
+msgctxt "[house07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house07.tga]Frame0
+msgid "data/map/mapobj/family/house07.dds"
+msgstr "data/map/mapobj/family/house07.dds"
+
+#: [house08.tga]FrameAmount
+msgctxt "[house08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house08.tga]Frame0
+msgid "data/map/mapobj/family/house08.dds"
+msgstr "data/map/mapobj/family/house08.dds"
+
+#: [house09.tga]FrameAmount
+msgctxt "[house09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house09.tga]Frame0
+msgid "data/map/mapobj/family/house09.dds"
+msgstr "data/map/mapobj/family/house09.dds"
+
+#: [house10.tga]FrameAmount
+msgctxt "[house10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house10.tga]Frame0
+msgid "data/map/mapobj/family/house10.dds"
+msgstr "data/map/mapobj/family/house10.dds"
+
+#: [house11.tga]FrameAmount
+msgctxt "[house11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house11.tga]Frame0
+msgid "data/map/mapobj/family/house11.dds"
+msgstr "data/map/mapobj/family/house11.dds"
+
+#: [house12.tga]FrameAmount
+msgctxt "[house12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house12.tga]Frame0
+msgid "data/map/mapobj/family/house12.dds"
+msgstr "data/map/mapobj/family/house12.dds"
+
+#: [house13.tga]FrameAmount
+msgctxt "[house13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house13.tga]Frame0
+msgid "data/map/mapobj/family/house13.msk"
+msgstr "data/map/mapobj/family/house13.msk"
+
+#: [house14.tga]FrameAmount
+msgctxt "[house14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house14.tga]Frame0
+msgid "data/map/mapobj/family/house14.msk"
+msgstr "data/map/mapobj/family/house14.msk"
+
+#: [house15.tga]FrameAmount
+msgctxt "[house15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house15.tga]Frame0
+msgid "data/map/mapobj/family/house15.msk"
+msgstr "data/map/mapobj/family/house15.msk"
+
+#: [house16.tga]FrameAmount
+msgctxt "[house16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house16.tga]Frame0
+msgid "data/map/mapobj/family/house16.msk"
+msgstr "data/map/mapobj/family/house16.msk"
+
+#: [house17.tga]FrameAmount
+msgctxt "[house17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house17.tga]Frame0
+msgid "data/map/mapobj/family/house17.msk"
+msgstr "data/map/mapobj/family/house17.msk"
+
+#: [house18.tga]FrameAmount
+msgctxt "[house18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house18.tga]Frame0
+msgid "data/map/mapobj/family/house18.msk"
+msgstr "data/map/mapobj/family/house18.msk"
+
+#: [house19.tga]FrameAmount
+msgctxt "[house19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house19.tga]Frame0
+msgid "data/map/mapobj/family/house19.msk"
+msgstr "data/map/mapobj/family/house19.msk"
+
+#: [house20.tga]FrameAmount
+msgctxt "[house20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house20.tga]Frame0
+msgid "data/map/mapobj/family/house20.msk"
+msgstr "data/map/mapobj/family/house20.msk"
+
+#: [house21.tga]FrameAmount
+msgctxt "[house21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house21.tga]Frame0
+msgid "data/map/mapobj/family/house21.msk"
+msgstr "data/map/mapobj/family/house21.msk"
+
+#: [house22.tga]FrameAmount
+msgctxt "[house22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house22.tga]Frame0
+msgid "data/map/mapobj/family/house22.msk"
+msgstr "data/map/mapobj/family/house22.msk"
+
+#: [house23.tga]FrameAmount
+msgctxt "[house23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house23.tga]Frame0
+msgid "data/map/mapobj/family/house23.msk"
+msgstr "data/map/mapobj/family/house23.msk"
+
+#: [house24.tga]FrameAmount
+msgctxt "[house24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house24.tga]Frame0
+msgid "data/map/mapobj/family/house24.msk"
+msgstr "data/map/mapobj/family/house24.msk"
+
+#: [Step]FrameAmount
+msgctxt "[Step]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Step]Frame0
+msgid "data/map/mapobj/wall/step.dds"
+msgstr "data/map/mapobj/wall/step.dds"
+
+#: [Wall]FrameAmount
+msgctxt "[Wall]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Wall]Frame0
+msgid "data/map/mapobj/wall/Wall.dds"
+msgstr "data/map/mapobj/wall/Wall.dds"
+
+#: [LWall]FrameAmount
+msgctxt "[LWall]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [LWall]Frame0
+msgid "data/map/mapobj/wall/LWall.dds"
+msgstr "data/map/mapobj/wall/LWall.dds"
+
+#: [RWall]FrameAmount
+msgctxt "[RWall]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [RWall]Frame0
+msgid "data/map/mapobj/wall/RWall.dds"
+msgstr "data/map/mapobj/wall/RWall.dds"

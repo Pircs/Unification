@@ -1,0 +1,3280 @@
+#. extracted from mapscene02.ini, mapscene02Copy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [icecrypt01.tga]FrameAmount
+msgctxt "[icecrypt01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt01.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt01.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt01.dds"
+
+#: [icecrypt02.tga]FrameAmount
+msgctxt "[icecrypt02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt02.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt02.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt02.dds"
+
+#: [icecrypt03.tga]FrameAmount
+msgctxt "[icecrypt03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt03.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt03.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt03.dds"
+
+#: [icecrypt04.tga]FrameAmount
+msgctxt "[icecrypt04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt04.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt04.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt04.dds"
+
+#: [icecrypt05.tga]FrameAmount
+msgctxt "[icecrypt05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt05.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt05.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt05.dds"
+
+#: [icecrypt06.tga]FrameAmount
+msgctxt "[icecrypt06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt06.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt06.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt06.dds"
+
+#: [icecrypt07.tga]FrameAmount
+msgctxt "[icecrypt07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt07.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt07.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt07.dds"
+
+#: [icecrypt08.tga]FrameAmount
+msgctxt "[icecrypt08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt08.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt08.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt08.dds"
+
+#: [icecrypt09.tga]FrameAmount
+msgctxt "[icecrypt09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt09.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt09.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt09.dds"
+
+#: [icecrypt10.tga]FrameAmount
+msgctxt "[icecrypt10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt10.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt10.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt10.dds"
+
+#: [icecrypt11.tga]FrameAmount
+msgctxt "[icecrypt11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt11.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt11.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt11.dds"
+
+#: [icecrypt12.tga]FrameAmount
+msgctxt "[icecrypt12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt12.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt12.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt12.dds"
+
+#: [icecrypt13.tga]FrameAmount
+msgctxt "[icecrypt13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt13.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt13.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt13.dds"
+
+#: [icecrypt14.tga]FrameAmount
+msgctxt "[icecrypt14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt14.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt14.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt14.dds"
+
+#: [icecrypt15.tga]FrameAmount
+msgctxt "[icecrypt15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt15.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt15.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt15.dds"
+
+#: [icecrypt16.tga]FrameAmount
+msgctxt "[icecrypt16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt16.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt16.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt16.dds"
+
+#: [icecrypt17.tga]FrameAmount
+msgctxt "[icecrypt17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt17.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt17.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt17.dds"
+
+#: [icecrypt18.tga]FrameAmount
+msgctxt "[icecrypt18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt18.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt18.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt18.dds"
+
+#: [icecrypt19.tga]FrameAmount
+msgctxt "[icecrypt19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt19.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt19.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt19.dds"
+
+#: [icecrypt20.tga]FrameAmount
+msgctxt "[icecrypt20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt20.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt20.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt20.dds"
+
+#: [icecrypt21.tga]FrameAmount
+msgctxt "[icecrypt21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt21.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt21.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt21.dds"
+
+#: [icecrypt22.tga]FrameAmount
+msgctxt "[icecrypt22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt22.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt22.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt22.dds"
+
+#: [icecrypt23.tga]FrameAmount
+msgctxt "[icecrypt23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt23.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt23.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt23.dds"
+
+#: [icecrypt24.tga]FrameAmount
+msgctxt "[icecrypt24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt24.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt24.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt24.dds"
+
+#: [icecrypt25.tga]FrameAmount
+msgctxt "[icecrypt25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt25.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt25.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt25.dds"
+
+#: [icecrypt26.tga]FrameAmount
+msgctxt "[icecrypt26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt26.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt26.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt26.dds"
+
+#: [icecrypt27.tga]FrameAmount
+msgctxt "[icecrypt27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt27.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt27.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt27.dds"
+
+#: [icecrypt28.tga]FrameAmount
+msgctxt "[icecrypt28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt28.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt28.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt28.dds"
+
+#: [icecrypt29.tga]FrameAmount
+msgctxt "[icecrypt29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt29.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt29.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt29.dds"
+
+#: [icecrypt30.tga]FrameAmount
+msgctxt "[icecrypt30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt30.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt30.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt30.dds"
+
+#: [icecrypt31.tga]FrameAmount
+msgctxt "[icecrypt31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt31.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt31.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt31.dds"
+
+#: [icecrypt32.tga]FrameAmount
+msgctxt "[icecrypt32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt32.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt32.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt32.dds"
+
+#: [icecrypt33.tga]FrameAmount
+msgctxt "[icecrypt33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt33.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt33.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt33.dds"
+
+#: [icecrypt34.tga]FrameAmount
+msgctxt "[icecrypt34.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt34.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt34.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt34.dds"
+
+#: [icecrypt35.tga]FrameAmount
+msgctxt "[icecrypt35.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt35.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt35.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt35.dds"
+
+#: [icecrypt36.tga]FrameAmount
+msgctxt "[icecrypt36.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt36.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt36.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt36.dds"
+
+#: [icecrypt37.tga]FrameAmount
+msgctxt "[icecrypt37.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt37.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt37.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt37.dds"
+
+#: [icecrypt38.tga]FrameAmount
+msgctxt "[icecrypt38.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt38.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt38.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt38.dds"
+
+#: [icecrypt39.tga]FrameAmount
+msgctxt "[icecrypt39.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt39.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt39.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt39.dds"
+
+#: [icecrypt40.tga]FrameAmount
+msgctxt "[icecrypt40.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt40.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt40.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt40.dds"
+
+#: [icecrypt41.tga]FrameAmount
+msgctxt "[icecrypt41.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt41.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt41.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt41.dds"
+
+#: [icecrypt42.tga]FrameAmount
+msgctxt "[icecrypt42.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt42.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt42.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt42.dds"
+
+#: [icecrypt43.tga]FrameAmount
+msgctxt "[icecrypt43.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt43.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt43.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt43.dds"
+
+#: [icecrypt44.tga]FrameAmount
+msgctxt "[icecrypt44.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt44.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt44.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt44.dds"
+
+#: [icecrypt45.tga]FrameAmount
+msgctxt "[icecrypt45.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt45.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt45.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt45.dds"
+
+#: [icecrypt46.tga]FrameAmount
+msgctxt "[icecrypt46.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt46.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt46.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt46.dds"
+
+#: [icecrypt47.tga]FrameAmount
+msgctxt "[icecrypt47.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt47.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt47.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt47.dds"
+
+#: [icecrypt48.tga]FrameAmount
+msgctxt "[icecrypt48.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt48.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt48.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt48.dds"
+
+#: [icecrypt49.tga]FrameAmount
+msgctxt "[icecrypt49.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt49.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt49.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt49.dds"
+
+#: [icecrypt50.tga]FrameAmount
+msgctxt "[icecrypt50.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt50.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt50.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt50.dds"
+
+#: [icecrypt51.tga]FrameAmount
+msgctxt "[icecrypt51.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt51.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt51.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt51.dds"
+
+#: [icecrypt52.tga]FrameAmount
+msgctxt "[icecrypt52.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt52.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt52.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt52.dds"
+
+#: [icecrypt53.tga]FrameAmount
+msgctxt "[icecrypt53.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt53.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt53.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt53.dds"
+
+#: [icecrypt54.tga]FrameAmount
+msgctxt "[icecrypt54.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icecrypt54.tga]Frame0
+msgid "data/map/mapobj/iceland/icecrypt/icecrypt54.dds"
+msgstr "data/map/mapobj/iceland/icecrypt/icecrypt54.dds"
+
+#: [icelake01.tga]FrameAmount
+msgctxt "[icelake01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake01.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake01.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake01.dds"
+
+#: [icelake02.tga]FrameAmount
+msgctxt "[icelake02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake02.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake02.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake02.dds"
+
+#: [icelake03.tga]FrameAmount
+msgctxt "[icelake03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake03.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake03.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake03.dds"
+
+#: [icelake04.tga]FrameAmount
+msgctxt "[icelake04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake04.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake04.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake04.dds"
+
+#: [icelake05.tga]FrameAmount
+msgctxt "[icelake05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake05.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake05.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake05.dds"
+
+#: [icelake06.tga]FrameAmount
+msgctxt "[icelake06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake06.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake06.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake06.dds"
+
+#: [icelake07.tga]FrameAmount
+msgctxt "[icelake07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake07.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake07.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake07.dds"
+
+#: [icelake08.tga]FrameAmount
+msgctxt "[icelake08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake08.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake08.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake08.dds"
+
+#: [icelake09.tga]FrameAmount
+msgctxt "[icelake09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake09.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake09.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake09.dds"
+
+#: [icelake10.tga]FrameAmount
+msgctxt "[icelake10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake10.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake10.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake10.dds"
+
+#: [icelake11.tga]FrameAmount
+msgctxt "[icelake11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake11.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake11.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake11.dds"
+
+#: [icelake12.tga]FrameAmount
+msgctxt "[icelake12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icelake12.tga]Frame0
+msgid "data/map/mapobj/iceland/icelake/icelake12.dds"
+msgstr "data/map/mapobj/iceland/icelake/icelake12.dds"
+
+#: [obj24.tga]FrameAmount
+msgctxt "[obj24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj24.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj24.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj24.dds"
+
+#: [obj25.tga]FrameAmount
+msgctxt "[obj25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj25.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj25.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj25.dds"
+
+#: [obj26.tga]FrameAmount
+msgctxt "[obj26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj26.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj26.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj26.dds"
+
+#: [obj27.tga]FrameAmount
+msgctxt "[obj27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj27.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj27.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj27.dds"
+
+#: [obj28.tga]FrameAmount
+msgctxt "[obj28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj28.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj28.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj28.dds"
+
+#: [obj29.tga]FrameAmount
+msgctxt "[obj29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj29.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj29.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj29.dds"
+
+#: [obj30.tga]FrameAmount
+msgctxt "[obj30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj30.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj30.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj30.dds"
+
+#: [obj31.tga]FrameAmount
+msgctxt "[obj31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj31.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj31.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj31.dds"
+
+#: [obj32.tga]FrameAmount
+msgctxt "[obj32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj32.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj32.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj32.dds"
+
+#: [obj33.tga]FrameAmount
+msgctxt "[obj33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj33.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj33.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj33.dds"
+
+#: [obj34.tga]FrameAmount
+msgctxt "[obj34.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj34.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj34.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj34.dds"
+
+#: [obj35.tga]FrameAmount
+msgctxt "[obj35.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj35.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj35.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj35.dds"
+
+#: [obj36.tga]FrameAmount
+msgctxt "[obj36.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj36.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj36.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj36.dds"
+
+#: [obj37.tga]FrameAmount
+msgctxt "[obj37.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj37.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj37.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj37.dds"
+
+#: [obj38.tga]FrameAmount
+msgctxt "[obj38.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj38.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj38.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj38.dds"
+
+#: [obj39.tga]FrameAmount
+msgctxt "[obj39.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj39.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj39.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj39.dds"
+
+#: [obj40.tga]FrameAmount
+msgctxt "[obj40.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj40.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj40.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj40.dds"
+
+#: [obj41.tga]FrameAmount
+msgctxt "[obj41.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj41.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj41.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj41.dds"
+
+#: [obj42.tga]FrameAmount
+msgctxt "[obj42.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj42.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj42.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj42.dds"
+
+#: [obj43.tga]FrameAmount
+msgctxt "[obj43.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj43.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj43.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj43.dds"
+
+#: [obj44.tga]FrameAmount
+msgctxt "[obj44.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj44.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj44.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj44.dds"
+
+#: [obj45.tga]FrameAmount
+msgctxt "[obj45.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj45.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj45.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj45.dds"
+
+#: [obj46.tga]FrameAmount
+msgctxt "[obj46.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj46.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj46.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj46.dds"
+
+#: [obj47.tga]FrameAmount
+msgctxt "[obj47.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj47.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj47.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj47.dds"
+
+#: [obj48.tga]FrameAmount
+msgctxt "[obj48.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj48.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj48.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj48.dds"
+
+#: [obj49.tga]FrameAmount
+msgctxt "[obj49.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj49.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj49.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj49.dds"
+
+#: [obj50.tga]FrameAmount
+msgctxt "[obj50.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj50.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj50.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj50.dds"
+
+#: [obj51.tga]FrameAmount
+msgctxt "[obj51.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj51.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj51.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj51.dds"
+
+#: [obj52.tga]FrameAmount
+msgctxt "[obj52.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj52.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/obj/obj52.dds"
+msgstr "data/map/mapobj/iceland/fudi/obj/obj52.dds"
+
+#: [house01.tga]FrameAmount
+msgctxt "[house01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house01.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house01.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house01.dds"
+
+#: [house02.tga]FrameAmount
+msgctxt "[house02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house02.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house02.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house02.dds"
+
+#: [house03.tga]FrameAmount
+msgctxt "[house03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house03.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house03.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house03.dds"
+
+#: [house04.tga]FrameAmount
+msgctxt "[house04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house04.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house04.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house04.dds"
+
+#: [house05.tga]FrameAmount
+msgctxt "[house05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house05.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house05.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house05.dds"
+
+#: [house06.tga]FrameAmount
+msgctxt "[house06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house06.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house06.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house06.dds"
+
+#: [house07.tga]FrameAmount
+msgctxt "[house07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house07.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house07.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house07.dds"
+
+#: [house08.tga]FrameAmount
+msgctxt "[house08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house08.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house08.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house08.dds"
+
+#: [house09.tga]FrameAmount
+msgctxt "[house09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house09.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house09.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house09.dds"
+
+#: [house10.tga]FrameAmount
+msgctxt "[house10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house10.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house10.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house10.dds"
+
+#: [house11.tga]FrameAmount
+msgctxt "[house11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house11.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house11.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house11.dds"
+
+#: [house12.tga]FrameAmount
+msgctxt "[house12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house12.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house12.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house12.dds"
+
+#: [house13.tga]FrameAmount
+msgctxt "[house13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house13.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house13.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house13.dds"
+
+#: [house14.tga]FrameAmount
+msgctxt "[house14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house14.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house14.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house14.dds"
+
+#: [house15.tga]FrameAmount
+msgctxt "[house15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house15.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house15.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house15.dds"
+
+#: [house16.tga]FrameAmount
+msgctxt "[house16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house16.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house16.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house16.dds"
+
+#: [house17.tga]FrameAmount
+msgctxt "[house17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house17.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house17.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house17.dds"
+
+#: [house18.tga]FrameAmount
+msgctxt "[house18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house18.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house18.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house18.dds"
+
+#: [house19.tga]FrameAmount
+msgctxt "[house19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house19.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house19.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house19.dds"
+
+#: [house20.tga]FrameAmount
+msgctxt "[house20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house20.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house20.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house20.dds"
+
+#: [house21.tga]FrameAmount
+msgctxt "[house21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house21.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house21.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house21.dds"
+
+#: [house22.tga]FrameAmount
+msgctxt "[house22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house22.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house22.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house22.dds"
+
+#: [house23.tga]FrameAmount
+msgctxt "[house23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house23.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house23.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house23.dds"
+
+#: [house24.tga]FrameAmount
+msgctxt "[house24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house24.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house24.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house24.dds"
+
+#: [house25.tga]FrameAmount
+msgctxt "[house25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house25.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house25.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house25.dds"
+
+#: [house26.tga]FrameAmount
+msgctxt "[house26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house26.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house26.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house26.dds"
+
+#: [house27.tga]FrameAmount
+msgctxt "[house27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house27.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house27.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house27.dds"
+
+#: [house28.tga]FrameAmount
+msgctxt "[house28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house28.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house28.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house28.dds"
+
+#: [house29.tga]FrameAmount
+msgctxt "[house29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house29.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house29.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house29.dds"
+
+#: [house30.tga]FrameAmount
+msgctxt "[house30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house30.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house30.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house30.dds"
+
+#: [house31.tga]FrameAmount
+msgctxt "[house31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house31.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house31.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house31.dds"
+
+#: [house32.tga]FrameAmount
+msgctxt "[house32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house32.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house32.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house32.dds"
+
+#: [house33.tga]FrameAmount
+msgctxt "[house33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house33.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house33.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house33.dds"
+
+#: [house34.tga]FrameAmount
+msgctxt "[house34.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house34.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house34.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house34.dds"
+
+#: [house35.tga]FrameAmount
+msgctxt "[house35.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house35.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house35.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house35.dds"
+
+#: [house36.tga]FrameAmount
+msgctxt "[house36.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house36.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house36.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house36.dds"
+
+#: [house37.tga]FrameAmount
+msgctxt "[house37.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house37.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house37.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house37.dds"
+
+#: [house38.tga]FrameAmount
+msgctxt "[house38.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house38.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house38.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house38.dds"
+
+#: [house39.tga]FrameAmount
+msgctxt "[house39.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [house39.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/house/house39.dds"
+msgstr "data/map/mapobj/iceland/fudi/house/house39.dds"
+
+#: [tree01.tga]FrameAmount
+msgctxt "[tree01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree01.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree01.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree01.dds"
+
+#: [tree02.tga]FrameAmount
+msgctxt "[tree02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree02.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree02.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree02.dds"
+
+#: [tree03.tga]FrameAmount
+msgctxt "[tree03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree03.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree03.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree03.dds"
+
+#: [tree04.tga]FrameAmount
+msgctxt "[tree04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree04.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree04.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree04.dds"
+
+#: [tree05.tga]FrameAmount
+msgctxt "[tree05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree05.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree05.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree05.dds"
+
+#: [tree06.tga]FrameAmount
+msgctxt "[tree06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree06.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree06.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree06.dds"
+
+#: [tree07.tga]FrameAmount
+msgctxt "[tree07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree07.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree07.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree07.dds"
+
+#: [tree08.tga]FrameAmount
+msgctxt "[tree08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree08.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree08.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree08.dds"
+
+#: [tree09.tga]FrameAmount
+msgctxt "[tree09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree09.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree09.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree09.dds"
+
+#: [tree10.tga]FrameAmount
+msgctxt "[tree10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree10.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree10.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree10.dds"
+
+#: [tree11.tga]FrameAmount
+msgctxt "[tree11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree11.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree11.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree11.dds"
+
+#: [tree12.tga]FrameAmount
+msgctxt "[tree12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree12.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree12.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree12.dds"
+
+#: [tree13.tga]FrameAmount
+msgctxt "[tree13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree13.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree13.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree13.dds"
+
+#: [tree14.tga]FrameAmount
+msgctxt "[tree14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree14.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree14.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree14.dds"
+
+#: [tree15.tga]FrameAmount
+msgctxt "[tree15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree15.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree15.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree15.dds"
+
+#: [tree16.tga]FrameAmount
+msgctxt "[tree16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree16.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree16.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree16.dds"
+
+#: [tree17.tga]FrameAmount
+msgctxt "[tree17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree17.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree17.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree17.dds"
+
+#: [tree18.tga]FrameAmount
+msgctxt "[tree18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree18.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree18.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree18.dds"
+
+#: [tree19.tga]FrameAmount
+msgctxt "[tree19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree19.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree19.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree19.dds"
+
+#: [tree20.tga]FrameAmount
+msgctxt "[tree20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree20.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree20.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree20.dds"
+
+#: [tree21.tga]FrameAmount
+msgctxt "[tree21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tree21.tga]Frame0
+msgid "data/map/mapobj/iceland/fudi/tree/tree21.dds"
+msgstr "data/map/mapobj/iceland/fudi/tree/tree21.dds"
+
+#: [obj01.tga]FrameAmount
+msgctxt "[obj01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj01.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj01.dds"
+msgstr "data/map/mapobj/iceland/obj/obj01.dds"
+
+#: [obj02.tga]FrameAmount
+msgctxt "[obj02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj02.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj02.dds"
+msgstr "data/map/mapobj/iceland/obj/obj02.dds"
+
+#: [obj03.tga]FrameAmount
+msgctxt "[obj03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj03.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj03.dds"
+msgstr "data/map/mapobj/iceland/obj/obj03.dds"
+
+#: [obj04.tga]FrameAmount
+msgctxt "[obj04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj04.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj04.dds"
+msgstr "data/map/mapobj/iceland/obj/obj04.dds"
+
+#: [obj05.tga]FrameAmount
+msgctxt "[obj05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj05.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj05.dds"
+msgstr "data/map/mapobj/iceland/obj/obj05.dds"
+
+#: [obj06.tga]FrameAmount
+msgctxt "[obj06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj06.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj06.dds"
+msgstr "data/map/mapobj/iceland/obj/obj06.dds"
+
+#: [obj07.tga]FrameAmount
+msgctxt "[obj07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj07.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj07.dds"
+msgstr "data/map/mapobj/iceland/obj/obj07.dds"
+
+#: [obj08.tga]FrameAmount
+msgctxt "[obj08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj08.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj08.dds"
+msgstr "data/map/mapobj/iceland/obj/obj08.dds"
+
+#: [obj09.tga]FrameAmount
+msgctxt "[obj09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj09.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj09.dds"
+msgstr "data/map/mapobj/iceland/obj/obj09.dds"
+
+#: [obj10.tga]FrameAmount
+msgctxt "[obj10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj10.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj10.dds"
+msgstr "data/map/mapobj/iceland/obj/obj10.dds"
+
+#: [obj11.tga]FrameAmount
+msgctxt "[obj11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj11.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj11.dds"
+msgstr "data/map/mapobj/iceland/obj/obj11.dds"
+
+#: [obj12.tga]FrameAmount
+msgctxt "[obj12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj12.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj12.dds"
+msgstr "data/map/mapobj/iceland/obj/obj12.dds"
+
+#: [obj13.tga]FrameAmount
+msgctxt "[obj13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj13.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj13.dds"
+msgstr "data/map/mapobj/iceland/obj/obj13.dds"
+
+#: [obj14.tga]FrameAmount
+msgctxt "[obj14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj14.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj14.dds"
+msgstr "data/map/mapobj/iceland/obj/obj14.dds"
+
+#: [obj15.tga]FrameAmount
+msgctxt "[obj15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj15.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj15.dds"
+msgstr "data/map/mapobj/iceland/obj/obj15.dds"
+
+#: [obj16.tga]FrameAmount
+msgctxt "[obj16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj16.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj16.dds"
+msgstr "data/map/mapobj/iceland/obj/obj16.dds"
+
+#: [obj17.tga]FrameAmount
+msgctxt "[obj17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj17.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj17.dds"
+msgstr "data/map/mapobj/iceland/obj/obj17.dds"
+
+#: [obj18.tga]FrameAmount
+msgctxt "[obj18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj18.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj18.dds"
+msgstr "data/map/mapobj/iceland/obj/obj18.dds"
+
+#: [obj19.tga]FrameAmount
+msgctxt "[obj19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj19.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj19.dds"
+msgstr "data/map/mapobj/iceland/obj/obj19.dds"
+
+#: [obj20.tga]FrameAmount
+msgctxt "[obj20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj20.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj20.dds"
+msgstr "data/map/mapobj/iceland/obj/obj20.dds"
+
+#: [obj21.tga]FrameAmount
+msgctxt "[obj21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj21.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj21.dds"
+msgstr "data/map/mapobj/iceland/obj/obj21.dds"
+
+#: [obj22.tga]FrameAmount
+msgctxt "[obj22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj22.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj22.dds"
+msgstr "data/map/mapobj/iceland/obj/obj22.dds"
+
+#: [obj23.tga]FrameAmount
+msgctxt "[obj23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [obj23.tga]Frame0
+msgid "data/map/mapobj/iceland/obj/obj23.dds"
+msgstr "data/map/mapobj/iceland/obj/obj23.dds"
+
+#: [village01.tga]FrameAmount
+msgctxt "[village01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village01.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village01.dds"
+msgstr "data/map/mapobj/iceland/village/village01.dds"
+
+#: [village02.tga]FrameAmount
+msgctxt "[village02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village02.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village02.dds"
+msgstr "data/map/mapobj/iceland/village/village02.dds"
+
+#: [village03.tga]FrameAmount
+msgctxt "[village03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village03.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village03.dds"
+msgstr "data/map/mapobj/iceland/village/village03.dds"
+
+#: [village04.tga]FrameAmount
+msgctxt "[village04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village04.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village04.dds"
+msgstr "data/map/mapobj/iceland/village/village04.dds"
+
+#: [village05.tga]FrameAmount
+msgctxt "[village05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village05.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village05.dds"
+msgstr "data/map/mapobj/iceland/village/village05.dds"
+
+#: [village06.tga]FrameAmount
+msgctxt "[village06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village06.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village06.dds"
+msgstr "data/map/mapobj/iceland/village/village06.dds"
+
+#: [village07.tga]FrameAmount
+msgctxt "[village07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village07.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village07.dds"
+msgstr "data/map/mapobj/iceland/village/village07.dds"
+
+#: [village08.tga]FrameAmount
+msgctxt "[village08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village08.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village08.dds"
+msgstr "data/map/mapobj/iceland/village/village08.dds"
+
+#: [village09.tga]FrameAmount
+msgctxt "[village09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village09.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village09.dds"
+msgstr "data/map/mapobj/iceland/village/village09.dds"
+
+#: [village10.tga]FrameAmount
+msgctxt "[village10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village10.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village10.dds"
+msgstr "data/map/mapobj/iceland/village/village10.dds"
+
+#: [village11.tga]FrameAmount
+msgctxt "[village11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village11.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village11.dds"
+msgstr "data/map/mapobj/iceland/village/village11.dds"
+
+#: [village12.tga]FrameAmount
+msgctxt "[village12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village12.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village12.dds"
+msgstr "data/map/mapobj/iceland/village/village12.dds"
+
+#: [village13.tga]FrameAmount
+msgctxt "[village13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village13.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village13.dds"
+msgstr "data/map/mapobj/iceland/village/village13.dds"
+
+#: [village14.tga]FrameAmount
+msgctxt "[village14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village14.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village14.dds"
+msgstr "data/map/mapobj/iceland/village/village14.dds"
+
+#: [village15.tga]FrameAmount
+msgctxt "[village15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village15.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village15.dds"
+msgstr "data/map/mapobj/iceland/village/village15.dds"
+
+#: [village16.tga]FrameAmount
+msgctxt "[village16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village16.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village16.dds"
+msgstr "data/map/mapobj/iceland/village/village16.dds"
+
+#: [village17.tga]FrameAmount
+msgctxt "[village17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village17.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village17.dds"
+msgstr "data/map/mapobj/iceland/village/village17.dds"
+
+#: [village18.tga]FrameAmount
+msgctxt "[village18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village18.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village18.dds"
+msgstr "data/map/mapobj/iceland/village/village18.dds"
+
+#: [village19.tga]FrameAmount
+msgctxt "[village19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village19.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village19.dds"
+msgstr "data/map/mapobj/iceland/village/village19.dds"
+
+#: [village20.tga]FrameAmount
+msgctxt "[village20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village20.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village20.dds"
+msgstr "data/map/mapobj/iceland/village/village20.dds"
+
+#: [village21.tga]FrameAmount
+msgctxt "[village21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village21.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village21.dds"
+msgstr "data/map/mapobj/iceland/village/village21.dds"
+
+#: [village22.tga]FrameAmount
+msgctxt "[village22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village22.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village22.dds"
+msgstr "data/map/mapobj/iceland/village/village22.dds"
+
+#: [village23.tga]FrameAmount
+msgctxt "[village23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village23.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village23.dds"
+msgstr "data/map/mapobj/iceland/village/village23.dds"
+
+#: [village24.tga]FrameAmount
+msgctxt "[village24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village24.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village24.dds"
+msgstr "data/map/mapobj/iceland/village/village24.dds"
+
+#: [village25.tga]FrameAmount
+msgctxt "[village25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village25.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village25.dds"
+msgstr "data/map/mapobj/iceland/village/village25.dds"
+
+#: [village26.tga]FrameAmount
+msgctxt "[village26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village26.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village26.dds"
+msgstr "data/map/mapobj/iceland/village/village26.dds"
+
+#: [village27.tga]FrameAmount
+msgctxt "[village27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village27.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village27.dds"
+msgstr "data/map/mapobj/iceland/village/village27.dds"
+
+#: [village28.tga]FrameAmount
+msgctxt "[village28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village28.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village28.dds"
+msgstr "data/map/mapobj/iceland/village/village28.dds"
+
+#: [village29.tga]FrameAmount
+msgctxt "[village29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village29.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village29.dds"
+msgstr "data/map/mapobj/iceland/village/village29.dds"
+
+#: [village30.tga]FrameAmount
+msgctxt "[village30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village30.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village30.dds"
+msgstr "data/map/mapobj/iceland/village/village30.dds"
+
+#: [village31.tga]FrameAmount
+msgctxt "[village31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village31.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village31.dds"
+msgstr "data/map/mapobj/iceland/village/village31.dds"
+
+#: [village32.tga]FrameAmount
+msgctxt "[village32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village32.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village32.dds"
+msgstr "data/map/mapobj/iceland/village/village32.dds"
+
+#: [village33.tga]FrameAmount
+msgctxt "[village33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [village33.tga]Frame0
+msgid "data/map/mapobj/iceland/village/village33.dds"
+msgstr "data/map/mapobj/iceland/village/village33.dds"
+
+#: [icebridge01.tga]FrameAmount
+msgctxt "[icebridge01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icebridge01.tga]Frame0
+msgid "data/map/mapobj/iceland/icebridge/icebridge01.dds"
+msgstr "data/map/mapobj/iceland/icebridge/icebridge01.dds"
+
+#: [icebridge02.tga]FrameAmount
+msgctxt "[icebridge02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icebridge02.tga]Frame0
+msgid "data/map/mapobj/iceland/icebridge/icebridge02.dds"
+msgstr "data/map/mapobj/iceland/icebridge/icebridge02.dds"
+
+#: [icebridge03.tga]FrameAmount
+msgctxt "[icebridge03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icebridge03.tga]Frame0
+msgid "data/map/mapobj/iceland/icebridge/icebridge03.dds"
+msgstr "data/map/mapobj/iceland/icebridge/icebridge03.dds"
+
+#: [icebridge04.tga]FrameAmount
+msgctxt "[icebridge04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icebridge04.tga]Frame0
+msgid "data/map/mapobj/iceland/icebridge/icebridge04.dds"
+msgstr "data/map/mapobj/iceland/icebridge/icebridge04.dds"
+
+#: [icebridge05.tga]FrameAmount
+msgctxt "[icebridge05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icebridge05.tga]Frame0
+msgid "data/map/mapobj/iceland/icebridge/icebridge05.dds"
+msgstr "data/map/mapobj/iceland/icebridge/icebridge05.dds"
+
+#: [icebridge06.tga]FrameAmount
+msgctxt "[icebridge06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icebridge06.tga]Frame0
+msgid "data/map/mapobj/iceland/icebridge/icebridge06.dds"
+msgstr "data/map/mapobj/iceland/icebridge/icebridge06.dds"
+
+#: [icebridge07.tga]FrameAmount
+msgctxt "[icebridge07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icebridge07.tga]Frame0
+msgid "data/map/mapobj/iceland/icebridge/icebridge07.dds"
+msgstr "data/map/mapobj/iceland/icebridge/icebridge07.dds"
+
+#: [icebridge08.tga]FrameAmount
+msgctxt "[icebridge08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [icebridge08.tga]Frame0
+msgid "data/map/mapobj/iceland/icebridge/icebridge08.dds"
+msgstr "data/map/mapobj/iceland/icebridge/icebridge08.dds"
+
+#: [nhouse01.tga]FrameAmount
+msgctxt "[nhouse01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse01.tga]Frame0
+msgid "data/map/mapobj/house/nhouse01.dds"
+msgstr "data/map/mapobj/house/nhouse01.dds"
+
+#: [nhouse02.tga]FrameAmount
+msgctxt "[nhouse02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse02.tga]Frame0
+msgid "data/map/mapobj/house/nhouse02.dds"
+msgstr "data/map/mapobj/house/nhouse02.dds"
+
+#: [nhouse03.tga]FrameAmount
+msgctxt "[nhouse03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse03.tga]Frame0
+msgid "data/map/mapobj/house/nhouse03.dds"
+msgstr "data/map/mapobj/house/nhouse03.dds"
+
+#: [nhouse04.tga]FrameAmount
+msgctxt "[nhouse04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse04.tga]Frame0
+msgid "data/map/mapobj/house/nhouse04.dds"
+msgstr "data/map/mapobj/house/nhouse04.dds"
+
+#: [nhouse05.tga]FrameAmount
+msgctxt "[nhouse05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse05.tga]Frame0
+msgid "data/map/mapobj/house/nhouse05.dds"
+msgstr "data/map/mapobj/house/nhouse05.dds"
+
+#: [nhouse06.tga]FrameAmount
+msgctxt "[nhouse06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse06.tga]Frame0
+msgid "data/map/mapobj/house/nhouse06.dds"
+msgstr "data/map/mapobj/house/nhouse06.dds"
+
+#: [nhouse07.tga]FrameAmount
+msgctxt "[nhouse07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse07.tga]Frame0
+msgid "data/map/mapobj/house/nhouse07.dds"
+msgstr "data/map/mapobj/house/nhouse07.dds"
+
+#: [nhouse08.tga]FrameAmount
+msgctxt "[nhouse08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse08.tga]Frame0
+msgid "data/map/mapobj/house/nhouse08.dds"
+msgstr "data/map/mapobj/house/nhouse08.dds"
+
+#: [nhouse09.tga]FrameAmount
+msgctxt "[nhouse09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse09.tga]Frame0
+msgid "data/map/mapobj/house/nhouse09.dds"
+msgstr "data/map/mapobj/house/nhouse09.dds"
+
+#: [nhouse10.tga]FrameAmount
+msgctxt "[nhouse10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse10.tga]Frame0
+msgid "data/map/mapobj/house/nhouse10.dds"
+msgstr "data/map/mapobj/house/nhouse10.dds"
+
+#: [nhouse11.tga]FrameAmount
+msgctxt "[nhouse11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse11.tga]Frame0
+msgid "data/map/mapobj/house/nhouse11.dds"
+msgstr "data/map/mapobj/house/nhouse11.dds"
+
+#: [nhouse12.tga]FrameAmount
+msgctxt "[nhouse12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse12.tga]Frame0
+msgid "data/map/mapobj/house/nhouse12.dds"
+msgstr "data/map/mapobj/house/nhouse12.dds"
+
+#: [nhouse13.tga]FrameAmount
+msgctxt "[nhouse13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse13.tga]Frame0
+msgid "data/map/mapobj/house/nhouse13.dds"
+msgstr "data/map/mapobj/house/nhouse13.dds"
+
+#: [nhouse14.tga]FrameAmount
+msgctxt "[nhouse14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nhouse14.tga]Frame0
+msgid "data/map/mapobj/house/nhouse14.dds"
+msgstr "data/map/mapobj/house/nhouse14.dds"
+
+#: [dcity01.tga]FrameAmount
+msgctxt "[dcity01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity01.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity01.dds"
+msgstr "data/map/mapobj/dcity/dcity01.dds"
+
+#: [dcity02.tga]FrameAmount
+msgctxt "[dcity02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity02.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity02.dds"
+msgstr "data/map/mapobj/dcity/dcity02.dds"
+
+#: [dcity03.tga]FrameAmount
+msgctxt "[dcity03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity03.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity03.dds"
+msgstr "data/map/mapobj/dcity/dcity03.dds"
+
+#: [dcity04.tga]FrameAmount
+msgctxt "[dcity04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity04.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity04.dds"
+msgstr "data/map/mapobj/dcity/dcity04.dds"
+
+#: [dcity05.tga]FrameAmount
+msgctxt "[dcity05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity05.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity05.dds"
+msgstr "data/map/mapobj/dcity/dcity05.dds"
+
+#: [dcity06.tga]FrameAmount
+msgctxt "[dcity06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity06.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity06.dds"
+msgstr "data/map/mapobj/dcity/dcity06.dds"
+
+#: [dcity07.tga]FrameAmount
+msgctxt "[dcity07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity07.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity07.dds"
+msgstr "data/map/mapobj/dcity/dcity07.dds"
+
+#: [dcity08.tga]FrameAmount
+msgctxt "[dcity08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity08.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity08.dds"
+msgstr "data/map/mapobj/dcity/dcity08.dds"
+
+#: [dcity09.tga]FrameAmount
+msgctxt "[dcity09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity09.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity09.dds"
+msgstr "data/map/mapobj/dcity/dcity09.dds"
+
+#: [dcity10.tga]FrameAmount
+msgctxt "[dcity10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity10.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity10.dds"
+msgstr "data/map/mapobj/dcity/dcity10.dds"
+
+#: [dcity11.tga]FrameAmount
+msgctxt "[dcity11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity11.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity11.dds"
+msgstr "data/map/mapobj/dcity/dcity11.dds"
+
+#: [dcity12.tga]FrameAmount
+msgctxt "[dcity12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity12.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity12.dds"
+msgstr "data/map/mapobj/dcity/dcity12.dds"
+
+#: [dcity13.tga]FrameAmount
+msgctxt "[dcity13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity13.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity13.dds"
+msgstr "data/map/mapobj/dcity/dcity13.dds"
+
+#: [dcity14.tga]FrameAmount
+msgctxt "[dcity14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity14.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity14.dds"
+msgstr "data/map/mapobj/dcity/dcity14.dds"
+
+#: [dcity15.tga]FrameAmount
+msgctxt "[dcity15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity15.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity15.dds"
+msgstr "data/map/mapobj/dcity/dcity15.dds"
+
+#: [dcity16.tga]FrameAmount
+msgctxt "[dcity16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity16.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity16.dds"
+msgstr "data/map/mapobj/dcity/dcity16.dds"
+
+#: [dcity17.tga]FrameAmount
+msgctxt "[dcity17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity17.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity17.dds"
+msgstr "data/map/mapobj/dcity/dcity17.dds"
+
+#: [dcity18.tga]FrameAmount
+msgctxt "[dcity18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity18.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity18.dds"
+msgstr "data/map/mapobj/dcity/dcity18.dds"
+
+#: [dcity19.tga]FrameAmount
+msgctxt "[dcity19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity19.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity19.dds"
+msgstr "data/map/mapobj/dcity/dcity19.dds"
+
+#: [dcity20.tga]FrameAmount
+msgctxt "[dcity20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity20.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity20.dds"
+msgstr "data/map/mapobj/dcity/dcity20.dds"
+
+#: [dcity21.tga]FrameAmount
+msgctxt "[dcity21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity21.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity21.dds"
+msgstr "data/map/mapobj/dcity/dcity21.dds"
+
+#: [dcity22.tga]FrameAmount
+msgctxt "[dcity22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity22.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity22.dds"
+msgstr "data/map/mapobj/dcity/dcity22.dds"
+
+#: [dcity23.tga]FrameAmount
+msgctxt "[dcity23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity23.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity23.dds"
+msgstr "data/map/mapobj/dcity/dcity23.dds"
+
+#: [dcity24.tga]FrameAmount
+msgctxt "[dcity24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity24.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity24.dds"
+msgstr "data/map/mapobj/dcity/dcity24.dds"
+
+#: [dcity25.tga]FrameAmount
+msgctxt "[dcity25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity25.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity25.dds"
+msgstr "data/map/mapobj/dcity/dcity25.dds"
+
+#: [dcity26.tga]FrameAmount
+msgctxt "[dcity26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity26.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity26.dds"
+msgstr "data/map/mapobj/dcity/dcity26.dds"
+
+#: [dcity27.tga]FrameAmount
+msgctxt "[dcity27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity27.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity27.dds"
+msgstr "data/map/mapobj/dcity/dcity27.dds"
+
+#: [dcity28.tga]FrameAmount
+msgctxt "[dcity28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity28.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity28.dds"
+msgstr "data/map/mapobj/dcity/dcity28.dds"
+
+#: [dcity29.tga]FrameAmount
+msgctxt "[dcity29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity29.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity29.dds"
+msgstr "data/map/mapobj/dcity/dcity29.dds"
+
+#: [dcity30.tga]FrameAmount
+msgctxt "[dcity30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity30.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity30.dds"
+msgstr "data/map/mapobj/dcity/dcity30.dds"
+
+#: [dcity31.tga]FrameAmount
+msgctxt "[dcity31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dcity31.tga]Frame0
+msgid "data/map/mapobj/dcity/dcity31.dds"
+msgstr "data/map/mapobj/dcity/dcity31.dds"
+
+#: [hq01.tga]FrameAmount
+msgctxt "[hq01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq01.tga]Frame0
+msgid "data/map/mapobj/hq/hq01.dds"
+msgstr "data/map/mapobj/hq/hq01.dds"
+
+#: [hq02.tga]FrameAmount
+msgctxt "[hq02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq02.tga]Frame0
+msgid "data/map/mapobj/hq/hq02.dds"
+msgstr "data/map/mapobj/hq/hq02.dds"
+
+#: [hq03.tga]FrameAmount
+msgctxt "[hq03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq03.tga]Frame0
+msgid "data/map/mapobj/hq/hq03.dds"
+msgstr "data/map/mapobj/hq/hq03.dds"
+
+#: [hq04.tga]FrameAmount
+msgctxt "[hq04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq04.tga]Frame0
+msgid "data/map/mapobj/hq/hq04.dds"
+msgstr "data/map/mapobj/hq/hq04.dds"
+
+#: [hq05.tga]FrameAmount
+msgctxt "[hq05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq05.tga]Frame0
+msgid "data/map/mapobj/hq/hq05.dds"
+msgstr "data/map/mapobj/hq/hq05.dds"
+
+#: [hq06.tga]FrameAmount
+msgctxt "[hq06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq06.tga]Frame0
+msgid "data/map/mapobj/hq/hq06.dds"
+msgstr "data/map/mapobj/hq/hq06.dds"
+
+#: [hq07.tga]FrameAmount
+msgctxt "[hq07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq07.tga]Frame0
+msgid "data/map/mapobj/hq/hq07.dds"
+msgstr "data/map/mapobj/hq/hq07.dds"
+
+#: [hq08.tga]FrameAmount
+msgctxt "[hq08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq08.tga]Frame0
+msgid "data/map/mapobj/hq/hq08.dds"
+msgstr "data/map/mapobj/hq/hq08.dds"
+
+#: [hq09.tga]FrameAmount
+msgctxt "[hq09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq09.tga]Frame0
+msgid "data/map/mapobj/hq/hq09.dds"
+msgstr "data/map/mapobj/hq/hq09.dds"
+
+#: [hq10.tga]FrameAmount
+msgctxt "[hq10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq10.tga]Frame0
+msgid "data/map/mapobj/hq/hq10.dds"
+msgstr "data/map/mapobj/hq/hq10.dds"
+
+#: [hq11.tga]FrameAmount
+msgctxt "[hq11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq11.tga]Frame0
+msgid "data/map/mapobj/hq/hq11.dds"
+msgstr "data/map/mapobj/hq/hq11.dds"
+
+#: [hq12.tga]FrameAmount
+msgctxt "[hq12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq12.tga]Frame0
+msgid "data/map/mapobj/hq/hq12.dds"
+msgstr "data/map/mapobj/hq/hq12.dds"
+
+#: [hq13.tga]FrameAmount
+msgctxt "[hq13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq13.tga]Frame0
+msgid "data/map/mapobj/hq/hq13.dds"
+msgstr "data/map/mapobj/hq/hq13.dds"
+
+#: [hq14.tga]FrameAmount
+msgctxt "[hq14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq14.tga]Frame0
+msgid "data/map/mapobj/hq/hq14.dds"
+msgstr "data/map/mapobj/hq/hq14.dds"
+
+#: [hq15.tga]FrameAmount
+msgctxt "[hq15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq15.tga]Frame0
+msgid "data/map/mapobj/hq/hq15.dds"
+msgstr "data/map/mapobj/hq/hq15.dds"
+
+#: [hq16.tga]FrameAmount
+msgctxt "[hq16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq16.tga]Frame0
+msgid "data/map/mapobj/hq/hq16.dds"
+msgstr "data/map/mapobj/hq/hq16.dds"
+
+#: [hq17.tga]FrameAmount
+msgctxt "[hq17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq17.tga]Frame0
+msgid "data/map/mapobj/hq/hq17.dds"
+msgstr "data/map/mapobj/hq/hq17.dds"
+
+#: [hq18.tga]FrameAmount
+msgctxt "[hq18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq18.tga]Frame0
+msgid "data/map/mapobj/hq/hq18.dds"
+msgstr "data/map/mapobj/hq/hq18.dds"
+
+#: [hq19.tga]FrameAmount
+msgctxt "[hq19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq19.tga]Frame0
+msgid "data/map/mapobj/hq/hq19.dds"
+msgstr "data/map/mapobj/hq/hq19.dds"
+
+#: [hq20.tga]FrameAmount
+msgctxt "[hq20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq20.tga]Frame0
+msgid "data/map/mapobj/hq/hq20.dds"
+msgstr "data/map/mapobj/hq/hq20.dds"
+
+#: [hq21.tga]FrameAmount
+msgctxt "[hq21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq21.tga]Frame0
+msgid "data/map/mapobj/hq/hq21.dds"
+msgstr "data/map/mapobj/hq/hq21.dds"
+
+#: [hq22.tga]FrameAmount
+msgctxt "[hq22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq22.tga]Frame0
+msgid "data/map/mapobj/hq/hq22.dds"
+msgstr "data/map/mapobj/hq/hq22.dds"
+
+#: [hq23.tga]FrameAmount
+msgctxt "[hq23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq23.tga]Frame0
+msgid "data/map/mapobj/hq/hq23.dds"
+msgstr "data/map/mapobj/hq/hq23.dds"
+
+#: [hq24.tga]FrameAmount
+msgctxt "[hq24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq24.tga]Frame0
+msgid "data/map/mapobj/hq/hq24.dds"
+msgstr "data/map/mapobj/hq/hq24.dds"
+
+#: [hq25.tga]FrameAmount
+msgctxt "[hq25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq25.tga]Frame0
+msgid "data/map/mapobj/hq/hq25.dds"
+msgstr "data/map/mapobj/hq/hq25.dds"
+
+#: [hq26.tga]FrameAmount
+msgctxt "[hq26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq26.tga]Frame0
+msgid "data/map/mapobj/hq/hq26.dds"
+msgstr "data/map/mapobj/hq/hq26.dds"
+
+#: [hq27.tga]FrameAmount
+msgctxt "[hq27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq27.tga]Frame0
+msgid "data/map/mapobj/hq/hq27.dds"
+msgstr "data/map/mapobj/hq/hq27.dds"
+
+#: [hq28.tga]FrameAmount
+msgctxt "[hq28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq28.tga]Frame0
+msgid "data/map/mapobj/hq/hq28.dds"
+msgstr "data/map/mapobj/hq/hq28.dds"
+
+#: [hq29.tga]FrameAmount
+msgctxt "[hq29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq29.tga]Frame0
+msgid "data/map/mapobj/hq/hq29.dds"
+msgstr "data/map/mapobj/hq/hq29.dds"
+
+#: [hq30.tga]FrameAmount
+msgctxt "[hq30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq30.tga]Frame0
+msgid "data/map/mapobj/hq/hq30.dds"
+msgstr "data/map/mapobj/hq/hq30.dds"
+
+#: [hq31.tga]FrameAmount
+msgctxt "[hq31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq31.tga]Frame0
+msgid "data/map/mapobj/hq/hq31.dds"
+msgstr "data/map/mapobj/hq/hq31.dds"
+
+#: [hq32.tga]FrameAmount
+msgctxt "[hq32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq32.tga]Frame0
+msgid "data/map/mapobj/hq/hq32.dds"
+msgstr "data/map/mapobj/hq/hq32.dds"
+
+#: [hq33.tga]FrameAmount
+msgctxt "[hq33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq33.tga]Frame0
+msgid "data/map/mapobj/hq/hq33.dds"
+msgstr "data/map/mapobj/hq/hq33.dds"
+
+#: [hq34.tga]FrameAmount
+msgctxt "[hq34.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq34.tga]Frame0
+msgid "data/map/mapobj/hq/hq34.dds"
+msgstr "data/map/mapobj/hq/hq34.dds"
+
+#: [hq35.tga]FrameAmount
+msgctxt "[hq35.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq35.tga]Frame0
+msgid "data/map/mapobj/hq/hq35.dds"
+msgstr "data/map/mapobj/hq/hq35.dds"
+
+#: [hq36.tga]FrameAmount
+msgctxt "[hq36.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq36.tga]Frame0
+msgid "data/map/mapobj/hq/hq36.dds"
+msgstr "data/map/mapobj/hq/hq36.dds"
+
+#: [hq37.tga]FrameAmount
+msgctxt "[hq37.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq37.tga]Frame0
+msgid "data/map/mapobj/hq/hq37.dds"
+msgstr "data/map/mapobj/hq/hq37.dds"
+
+#: [hq38.tga]FrameAmount
+msgctxt "[hq38.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq38.tga]Frame0
+msgid "data/map/mapobj/hq/hq38.dds"
+msgstr "data/map/mapobj/hq/hq38.dds"
+
+#: [hq39.tga]FrameAmount
+msgctxt "[hq39.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq39.tga]Frame0
+msgid "data/map/mapobj/hq/hq39.dds"
+msgstr "data/map/mapobj/hq/hq39.dds"
+
+#: [hq40.tga]FrameAmount
+msgctxt "[hq40.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq40.tga]Frame0
+msgid "data/map/mapobj/hq/hq40.dds"
+msgstr "data/map/mapobj/hq/hq40.dds"
+
+#: [hq41.tga]FrameAmount
+msgctxt "[hq41.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq41.tga]Frame0
+msgid "data/map/mapobj/hq/hq41.dds"
+msgstr "data/map/mapobj/hq/hq41.dds"
+
+#: [hq42.tga]FrameAmount
+msgctxt "[hq42.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq42.tga]Frame0
+msgid "data/map/mapobj/hq/hq42.dds"
+msgstr "data/map/mapobj/hq/hq42.dds"
+
+#: [hq43.tga]FrameAmount
+msgctxt "[hq43.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq43.tga]Frame0
+msgid "data/map/mapobj/hq/hq43.dds"
+msgstr "data/map/mapobj/hq/hq43.dds"
+
+#: [hq44.tga]FrameAmount
+msgctxt "[hq44.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq44.tga]Frame0
+msgid "data/map/mapobj/hq/hq44.dds"
+msgstr "data/map/mapobj/hq/hq44.dds"
+
+#: [hq45.tga]FrameAmount
+msgctxt "[hq45.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq45.tga]Frame0
+msgid "data/map/mapobj/hq/hq45.dds"
+msgstr "data/map/mapobj/hq/hq45.dds"
+
+#: [hq46.tga]FrameAmount
+msgctxt "[hq46.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq46.tga]Frame0
+msgid "data/map/mapobj/hq/hq46.dds"
+msgstr "data/map/mapobj/hq/hq46.dds"
+
+#: [hq47.tga]FrameAmount
+msgctxt "[hq47.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq47.tga]Frame0
+msgid "data/map/mapobj/hq/hq47.dds"
+msgstr "data/map/mapobj/hq/hq47.dds"
+
+#: [hq48.tga]FrameAmount
+msgctxt "[hq48.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq48.tga]Frame0
+msgid "data/map/mapobj/hq/hq48.dds"
+msgstr "data/map/mapobj/hq/hq48.dds"
+
+#: [hq49.tga]FrameAmount
+msgctxt "[hq49.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq49.tga]Frame0
+msgid "data/map/mapobj/hq/hq49.dds"
+msgstr "data/map/mapobj/hq/hq49.dds"
+
+#: [hq50.tga]FrameAmount
+msgctxt "[hq50.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq50.tga]Frame0
+msgid "data/map/mapobj/hq/hq50.dds"
+msgstr "data/map/mapobj/hq/hq50.dds"
+
+#: [hq51.tga]FrameAmount
+msgctxt "[hq51.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq51.tga]Frame0
+msgid "data/map/mapobj/hq/hq51.dds"
+msgstr "data/map/mapobj/hq/hq51.dds"
+
+#: [hq52.tga]FrameAmount
+msgctxt "[hq52.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq52.tga]Frame0
+msgid "data/map/mapobj/hq/hq52.dds"
+msgstr "data/map/mapobj/hq/hq52.dds"
+
+#: [hq53.tga]FrameAmount
+msgctxt "[hq53.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq53.tga]Frame0
+msgid "data/map/mapobj/hq/hq53.dds"
+msgstr "data/map/mapobj/hq/hq53.dds"
+
+#: [hq54.tga]FrameAmount
+msgctxt "[hq54.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq54.tga]Frame0
+msgid "data/map/mapobj/hq/hq54.dds"
+msgstr "data/map/mapobj/hq/hq54.dds"
+
+#: [hq55.tga]FrameAmount
+msgctxt "[hq55.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq55.tga]Frame0
+msgid "data/map/mapobj/hq/hq55.dds"
+msgstr "data/map/mapobj/hq/hq55.dds"
+
+#: [hq56.tga]FrameAmount
+msgctxt "[hq56.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq56.tga]Frame0
+msgid "data/map/mapobj/hq/hq56.dds"
+msgstr "data/map/mapobj/hq/hq56.dds"
+
+#: [hq57.tga]FrameAmount
+msgctxt "[hq57.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq57.tga]Frame0
+msgid "data/map/mapobj/hq/hq57.dds"
+msgstr "data/map/mapobj/hq/hq57.dds"
+
+#: [hq58.tga]FrameAmount
+msgctxt "[hq58.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq58.tga]Frame0
+msgid "data/map/mapobj/hq/hq58.dds"
+msgstr "data/map/mapobj/hq/hq58.dds"
+
+#: [hq59.tga]FrameAmount
+msgctxt "[hq59.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq59.tga]Frame0
+msgid "data/map/mapobj/hq/hq59.dds"
+msgstr "data/map/mapobj/hq/hq59.dds"
+
+#: [hq60.tga]FrameAmount
+msgctxt "[hq60.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq60.tga]Frame0
+msgid "data/map/mapobj/hq/hq60.dds"
+msgstr "data/map/mapobj/hq/hq60.dds"
+
+#: [hq61.tga]FrameAmount
+msgctxt "[hq61.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq61.tga]Frame0
+msgid "data/map/mapobj/hq/hq61.dds"
+msgstr "data/map/mapobj/hq/hq61.dds"
+
+#: [hq62.tga]FrameAmount
+msgctxt "[hq62.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq62.tga]Frame0
+msgid "data/map/mapobj/hq/hq62.dds"
+msgstr "data/map/mapobj/hq/hq62.dds"
+
+#: [hq63.tga]FrameAmount
+msgctxt "[hq63.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq63.tga]Frame0
+msgid "data/map/mapobj/hq/hq63.dds"
+msgstr "data/map/mapobj/hq/hq63.dds"
+
+#: [hq64.tga]FrameAmount
+msgctxt "[hq64.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq64.tga]Frame0
+msgid "data/map/mapobj/hq/hq64.dds"
+msgstr "data/map/mapobj/hq/hq64.dds"
+
+#: [hq65.tga]FrameAmount
+msgctxt "[hq65.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq65.tga]Frame0
+msgid "data/map/mapobj/hq/hq65.dds"
+msgstr "data/map/mapobj/hq/hq65.dds"
+
+#: [hq66.tga]FrameAmount
+msgctxt "[hq66.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq66.tga]Frame0
+msgid "data/map/mapobj/hq/hq66.dds"
+msgstr "data/map/mapobj/hq/hq66.dds"
+
+#: [hq67.tga]FrameAmount
+msgctxt "[hq67.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq67.tga]Frame0
+msgid "data/map/mapobj/hq/hq67.dds"
+msgstr "data/map/mapobj/hq/hq67.dds"
+
+#: [hq68.tga]FrameAmount
+msgctxt "[hq68.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq68.tga]Frame0
+msgid "data/map/mapobj/hq/hq68.dds"
+msgstr "data/map/mapobj/hq/hq68.dds"
+
+#: [hq69.tga]FrameAmount
+msgctxt "[hq69.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq69.tga]Frame0
+msgid "data/map/mapobj/hq/hq69.dds"
+msgstr "data/map/mapobj/hq/hq69.dds"
+
+#: [hq70.tga]FrameAmount
+msgctxt "[hq70.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq70.tga]Frame0
+msgid "data/map/mapobj/hq/hq70.dds"
+msgstr "data/map/mapobj/hq/hq70.dds"
+
+#: [hq71.tga]FrameAmount
+msgctxt "[hq71.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq71.tga]Frame0
+msgid "data/map/mapobj/hq/hq71.dds"
+msgstr "data/map/mapobj/hq/hq71.dds"
+
+#: [hq72.tga]FrameAmount
+msgctxt "[hq72.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq72.tga]Frame0
+msgid "data/map/mapobj/hq/hq72.dds"
+msgstr "data/map/mapobj/hq/hq72.dds"
+
+#: [hq73.tga]FrameAmount
+msgctxt "[hq73.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq73.tga]Frame0
+msgid "data/map/mapobj/hq/hq73.dds"
+msgstr "data/map/mapobj/hq/hq73.dds"
+
+#: [hq74.tga]FrameAmount
+msgctxt "[hq74.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq74.tga]Frame0
+msgid "data/map/mapobj/hq/hq74.dds"
+msgstr "data/map/mapobj/hq/hq74.dds"
+
+#: [hq75.tga]FrameAmount
+msgctxt "[hq75.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq75.tga]Frame0
+msgid "data/map/mapobj/hq/hq75.dds"
+msgstr "data/map/mapobj/hq/hq75.dds"
+
+#: [hq76.tga]FrameAmount
+msgctxt "[hq76.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq76.tga]Frame0
+msgid "data/map/mapobj/hq/hq76.dds"
+msgstr "data/map/mapobj/hq/hq76.dds"
+
+#: [hq77.tga]FrameAmount
+msgctxt "[hq77.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq77.tga]Frame0
+msgid "data/map/mapobj/hq/hq77.dds"
+msgstr "data/map/mapobj/hq/hq77.dds"
+
+#: [hq78.tga]FrameAmount
+msgctxt "[hq78.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq78.tga]Frame0
+msgid "data/map/mapobj/hq/hq78.dds"
+msgstr "data/map/mapobj/hq/hq78.dds"
+
+#: [hq79.tga]FrameAmount
+msgctxt "[hq79.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq79.tga]Frame0
+msgid "data/map/mapobj/hq/hq79.dds"
+msgstr "data/map/mapobj/hq/hq79.dds"
+
+#: [hq80.tga]FrameAmount
+msgctxt "[hq80.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq80.tga]Frame0
+msgid "data/map/mapobj/hq/hq80.dds"
+msgstr "data/map/mapobj/hq/hq80.dds"
+
+#: [hq81.tga]FrameAmount
+msgctxt "[hq81.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq81.tga]Frame0
+msgid "data/map/mapobj/hq/hq81.dds"
+msgstr "data/map/mapobj/hq/hq81.dds"
+
+#: [hq82.tga]FrameAmount
+msgctxt "[hq82.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq82.tga]Frame0
+msgid "data/map/mapobj/hq/hq82.dds"
+msgstr "data/map/mapobj/hq/hq82.dds"
+
+#: [hq83.tga]FrameAmount
+msgctxt "[hq83.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq83.tga]Frame0
+msgid "data/map/mapobj/hq/hq83.dds"
+msgstr "data/map/mapobj/hq/hq83.dds"
+
+#: [hq84.tga]FrameAmount
+msgctxt "[hq84.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq84.tga]Frame0
+msgid "data/map/mapobj/hq/hq84.dds"
+msgstr "data/map/mapobj/hq/hq84.dds"
+
+#: [hq85.tga]FrameAmount
+msgctxt "[hq85.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq85.tga]Frame0
+msgid "data/map/mapobj/hq/hq85.dds"
+msgstr "data/map/mapobj/hq/hq85.dds"
+
+#: [hq86.tga]FrameAmount
+msgctxt "[hq86.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq86.tga]Frame0
+msgid "data/map/mapobj/hq/hq86.dds"
+msgstr "data/map/mapobj/hq/hq86.dds"
+
+#: [hq87.tga]FrameAmount
+msgctxt "[hq87.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq87.tga]Frame0
+msgid "data/map/mapobj/hq/hq87.dds"
+msgstr "data/map/mapobj/hq/hq87.dds"
+
+#: [hq88.tga]FrameAmount
+msgctxt "[hq88.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq88.tga]Frame0
+msgid "data/map/mapobj/hq/hq88.dds"
+msgstr "data/map/mapobj/hq/hq88.dds"
+
+#: [ship01.tga]FrameAmount
+msgctxt "[ship01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship01.tga]Frame0
+msgid "data/map/mapobj/ship/ship01.dds"
+msgstr "data/map/mapobj/ship/ship01.dds"
+
+#: [ship02.tga]FrameAmount
+msgctxt "[ship02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship02.tga]Frame0
+msgid "data/map/mapobj/ship/ship02.dds"
+msgstr "data/map/mapobj/ship/ship02.dds"
+
+#: [ship03.tga]FrameAmount
+msgctxt "[ship03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship03.tga]Frame0
+msgid "data/map/mapobj/ship/ship03.dds"
+msgstr "data/map/mapobj/ship/ship03.dds"
+
+#: [ship04.tga]FrameAmount
+msgctxt "[ship04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship04.tga]Frame0
+msgid "data/map/mapobj/ship/ship04.dds"
+msgstr "data/map/mapobj/ship/ship04.dds"
+
+#: [ship05.tga]FrameAmount
+msgctxt "[ship05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship05.tga]Frame0
+msgid "data/map/mapobj/ship/ship05.dds"
+msgstr "data/map/mapobj/ship/ship05.dds"
+
+#: [ship06.tga]FrameAmount
+msgctxt "[ship06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship06.tga]Frame0
+msgid "data/map/mapobj/ship/ship06.dds"
+msgstr "data/map/mapobj/ship/ship06.dds"
+
+#: [ship07.tga]FrameAmount
+msgctxt "[ship07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship07.tga]Frame0
+msgid "data/map/mapobj/ship/ship07.dds"
+msgstr "data/map/mapobj/ship/ship07.dds"
+
+#: [ship08.tga]FrameAmount
+msgctxt "[ship08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship08.tga]Frame0
+msgid "data/map/mapobj/ship/ship08.dds"
+msgstr "data/map/mapobj/ship/ship08.dds"
+
+#: [ship09.tga]FrameAmount
+msgctxt "[ship09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship09.tga]Frame0
+msgid "data/map/mapobj/ship/ship09.dds"
+msgstr "data/map/mapobj/ship/ship09.dds"
+
+#: [ship10.tga]FrameAmount
+msgctxt "[ship10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship10.tga]Frame0
+msgid "data/map/mapobj/ship/ship10.dds"
+msgstr "data/map/mapobj/ship/ship10.dds"
+
+#: [ship11.tga]FrameAmount
+msgctxt "[ship11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ship11.tga]Frame0
+msgid "data/map/mapobj/ship/ship11.dds"
+msgstr "data/map/mapobj/ship/ship11.dds"

@@ -1,0 +1,1904 @@
+#. extracted from effect.ini, effect2.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [TeamLeader]FrameAmount
+msgid "5"
+msgstr "5"
+
+#: [TeamLeader]Frame0
+msgid "data/pic/TeamLeader/0.dds"
+msgstr "data/pic/TeamLeader/0.dds"
+
+#: [TeamLeader]Frame1
+msgid "data/pic/TeamLeader/1.dds"
+msgstr "data/pic/TeamLeader/1.dds"
+
+#: [TeamLeader]Frame2
+msgid "data/pic/TeamLeader/2.dds"
+msgstr "data/pic/TeamLeader/2.dds"
+
+#: [TeamLeader]Frame3
+msgid "data/pic/TeamLeader/3.dds"
+msgstr "data/pic/TeamLeader/3.dds"
+
+#: [TeamLeader]Frame4
+msgid "data/pic/TeamLeader/4.dds"
+msgstr "data/pic/TeamLeader/4.dds"
+
+#: [ShitsHappen]FrameAmount
+msgctxt "[ShitsHappen]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [ShitsHappen]Frame0
+msgid "Data/Pic/ShitHappen/01.dds"
+msgstr "Data/Pic/ShitHappen/01.dds"
+
+#: [ShitsHappen]Frame1
+msgid "Data/Pic/ShitHappen/02.dds"
+msgstr "Data/Pic/ShitHappen/02.dds"
+
+#: [ShitsHappen]Frame2
+msgid "Data/Pic/ShitHappen/03.dds"
+msgstr "Data/Pic/ShitHappen/03.dds"
+
+#: [ShitsHappen]Frame3
+msgid "Data/Pic/ShitHappen/04.dds"
+msgstr "Data/Pic/ShitHappen/04.dds"
+
+#: [Freeze]FrameAmount
+msgctxt "[Freeze]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Freeze]Frame0
+msgid "Data/Pic/Silent/01.bmp"
+msgstr "Data/Pic/Silent/01.bmp"
+
+#: [MapItemFlush]FrameAmount
+msgctxt "[MapItemFlush]FrameAmount"
+msgid "9"
+msgstr "9"
+
+#: [MapItemFlush]Frame0
+msgctxt "[MapItemFlush]Frame0"
+msgid "Data/Pic/MapItemFlush/effect0000.dds"
+msgstr "Data/Pic/MapItemFlush/effect0000.dds"
+
+#: [MapItemFlush]Frame1
+msgctxt "[MapItemFlush]Frame1"
+msgid "Data/Pic/MapItemFlush/effect0001.dds"
+msgstr "Data/Pic/MapItemFlush/effect0001.dds"
+
+#: [MapItemFlush]Frame2
+msgctxt "[MapItemFlush]Frame2"
+msgid "Data/Pic/MapItemFlush/effect0002.dds"
+msgstr "Data/Pic/MapItemFlush/effect0002.dds"
+
+#: [MapItemFlush]Frame3
+msgctxt "[MapItemFlush]Frame3"
+msgid "Data/Pic/MapItemFlush/effect0003.dds"
+msgstr "Data/Pic/MapItemFlush/effect0003.dds"
+
+#: [MapItemFlush]Frame4
+msgctxt "[MapItemFlush]Frame4"
+msgid "Data/Pic/MapItemFlush/effect0004.dds"
+msgstr "Data/Pic/MapItemFlush/effect0004.dds"
+
+#: [MapItemFlush]Frame5
+msgctxt "[MapItemFlush]Frame5"
+msgid "Data/Pic/MapItemFlush/effect0005.dds"
+msgstr "Data/Pic/MapItemFlush/effect0005.dds"
+
+#: [MapItemFlush]Frame6
+msgctxt "[MapItemFlush]Frame6"
+msgid "Data/Pic/MapItemFlush/effect0006.dds"
+msgstr "Data/Pic/MapItemFlush/effect0006.dds"
+
+#: [MapItemFlush]Frame7
+msgctxt "[MapItemFlush]Frame7"
+msgid "Data/Pic/MapItemFlush/effect0007.dds"
+msgstr "Data/Pic/MapItemFlush/effect0007.dds"
+
+#: [MapItemFlush]Frame8
+msgctxt "[MapItemFlush]Frame8"
+msgid "Data/Pic/MapItemFlush/effect0008.dds"
+msgstr "Data/Pic/MapItemFlush/effect0008.dds"
+
+#: [ItemUse]FrameAmount
+msgctxt "[ItemUse]FrameAmount"
+msgid "9"
+msgstr "9"
+
+#: [ItemUse]Frame0
+msgctxt "[ItemUse]Frame0"
+msgid "Data/Pic/MapItemFlush/effect0000.dds"
+msgstr "Data/Pic/MapItemFlush/effect0000.dds"
+
+#: [ItemUse]Frame1
+msgctxt "[ItemUse]Frame1"
+msgid "Data/Pic/MapItemFlush/effect0001.dds"
+msgstr "Data/Pic/MapItemFlush/effect0001.dds"
+
+#: [ItemUse]Frame2
+msgctxt "[ItemUse]Frame2"
+msgid "Data/Pic/MapItemFlush/effect0002.dds"
+msgstr "Data/Pic/MapItemFlush/effect0002.dds"
+
+#: [ItemUse]Frame3
+msgctxt "[ItemUse]Frame3"
+msgid "Data/Pic/MapItemFlush/effect0003.dds"
+msgstr "Data/Pic/MapItemFlush/effect0003.dds"
+
+#: [ItemUse]Frame4
+msgctxt "[ItemUse]Frame4"
+msgid "Data/Pic/MapItemFlush/effect0004.dds"
+msgstr "Data/Pic/MapItemFlush/effect0004.dds"
+
+#: [ItemUse]Frame5
+msgctxt "[ItemUse]Frame5"
+msgid "Data/Pic/MapItemFlush/effect0005.dds"
+msgstr "Data/Pic/MapItemFlush/effect0005.dds"
+
+#: [ItemUse]Frame6
+msgctxt "[ItemUse]Frame6"
+msgid "Data/Pic/MapItemFlush/effect0006.dds"
+msgstr "Data/Pic/MapItemFlush/effect0006.dds"
+
+#: [ItemUse]Frame7
+msgctxt "[ItemUse]Frame7"
+msgid "Data/Pic/MapItemFlush/effect0007.dds"
+msgstr "Data/Pic/MapItemFlush/effect0007.dds"
+
+#: [ItemUse]Frame8
+msgctxt "[ItemUse]Frame8"
+msgid "Data/Pic/MapItemFlush/effect0008.dds"
+msgstr "Data/Pic/MapItemFlush/effect0008.dds"
+
+#: [ItemUse_s]FrameAmount
+msgctxt "[ItemUse_s]FrameAmount"
+msgid "9"
+msgstr "9"
+
+#: [ItemUse_s]Frame0
+msgid "Data/Pic/MapItemFlush800/effect0000.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0000.dds"
+
+#: [ItemUse_s]Frame1
+msgid "Data/Pic/MapItemFlush800/effect0001.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0001.dds"
+
+#: [ItemUse_s]Frame2
+msgid "Data/Pic/MapItemFlush800/effect0002.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0002.dds"
+
+#: [ItemUse_s]Frame3
+msgid "Data/Pic/MapItemFlush800/effect0003.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0003.dds"
+
+#: [ItemUse_s]Frame4
+msgid "Data/Pic/MapItemFlush800/effect0004.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0004.dds"
+
+#: [ItemUse_s]Frame5
+msgid "Data/Pic/MapItemFlush800/effect0005.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0005.dds"
+
+#: [ItemUse_s]Frame6
+msgid "Data/Pic/MapItemFlush800/effect0006.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0006.dds"
+
+#: [ItemUse_s]Frame7
+msgid "Data/Pic/MapItemFlush800/effect0007.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0007.dds"
+
+#: [ItemUse_s]Frame8
+msgid "Data/Pic/MapItemFlush800/effect0008.dds"
+msgstr "Data/Pic/MapItemFlush800/effect0008.dds"
+
+#: [FireLight]FrameAmount
+msgctxt "[FireLight]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [FireLight]Frame0
+msgid "Data/Pic/FireLight/01.dds"
+msgstr "Data/Pic/FireLight/01.dds"
+
+#: [FireLight]Frame1
+msgid "Data/Pic/FireLight/02.dds"
+msgstr "Data/Pic/FireLight/02.dds"
+
+#: [FireLight]Frame2
+msgid "Data/Pic/FireLight/03.dds"
+msgstr "Data/Pic/FireLight/03.dds"
+
+#: [FireLight]Frame3
+msgid "Data/Pic/FireLight/04.dds"
+msgstr "Data/Pic/FireLight/04.dds"
+
+#: [FireLight]Frame4
+msgid "Data/Pic/FireLight/05.dds"
+msgstr "Data/Pic/FireLight/05.dds"
+
+#: [FireLight]Frame5
+msgid "Data/Pic/FireLight/06.dds"
+msgstr "Data/Pic/FireLight/06.dds"
+
+#: [FireLight]Frame6
+msgid "Data/Pic/FireLight/07.dds"
+msgstr "Data/Pic/FireLight/07.dds"
+
+#: [FireLight]Frame7
+msgid "Data/Pic/FireLight/08.dds"
+msgstr "Data/Pic/FireLight/08.dds"
+
+#: [BlueLight]FrameAmount
+msgctxt "[BlueLight]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [BlueLight]Frame0
+msgid "Data/Pic/BlueLight/01.dds"
+msgstr "Data/Pic/BlueLight/01.dds"
+
+#: [BlueLight]Frame1
+msgid "Data/Pic/BlueLight/02.dds"
+msgstr "Data/Pic/BlueLight/02.dds"
+
+#: [BlueLight]Frame2
+msgid "Data/Pic/BlueLight/03.dds"
+msgstr "Data/Pic/BlueLight/03.dds"
+
+#: [BlueLight]Frame3
+msgid "Data/Pic/BlueLight/04.dds"
+msgstr "Data/Pic/BlueLight/04.dds"
+
+#: [BlueLight]Frame4
+msgid "Data/Pic/BlueLight/05.dds"
+msgstr "Data/Pic/BlueLight/05.dds"
+
+#: [BlueLight]Frame5
+msgid "Data/Pic/BlueLight/06.dds"
+msgstr "Data/Pic/BlueLight/06.dds"
+
+#: [BlueLight]Frame6
+msgid "Data/Pic/BlueLight/07.dds"
+msgstr "Data/Pic/BlueLight/07.dds"
+
+#: [BlueLight]Frame7
+msgid "Data/Pic/BlueLight/08.dds"
+msgstr "Data/Pic/BlueLight/08.dds"
+
+#: [RedLight]FrameAmount
+msgctxt "[RedLight]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [RedLight]Frame0
+msgid "Data/Pic/RedLight/01.dds"
+msgstr "Data/Pic/RedLight/01.dds"
+
+#: [RedLight]Frame1
+msgid "Data/Pic/RedLight/02.dds"
+msgstr "Data/Pic/RedLight/02.dds"
+
+#: [RedLight]Frame2
+msgid "Data/Pic/RedLight/03.dds"
+msgstr "Data/Pic/RedLight/03.dds"
+
+#: [RedLight]Frame3
+msgid "Data/Pic/RedLight/04.dds"
+msgstr "Data/Pic/RedLight/04.dds"
+
+#: [RedLight]Frame4
+msgid "Data/Pic/RedLight/05.dds"
+msgstr "Data/Pic/RedLight/05.dds"
+
+#: [RedLight]Frame5
+msgid "Data/Pic/RedLight/06.dds"
+msgstr "Data/Pic/RedLight/06.dds"
+
+#: [RedLight]Frame6
+msgid "Data/Pic/RedLight/07.dds"
+msgstr "Data/Pic/RedLight/07.dds"
+
+#: [RedLight]Frame7
+msgid "Data/Pic/RedLight/08.dds"
+msgstr "Data/Pic/RedLight/08.dds"
+
+#: [RoyalBlueLight]FrameAmount
+msgctxt "[RoyalBlueLight]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [RoyalBlueLight]Frame0
+msgid "Data/Pic/RoyalBlueLight/01.dds"
+msgstr "Data/Pic/RoyalBlueLight/01.dds"
+
+#: [RoyalBlueLight]Frame1
+msgid "Data/Pic/RoyalBlueLight/02.dds"
+msgstr "Data/Pic/RoyalBlueLight/02.dds"
+
+#: [RoyalBlueLight]Frame2
+msgid "Data/Pic/RoyalBlueLight/03.dds"
+msgstr "Data/Pic/RoyalBlueLight/03.dds"
+
+#: [RoyalBlueLight]Frame3
+msgid "Data/Pic/RoyalBlueLight/04.dds"
+msgstr "Data/Pic/RoyalBlueLight/04.dds"
+
+#: [RoyalBlueLight]Frame4
+msgid "Data/Pic/RoyalBlueLight/05.dds"
+msgstr "Data/Pic/RoyalBlueLight/05.dds"
+
+#: [RoyalBlueLight]Frame5
+msgid "Data/Pic/RoyalBlueLight/06.dds"
+msgstr "Data/Pic/RoyalBlueLight/06.dds"
+
+#: [RoyalBlueLight]Frame6
+msgid "Data/Pic/RoyalBlueLight/07.dds"
+msgstr "Data/Pic/RoyalBlueLight/07.dds"
+
+#: [RoyalBlueLight]Frame7
+msgid "Data/Pic/RoyalBlueLight/08.dds"
+msgstr "Data/Pic/RoyalBlueLight/08.dds"
+
+#: [GoldenLight]FrameAmount
+msgctxt "[GoldenLight]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [GoldenLight]Frame0
+msgid "Data/Pic/GoldEnLight/01.dds"
+msgstr "Data/Pic/GoldEnLight/01.dds"
+
+#: [GoldenLight]Frame1
+msgid "Data/Pic/GoldEnLight/02.dds"
+msgstr "Data/Pic/GoldEnLight/02.dds"
+
+#: [GoldenLight]Frame2
+msgid "Data/Pic/GoldEnLight/03.dds"
+msgstr "Data/Pic/GoldEnLight/03.dds"
+
+#: [GoldenLight]Frame3
+msgid "Data/Pic/GoldEnLight/04.dds"
+msgstr "Data/Pic/GoldEnLight/04.dds"
+
+#: [GoldenLight]Frame4
+msgid "Data/Pic/GoldEnLight/05.dds"
+msgstr "Data/Pic/GoldEnLight/05.dds"
+
+#: [GoldenLight]Frame5
+msgid "Data/Pic/GoldEnLight/06.dds"
+msgstr "Data/Pic/GoldEnLight/06.dds"
+
+#: [GoldenLight]Frame6
+msgid "Data/Pic/GoldEnLight/07.dds"
+msgstr "Data/Pic/GoldEnLight/07.dds"
+
+#: [GoldenLight]Frame7
+msgid "Data/Pic/GoldEnLight/08.dds"
+msgstr "Data/Pic/GoldEnLight/08.dds"
+
+#: [YellowLight]FrameAmount
+msgctxt "[YellowLight]FrameAmount"
+msgid "8"
+msgstr "8"
+
+#: [YellowLight]Frame0
+msgid "Data/Pic/YellowLight/01.dds"
+msgstr "Data/Pic/YellowLight/01.dds"
+
+#: [YellowLight]Frame1
+msgid "Data/Pic/YellowLight/02.dds"
+msgstr "Data/Pic/YellowLight/02.dds"
+
+#: [YellowLight]Frame2
+msgid "Data/Pic/YellowLight/03.dds"
+msgstr "Data/Pic/YellowLight/03.dds"
+
+#: [YellowLight]Frame3
+msgid "Data/Pic/YellowLight/04.dds"
+msgstr "Data/Pic/YellowLight/04.dds"
+
+#: [YellowLight]Frame4
+msgid "Data/Pic/YellowLight/05.dds"
+msgstr "Data/Pic/YellowLight/05.dds"
+
+#: [YellowLight]Frame5
+msgid "Data/Pic/YellowLight/06.dds"
+msgstr "Data/Pic/YellowLight/06.dds"
+
+#: [YellowLight]Frame6
+msgid "Data/Pic/YellowLight/07.dds"
+msgstr "Data/Pic/YellowLight/07.dds"
+
+#: [YellowLight]Frame7
+msgid "Data/Pic/YellowLight/08.dds"
+msgstr "Data/Pic/YellowLight/08.dds"
+
+#: [XpBlock]FrameAmount
+msgctxt "[XpBlock]FrameAmount"
+msgid "3"
+msgstr "3"
+
+#: [XpBlock]Frame0
+msgid "data/pic/XpBlockG.tga"
+msgstr "data/pic/XpBlockG.tga"
+
+#: [XpBlock]Frame1
+msgid "data/pic/XpBlockB.tga"
+msgstr "data/pic/XpBlockB.tga"
+
+#: [XpBlock]Frame2
+msgid "data/pic/XpBlockR.tga"
+msgstr "data/pic/XpBlockR.tga"
+
+#: [Income0]FrameAmount
+msgctxt "[Income0]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Income0]Frame0
+msgid "Data/Pic/Antiaddict/Income0.dds"
+msgstr "Data/Pic/Antiaddict/Income0.dds"
+
+#: [Income50]FrameAmount
+msgctxt "[Income50]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Income50]Frame0
+msgid "Data/Pic/Antiaddict/Income50.dds"
+msgstr "Data/Pic/Antiaddict/Income50.dds"
+
+#: [Income100]FrameAmount
+msgctxt "[Income100]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Income100]Frame0
+msgid "Data/Pic/Antiaddict/Income100.dds"
+msgstr "Data/Pic/Antiaddict/Income100.dds"
+
+# 爵位捐献图标
+#: [KnightIcon_bj]FrameAmount
+msgctxt "[KnightIcon_bj]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [KnightIcon_bj]Frame0
+msgid "Data/Pic/Contribute/KnightIcon_bj.dds"
+msgstr "Data/Pic/Contribute/KnightIcon_bj.dds"
+
+#: [KnightIcon_gj]FrameAmount
+msgctxt "[KnightIcon_gj]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [KnightIcon_gj]Frame0
+msgid "Data/Pic/Contribute/KnightIcon_gj.dds"
+msgstr "Data/Pic/Contribute/KnightIcon_gj.dds"
+
+#: [KnightIcon_hj]FrameAmount
+msgctxt "[KnightIcon_hj]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [KnightIcon_hj]Frame0
+msgid "Data/Pic/Contribute/KnightIcon_hj.dds"
+msgstr "Data/Pic/Contribute/KnightIcon_hj.dds"
+
+#: [KnightIcon_pm]FrameAmount
+msgctxt "[KnightIcon_pm]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [KnightIcon_pm]Frame0
+msgid "Data/Pic/Contribute/KnightIcon_pm.dds"
+msgstr "Data/Pic/Contribute/KnightIcon_pm.dds"
+
+#: [KnightIcon_vw]FrameAmount
+msgctxt "[KnightIcon_vw]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [KnightIcon_vw]Frame0
+msgid "Data/Pic/Contribute/KnightIcon_vw.dds"
+msgstr "Data/Pic/Contribute/KnightIcon_vw.dds"
+
+#: [KnightIcon_w]FrameAmount
+msgctxt "[KnightIcon_w]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [KnightIcon_w]Frame0
+msgid "Data/Pic/Contribute/KnightIcon_w.dds"
+msgstr "Data/Pic/Contribute/KnightIcon_w.dds"
+
+#: [KnightIcon_xj]FrameAmount
+msgctxt "[KnightIcon_xj]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [KnightIcon_xj]Frame0
+msgid "Data/Pic/Contribute/KnightIcon_xj.dds"
+msgstr "Data/Pic/Contribute/KnightIcon_xj.dds"
+
+#: [KnightIcon_zj]FrameAmount
+msgctxt "[KnightIcon_zj]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [KnightIcon_zj]Frame0
+msgid "Data/Pic/Contribute/KnightIcon_zj.dds"
+msgstr "Data/Pic/Contribute/KnightIcon_zj.dds"
+
+#: [GuideBattleEffect]FrameAmount
+msgctxt "[GuideBattleEffect]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [GuideBattleEffect]Frame0
+msgid "Data/pic/tutor/dssy-a1.dds"
+msgstr "Data/pic/tutor/dssy-a1.dds"
+
+#: [Flower_Boy]FrameAmount
+msgctxt "[Flower_Boy]FrameAmount"
+msgid "3"
+msgstr "3"
+
+#: [Flower_Boy]Frame0
+msgid "data/interface/flower/boyflower1.dds"
+msgstr "data/interface/flower/boyflower1.dds"
+
+#: [Flower_Boy]Frame1
+msgid "data/interface/flower/boyflower2.dds"
+msgstr "data/interface/flower/boyflower2.dds"
+
+#: [Flower_Boy]Frame2
+msgid "data/interface/flower/boyflower3.dds"
+msgstr "data/interface/flower/boyflower3.dds"
+
+#: [Flower_Girl]FrameAmount
+msgctxt "[Flower_Girl]FrameAmount"
+msgid "3"
+msgstr "3"
+
+#: [Flower_Girl]Frame0
+msgid "data/interface/flower/Girlflower1.dds"
+msgstr "data/interface/flower/Girlflower1.dds"
+
+#: [Flower_Girl]Frame1
+msgid "data/interface/flower/Girlflower2.dds"
+msgstr "data/interface/flower/Girlflower2.dds"
+
+#: [Flower_Girl]Frame2
+msgid "data/interface/flower/Girlflower3.dds"
+msgstr "data/interface/flower/Girlflower3.dds"
+
+#: [flower_r1]FrameAmount
+msgctxt "[flower_r1]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_r1]Frame0
+msgid "data/interface/flower/rr11.dds"
+msgstr "data/interface/flower/rr11.dds"
+
+#: [flower_r1]Frame1
+msgid "data/interface/flower/rr12.dds"
+msgstr "data/interface/flower/rr12.dds"
+
+#: [flower_r1]Frame2
+msgid "data/interface/flower/rr13.dds"
+msgstr "data/interface/flower/rr13.dds"
+
+#: [flower_r1]Frame3
+msgid "data/interface/flower/rr14.dds"
+msgstr "data/interface/flower/rr14.dds"
+
+#: [flower_r2]FrameAmount
+msgctxt "[flower_r2]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_r2]Frame0
+msgid "data/interface/flower/rr21.dds"
+msgstr "data/interface/flower/rr21.dds"
+
+#: [flower_r2]Frame1
+msgid "data/interface/flower/rr22.dds"
+msgstr "data/interface/flower/rr22.dds"
+
+#: [flower_r2]Frame2
+msgid "data/interface/flower/rr23.dds"
+msgstr "data/interface/flower/rr23.dds"
+
+#: [flower_r2]Frame3
+msgid "data/interface/flower/rr24.dds"
+msgstr "data/interface/flower/rr24.dds"
+
+#: [flower_r3]FrameAmount
+msgctxt "[flower_r3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [flower_r3]Frame0
+msgid "data/interface/flower/rr31.dds"
+msgstr "data/interface/flower/rr31.dds"
+
+#: [flower_w1]FrameAmount
+msgctxt "[flower_w1]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_w1]Frame0
+msgid "data/interface/flower/wr11.dds"
+msgstr "data/interface/flower/wr11.dds"
+
+#: [flower_w1]Frame1
+msgid "data/interface/flower/wr12.dds"
+msgstr "data/interface/flower/wr12.dds"
+
+#: [flower_w1]Frame2
+msgid "data/interface/flower/wr13.dds"
+msgstr "data/interface/flower/wr13.dds"
+
+#: [flower_w1]Frame3
+msgid "data/interface/flower/wr14.dds"
+msgstr "data/interface/flower/wr14.dds"
+
+#: [flower_w2]FrameAmount
+msgctxt "[flower_w2]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_w2]Frame0
+msgid "data/interface/flower/wr21.dds"
+msgstr "data/interface/flower/wr21.dds"
+
+#: [flower_w2]Frame1
+msgid "data/interface/flower/wr22.dds"
+msgstr "data/interface/flower/wr22.dds"
+
+#: [flower_w2]Frame2
+msgid "data/interface/flower/wr23.dds"
+msgstr "data/interface/flower/wr23.dds"
+
+#: [flower_w2]Frame3
+msgid "data/interface/flower/wr24.dds"
+msgstr "data/interface/flower/wr24.dds"
+
+#: [flower_w3]FrameAmount
+msgctxt "[flower_w3]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_w3]Frame0
+msgid "data/interface/flower/wr31.dds"
+msgstr "data/interface/flower/wr31.dds"
+
+#: [flower_w3]Frame1
+msgid "data/interface/flower/wr32.dds"
+msgstr "data/interface/flower/wr32.dds"
+
+#: [flower_w3]Frame2
+msgid "data/interface/flower/wr33.dds"
+msgstr "data/interface/flower/wr33.dds"
+
+#: [flower_w3]Frame3
+msgid "data/interface/flower/wr34.dds"
+msgstr "data/interface/flower/wr34.dds"
+
+#: [flower_today1]FrameAmount
+msgctxt "[flower_today1]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_today1]Frame0
+msgid "data/interface/flower/today11.dds"
+msgstr "data/interface/flower/today11.dds"
+
+#: [flower_today1]Frame1
+msgid "data/interface/flower/today12.dds"
+msgstr "data/interface/flower/today12.dds"
+
+#: [flower_today1]Frame2
+msgid "data/interface/flower/today13.dds"
+msgstr "data/interface/flower/today13.dds"
+
+#: [flower_today1]Frame3
+msgid "data/interface/flower/today14.dds"
+msgstr "data/interface/flower/today14.dds"
+
+#: [flower_today2]FrameAmount
+msgctxt "[flower_today2]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_today2]Frame0
+msgid "data/interface/flower/today21.dds"
+msgstr "data/interface/flower/today21.dds"
+
+#: [flower_today2]Frame1
+msgid "data/interface/flower/today22.dds"
+msgstr "data/interface/flower/today22.dds"
+
+#: [flower_today2]Frame2
+msgid "data/interface/flower/today23.dds"
+msgstr "data/interface/flower/today23.dds"
+
+#: [flower_today2]Frame3
+msgid "data/interface/flower/today24.dds"
+msgstr "data/interface/flower/today24.dds"
+
+#: [flower_today3]FrameAmount
+msgctxt "[flower_today3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [flower_today3]Frame0
+msgid "data/interface/flower/today31.dds"
+msgstr "data/interface/flower/today31.dds"
+
+#: [flower_l1]FrameAmount
+msgctxt "[flower_l1]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_l1]Frame0
+msgid "data/interface/flower/ly11.dds"
+msgstr "data/interface/flower/ly11.dds"
+
+#: [flower_l1]Frame1
+msgid "data/interface/flower/ly12.dds"
+msgstr "data/interface/flower/ly12.dds"
+
+#: [flower_l1]Frame2
+msgid "data/interface/flower/ly13.dds"
+msgstr "data/interface/flower/ly13.dds"
+
+#: [flower_l1]Frame3
+msgid "data/interface/flower/ly14.dds"
+msgstr "data/interface/flower/ly14.dds"
+
+#: [flower_l2]FrameAmount
+msgctxt "[flower_l2]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_l2]Frame0
+msgid "data/interface/flower/ly21.dds"
+msgstr "data/interface/flower/ly21.dds"
+
+#: [flower_l2]Frame1
+msgid "data/interface/flower/ly22.dds"
+msgstr "data/interface/flower/ly22.dds"
+
+#: [flower_l2]Frame2
+msgid "data/interface/flower/ly23.dds"
+msgstr "data/interface/flower/ly23.dds"
+
+#: [flower_l2]Frame3
+msgid "data/interface/flower/ly24.dds"
+msgstr "data/interface/flower/ly24.dds"
+
+#: [flower_l3]FrameAmount
+msgctxt "[flower_l3]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_l3]Frame0
+msgid "data/interface/flower/ly31.dds"
+msgstr "data/interface/flower/ly31.dds"
+
+#: [flower_l3]Frame1
+msgid "data/interface/flower/ly32.dds"
+msgstr "data/interface/flower/ly32.dds"
+
+#: [flower_l3]Frame2
+msgid "data/interface/flower/ly33.dds"
+msgstr "data/interface/flower/ly33.dds"
+
+#: [flower_l3]Frame3
+msgid "data/interface/flower/ly34.dds"
+msgstr "data/interface/flower/ly34.dds"
+
+#: [flower_t1]FrameAmount
+msgctxt "[flower_t1]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_t1]Frame0
+msgid "data/interface/flower/tp11.dds"
+msgstr "data/interface/flower/tp11.dds"
+
+#: [flower_t1]Frame1
+msgid "data/interface/flower/tp12.dds"
+msgstr "data/interface/flower/tp12.dds"
+
+#: [flower_t1]Frame2
+msgid "data/interface/flower/tp13.dds"
+msgstr "data/interface/flower/tp13.dds"
+
+#: [flower_t1]Frame3
+msgid "data/interface/flower/tp14.dds"
+msgstr "data/interface/flower/tp14.dds"
+
+#: [flower_t2]FrameAmount
+msgctxt "[flower_t2]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_t2]Frame0
+msgid "data/interface/flower/tp21.dds"
+msgstr "data/interface/flower/tp21.dds"
+
+#: [flower_t2]Frame1
+msgid "data/interface/flower/tp22.dds"
+msgstr "data/interface/flower/tp22.dds"
+
+#: [flower_t2]Frame2
+msgid "data/interface/flower/tp23.dds"
+msgstr "data/interface/flower/tp23.dds"
+
+#: [flower_t2]Frame3
+msgid "data/interface/flower/tp24.dds"
+msgstr "data/interface/flower/tp24.dds"
+
+#: [flower_t3]FrameAmount
+msgctxt "[flower_t3]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [flower_t3]Frame0
+msgid "data/interface/flower/tp31.dds"
+msgstr "data/interface/flower/tp31.dds"
+
+#: [flower_t3]Frame1
+msgid "data/interface/flower/tp32.dds"
+msgstr "data/interface/flower/tp32.dds"
+
+#: [flower_t3]Frame2
+msgid "data/interface/flower/tp33.dds"
+msgstr "data/interface/flower/tp33.dds"
+
+#: [flower_t3]Frame3
+msgid "data/interface/flower/tp34.dds"
+msgstr "data/interface/flower/tp34.dds"
+
+#: [Contest_AdvanceIco]FrameAmount
+msgctxt "[Contest_AdvanceIco]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Contest_AdvanceIco]Frame0
+msgid "Data/Pic/contest/AdvanceIco.dds"
+msgstr "Data/Pic/contest/AdvanceIco.dds"
+
+#: [Contest_BookIco]FrameAmount
+msgctxt "[Contest_BookIco]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Contest_BookIco]Frame0
+msgid "Data/Pic/contest/BookIco.dds"
+msgstr "Data/Pic/contest/BookIco.dds"
+
+#: [Contest_ElegantIco]FrameAmount
+msgctxt "[Contest_ElegantIco]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Contest_ElegantIco]Frame0
+msgid "Data/Pic/contest/ElegantIco.dds"
+msgstr "Data/Pic/contest/ElegantIco.dds"
+
+#: [Contest_LiftIco]FrameAmount
+msgctxt "[Contest_LiftIco]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Contest_LiftIco]Frame0
+msgid "Data/Pic/contest/LiftIco.dds"
+msgstr "Data/Pic/contest/LiftIco.dds"
+
+#: [Contest_Advance]FrameAmount
+msgctxt "[Contest_Advance]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Contest_Advance]Frame0
+msgid "Data/Pic/contest/Contest_Advance.dds"
+msgstr "Data/Pic/contest/Contest_Advance.dds"
+
+#: [Contest_Book]FrameAmount
+msgctxt "[Contest_Book]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Contest_Book]Frame0
+msgid "Data/Pic/contest/Contest_Book.dds"
+msgstr "Data/Pic/contest/Contest_Book.dds"
+
+#: [Contest_Elegant]FrameAmount
+msgctxt "[Contest_Elegant]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Contest_Elegant]Frame0
+msgid "Data/Pic/contest/Contest_Elegant.dds"
+msgstr "Data/Pic/contest/Contest_Elegant.dds"
+
+#: [Contest_Lift]FrameAmount
+msgctxt "[Contest_Lift]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Contest_Lift]Frame0
+msgid "Data/Pic/contest/Contest_Lift.dds"
+msgstr "Data/Pic/contest/Contest_Lift.dds"
+
+#: [Scapegoat_Skill]FrameAmount
+msgctxt "[Scapegoat_Skill]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Scapegoat_Skill]Frame0
+msgid "data/pic/Ninja/ScapegoatSkill.dds"
+msgstr "data/pic/Ninja/ScapegoatSkill.dds"
+
+#: [coach_individual]FrameAmount
+msgctxt "[coach_individual]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [coach_individual]Frame0
+msgid "data/Pic/coach/individual.dds"
+msgstr "data/Pic/coach/individual.dds"
+
+#: [coach_corps]FrameAmount
+msgctxt "[coach_corps]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [coach_corps]Frame0
+msgid "data/pic/coach/corps.dds"
+msgstr "data/pic/coach/corps.dds"
+
+#: [coach_experience]FrameAmount
+msgctxt "[coach_experience]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [coach_experience]Frame0
+msgid "data/Pic/coach/experience.dds"
+msgstr "data/Pic/coach/experience.dds"
+
+#: [Ride]FrameAmount
+msgctxt "[Ride]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Ride]Frame0
+msgid "data/pic/Ride/horse.dds"
+msgstr "data/pic/Ride/horse.dds"
+
+# 家族-获得战斗力分享
+#: [FamilyPower]FrameAmount
+msgctxt "[FamilyPower]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [FamilyPower]Frame0
+msgid "Data/Pic/FamilyPower/FamilyPowerHalve.dds"
+msgstr "Data/Pic/FamilyPower/FamilyPowerHalve.dds"
+
+# 家族-无战斗力分享
+#: [FamilyPowerHalveDisa01]FrameAmount
+msgctxt "[FamilyPowerHalveDisa01]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [FamilyPowerHalveDisa01]Frame0
+msgid "Data/Pic/FamilyPower/FamilyPowerHalveDisa01.dds"
+msgstr "Data/Pic/FamilyPower/FamilyPowerHalveDisa01.dds"
+
+# 家族-无战斗力分享对象
+#: [FamilyPowerHalveDisa02]FrameAmount
+msgctxt "[FamilyPowerHalveDisa02]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [FamilyPowerHalveDisa02]Frame0
+msgid "Data/Pic/FamilyPower/FamilyPowerHalveDisa02.dds"
+msgstr "Data/Pic/FamilyPower/FamilyPowerHalveDisa02.dds"
+
+# 竞技场状态图标
+#: [Arena]FrameAmount
+msgctxt "[Arena]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Arena]Frame0
+msgid "Data/Pic/Arena/Arena.dds"
+msgstr "Data/Pic/Arena/Arena.dds"
+
+# 导致人物陷入恐惧的状态图标
+#: [Fears]FrameAmount
+msgctxt "[Fears]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Fears]Frame0
+msgid "Data/Pic/Fears/Fears.dds"
+msgstr "Data/Pic/Fears/Fears.dds"
+
+# 不受负面状态影响状态图标
+#: [Protect]FrameAmount
+msgctxt "[Protect]FrameAmount"
+msgid "4"
+msgstr "4"
+
+#: [Protect]Frame0
+msgid "Data/Pic/protect/protect1.dds"
+msgstr "Data/Pic/protect/protect1.dds"
+
+#: [Protect]Frame1
+msgid "Data/Pic/protect/protect2.dds"
+msgstr "Data/Pic/protect/protect2.dds"
+
+#: [Protect]Frame2
+msgid "Data/Pic/protect/protect3.dds"
+msgstr "Data/Pic/protect/protect3.dds"
+
+#: [Protect]Frame3
+msgid "Data/Pic/protect/protect4.dds"
+msgstr "Data/Pic/protect/protect4.dds"
+
+# 冰冻状态
+#: [FreezeD]FrameAmount
+msgctxt "[FreezeD]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [FreezeD]Frame0
+msgid "Data/Pic/FreezeD/FreezeD.dds"
+msgstr "Data/Pic/FreezeD/FreezeD.dds"
+
+# 导致操作逆向的颠倒状态图标
+#: [Reversed]FrameAmount
+msgctxt "[Reversed]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Reversed]Frame0
+msgid "Data/Pic/Reversed/Reversed.dds"
+msgstr "Data/Pic/Reversed/Reversed.dds"
+
+# 导致无法移动的眩晕状态
+#: [Giddy]FrameAmount
+msgctxt "[Giddy]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Giddy]Frame0
+msgid "Data/Pic/giddy/giddy.dds"
+msgstr "Data/Pic/giddy/giddy.dds"
+
+# 提高移动力上限状态图标
+#: [Improvelimit]FrameAmount
+msgctxt "[Improvelimit]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Improvelimit]Frame0
+msgid "Data/Pic/Improvelimit/Improvelimit.dds"
+msgstr "Data/Pic/Improvelimit/Improvelimit.dds"
+
+# 增加移动速度状态图标
+#: [Addmove]FrameAmount
+msgctxt "[Addmove]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Addmove]Frame0
+msgid "Data/Pic/Speedmove/Addmove.dds"
+msgstr "Data/Pic/Speedmove/Addmove.dds"
+
+# 减少移动速度状态图标
+#: [Lowermove]FrameAmount
+msgctxt "[Lowermove]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Lowermove]Frame0
+msgid "Data/Pic/Speedmove/Lowermove.dds"
+msgstr "Data/Pic/Speedmove/Lowermove.dds"
+
+# 毒伤减免加成的避毒师状态图标
+#: [Avoidtoxic]FrameAmount
+msgctxt "[Avoidtoxic]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Avoidtoxic]Frame0
+msgid "Data/Pic/Avoidtoxic/Avoidtoxic.dds"
+msgstr "Data/Pic/Avoidtoxic/Avoidtoxic.dds"
+
+# 增加法术暴击的灭法师状态图标
+#: [Francestorm]FrameAmount
+msgctxt "[Francestorm]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Francestorm]Frame0
+msgid "Data/Pic/Francestorm/Francestorm.dds"
+msgstr "Data/Pic/Francestorm/Francestorm.dds"
+
+# 提高法术穿透的灵术士状态图标
+#: [Magicpenetra]FrameAmount
+msgctxt "[Magicpenetra]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Magicpenetra]Frame0
+msgid "Data/Pic/Magicpenetra/Magicpenetra.dds"
+msgstr "Data/Pic/Magicpenetra/Magicpenetra.dds"
+
+# 提高免暴击率的硬气功大师状态图标
+#: [Freestorm]FrameAmount
+msgctxt "[Freestorm]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Freestorm]Frame0
+msgid "Data/Pic/Freestorm/Freestorm.dds"
+msgstr "Data/Pic/Freestorm/Freestorm.dds"
+
+# 获得特殊舞蹈的炫舞者状态图标
+#: [Specialdance]FrameAmount
+msgctxt "[Specialdance]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Specialdance]Frame0
+msgid "Data/Pic/Specialdance/Specialdance.dds"
+msgstr "Data/Pic/Specialdance/Specialdance.dds"
+
+# 玩家处于武术家状态时的状态图标
+#: [Fighter]FrameAmount
+msgctxt "[Fighter]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Fighter]Frame0
+msgid "Data/Pic/Fighter/Fighter.dds"
+msgstr "Data/Pic/Fighter/Fighter.dds"
+
+# 参赛状态图标
+#: [Entrystate]FrameAmount
+msgctxt "[Entrystate]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Entrystate]Frame0
+msgid "Data/Pic/Entrystate/Entrystate.dds"
+msgstr "Data/Pic/Entrystate/Entrystate.dds"
+
+# 护体圣盾状态图标
+#: [Bodycare]FrameAmount
+msgctxt "[Bodycare]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Bodycare]Frame0
+msgid "Data/Pic/Bodycare/Bodycare.dds"
+msgstr "Data/Pic/Bodycare/Bodycare.dds"
+
+# 战士新技能-盾牌格挡状态图标
+#: [Soldier_shield]FrameAmount
+msgctxt "[Soldier_shield]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Soldier_shield]Frame0
+msgid "Data/Pic/Soldier/Soldier_shield.dds"
+msgstr "Data/Pic/Soldier/Soldier_shield.dds"
+
+# 武僧技能--免暴光环状态图标
+#: [Avert]FrameAmount
+msgctxt "[Avert]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Avert]Frame0
+msgid "Data/Pic/Avert/Avert.dds"
+msgstr "Data/Pic/Avert/Avert.dds"
+
+# 抗性光环-火状态图标
+#: [Aureole_fire]FrameAmount
+msgctxt "[Aureole_fire]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Aureole_fire]Frame0
+msgid "Data/Pic/Aureole/Aureole_fire.dds"
+msgstr "Data/Pic/Aureole/Aureole_fire.dds"
+
+# 抗性光环-土状态图标
+#: [Aureole_land]FrameAmount
+msgctxt "[Aureole_land]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Aureole_land]Frame0
+msgid "Data/Pic/Aureole/Aureole_land.dds"
+msgstr "Data/Pic/Aureole/Aureole_land.dds"
+
+# 抗性光环-金状态图标
+#: [Aureole_metallicity]FrameAmount
+msgctxt "[Aureole_metallicity]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Aureole_metallicity]Frame0
+msgid "Data/Pic/Aureole/Aureole_metallicity.dds"
+msgstr "Data/Pic/Aureole/Aureole_metallicity.dds"
+
+# 抗性光环-水状态图标
+#: [Aureole_water]FrameAmount
+msgctxt "[Aureole_water]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Aureole_water]Frame0
+msgid "Data/Pic/Aureole/Aureole_water.dds"
+msgstr "Data/Pic/Aureole/Aureole_water.dds"
+
+# 抗性光环-木状态图标
+#: [Aureole_wood]FrameAmount
+msgctxt "[Aureole_wood]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Aureole_wood]Frame0
+msgid "Data/Pic/Aureole/Aureole_wood.dds"
+msgstr "Data/Pic/Aureole/Aureole_wood.dds"
+
+# 武僧技能-暴击光环状态图标
+#: [Hit]FrameAmount
+msgctxt "[Hit]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Hit]Frame0
+msgid "Data/Pic/Hit/Hit.dds"
+msgstr "Data/Pic/Hit/Hit.dds"
+
+# 驯兽师状态图标
+#: [Trainer]FrameAmount
+msgctxt "[Trainer]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Trainer]Frame0
+msgid "Data/Pic/Trainer/Trainer.dds"
+msgstr "Data/Pic/Trainer/Trainer.dds"
+
+# 小地图-任务目标
+#: [TaskLogo]FrameAmount
+msgctxt "[TaskLogo]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [TaskLogo]Frame0
+msgid "data/interface/style01/Task/TaskLogo1.dds"
+msgstr "data/interface/style01/Task/TaskLogo1.dds"
+
+#: [TaskLogo]Frame1
+msgid "data/interface/style01/Task/TaskLogo2.dds"
+msgstr "data/interface/style01/Task/TaskLogo2.dds"
+
+# 小地图-任务导航右箭头
+#: [TaskLogoRight]FrameAmount
+msgctxt "[TaskLogoRight]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [TaskLogoRight]Frame0
+msgid "data/interface/style01/Task/TaskLogoRight.dds"
+msgstr "data/interface/style01/Task/TaskLogoRight.dds"
+
+# 飞吻持续状态
+#: [FlyKiss]FrameAmount
+msgctxt "[FlyKiss]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [FlyKiss]Frame0
+msgid "data/pic/Flykiss/FlyKiss.dds"
+msgstr "data/pic/Flykiss/FlyKiss.dds"
+
+# 重装持续状态
+#: [Reshipment]FrameAmount
+msgctxt "[Reshipment]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Reshipment]Frame0
+msgid "data/pic/Reshipment/Reshipment.dds"
+msgstr "data/pic/Reshipment/Reshipment.dds"
+
+# 魔法防御盾状态
+#: [Magicshield]FrameAmount
+msgctxt "[Magicshield]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Magicshield]Frame0
+msgid "data/pic/Magicshield/Magicshield.dds"
+msgstr "data/pic/Magicshield/Magicshield.dds"
+
+# 杀手形态
+#: [Killer]FrameAmount
+msgctxt "[Killer]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Killer]Frame0
+msgid "data/pic/Killer/Killer.dds"
+msgstr "data/pic/Killer/Killer.dds"
+
+# 流星闪形态
+#: [Meteorflash]FrameAmount
+msgctxt "[Meteorflash]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Meteorflash]Frame0
+msgid "data/pic/Meteorflash/Meteorflash.dds"
+msgstr "data/pic/Meteorflash/Meteorflash.dds"
+
+# 首冲界面-首冲豪礼按钮1
+#: [Treasure1Flash]FrameAmount
+msgctxt "[Treasure1Flash]FrameAmount"
+msgid "3"
+msgstr "3"
+
+#: [Treasure1Flash]Frame0
+msgid "data/interface/Recharge/Treasure1BtnNormal.dds"
+msgstr "data/interface/Recharge/Treasure1BtnNormal.dds"
+
+#: [Treasure1Flash]Frame1
+msgid "data/interface/Recharge/Treasure1BtnClick.dds"
+msgstr "data/interface/Recharge/Treasure1BtnClick.dds"
+
+#: [Treasure1Flash]Frame2
+msgid "data/interface/Recharge/Treasure1BtnEmboss.dds"
+msgstr "data/interface/Recharge/Treasure1BtnEmboss.dds"
+
+#: [Treasure1Flash]Frame3
+msgid "data/interface/Recharge/Treasure1BtnUnclick.dds"
+msgstr "data/interface/Recharge/Treasure1BtnUnclick.dds"
+
+# 首冲界面-首冲豪礼按钮2
+#: [Treasure2Flash]FrameAmount
+msgctxt "[Treasure2Flash]FrameAmount"
+msgid "3"
+msgstr "3"
+
+#: [Treasure2Flash]Frame0
+msgid "data/interface/Recharge/Treasure2BtnNormal.dds"
+msgstr "data/interface/Recharge/Treasure2BtnNormal.dds"
+
+#: [Treasure2Flash]Frame1
+msgid "data/interface/Recharge/Treasure2BtnClick.dds"
+msgstr "data/interface/Recharge/Treasure2BtnClick.dds"
+
+#: [Treasure2Flash]Frame2
+msgid "data/interface/Recharge/Treasure2BtnEmboss.dds"
+msgstr "data/interface/Recharge/Treasure2BtnEmboss.dds"
+
+#: [Treasure2Flash]Frame3
+msgid "data/interface/Recharge/Treasure2BtnUnclick.dds"
+msgstr "data/interface/Recharge/Treasure2BtnUnclick.dds"
+
+# 入江湖自创武功状态图标01
+#: [Infuriating]FrameAmount
+msgctxt "[Infuriating]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Infuriating]Frame0
+msgid "data/pic/Infuriating/Infuriating.dds"
+msgstr "data/pic/Infuriating/Infuriating.dds"
+
+# 入江湖自创武功状态图标02
+#: [Infuriating01]FrameAmount
+msgctxt "[Infuriating01]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Infuriating01]Frame0
+msgid "data/pic/Infuriating/Infuriating01.dds"
+msgstr "data/pic/Infuriating/Infuriating01.dds"
+
+# 入江湖自创武功状态图标03
+#: [Infuriating02]FrameAmount
+msgctxt "[Infuriating02]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Infuriating02]Frame0
+msgid "data/pic/Infuriating/Infuriating02.dds"
+msgstr "data/pic/Infuriating/Infuriating02.dds"
+
+# 入江湖自创武功状态图标04
+#: [Infuriating03]FrameAmount
+msgctxt "[Infuriating03]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Infuriating03]Frame0
+msgid "data/pic/Infuriating/Infuriating03.dds"
+msgstr "data/pic/Infuriating/Infuriating03.dds"
+
+# 入江湖自创武功状态图标05
+#: [Infuriating04]FrameAmount
+msgctxt "[Infuriating04]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Infuriating04]Frame0
+msgid "data/pic/Infuriating/Infuriating04.dds"
+msgstr "data/pic/Infuriating/Infuriating04.dds"
+
+#  主界面福利按钮闪烁
+#: [OperateFlash]FrameAmount
+msgctxt "[OperateFlash]FrameAmount"
+msgid "3"
+msgstr "3"
+
+#: [OperateFlash]Frame0
+msgid "data/interface/Operating/WelfareBtnNormal.dds"
+msgstr "data/interface/Operating/WelfareBtnNormal.dds"
+
+#: [OperateFlash]Frame1
+msgid "data/interface/Operating/WelfareBtnClick.dds"
+msgstr "data/interface/Operating/WelfareBtnClick.dds"
+
+#: [OperateFlash]Frame2
+msgid "data/interface/Operating/WelfareBtnEmboss.dds"
+msgstr "data/interface/Operating/WelfareBtnEmboss.dds"
+
+# 经验保护水
+#: [ExpProtection]FrameAmount
+msgctxt "[ExpProtection]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ExpProtection]Frame0
+msgid "data/pic/ExpProtection/ExpProtection.dds"
+msgstr "data/pic/ExpProtection/ExpProtection.dds"
+
+# 增加坚固防御率
+#: [Firm]FrameAmount
+msgctxt "[Firm]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Firm]Frame0
+msgid "data/pic/Firm/Firm.dds"
+msgstr "data/pic/Firm/Firm.dds"
+
+# 增加法术攻击力
+#: [Magicattack]FrameAmount
+msgctxt "[Magicattack]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Magicattack]Frame0
+msgid "data/pic/Magicattack/Magicattack.dds"
+msgstr "data/pic/Magicattack/Magicattack.dds"
+
+# 增加法术暴击率
+#: [Spellcrit]FrameAmount
+msgctxt "[Spellcrit]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Spellcrit]Frame0
+msgid "data/pic/Spellcrit/Spellcrit.dds"
+msgstr "data/pic/Spellcrit/Spellcrit.dds"
+
+# 增加物理攻击力
+#: [Physicalattack]FrameAmount
+msgctxt "[Physicalattack]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Physicalattack]Frame0
+msgid "data/pic/Physicalattack/Physicalattack.dds"
+msgstr "data/pic/Physicalattack/Physicalattack.dds"
+
+# 增加物理暴击率
+#: [Physicalcrit]FrameAmount
+msgctxt "[Physicalcrit]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Physicalcrit]Frame0
+msgid "data/pic/Physicalcrit/Physicalcrit.dds"
+msgstr "data/pic/Physicalcrit/Physicalcrit.dds"
+
+# 增加生命上限
+#: [Maximumlife]FrameAmount
+msgctxt "[Maximumlife]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Maximumlife]Frame0
+msgid "data/pic/Maximumlife/Maximumlife.dds"
+msgstr "data/pic/Maximumlife/Maximumlife.dds"
+
+# 增加粉碎率
+#: [Crushingrate]FrameAmount
+msgctxt "[Crushingrate]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Crushingrate]Frame0
+msgid "data/pic/Crushingrate/Crushingrate.dds"
+msgstr "data/pic/Crushingrate/Crushingrate.dds"
+
+# 增加绝对法功
+#: [Absolutepower]FrameAmount
+msgctxt "[Absolutepower]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Absolutepower]Frame0
+msgid "data/pic/Absolutepower/Absolutepower.dds"
+msgstr "data/pic/Absolutepower/Absolutepower.dds"
+
+# 增加绝对法术防御
+#: [Antiabsolute]FrameAmount
+msgctxt "[Antiabsolute]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Antiabsolute]Frame0
+msgid "data/pic/Antiabsolute/Antiabsolute.dds"
+msgstr "data/pic/Antiabsolute/Antiabsolute.dds"
+
+# 增加绝对物理攻击力
+#: [Absphysicalatt]FrameAmount
+msgctxt "[Absphysicalatt]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Absphysicalatt]Frame0
+msgid "data/pic/Absphysicalatt/Absphysicalatt.dds"
+msgstr "data/pic/Absphysicalatt/Absphysicalatt.dds"
+
+# 增加绝对物理防御
+#: [Absphysicaldef]FrameAmount
+msgctxt "[Absphysicaldef]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Absphysicaldef]Frame0
+msgid "data/pic/Absphysicaldef/Absphysicaldef.dds"
+msgstr "data/pic/Absphysicaldef/Absphysicaldef.dds"
+
+# 增加防爆率
+#: [Explosionproof]FrameAmount
+msgctxt "[Explosionproof]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Explosionproof]Frame0
+msgid "data/pic/Explosionproof/Explosionproof.dds"
+msgstr "data/pic/Explosionproof/Explosionproof.dds"
+
+# 即将领取宝箱动态
+#: [ChestFlush]FrameAmount
+msgid "6"
+msgstr "6"
+
+#: [ChestFlush]Frame0
+msgid "Data/Pic/ChestFlush/1.dds"
+msgstr "Data/Pic/ChestFlush/1.dds"
+
+#: [ChestFlush]Frame1
+msgid "Data/Pic/ChestFlush/2.dds"
+msgstr "Data/Pic/ChestFlush/2.dds"
+
+#: [ChestFlush]Frame2
+msgid "Data/Pic/ChestFlush/3.dds"
+msgstr "Data/Pic/ChestFlush/3.dds"
+
+#: [ChestFlush]Frame3
+msgid "Data/Pic/ChestFlush/4.dds"
+msgstr "Data/Pic/ChestFlush/4.dds"
+
+#: [ChestFlush]Frame4
+msgid "Data/Pic/ChestFlush/5.dds"
+msgstr "Data/Pic/ChestFlush/5.dds"
+
+#: [ChestFlush]Frame5
+msgid "Data/Pic/ChestFlush/6.dds"
+msgstr "Data/Pic/ChestFlush/6.dds"
+
+# 已领取宝箱动态
+#: [ChestFlush1]FrameAmount
+msgid "10"
+msgstr "10"
+
+#: [ChestFlush1]Frame0
+msgid "Data/Pic/ChestFlush1/1.dds"
+msgstr "Data/Pic/ChestFlush1/1.dds"
+
+#: [ChestFlush1]Frame1
+msgid "Data/Pic/ChestFlush1/2.dds"
+msgstr "Data/Pic/ChestFlush1/2.dds"
+
+#: [ChestFlush1]Frame2
+msgid "Data/Pic/ChestFlush1/3.dds"
+msgstr "Data/Pic/ChestFlush1/3.dds"
+
+#: [ChestFlush1]Frame3
+msgid "Data/Pic/ChestFlush1/4.dds"
+msgstr "Data/Pic/ChestFlush1/4.dds"
+
+#: [ChestFlush1]Frame4
+msgid "Data/Pic/ChestFlush1/5.dds"
+msgstr "Data/Pic/ChestFlush1/5.dds"
+
+#: [ChestFlush1]Frame5
+msgid "Data/Pic/ChestFlush1/6.dds"
+msgstr "Data/Pic/ChestFlush1/6.dds"
+
+#: [ChestFlush1]Frame6
+msgid "Data/Pic/ChestFlush1/7.dds"
+msgstr "Data/Pic/ChestFlush1/7.dds"
+
+#: [ChestFlush1]Frame7
+msgid "Data/Pic/ChestFlush1/8.dds"
+msgstr "Data/Pic/ChestFlush1/8.dds"
+
+#: [ChestFlush1]Frame8
+msgid "Data/Pic/ChestFlush1/9.dds"
+msgstr "Data/Pic/ChestFlush1/9.dds"
+
+#: [ChestFlush1]Frame9
+msgid "Data/Pic/ChestFlush1/10.dds"
+msgstr "Data/Pic/ChestFlush1/10.dds"
+
+# 龙之血脉
+#: [Blooddr]FrameAmount
+msgctxt "[Blooddr]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Blooddr]Frame0
+msgid "data/pic/Blooddr/Blooddr.dds"
+msgstr "data/pic/Blooddr/Blooddr.dds"
+
+# 禁魔飞棍
+#: [Forbidmagic]FrameAmount
+msgctxt "[Forbidmagic]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Forbidmagic]Frame0
+msgid "data/pic/Forbidmagic/Forbidmagic.dds"
+msgstr "data/pic/Forbidmagic/Forbidmagic.dds"
+
+# 截拳步法
+#: [Jeetkune]FrameAmount
+msgctxt "[Jeetkune]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Jeetkune]Frame0
+msgid "data/pic/Jeetkune/Jeetkune.dds"
+msgstr "data/pic/Jeetkune/Jeetkune.dds"
+
+# 手指提示
+#: [Finger]FrameAmount
+msgctxt "[Finger]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [Finger]Frame0
+msgid "data/pic/Finger/Finger01.dds"
+msgstr "data/pic/Finger/Finger01.dds"
+
+#: [Finger]Frame1
+msgid "data/pic/Finger/Finger02.dds"
+msgstr "data/pic/Finger/Finger02.dds"
+
+# 道士水聚集能量
+#: [DaoshiShui]FrameAmount
+msgctxt "[DaoshiShui]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [DaoshiShui]Frame0
+msgid "data/pic/DaoshiShui/DaoshiShui.dds"
+msgstr "data/pic/DaoshiShui/DaoshiShui.dds"
+
+# 道士火聚集能量
+#: [DaoshiHuo]FrameAmount
+msgctxt "[DaoshiHuo]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [DaoshiHuo]Frame0
+msgid "data/pic/DaoshiHuo/DaoshiHuo.dds"
+msgstr "data/pic/DaoshiHuo/DaoshiHuo.dds"
+
+# 道士点燃状态
+#: [DaoshiRan]FrameAmount
+msgctxt "[DaoshiRan]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [DaoshiRan]Frame0
+msgid "data/pic/DaoshiRan/DaoshiRan.dds"
+msgstr "data/pic/DaoshiRan/DaoshiRan.dds"
+
+# 国战战功称呼-伍长
+#: [Warcar_ExploitsLv1]FrameAmount
+msgctxt "[Warcar_ExploitsLv1]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv1]Frame0
+msgid "data/interface/Warcar/ExploitsLv1.dds"
+msgstr "data/interface/Warcar/ExploitsLv1.dds"
+
+# 国战战功称呼-什长
+#: [Warcar_ExploitsLv2]FrameAmount
+msgctxt "[Warcar_ExploitsLv2]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv2]Frame0
+msgid "data/interface/Warcar/ExploitsLv2.dds"
+msgstr "data/interface/Warcar/ExploitsLv2.dds"
+
+# 国战战功称呼-百夫长
+#: [Warcar_ExploitsLv3]FrameAmount
+msgctxt "[Warcar_ExploitsLv3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv3]Frame0
+msgid "data/interface/Warcar/ExploitsLv3.dds"
+msgstr "data/interface/Warcar/ExploitsLv3.dds"
+
+# 国战战功称呼-都尉
+#: [Warcar_ExploitsLv4]FrameAmount
+msgctxt "[Warcar_ExploitsLv4]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv4]Frame0
+msgid "data/interface/Warcar/ExploitsLv4.dds"
+msgstr "data/interface/Warcar/ExploitsLv4.dds"
+
+# 国战战功称呼-校尉
+#: [Warcar_ExploitsLv5]FrameAmount
+msgctxt "[Warcar_ExploitsLv5]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv5]Frame0
+msgid "data/interface/Warcar/ExploitsLv5.dds"
+msgstr "data/interface/Warcar/ExploitsLv5.dds"
+
+# 国战战功称呼-中郎将
+#: [Warcar_ExploitsLv6]FrameAmount
+msgctxt "[Warcar_ExploitsLv6]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv6]Frame0
+msgid "data/interface/Warcar/ExploitsLv6.dds"
+msgstr "data/interface/Warcar/ExploitsLv6.dds"
+
+# 国战战功称呼-裨将
+#: [Warcar_ExploitsLv7]FrameAmount
+msgctxt "[Warcar_ExploitsLv7]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv7]Frame0
+msgid "data/interface/Warcar/ExploitsLv7.dds"
+msgstr "data/interface/Warcar/ExploitsLv7.dds"
+
+# 国战战功称呼-偏将
+#: [Warcar_ExploitsLv8]FrameAmount
+msgctxt "[Warcar_ExploitsLv8]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv8]Frame0
+msgid "data/interface/Warcar/ExploitsLv8.dds"
+msgstr "data/interface/Warcar/ExploitsLv8.dds"
+
+# 国战战功称呼-将军
+#: [Warcar_ExploitsLv9]FrameAmount
+msgctxt "[Warcar_ExploitsLv9]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv9]Frame0
+msgid "data/interface/Warcar/ExploitsLv9.dds"
+msgstr "data/interface/Warcar/ExploitsLv9.dds"
+
+# 国战战功称呼-卫将军
+#: [Warcar_ExploitsLv10]FrameAmount
+msgctxt "[Warcar_ExploitsLv10]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv10]Frame0
+msgid "data/interface/Warcar/ExploitsLv10.dds"
+msgstr "data/interface/Warcar/ExploitsLv10.dds"
+
+# 国战战功称呼-车骑将军
+#: [Warcar_ExploitsLv11]FrameAmount
+msgctxt "[Warcar_ExploitsLv11]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv11]Frame0
+msgid "data/interface/Warcar/ExploitsLv11.dds"
+msgstr "data/interface/Warcar/ExploitsLv11.dds"
+
+# 国战战功称呼-骠骑将军
+#: [Warcar_ExploitsLv12]FrameAmount
+msgctxt "[Warcar_ExploitsLv12]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv12]Frame0
+msgid "data/interface/Warcar/ExploitsLv12.dds"
+msgstr "data/interface/Warcar/ExploitsLv12.dds"
+
+# 国战战功称呼-大将军
+#: [Warcar_ExploitsLv13]FrameAmount
+msgctxt "[Warcar_ExploitsLv13]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Warcar_ExploitsLv13]Frame0
+msgid "data/interface/Warcar/ExploitsLv13.dds"
+msgstr "data/interface/Warcar/ExploitsLv13.dds"
+
+# 天王守护
+#: [HeavenlyKings]FrameAmount
+msgctxt "[HeavenlyKings]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [HeavenlyKings]Frame0
+msgid "data/pic/Heavenly/HeavenlyKings.dds"
+msgstr "data/pic/Heavenly/HeavenlyKings.dds"

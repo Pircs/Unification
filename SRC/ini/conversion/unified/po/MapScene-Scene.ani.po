@@ -1,0 +1,2653 @@
+#. extracted from mapscene-scene.ini, mapscene-scenCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [family-01.tga]FrameAmount
+msgctxt "[family-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-01.tga]Frame0
+msgid "data/map/scene/family/family-01.msk"
+msgstr "data/map/scene/family/family-01.msk"
+
+#: [family-02.tga]FrameAmount
+msgctxt "[family-02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-02.tga]Frame0
+msgid "data/map/scene/family/family-02.msk"
+msgstr "data/map/scene/family/family-02.msk"
+
+#: [family-03.tga]FrameAmount
+msgctxt "[family-03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-03.tga]Frame0
+msgid "data/map/scene/family/family-03.msk"
+msgstr "data/map/scene/family/family-03.msk"
+
+#: [family-04.tga]FrameAmount
+msgctxt "[family-04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-04.tga]Frame0
+msgid "data/map/scene/family/family-04.msk"
+msgstr "data/map/scene/family/family-04.msk"
+
+#: [family-05.tga]FrameAmount
+msgctxt "[family-05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-05.tga]Frame0
+msgid "data/map/scene/family/family-05.msk"
+msgstr "data/map/scene/family/family-05.msk"
+
+#: [family-06.tga]FrameAmount
+msgctxt "[family-06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-06.tga]Frame0
+msgid "data/map/scene/family/family-06.msk"
+msgstr "data/map/scene/family/family-06.msk"
+
+#: [family-07.tga]FrameAmount
+msgctxt "[family-07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-07.tga]Frame0
+msgid "data/map/scene/family/family-07.msk"
+msgstr "data/map/scene/family/family-07.msk"
+
+#: [family-08.tga]FrameAmount
+msgctxt "[family-08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-08.tga]Frame0
+msgid "data/map/scene/family/family-08.msk"
+msgstr "data/map/scene/family/family-08.msk"
+
+#: [family-09.tga]FrameAmount
+msgctxt "[family-09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-09.tga]Frame0
+msgid "data/map/scene/family/family-09.msk"
+msgstr "data/map/scene/family/family-09.msk"
+
+#: [family-10.tga]FrameAmount
+msgctxt "[family-10.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-10.tga]Frame0
+msgid "data/map/scene/family/family-10.msk"
+msgstr "data/map/scene/family/family-10.msk"
+
+#: [family-11.tga]FrameAmount
+msgctxt "[family-11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-11.tga]Frame0
+msgid "data/map/scene/family/family-11.msk"
+msgstr "data/map/scene/family/family-11.msk"
+
+#: [family-12.tga]FrameAmount
+msgctxt "[family-12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-12.tga]Frame0
+msgid "data/map/scene/family/family-12.msk"
+msgstr "data/map/scene/family/family-12.msk"
+
+#: [family-13.tga]FrameAmount
+msgctxt "[family-13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-13.tga]Frame0
+msgid "data/map/scene/family/family-13.msk"
+msgstr "data/map/scene/family/family-13.msk"
+
+#: [family-14.tga]FrameAmount
+msgctxt "[family-14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-14.tga]Frame0
+msgid "data/map/scene/family/family-14.msk"
+msgstr "data/map/scene/family/family-14.msk"
+
+#: [family-15.tga]FrameAmount
+msgctxt "[family-15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-15.tga]Frame0
+msgid "data/map/scene/family/family-15.msk"
+msgstr "data/map/scene/family/family-15.msk"
+
+#: [family-16.tga]FrameAmount
+msgctxt "[family-16.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-16.tga]Frame0
+msgid "data/map/scene/family/family-16.msk"
+msgstr "data/map/scene/family/family-16.msk"
+
+#: [family-17.tga]FrameAmount
+msgctxt "[family-17.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-17.tga]Frame0
+msgid "data/map/scene/family/family-17.msk"
+msgstr "data/map/scene/family/family-17.msk"
+
+#: [family-18.tga]FrameAmount
+msgctxt "[family-18.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-18.tga]Frame0
+msgid "data/map/scene/family/family-18.msk"
+msgstr "data/map/scene/family/family-18.msk"
+
+#: [family-19.tga]FrameAmount
+msgctxt "[family-19.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-19.tga]Frame0
+msgid "data/map/scene/family/family-19.msk"
+msgstr "data/map/scene/family/family-19.msk"
+
+#: [family-20.tga]FrameAmount
+msgctxt "[family-20.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-20.tga]Frame0
+msgid "data/map/scene/family/family-20.msk"
+msgstr "data/map/scene/family/family-20.msk"
+
+#: [family-21.tga]FrameAmount
+msgctxt "[family-21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-21.tga]Frame0
+msgid "data/map/scene/family/family-21.msk"
+msgstr "data/map/scene/family/family-21.msk"
+
+#: [family-22.tga]FrameAmount
+msgctxt "[family-22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-22.tga]Frame0
+msgid "data/map/scene/family/family-22.msk"
+msgstr "data/map/scene/family/family-22.msk"
+
+#: [family-23.tga]FrameAmount
+msgctxt "[family-23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-23.tga]Frame0
+msgid "data/map/scene/family/family-23.msk"
+msgstr "data/map/scene/family/family-23.msk"
+
+#: [family-24.tga]FrameAmount
+msgctxt "[family-24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-24.tga]Frame0
+msgid "data/map/scene/family/family-24.msk"
+msgstr "data/map/scene/family/family-24.msk"
+
+#: [family-25.tga]FrameAmount
+msgctxt "[family-25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-25.tga]Frame0
+msgid "data/map/scene/family/family-25.msk"
+msgstr "data/map/scene/family/family-25.msk"
+
+#: [family-26.tga]FrameAmount
+msgctxt "[family-26.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-26.tga]Frame0
+msgid "data/map/scene/family/family-26.msk"
+msgstr "data/map/scene/family/family-26.msk"
+
+#: [family-27.tga]FrameAmount
+msgctxt "[family-27.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-27.tga]Frame0
+msgid "data/map/scene/family/family-27.msk"
+msgstr "data/map/scene/family/family-27.msk"
+
+#: [family-28.tga]FrameAmount
+msgctxt "[family-28.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-28.tga]Frame0
+msgid "data/map/scene/family/family-28.msk"
+msgstr "data/map/scene/family/family-28.msk"
+
+#: [family-29.tga]FrameAmount
+msgctxt "[family-29.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-29.tga]Frame0
+msgid "data/map/scene/family/family-29.msk"
+msgstr "data/map/scene/family/family-29.msk"
+
+#: [family-30.tga]FrameAmount
+msgctxt "[family-30.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-30.tga]Frame0
+msgid "data/map/scene/family/family-30.msk"
+msgstr "data/map/scene/family/family-30.msk"
+
+#: [family-31.tga]FrameAmount
+msgctxt "[family-31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-31.tga]Frame0
+msgid "data/map/scene/family/family-31.msk"
+msgstr "data/map/scene/family/family-31.msk"
+
+#: [family-32.tga]FrameAmount
+msgctxt "[family-32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-32.tga]Frame0
+msgid "data/map/scene/family/family-32.msk"
+msgstr "data/map/scene/family/family-32.msk"
+
+#: [family-33.tga]FrameAmount
+msgctxt "[family-33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-33.tga]Frame0
+msgid "data/map/scene/family/family-33.msk"
+msgstr "data/map/scene/family/family-33.msk"
+
+#: [family-34.tga]FrameAmount
+msgctxt "[family-34.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-34.tga]Frame0
+msgid "data/map/scene/family/family-34.msk"
+msgstr "data/map/scene/family/family-34.msk"
+
+#: [family-35.tga]FrameAmount
+msgctxt "[family-35.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-35.tga]Frame0
+msgid "data/map/scene/family/family-35.msk"
+msgstr "data/map/scene/family/family-35.msk"
+
+#: [family-36.tga]FrameAmount
+msgctxt "[family-36.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-36.tga]Frame0
+msgid "data/map/scene/family/family-36.msk"
+msgstr "data/map/scene/family/family-36.msk"
+
+#: [family-37.tga]FrameAmount
+msgctxt "[family-37.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-37.tga]Frame0
+msgid "data/map/scene/family/family-37.msk"
+msgstr "data/map/scene/family/family-37.msk"
+
+#: [family-38.tga]FrameAmount
+msgctxt "[family-38.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-38.tga]Frame0
+msgid "data/map/scene/family/family-38.msk"
+msgstr "data/map/scene/family/family-38.msk"
+
+#: [family-39.tga]FrameAmount
+msgctxt "[family-39.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-39.tga]Frame0
+msgid "data/map/scene/family/family-39.msk"
+msgstr "data/map/scene/family/family-39.msk"
+
+#: [family-40.tga]FrameAmount
+msgctxt "[family-40.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-40.tga]Frame0
+msgid "data/map/scene/family/family-40.msk"
+msgstr "data/map/scene/family/family-40.msk"
+
+#: [family-41.tga]FrameAmount
+msgctxt "[family-41.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [family-41.tga]Frame0
+msgid "data/map/scene/family/family-41.msk"
+msgstr "data/map/scene/family/family-41.msk"
+
+#: [bead1-1.tga]FrameAmount
+msgctxt "[bead1-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [bead1-1.tga]Frame0
+msgid "data/map/scene/furnishings/bead/bead1-1.msk"
+msgstr "data/map/scene/furnishings/bead/bead1-1.msk"
+
+#: [bead1-2.tga]FrameAmount
+msgctxt "[bead1-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [bead1-2.tga]Frame0
+msgid "data/map/scene/furnishings/bead/bead1-2.msk"
+msgstr "data/map/scene/furnishings/bead/bead1-2.msk"
+
+#: [bead1-3.tga]FrameAmount
+msgctxt "[bead1-3.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [bead1-3.tga]Frame0
+msgid "data/map/scene/furnishings/bead/bead1-3.msk"
+msgstr "data/map/scene/furnishings/bead/bead1-3.msk"
+
+#: [bead1-4.tga]FrameAmount
+msgctxt "[bead1-4.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [bead1-4.tga]Frame0
+msgid "data/map/scene/furnishings/bead/bead1-4.msk"
+msgstr "data/map/scene/furnishings/bead/bead1-4.msk"
+
+#: [bead2-1.tga]FrameAmount
+msgctxt "[bead2-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [bead2-1.tga]Frame0
+msgid "data/map/scene/furnishings/bead/bead2-1.msk"
+msgstr "data/map/scene/furnishings/bead/bead2-1.msk"
+
+#: [bead2-2.tga]FrameAmount
+msgctxt "[bead2-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [bead2-2.tga]Frame0
+msgid "data/map/scene/furnishings/bead/bead2-2.msk"
+msgstr "data/map/scene/furnishings/bead/bead2-2.msk"
+
+#: [bead2-3.tga]FrameAmount
+msgctxt "[bead2-3.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [bead2-3.tga]Frame0
+msgid "data/map/scene/furnishings/bead/bead2-3.msk"
+msgstr "data/map/scene/furnishings/bead/bead2-3.msk"
+
+#: [bead2-4.tga]FrameAmount
+msgctxt "[bead2-4.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [bead2-4.tga]Frame0
+msgid "data/map/scene/furnishings/bead/bead2-4.msk"
+msgstr "data/map/scene/furnishings/bead/bead2-4.msk"
+
+#: [cabinet1-1.tga]FrameAmount
+msgctxt "[cabinet1-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cabinet1-1.tga]Frame0
+msgid "data/map/scene/furnishings/cabinet/cabinet1-1.msk"
+msgstr "data/map/scene/furnishings/cabinet/cabinet1-1.msk"
+
+#: [cabinet1-2.tga]FrameAmount
+msgctxt "[cabinet1-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cabinet1-2.tga]Frame0
+msgid "data/map/scene/furnishings/cabinet/cabinet1-2.msk"
+msgstr "data/map/scene/furnishings/cabinet/cabinet1-2.msk"
+
+#: [cabinet2-1.tga]FrameAmount
+msgctxt "[cabinet2-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cabinet2-1.tga]Frame0
+msgid "data/map/scene/furnishings/cabinet/cabinet2-1.msk"
+msgstr "data/map/scene/furnishings/cabinet/cabinet2-1.msk"
+
+#: [cabinet2-2.tga]FrameAmount
+msgctxt "[cabinet2-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cabinet2-2.tga]Frame0
+msgid "data/map/scene/furnishings/cabinet/cabinet2-2.msk"
+msgstr "data/map/scene/furnishings/cabinet/cabinet2-2.msk"
+
+#: [cabinet3-1.tga]FrameAmount
+msgctxt "[cabinet3-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cabinet3-1.tga]Frame0
+msgid "data/map/scene/furnishings/cabinet/cabinet3-1.msk"
+msgstr "data/map/scene/furnishings/cabinet/cabinet3-1.msk"
+
+#: [cabinet3-2.tga]FrameAmount
+msgctxt "[cabinet3-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cabinet3-2.tga]Frame0
+msgid "data/map/scene/furnishings/cabinet/cabinet3-2.msk"
+msgstr "data/map/scene/furnishings/cabinet/cabinet3-2.msk"
+
+#: [cabinet4-1.tga]FrameAmount
+msgctxt "[cabinet4-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cabinet4-1.tga]Frame0
+msgid "data/map/scene/furnishings/cabinet/cabinet4-1.msk"
+msgstr "data/map/scene/furnishings/cabinet/cabinet4-1.msk"
+
+#: [cabinet4-2.tga]FrameAmount
+msgctxt "[cabinet4-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cabinet4-2.tga]Frame0
+msgid "data/map/scene/furnishings/cabinet/cabinet4-2.msk"
+msgstr "data/map/scene/furnishings/cabinet/cabinet4-2.msk"
+
+#: [chair1-1.tga]FrameAmount
+msgctxt "[chair1-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [chair1-1.tga]Frame0
+msgid "data/map/scene/furnishings/chair/chair1-1.msk"
+msgstr "data/map/scene/furnishings/chair/chair1-1.msk"
+
+#: [chair2-1.tga]FrameAmount
+msgctxt "[chair2-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [chair2-1.tga]Frame0
+msgid "data/map/scene/furnishings/chair/chair2-1.msk"
+msgstr "data/map/scene/furnishings/chair/chair2-1.msk"
+
+#: [chair2-2.tga]FrameAmount
+msgctxt "[chair2-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [chair2-2.tga]Frame0
+msgid "data/map/scene/furnishings/chair/chair2-2.msk"
+msgstr "data/map/scene/furnishings/chair/chair2-2.msk"
+
+#: [chair3-1.tga]FrameAmount
+msgctxt "[chair3-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [chair3-1.tga]Frame0
+msgid "data/map/scene/furnishings/chair/chair3-1.msk"
+msgstr "data/map/scene/furnishings/chair/chair3-1.msk"
+
+#: [chair3-2.tga]FrameAmount
+msgctxt "[chair3-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [chair3-2.tga]Frame0
+msgid "data/map/scene/furnishings/chair/chair3-2.msk"
+msgstr "data/map/scene/furnishings/chair/chair3-2.msk"
+
+#: [chair4-1.tga]FrameAmount
+msgctxt "[chair4-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [chair4-1.tga]Frame0
+msgid "data/map/scene/furnishings/chair/chair4-1.msk"
+msgstr "data/map/scene/furnishings/chair/chair4-1.msk"
+
+#: [couch1-1.tga]FrameAmount
+msgctxt "[couch1-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [couch1-1.tga]Frame0
+msgid "data/map/scene/furnishings/couch/couch1-1.msk"
+msgstr "data/map/scene/furnishings/couch/couch1-1.msk"
+
+#: [couch2-1.tga]FrameAmount
+msgctxt "[couch2-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [couch2-1.tga]Frame0
+msgid "data/map/scene/furnishings/couch/couch2-1.msk"
+msgstr "data/map/scene/furnishings/couch/couch2-1.msk"
+
+#: [couch2-2.tga]FrameAmount
+msgctxt "[couch2-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [couch2-2.tga]Frame0
+msgid "data/map/scene/furnishings/couch/couch2-2.msk"
+msgstr "data/map/scene/furnishings/couch/couch2-2.msk"
+
+#: [dresser1-1.tga]FrameAmount
+msgctxt "[dresser1-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dresser1-1.tga]Frame0
+msgid "data/map/scene/furnishings/dresser/dresser1-1.msk"
+msgstr "data/map/scene/furnishings/dresser/dresser1-1.msk"
+
+#: [dresser1-2.tga]FrameAmount
+msgctxt "[dresser1-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dresser1-2.tga]Frame0
+msgid "data/map/scene/furnishings/dresser/dresser1-2.msk"
+msgstr "data/map/scene/furnishings/dresser/dresser1-2.msk"
+
+#: [dresser2-1.tga]FrameAmount
+msgctxt "[dresser2-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dresser2-1.tga]Frame0
+msgid "data/map/scene/furnishings/dresser/dresser2-1.msk"
+msgstr "data/map/scene/furnishings/dresser/dresser2-1.msk"
+
+#: [dresser2-2.tga]FrameAmount
+msgctxt "[dresser2-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [dresser2-2.tga]Frame0
+msgid "data/map/scene/furnishings/dresser/dresser2-2.msk"
+msgstr "data/map/scene/furnishings/dresser/dresser2-2.msk"
+
+#: [f-bathtub01.tga]FrameAmount
+msgctxt "[f-bathtub01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-bathtub01.tga]Frame0
+msgid "data/map/scene/furnishings/f-bathtub/f-bathtub01.msk"
+msgstr "data/map/scene/furnishings/f-bathtub/f-bathtub01.msk"
+
+#: [f-bathtub02.tga]FrameAmount
+msgctxt "[f-bathtub02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-bathtub02.tga]Frame0
+msgid "data/map/scene/furnishings/f-bathtub/f-bathtub02.msk"
+msgstr "data/map/scene/furnishings/f-bathtub/f-bathtub02.msk"
+
+#: [f-bookcase01.tga]FrameAmount
+msgctxt "[f-bookcase01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-bookcase01.tga]Frame0
+msgid "data/map/scene/furnishings/f-bookcase/f-bookcase01.msk"
+msgstr "data/map/scene/furnishings/f-bookcase/f-bookcase01.msk"
+
+#: [f-bookcase02.tga]FrameAmount
+msgctxt "[f-bookcase02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-bookcase02.tga]Frame0
+msgid "data/map/scene/furnishings/f-bookcase/f-bookcase02.msk"
+msgstr "data/map/scene/furnishings/f-bookcase/f-bookcase02.msk"
+
+#: [f-cabinet10a.tga]FrameAmount
+msgctxt "[f-cabinet10a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-cabinet10a.tga]Frame0
+msgid "data/map/scene/furnishings/f-cabinet10/f-cabinet10a.msk"
+msgstr "data/map/scene/furnishings/f-cabinet10/f-cabinet10a.msk"
+
+#: [f-cabinet10b.tga]FrameAmount
+msgctxt "[f-cabinet10b.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-cabinet10b.tga]Frame0
+msgid "data/map/scene/furnishings/f-cabinet10/f-cabinet10b.msk"
+msgstr "data/map/scene/furnishings/f-cabinet10/f-cabinet10b.msk"
+
+#: [f-censer01.tga]FrameAmount
+msgctxt "[f-censer01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-censer01.tga]Frame0
+msgid "data/map/scene/furnishings/f-censer/f-censer01.msk"
+msgstr "data/map/scene/furnishings/f-censer/f-censer01.msk"
+
+#: [f-censer02.tga]FrameAmount
+msgctxt "[f-censer02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-censer02.tga]Frame0
+msgid "data/map/scene/furnishings/f-censer/f-censer02.msk"
+msgstr "data/map/scene/furnishings/f-censer/f-censer02.msk"
+
+#: [f-couch01.tga]FrameAmount
+msgctxt "[f-couch01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-couch01.tga]Frame0
+msgid "data/map/scene/furnishings/f-couch/f-couch01.msk"
+msgstr "data/map/scene/furnishings/f-couch/f-couch01.msk"
+
+#: [f-couch02.tga]FrameAmount
+msgctxt "[f-couch02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-couch02.tga]Frame0
+msgid "data/map/scene/furnishings/f-couch/f-couch02.msk"
+msgstr "data/map/scene/furnishings/f-couch/f-couch02.msk"
+
+#: [f-desk01.tga]FrameAmount
+msgctxt "[f-desk01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-desk01.tga]Frame0
+msgid "data/map/scene/furnishings/f-desk/f-desk01.msk"
+msgstr "data/map/scene/furnishings/f-desk/f-desk01.msk"
+
+#: [f-desk02.tga]FrameAmount
+msgctxt "[f-desk02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-desk02.tga]Frame0
+msgid "data/map/scene/furnishings/f-desk/f-desk02.msk"
+msgstr "data/map/scene/furnishings/f-desk/f-desk02.msk"
+
+#: [f-fresco01a.tga]FrameAmount
+msgctxt "[f-fresco01a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-fresco01a.tga]Frame0
+msgid "data/map/scene/furnishings/f-fresco01/f-fresco01a.msk"
+msgstr "data/map/scene/furnishings/f-fresco01/f-fresco01a.msk"
+
+#: [f-fresco01b.tga]FrameAmount
+msgctxt "[f-fresco01b.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-fresco01b.tga]Frame0
+msgid "data/map/scene/furnishings/f-fresco01/f-fresco01b.msk"
+msgstr "data/map/scene/furnishings/f-fresco01/f-fresco01b.msk"
+
+#: [f-hanging01.tga]FrameAmount
+msgctxt "[f-hanging01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-hanging01.tga]Frame0
+msgid "data/map/scene/furnishings/f-hanging/f-hanging01.msk"
+msgstr "data/map/scene/furnishings/f-hanging/f-hanging01.msk"
+
+#: [f-hanging02.tga]FrameAmount
+msgctxt "[f-hanging02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-hanging02.tga]Frame0
+msgid "data/map/scene/furnishings/f-hanging/f-hanging02.msk"
+msgstr "data/map/scene/furnishings/f-hanging/f-hanging02.msk"
+
+#: [f-mirror01.tga]FrameAmount
+msgctxt "[f-mirror01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-mirror01.tga]Frame0
+msgid "data/map/scene/furnishings/f-mirror/f-mirror01.msk"
+msgstr "data/map/scene/furnishings/f-mirror/f-mirror01.msk"
+
+#: [f-mirror02.tga]FrameAmount
+msgctxt "[f-mirror02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-mirror02.tga]Frame0
+msgid "data/map/scene/furnishings/f-mirror/f-mirror02.msk"
+msgstr "data/map/scene/furnishings/f-mirror/f-mirror02.msk"
+
+#: [f-screen02a.tga]FrameAmount
+msgctxt "[f-screen02a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-screen02a.tga]Frame0
+msgid "data/map/scene/furnishings/f-screen02/f-screen02a.msk"
+msgstr "data/map/scene/furnishings/f-screen02/f-screen02a.msk"
+
+#: [f-screen02b.tga]FrameAmount
+msgctxt "[f-screen02b.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-screen02b.tga]Frame0
+msgid "data/map/scene/furnishings/f-screen02/f-screen02b.msk"
+msgstr "data/map/scene/furnishings/f-screen02/f-screen02b.msk"
+
+#: [f-stool01a.tga]FrameAmount
+msgctxt "[f-stool01a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool01a.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool01/f-stool01a.msk"
+msgstr "data/map/scene/furnishings/f-stool01/f-stool01a.msk"
+
+#: [f-stool01b.tga]FrameAmount
+msgctxt "[f-stool01b.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool01b.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool01/f-stool01b.msk"
+msgstr "data/map/scene/furnishings/f-stool01/f-stool01b.msk"
+
+#: [f-stool08a.tga]FrameAmount
+msgctxt "[f-stool08a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool08a.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool08/f-stool08a.msk"
+msgstr "data/map/scene/furnishings/f-stool08/f-stool08a.msk"
+
+#: [f-stool08b.tga]FrameAmount
+msgctxt "[f-stool08b.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool08b.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool08/f-stool08b.msk"
+msgstr "data/map/scene/furnishings/f-stool08/f-stool08b.msk"
+
+#: [f-stool08c.tga]FrameAmount
+msgctxt "[f-stool08c.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool08c.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool08/f-stool08c.msk"
+msgstr "data/map/scene/furnishings/f-stool08/f-stool08c.msk"
+
+#: [f-stool10a.tga]FrameAmount
+msgctxt "[f-stool10a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool10a.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool10/f-stool10a.msk"
+msgstr "data/map/scene/furnishings/f-stool10/f-stool10a.msk"
+
+#: [f-stool10b.tga]FrameAmount
+msgctxt "[f-stool10b.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool10b.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool10/f-stool10b.msk"
+msgstr "data/map/scene/furnishings/f-stool10/f-stool10b.msk"
+
+#: [f-stool10c.tga]FrameAmount
+msgctxt "[f-stool10c.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool10c.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool10/f-stool10c.msk"
+msgstr "data/map/scene/furnishings/f-stool10/f-stool10c.msk"
+
+#: [f-stool10d.tga]FrameAmount
+msgctxt "[f-stool10d.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-stool10d.tga]Frame0
+msgid "data/map/scene/furnishings/f-stool10/f-stool10d.msk"
+msgstr "data/map/scene/furnishings/f-stool10/f-stool10d.msk"
+
+#: [f-table03a.tga]FrameAmount
+msgctxt "[f-table03a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-table03a.tga]Frame0
+msgid "data/map/scene/furnishings/f-table03/f-table03a.msk"
+msgstr "data/map/scene/furnishings/f-table03/f-table03a.msk"
+
+#: [f-vessel01.tga]FrameAmount
+msgctxt "[f-vessel01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-vessel01.tga]Frame0
+msgid "data/map/scene/furnishings/f-vessel/f-vessel01.msk"
+msgstr "data/map/scene/furnishings/f-vessel/f-vessel01.msk"
+
+#: [f-vessel02.tga]FrameAmount
+msgctxt "[f-vessel02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [f-vessel02.tga]Frame0
+msgid "data/map/scene/furnishings/f-vessel/f-vessel02.msk"
+msgstr "data/map/scene/furnishings/f-vessel/f-vessel02.msk"
+
+#: [screen1-1.tga]FrameAmount
+msgctxt "[screen1-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [screen1-1.tga]Frame0
+msgid "data/map/scene/furnishings/screen/screen1-1.msk"
+msgstr "data/map/scene/furnishings/screen/screen1-1.msk"
+
+#: [screen1-2.tga]FrameAmount
+msgctxt "[screen1-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [screen1-2.tga]Frame0
+msgid "data/map/scene/furnishings/screen/screen1-2.msk"
+msgstr "data/map/scene/furnishings/screen/screen1-2.msk"
+
+#: [screen2-1.tga]FrameAmount
+msgctxt "[screen2-1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [screen2-1.tga]Frame0
+msgid "data/map/scene/furnishings/screen/screen2-1.msk"
+msgstr "data/map/scene/furnishings/screen/screen2-1.msk"
+
+#: [screen2-2.tga]FrameAmount
+msgctxt "[screen2-2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [screen2-2.tga]Frame0
+msgid "data/map/scene/furnishings/screen/screen2-2.msk"
+msgstr "data/map/scene/furnishings/screen/screen2-2.msk"
+
+#: [g-ent01a.tga]FrameAmount
+msgctxt "[g-ent01a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent01a.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent01a.msk"
+msgstr "data/map/scene/gang/entrance/g-ent01a.msk"
+
+#: [g-ent01b.tga]FrameAmount
+msgctxt "[g-ent01b.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent01b.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent01b.msk"
+msgstr "data/map/scene/gang/entrance/g-ent01b.msk"
+
+#: [g-ent01c.tga]FrameAmount
+msgctxt "[g-ent01c.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent01c.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent01c.msk"
+msgstr "data/map/scene/gang/entrance/g-ent01c.msk"
+
+#: [g-ent01d.tga]FrameAmount
+msgctxt "[g-ent01d.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent01d.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent01d.msk"
+msgstr "data/map/scene/gang/entrance/g-ent01d.msk"
+
+#: [g-ent02a.tga]FrameAmount
+msgctxt "[g-ent02a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent02a.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent02a.msk"
+msgstr "data/map/scene/gang/entrance/g-ent02a.msk"
+
+#: [g-ent02b.tga]FrameAmount
+msgctxt "[g-ent02b.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent02b.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent02b.msk"
+msgstr "data/map/scene/gang/entrance/g-ent02b.msk"
+
+#: [g-ent02c.tga]FrameAmount
+msgctxt "[g-ent02c.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent02c.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent02c.msk"
+msgstr "data/map/scene/gang/entrance/g-ent02c.msk"
+
+#: [g-ent02d.tga]FrameAmount
+msgctxt "[g-ent02d.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent02d.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent02d.msk"
+msgstr "data/map/scene/gang/entrance/g-ent02d.msk"
+
+#: [g-ent02e.tga]FrameAmount
+msgctxt "[g-ent02e.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [g-ent02e.tga]Frame0
+msgid "data/map/scene/gang/entrance/g-ent02e.msk"
+msgstr "data/map/scene/gang/entrance/g-ent02e.msk"
+
+#: [nh03-01.tga]FrameAmount
+msgctxt "[nh03-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh03-01.tga]Frame0
+msgid "data/map/scene/house/nh03-01.msk"
+msgstr "data/map/scene/house/nh03-01.msk"
+
+#: [nh03-02.tga]FrameAmount
+msgctxt "[nh03-02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh03-02.tga]Frame0
+msgid "data/map/scene/house/nh03-02.msk"
+msgstr "data/map/scene/house/nh03-02.msk"
+
+#: [nh03-03.tga]FrameAmount
+msgctxt "[nh03-03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh03-03.tga]Frame0
+msgid "data/map/scene/house/nh03-03.msk"
+msgstr "data/map/scene/house/nh03-03.msk"
+
+#: [nh04-01.tga]FrameAmount
+msgctxt "[nh04-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh04-01.tga]Frame0
+msgid "data/map/scene/house/nh04-01.msk"
+msgstr "data/map/scene/house/nh04-01.msk"
+
+#: [nh04-02.tga]FrameAmount
+msgctxt "[nh04-02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh04-02.tga]Frame0
+msgid "data/map/scene/house/nh04-02.msk"
+msgstr "data/map/scene/house/nh04-02.msk"
+
+#: [nh04-03.tga]FrameAmount
+msgctxt "[nh04-03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh04-03.tga]Frame0
+msgid "data/map/scene/house/nh04-03.msk"
+msgstr "data/map/scene/house/nh04-03.msk"
+
+#: [nh04-04.tga]FrameAmount
+msgctxt "[nh04-04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh04-04.tga]Frame0
+msgid "data/map/scene/house/nh04-04.msk"
+msgstr "data/map/scene/house/nh04-04.msk"
+
+#: [nh04-05.tga]FrameAmount
+msgctxt "[nh04-05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh04-05.tga]Frame0
+msgid "data/map/scene/house/nh04-05.msk"
+msgstr "data/map/scene/house/nh04-05.msk"
+
+#: [nh04-06.tga]FrameAmount
+msgctxt "[nh04-06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [nh04-06.tga]Frame0
+msgid "data/map/scene/house/nh04-06.msk"
+msgstr "data/map/scene/house/nh04-06.msk"
+
+#: [hq01.tga]FrameAmount
+msgctxt "[hq01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq01.tga]Frame0
+msgid "data/map/scene/hq/hq01.msk"
+msgstr "data/map/scene/hq/hq01.msk"
+
+#: [hq02.tga]FrameAmount
+msgctxt "[hq02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq02.tga]Frame0
+msgid "data/map/scene/hq/hq02.msk"
+msgstr "data/map/scene/hq/hq02.msk"
+
+#: [hq03.tga]FrameAmount
+msgctxt "[hq03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq03.tga]Frame0
+msgid "data/map/scene/hq/hq03.msk"
+msgstr "data/map/scene/hq/hq03.msk"
+
+#: [hq04.tga]FrameAmount
+msgctxt "[hq04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq04.tga]Frame0
+msgid "data/map/scene/hq/hq04.msk"
+msgstr "data/map/scene/hq/hq04.msk"
+
+#: [hq05.tga]FrameAmount
+msgctxt "[hq05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq05.tga]Frame0
+msgid "data/map/scene/hq/hq05.msk"
+msgstr "data/map/scene/hq/hq05.msk"
+
+#: [hq06.tga]FrameAmount
+msgctxt "[hq06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq06.tga]Frame0
+msgid "data/map/scene/hq/hq06.msk"
+msgstr "data/map/scene/hq/hq06.msk"
+
+#: [hq07.tga]FrameAmount
+msgctxt "[hq07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq07.tga]Frame0
+msgid "data/map/scene/hq/hq07.msk"
+msgstr "data/map/scene/hq/hq07.msk"
+
+#: [hq08.tga]FrameAmount
+msgctxt "[hq08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq08.tga]Frame0
+msgid "data/map/scene/hq/hq08.msk"
+msgstr "data/map/scene/hq/hq08.msk"
+
+#: [hq09.tga]FrameAmount
+msgctxt "[hq09.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [hq09.tga]Frame0
+msgid "data/map/scene/hq/hq09.msk"
+msgstr "data/map/scene/hq/hq09.msk"
+
+#: [ic-box01.tga]FrameAmount
+msgctxt "[ic-box01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ic-box01.tga]Frame0
+msgid "data/map/scene/ic-box/ic-box01.msk"
+msgstr "data/map/scene/ic-box/ic-box01.msk"
+
+#: [ic-box02.tga]FrameAmount
+msgctxt "[ic-box02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ic-box02.tga]Frame0
+msgid "data/map/scene/ic-box/ic-box02.msk"
+msgstr "data/map/scene/ic-box/ic-box02.msk"
+
+#: [ic-box03.tga]FrameAmount
+msgctxt "[ic-box03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ic-box03.tga]Frame0
+msgid "data/map/scene/ic-box/ic-box03.msk"
+msgstr "data/map/scene/ic-box/ic-box03.msk"
+
+#: [ic-box04.tga]FrameAmount
+msgctxt "[ic-box04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ic-box04.tga]Frame0
+msgid "data/map/scene/ic-box/ic-box04.msk"
+msgstr "data/map/scene/ic-box/ic-box04.msk"
+
+#: [ic-box05.tga]FrameAmount
+msgctxt "[ic-box05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ic-box05.tga]Frame0
+msgid "data/map/scene/ic-box/ic-box05.msk"
+msgstr "data/map/scene/ic-box/ic-box05.msk"
+
+#: [ic-box06.tga]FrameAmount
+msgctxt "[ic-box06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ic-box06.tga]Frame0
+msgid "data/map/scene/ic-box/ic-box06.msk"
+msgstr "data/map/scene/ic-box/ic-box06.msk"
+
+#: [ch-tree01.tga]FrameAmount
+msgctxt "[ch-tree01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ch-tree01.tga]Frame0
+msgid "data/map/scene/item/ch-tree01.msk"
+msgstr "data/map/scene/item/ch-tree01.msk"
+
+#: [ch-tree02.tga]FrameAmount
+msgctxt "[ch-tree02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ch-tree02.tga]Frame0
+msgid "data/map/scene/item/ch-tree02.msk"
+msgstr "data/map/scene/item/ch-tree02.msk"
+
+#: [ch-tree03.tga]FrameAmount
+msgctxt "[ch-tree03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [ch-tree03.tga]Frame0
+msgid "data/map/scene/item/ch-tree03.msk"
+msgstr "data/map/scene/item/ch-tree03.msk"
+
+#: [ch-tree04.tga]FrameAmount
+msgctxt "[ch-tree04.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [ch-tree04.tga]Frame0
+msgid "data/map/scene/item/ch-tree04-01.msk"
+msgstr "data/map/scene/item/ch-tree04-01.msk"
+
+#: [ch-tree04.tga]Frame1
+msgid "data/map/scene/item/ch-tree04-02.msk"
+msgstr "data/map/scene/item/ch-tree04-02.msk"
+
+#: [ch-tree05.tga]FrameAmount
+msgctxt "[ch-tree05.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [ch-tree05.tga]Frame0
+msgid "data/map/scene/item/ch-tree05-01.msk"
+msgstr "data/map/scene/item/ch-tree05-01.msk"
+
+#: [ch-tree05.tga]Frame1
+msgid "data/map/scene/item/ch-tree05-02.msk"
+msgstr "data/map/scene/item/ch-tree05-02.msk"
+
+#: [ch-tree06.tga]FrameAmount
+msgctxt "[ch-tree06.tga]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [ch-tree06.tga]Frame0
+msgid "data/map/scene/item/ch-tree06-01.msk"
+msgstr "data/map/scene/item/ch-tree06-01.msk"
+
+#: [ch-tree06.tga]Frame1
+msgid "data/map/scene/item/ch-tree06-02.msk"
+msgstr "data/map/scene/item/ch-tree06-02.msk"
+
+#: [cushaw01.tga]FrameAmount
+msgctxt "[cushaw01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cushaw01.tga]Frame0
+msgid "data/map/scene/item/cushaw01.msk"
+msgstr "data/map/scene/item/cushaw01.msk"
+
+#: [cushaw01a.tga]FrameAmount
+msgctxt "[cushaw01a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cushaw01a.tga]Frame0
+msgid "data/map/scene/item/cushaw01a.msk"
+msgstr "data/map/scene/item/cushaw01a.msk"
+
+#: [cushaw02.tga]FrameAmount
+msgctxt "[cushaw02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cushaw02.tga]Frame0
+msgid "data/map/scene/item/cushaw02.msk"
+msgstr "data/map/scene/item/cushaw02.msk"
+
+#: [cushaw02a.tga]FrameAmount
+msgctxt "[cushaw02a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cushaw02a.tga]Frame0
+msgid "data/map/scene/item/cushaw02a.msk"
+msgstr "data/map/scene/item/cushaw02a.msk"
+
+#: [cushaw03.tga]FrameAmount
+msgctxt "[cushaw03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cushaw03.tga]Frame0
+msgid "data/map/scene/item/cushaw03.msk"
+msgstr "data/map/scene/item/cushaw03.msk"
+
+#: [cushaw03a.tga]FrameAmount
+msgctxt "[cushaw03a.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [cushaw03a.tga]Frame0
+msgid "data/map/scene/item/cushaw03a.msk"
+msgstr "data/map/scene/item/cushaw03a.msk"
+
+#: [gift1.tga]FrameAmount
+msgctxt "[gift1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift1.tga]Frame0
+msgid "data/map/scene/item/gift1.msk"
+msgstr "data/map/scene/item/gift1.msk"
+
+#: [gift1-snow.tga]FrameAmount
+msgctxt "[gift1-snow.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift1-snow.tga]Frame0
+msgid "data/map/scene/item/gift1-snow.msk"
+msgstr "data/map/scene/item/gift1-snow.msk"
+
+#: [gift2.tga]FrameAmount
+msgctxt "[gift2.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift2.tga]Frame0
+msgid "data/map/scene/item/gift2.msk"
+msgstr "data/map/scene/item/gift2.msk"
+
+#: [gift2-snow.tga]FrameAmount
+msgctxt "[gift2-snow.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift2-snow.tga]Frame0
+msgid "data/map/scene/item/gift2-snow.msk"
+msgstr "data/map/scene/item/gift2-snow.msk"
+
+#: [gift3.tga]FrameAmount
+msgctxt "[gift3.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift3.tga]Frame0
+msgid "data/map/scene/item/gift3.msk"
+msgstr "data/map/scene/item/gift3.msk"
+
+#: [gift3-snow.tga]FrameAmount
+msgctxt "[gift3-snow.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift3-snow.tga]Frame0
+msgid "data/map/scene/item/gift3-snow.msk"
+msgstr "data/map/scene/item/gift3-snow.msk"
+
+#: [gift4.tga]FrameAmount
+msgctxt "[gift4.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift4.tga]Frame0
+msgid "data/map/scene/item/gift4.msk"
+msgstr "data/map/scene/item/gift4.msk"
+
+#: [gift4-snow.tga]FrameAmount
+msgctxt "[gift4-snow.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift4-snow.tga]Frame0
+msgid "data/map/scene/item/gift4-snow.msk"
+msgstr "data/map/scene/item/gift4-snow.msk"
+
+#: [gift5.tga]FrameAmount
+msgctxt "[gift5.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift5.tga]Frame0
+msgid "data/map/scene/item/gift5.msk"
+msgstr "data/map/scene/item/gift5.msk"
+
+#: [gift5-snow.tga]FrameAmount
+msgctxt "[gift5-snow.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift5-snow.tga]Frame0
+msgid "data/map/scene/item/gift5-snow.msk"
+msgstr "data/map/scene/item/gift5-snow.msk"
+
+#: [gift6.tga]FrameAmount
+msgctxt "[gift6.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift6.tga]Frame0
+msgid "data/map/scene/item/gift6.msk"
+msgstr "data/map/scene/item/gift6.msk"
+
+#: [gift6-snow.tga]FrameAmount
+msgctxt "[gift6-snow.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift6-snow.tga]Frame0
+msgid "data/map/scene/item/gift6-snow.msk"
+msgstr "data/map/scene/item/gift6-snow.msk"
+
+#: [gift7.tga]FrameAmount
+msgctxt "[gift7.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift7.tga]Frame0
+msgid "data/map/scene/item/gift7.msk"
+msgstr "data/map/scene/item/gift7.msk"
+
+#: [gift7-snow.tga]FrameAmount
+msgctxt "[gift7-snow.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift7-snow.tga]Frame0
+msgid "data/map/scene/item/gift7-snow.msk"
+msgstr "data/map/scene/item/gift7-snow.msk"
+
+#: [gift8.tga]FrameAmount
+msgctxt "[gift8.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift8.tga]Frame0
+msgid "data/map/scene/item/gift8.msk"
+msgstr "data/map/scene/item/gift8.msk"
+
+#: [gift8-snow.tga]FrameAmount
+msgctxt "[gift8-snow.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gift8-snow.tga]Frame0
+msgid "data/map/scene/item/gift8-snow.msk"
+msgstr "data/map/scene/item/gift8-snow.msk"
+
+#: [lei01.tga]FrameAmount
+msgctxt "[lei01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lei01.tga]Frame0
+msgid "data/map/scene/item/lei01.msk"
+msgstr "data/map/scene/item/lei01.msk"
+
+#: [lei02.tga]FrameAmount
+msgctxt "[lei02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lei02.tga]Frame0
+msgid "data/map/scene/item/lei02.msk"
+msgstr "data/map/scene/item/lei02.msk"
+
+#: [lei03.tga]FrameAmount
+msgctxt "[lei03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lei03.tga]Frame0
+msgid "data/map/scene/item/lei03.msk"
+msgstr "data/map/scene/item/lei03.msk"
+
+#: [lei04.tga]FrameAmount
+msgctxt "[lei04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lei04.tga]Frame0
+msgid "data/map/scene/item/lei04.msk"
+msgstr "data/map/scene/item/lei04.msk"
+
+#: [pet01.tga]FrameAmount
+msgctxt "[pet01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pet01.tga]Frame0
+msgid "data/map/scene/pet/pet01.msk"
+msgstr "data/map/scene/pet/pet01.msk"
+
+#: [pet02.tga]FrameAmount
+msgctxt "[pet02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pet02.tga]Frame0
+msgid "data/map/scene/pet/pet02.msk"
+msgstr "data/map/scene/pet/pet02.msk"
+
+#: [pet03.tga]FrameAmount
+msgctxt "[pet03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pet03.tga]Frame0
+msgid "data/map/scene/pet/pet03.msk"
+msgstr "data/map/scene/pet/pet03.msk"
+
+#: [pet04.tga]FrameAmount
+msgctxt "[pet04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pet04.tga]Frame0
+msgid "data/map/scene/pet/pet04.msk"
+msgstr "data/map/scene/pet/pet04.msk"
+
+#: [pet05.tga]FrameAmount
+msgctxt "[pet05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pet05.tga]Frame0
+msgid "data/map/scene/pet/pet05.msk"
+msgstr "data/map/scene/pet/pet05.msk"
+
+#: [pet06.tga]FrameAmount
+msgctxt "[pet06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pet06.tga]Frame0
+msgid "data/map/scene/pet/pet06.msk"
+msgstr "data/map/scene/pet/pet06.msk"
+
+#: [pet07.tga]FrameAmount
+msgctxt "[pet07.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pet07.tga]Frame0
+msgid "data/map/scene/pet/pet07.msk"
+msgstr "data/map/scene/pet/pet07.msk"
+
+#: [pet08.tga]FrameAmount
+msgctxt "[pet08.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pet08.tga]Frame0
+msgid "data/map/scene/pet/pet08.msk"
+msgstr "data/map/scene/pet/pet08.msk"
+
+#: [snowman0.tga]FrameAmount
+msgctxt "[snowman0.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [snowman0.tga]Frame0
+msgid "data/map/scene/snowman/snowman0.msk"
+msgstr "data/map/scene/snowman/snowman0.msk"
+
+#: [snowman1.tga]FrameAmount
+msgctxt "[snowman1.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [snowman1.tga]Frame0
+msgid "data/map/scene/snowman/snowman1.msk"
+msgstr "data/map/scene/snowman/snowman1.msk"
+
+#: [lv11.tga]FrameAmount
+msgctxt "[lv11.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv11.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv11.msk"
+msgstr "data/map/scene/tablet/lv/lv11.msk"
+
+#: [lv12.tga]FrameAmount
+msgctxt "[lv12.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv12.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv12.msk"
+msgstr "data/map/scene/tablet/lv/lv12.msk"
+
+#: [lv13.tga]FrameAmount
+msgctxt "[lv13.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv13.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv13.msk"
+msgstr "data/map/scene/tablet/lv/lv13.msk"
+
+#: [lv14.tga]FrameAmount
+msgctxt "[lv14.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv14.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv14.msk"
+msgstr "data/map/scene/tablet/lv/lv14.msk"
+
+#: [lv15.tga]FrameAmount
+msgctxt "[lv15.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv15.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv15.msk"
+msgstr "data/map/scene/tablet/lv/lv15.msk"
+
+#: [lv21.tga]FrameAmount
+msgctxt "[lv21.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv21.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv21.msk"
+msgstr "data/map/scene/tablet/lv/lv21.msk"
+
+#: [lv22.tga]FrameAmount
+msgctxt "[lv22.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv22.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv22.msk"
+msgstr "data/map/scene/tablet/lv/lv22.msk"
+
+#: [lv23.tga]FrameAmount
+msgctxt "[lv23.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv23.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv23.msk"
+msgstr "data/map/scene/tablet/lv/lv23.msk"
+
+#: [lv24.tga]FrameAmount
+msgctxt "[lv24.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv24.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv24.msk"
+msgstr "data/map/scene/tablet/lv/lv24.msk"
+
+#: [lv25.tga]FrameAmount
+msgctxt "[lv25.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv25.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv25.msk"
+msgstr "data/map/scene/tablet/lv/lv25.msk"
+
+#: [lv31.tga]FrameAmount
+msgctxt "[lv31.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv31.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv31.msk"
+msgstr "data/map/scene/tablet/lv/lv31.msk"
+
+#: [lv32.tga]FrameAmount
+msgctxt "[lv32.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv32.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv32.msk"
+msgstr "data/map/scene/tablet/lv/lv32.msk"
+
+#: [lv33.tga]FrameAmount
+msgctxt "[lv33.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv33.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv33.msk"
+msgstr "data/map/scene/tablet/lv/lv33.msk"
+
+#: [lv34.tga]FrameAmount
+msgctxt "[lv34.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv34.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv34.msk"
+msgstr "data/map/scene/tablet/lv/lv34.msk"
+
+#: [lv35.tga]FrameAmount
+msgctxt "[lv35.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv35.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv35.msk"
+msgstr "data/map/scene/tablet/lv/lv35.msk"
+
+#: [lv41.tga]FrameAmount
+msgctxt "[lv41.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv41.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv41.msk"
+msgstr "data/map/scene/tablet/lv/lv41.msk"
+
+#: [lv42.tga]FrameAmount
+msgctxt "[lv42.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv42.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv42.msk"
+msgstr "data/map/scene/tablet/lv/lv42.msk"
+
+#: [lv43.tga]FrameAmount
+msgctxt "[lv43.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv43.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv43.msk"
+msgstr "data/map/scene/tablet/lv/lv43.msk"
+
+#: [lv44.tga]FrameAmount
+msgctxt "[lv44.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv44.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv44.msk"
+msgstr "data/map/scene/tablet/lv/lv44.msk"
+
+#: [lv45.tga]FrameAmount
+msgctxt "[lv45.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [lv45.tga]Frame0
+msgid "data/map/scene/tablet/lv/lv45.msk"
+msgstr "data/map/scene/tablet/lv/lv45.msk"
+
+#: [money01.tga]FrameAmount
+msgctxt "[money01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [money01.tga]Frame0
+msgid "data/map/scene/tablet/money/money01.msk"
+msgstr "data/map/scene/tablet/money/money01.msk"
+
+#: [money02.tga]FrameAmount
+msgctxt "[money02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [money02.tga]Frame0
+msgid "data/map/scene/tablet/money/money02.msk"
+msgstr "data/map/scene/tablet/money/money02.msk"
+
+#: [money03.tga]FrameAmount
+msgctxt "[money03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [money03.tga]Frame0
+msgid "data/map/scene/tablet/money/money03.msk"
+msgstr "data/map/scene/tablet/money/money03.msk"
+
+#: [money04.tga]FrameAmount
+msgctxt "[money04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [money04.tga]Frame0
+msgid "data/map/scene/tablet/money/money04.msk"
+msgstr "data/map/scene/tablet/money/money04.msk"
+
+#: [money05.tga]FrameAmount
+msgctxt "[money05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [money05.tga]Frame0
+msgid "data/map/scene/tablet/money/money05.msk"
+msgstr "data/map/scene/tablet/money/money05.msk"
+
+#: [moral01.tga]FrameAmount
+msgctxt "[moral01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [moral01.tga]Frame0
+msgid "data/map/scene/tablet/moral/moral01.msk"
+msgstr "data/map/scene/tablet/moral/moral01.msk"
+
+#: [moral02.tga]FrameAmount
+msgctxt "[moral02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [moral02.tga]Frame0
+msgid "data/map/scene/tablet/moral/moral02.msk"
+msgstr "data/map/scene/tablet/moral/moral02.msk"
+
+#: [moral03.tga]FrameAmount
+msgctxt "[moral03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [moral03.tga]Frame0
+msgid "data/map/scene/tablet/moral/moral03.msk"
+msgstr "data/map/scene/tablet/moral/moral03.msk"
+
+#: [moral04.tga]FrameAmount
+msgctxt "[moral04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [moral04.tga]Frame0
+msgid "data/map/scene/tablet/moral/moral04.msk"
+msgstr "data/map/scene/tablet/moral/moral04.msk"
+
+#: [pk01.tga]FrameAmount
+msgctxt "[pk01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pk01.tga]Frame0
+msgid "data/map/scene/tablet/pk/pk01.msk"
+msgstr "data/map/scene/tablet/pk/pk01.msk"
+
+#: [pk02.tga]FrameAmount
+msgctxt "[pk02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [pk02.tga]Frame0
+msgid "data/map/scene/tablet/pk/pk02.msk"
+msgstr "data/map/scene/tablet/pk/pk02.msk"
+
+#: [reborn01.tga]FrameAmount
+msgctxt "[reborn01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [reborn01.tga]Frame0
+msgid "data/map/scene/tablet/reborn/reborn01.msk"
+msgstr "data/map/scene/tablet/reborn/reborn01.msk"
+
+#: [reborn02.tga]FrameAmount
+msgctxt "[reborn02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [reborn02.tga]Frame0
+msgid "data/map/scene/tablet/reborn/reborn02.msk"
+msgstr "data/map/scene/tablet/reborn/reborn02.msk"
+
+#: [spk01.tga]FrameAmount
+msgctxt "[spk01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [spk01.tga]Frame0
+msgid "data/map/scene/tablet/spk/spk01.msk"
+msgstr "data/map/scene/tablet/spk/spk01.msk"
+
+#: [spk02.tga]FrameAmount
+msgctxt "[spk02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [spk02.tga]Frame0
+msgid "data/map/scene/tablet/spk/spk02.msk"
+msgstr "data/map/scene/tablet/spk/spk02.msk"
+
+#: [spk03.tga]FrameAmount
+msgctxt "[spk03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [spk03.tga]Frame0
+msgid "data/map/scene/tablet/spk/spk03.msk"
+msgstr "data/map/scene/tablet/spk/spk03.msk"
+
+#: [spk04.tga]FrameAmount
+msgctxt "[spk04.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [spk04.tga]Frame0
+msgid "data/map/scene/tablet/spk/spk04.msk"
+msgstr "data/map/scene/tablet/spk/spk04.msk"
+
+#: [spk05.tga]FrameAmount
+msgctxt "[spk05.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [spk05.tga]Frame0
+msgid "data/map/scene/tablet/spk/spk05.msk"
+msgstr "data/map/scene/tablet/spk/spk05.msk"
+
+#: [spk06.tga]FrameAmount
+msgctxt "[spk06.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [spk06.tga]Frame0
+msgid "data/map/scene/tablet/spk/spk06.msk"
+msgstr "data/map/scene/tablet/spk/spk06.msk"
+
+#: [weapon011.tga]FrameAmount
+msgctxt "[weapon011.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon011.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon011.msk"
+msgstr "data/map/scene/tablet/weapon/weapon011.msk"
+
+#: [weapon012.tga]FrameAmount
+msgctxt "[weapon012.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon012.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon012.msk"
+msgstr "data/map/scene/tablet/weapon/weapon012.msk"
+
+#: [weapon013.tga]FrameAmount
+msgctxt "[weapon013.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon013.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon013.msk"
+msgstr "data/map/scene/tablet/weapon/weapon013.msk"
+
+#: [weapon021.tga]FrameAmount
+msgctxt "[weapon021.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon021.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon021.msk"
+msgstr "data/map/scene/tablet/weapon/weapon021.msk"
+
+#: [weapon022.tga]FrameAmount
+msgctxt "[weapon022.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon022.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon022.msk"
+msgstr "data/map/scene/tablet/weapon/weapon022.msk"
+
+#: [weapon023.tga]FrameAmount
+msgctxt "[weapon023.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon023.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon023.msk"
+msgstr "data/map/scene/tablet/weapon/weapon023.msk"
+
+#: [weapon031.tga]FrameAmount
+msgctxt "[weapon031.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon031.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon031.msk"
+msgstr "data/map/scene/tablet/weapon/weapon031.msk"
+
+#: [weapon032.tga]FrameAmount
+msgctxt "[weapon032.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon032.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon032.msk"
+msgstr "data/map/scene/tablet/weapon/weapon032.msk"
+
+#: [weapon033.tga]FrameAmount
+msgctxt "[weapon033.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon033.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon033.msk"
+msgstr "data/map/scene/tablet/weapon/weapon033.msk"
+
+#: [weapon041.tga]FrameAmount
+msgctxt "[weapon041.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon041.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon041.msk"
+msgstr "data/map/scene/tablet/weapon/weapon041.msk"
+
+#: [weapon042.tga]FrameAmount
+msgctxt "[weapon042.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon042.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon042.msk"
+msgstr "data/map/scene/tablet/weapon/weapon042.msk"
+
+#: [weapon043.tga]FrameAmount
+msgctxt "[weapon043.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon043.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon043.msk"
+msgstr "data/map/scene/tablet/weapon/weapon043.msk"
+
+#: [weapon051.tga]FrameAmount
+msgctxt "[weapon051.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon051.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon051.msk"
+msgstr "data/map/scene/tablet/weapon/weapon051.msk"
+
+#: [weapon052.tga]FrameAmount
+msgctxt "[weapon052.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon052.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon052.msk"
+msgstr "data/map/scene/tablet/weapon/weapon052.msk"
+
+#: [weapon053.tga]FrameAmount
+msgctxt "[weapon053.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon053.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon053.msk"
+msgstr "data/map/scene/tablet/weapon/weapon053.msk"
+
+#: [weapon061.tga]FrameAmount
+msgctxt "[weapon061.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon061.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon061.msk"
+msgstr "data/map/scene/tablet/weapon/weapon061.msk"
+
+#: [weapon062.tga]FrameAmount
+msgctxt "[weapon062.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon062.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon062.msk"
+msgstr "data/map/scene/tablet/weapon/weapon062.msk"
+
+#: [weapon063.tga]FrameAmount
+msgctxt "[weapon063.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon063.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon063.msk"
+msgstr "data/map/scene/tablet/weapon/weapon063.msk"
+
+#: [weapon071.tga]FrameAmount
+msgctxt "[weapon071.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon071.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon071.msk"
+msgstr "data/map/scene/tablet/weapon/weapon071.msk"
+
+#: [weapon072.tga]FrameAmount
+msgctxt "[weapon072.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon072.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon072.msk"
+msgstr "data/map/scene/tablet/weapon/weapon072.msk"
+
+#: [weapon073.tga]FrameAmount
+msgctxt "[weapon073.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon073.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon073.msk"
+msgstr "data/map/scene/tablet/weapon/weapon073.msk"
+
+#: [weapon081.tga]FrameAmount
+msgctxt "[weapon081.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon081.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon081.msk"
+msgstr "data/map/scene/tablet/weapon/weapon081.msk"
+
+#: [weapon082.tga]FrameAmount
+msgctxt "[weapon082.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon082.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon082.msk"
+msgstr "data/map/scene/tablet/weapon/weapon082.msk"
+
+#: [weapon083.tga]FrameAmount
+msgctxt "[weapon083.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon083.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon083.msk"
+msgstr "data/map/scene/tablet/weapon/weapon083.msk"
+
+#: [weapon091.tga]FrameAmount
+msgctxt "[weapon091.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon091.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon091.msk"
+msgstr "data/map/scene/tablet/weapon/weapon091.msk"
+
+#: [weapon092.tga]FrameAmount
+msgctxt "[weapon092.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon092.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon092.msk"
+msgstr "data/map/scene/tablet/weapon/weapon092.msk"
+
+#: [weapon093.tga]FrameAmount
+msgctxt "[weapon093.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon093.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon093.msk"
+msgstr "data/map/scene/tablet/weapon/weapon093.msk"
+
+#: [weapon101.tga]FrameAmount
+msgctxt "[weapon101.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon101.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon101.msk"
+msgstr "data/map/scene/tablet/weapon/weapon101.msk"
+
+#: [weapon102.tga]FrameAmount
+msgctxt "[weapon102.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon102.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon102.msk"
+msgstr "data/map/scene/tablet/weapon/weapon102.msk"
+
+#: [weapon103.tga]FrameAmount
+msgctxt "[weapon103.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon103.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon103.msk"
+msgstr "data/map/scene/tablet/weapon/weapon103.msk"
+
+#: [weapon111.tga]FrameAmount
+msgctxt "[weapon111.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon111.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon111.msk"
+msgstr "data/map/scene/tablet/weapon/weapon111.msk"
+
+#: [weapon112.tga]FrameAmount
+msgctxt "[weapon112.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon112.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon112.msk"
+msgstr "data/map/scene/tablet/weapon/weapon112.msk"
+
+#: [weapon113.tga]FrameAmount
+msgctxt "[weapon113.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon113.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon113.msk"
+msgstr "data/map/scene/tablet/weapon/weapon113.msk"
+
+#: [weapon121.tga]FrameAmount
+msgctxt "[weapon121.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon121.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon121.msk"
+msgstr "data/map/scene/tablet/weapon/weapon121.msk"
+
+#: [weapon122.tga]FrameAmount
+msgctxt "[weapon122.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon122.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon122.msk"
+msgstr "data/map/scene/tablet/weapon/weapon122.msk"
+
+#: [weapon123.tga]FrameAmount
+msgctxt "[weapon123.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon123.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon123.msk"
+msgstr "data/map/scene/tablet/weapon/weapon123.msk"
+
+#: [weapon131.tga]FrameAmount
+msgctxt "[weapon131.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon131.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon131.msk"
+msgstr "data/map/scene/tablet/weapon/weapon131.msk"
+
+#: [weapon132.tga]FrameAmount
+msgctxt "[weapon132.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon132.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon132.msk"
+msgstr "data/map/scene/tablet/weapon/weapon132.msk"
+
+#: [weapon133.tga]FrameAmount
+msgctxt "[weapon133.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon133.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon133.msk"
+msgstr "data/map/scene/tablet/weapon/weapon133.msk"
+
+#: [weapon141.tga]FrameAmount
+msgctxt "[weapon141.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon141.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon141.msk"
+msgstr "data/map/scene/tablet/weapon/weapon141.msk"
+
+#: [weapon142.tga]FrameAmount
+msgctxt "[weapon142.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon142.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon142.msk"
+msgstr "data/map/scene/tablet/weapon/weapon142.msk"
+
+#: [weapon143.tga]FrameAmount
+msgctxt "[weapon143.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon143.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon143.msk"
+msgstr "data/map/scene/tablet/weapon/weapon143.msk"
+
+#: [weapon151.tga]FrameAmount
+msgctxt "[weapon151.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon151.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon151.msk"
+msgstr "data/map/scene/tablet/weapon/weapon151.msk"
+
+#: [weapon152.tga]FrameAmount
+msgctxt "[weapon152.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon152.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon152.msk"
+msgstr "data/map/scene/tablet/weapon/weapon152.msk"
+
+#: [weapon153.tga]FrameAmount
+msgctxt "[weapon153.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon153.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon153.msk"
+msgstr "data/map/scene/tablet/weapon/weapon153.msk"
+
+#: [weapon161.tga]FrameAmount
+msgctxt "[weapon161.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon161.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon161.msk"
+msgstr "data/map/scene/tablet/weapon/weapon161.msk"
+
+#: [weapon162.tga]FrameAmount
+msgctxt "[weapon162.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon162.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon162.msk"
+msgstr "data/map/scene/tablet/weapon/weapon162.msk"
+
+#: [weapon163.tga]FrameAmount
+msgctxt "[weapon163.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon163.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon163.msk"
+msgstr "data/map/scene/tablet/weapon/weapon163.msk"
+
+#: [weapon171.tga]FrameAmount
+msgctxt "[weapon171.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon171.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon171.msk"
+msgstr "data/map/scene/tablet/weapon/weapon171.msk"
+
+#: [weapon172.tga]FrameAmount
+msgctxt "[weapon172.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon172.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon172.msk"
+msgstr "data/map/scene/tablet/weapon/weapon172.msk"
+
+#: [weapon173.tga]FrameAmount
+msgctxt "[weapon173.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon173.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon173.msk"
+msgstr "data/map/scene/tablet/weapon/weapon173.msk"
+
+#: [weapon181.tga]FrameAmount
+msgctxt "[weapon181.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon181.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon181.msk"
+msgstr "data/map/scene/tablet/weapon/weapon181.msk"
+
+#: [weapon182.tga]FrameAmount
+msgctxt "[weapon182.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon182.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon182.msk"
+msgstr "data/map/scene/tablet/weapon/weapon182.msk"
+
+#: [weapon183.tga]FrameAmount
+msgctxt "[weapon183.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [weapon183.tga]Frame0
+msgid "data/map/scene/tablet/weapon/weapon183.msk"
+msgstr "data/map/scene/tablet/weapon/weapon183.msk"
+
+#: [tenement01.tga]FrameAmount
+msgctxt "[tenement01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [tenement01.tga]Frame0
+msgid "data/map/scene/tenement/tenement01.msk"
+msgstr "data/map/scene/tenement/tenement01.msk"
+
+#: [gold001-001.tga]FrameAmount
+msgctxt "[gold001-001.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold001-001.tga]Frame0
+msgid "data/map/scene/gold/gold001/gold001-001.msk"
+msgstr "data/map/scene/gold/gold001/gold001-001.msk"
+
+#: [gold001-002.tga]FrameAmount
+msgctxt "[gold001-002.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold001-002.tga]Frame0
+msgid "data/map/scene/gold/gold001/gold001-002.msk"
+msgstr "data/map/scene/gold/gold001/gold001-002.msk"
+
+#: [gold001-003.tga]FrameAmount
+msgctxt "[gold001-003.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold001-003.tga]Frame0
+msgid "data/map/scene/gold/gold001/gold001-003.msk"
+msgstr "data/map/scene/gold/gold001/gold001-003.msk"
+
+#: [gold001-004.tga]FrameAmount
+msgctxt "[gold001-004.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold001-004.tga]Frame0
+msgid "data/map/scene/gold/gold001/gold001-004.msk"
+msgstr "data/map/scene/gold/gold001/gold001-004.msk"
+
+#: [gold002-001.tga]FrameAmount
+msgctxt "[gold002-001.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold002-001.tga]Frame0
+msgid "data/map/scene/gold/gold002/gold002-001.msk"
+msgstr "data/map/scene/gold/gold002/gold002-001.msk"
+
+#: [gold002-002.tga]FrameAmount
+msgctxt "[gold002-002.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold002-002.tga]Frame0
+msgid "data/map/scene/gold/gold002/gold002-002.msk"
+msgstr "data/map/scene/gold/gold002/gold002-002.msk"
+
+#: [gold002-003.tga]FrameAmount
+msgctxt "[gold002-003.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold002-003.tga]Frame0
+msgid "data/map/scene/gold/gold002/gold002-003.msk"
+msgstr "data/map/scene/gold/gold002/gold002-003.msk"
+
+#: [gold002-004.tga]FrameAmount
+msgctxt "[gold002-004.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold002-004.tga]Frame0
+msgid "data/map/scene/gold/gold002/gold002-004.msk"
+msgstr "data/map/scene/gold/gold002/gold002-004.msk"
+
+#: [gold003-001.tga]FrameAmount
+msgctxt "[gold003-001.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold003-001.tga]Frame0
+msgid "data/map/scene/gold/gold003/gold003-001.msk"
+msgstr "data/map/scene/gold/gold003/gold003-001.msk"
+
+#: [gold003-002.tga]FrameAmount
+msgctxt "[gold003-002.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold003-002.tga]Frame0
+msgid "data/map/scene/gold/gold003/gold003-002.msk"
+msgstr "data/map/scene/gold/gold003/gold003-002.msk"
+
+#: [gold003-003.tga]FrameAmount
+msgctxt "[gold003-003.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold003-003.tga]Frame0
+msgid "data/map/scene/gold/gold003/gold003-003.msk"
+msgstr "data/map/scene/gold/gold003/gold003-003.msk"
+
+#: [gold003-004.tga]FrameAmount
+msgctxt "[gold003-004.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [gold003-004.tga]Frame0
+msgid "data/map/scene/gold/gold003/gold003-004.msk"
+msgstr "data/map/scene/gold/gold003/gold003-004.msk"
+
+#: [faction001-01.tga]FrameAmount
+msgctxt "[faction001-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [faction001-01.tga]Frame0
+msgid "data/map/scene/faction/faction001/faction001-01.msk"
+msgstr "data/map/scene/faction/faction001/faction001-01.msk"
+
+#: [faction001-02.tga]FrameAmount
+msgctxt "[faction001-02.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [faction001-02.tga]Frame0
+msgid "data/map/scene/faction/faction001/faction001-02.msk"
+msgstr "data/map/scene/faction/faction001/faction001-02.msk"
+
+#: [faction001-03.tga]FrameAmount
+msgctxt "[faction001-03.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [faction001-03.tga]Frame0
+msgid "data/map/scene/faction/faction001/faction001-03.msk"
+msgstr "data/map/scene/faction/faction001/faction001-03.msk"
+
+#: [faction016-01.tga]FrameAmount
+msgctxt "[faction016-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [faction016-01.tga]Frame0
+msgid "data/map/scene/faction/faction016/faction016-01.msk"
+msgstr "data/map/scene/faction/faction016/faction016-01.msk"
+
+#: [faction017-01.tga]FrameAmount
+msgctxt "[faction017-01.tga]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [faction017-01.tga]Frame0
+msgid "data/map/scene/faction/faction017/faction017-01.msk"
+msgstr "data/map/scene/faction/faction017/faction017-01.msk"

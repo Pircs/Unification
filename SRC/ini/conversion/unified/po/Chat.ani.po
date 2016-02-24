@@ -1,0 +1,321 @@
+#. extracted from chat.ini, chat2.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+# 打开历史记录独立窗口的按钮
+#: [CSDialog]FrameAmount
+msgctxt "[CSDialog]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSDialog]Frame0
+msgid "data/interface/Style01/chatsystem/CSDialog.bmp"
+msgstr "data/interface/Style01/chatsystem/CSDialog.bmp"
+
+#: [CSDialog]Frame1
+msgid "data/interface/Style01/chatsystem/CSDialogClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSDialogClick.bmp"
+
+# 聊天窗口最小化按钮
+#: [CSCloseico]FrameAmount
+msgctxt "[CSCloseico]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSCloseico]Frame0
+msgctxt "[CSCloseico]Frame0"
+msgid "data/interface/Style01/chatsystem/CSCloseico.bmp"
+msgstr "data/interface/Style01/chatsystem/CSCloseico.bmp"
+
+#: [CSCloseico]Frame1
+msgctxt "[CSCloseico]Frame1"
+msgid "data/interface/Style01/chatsystem/CSCloseicoClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSCloseicoClick.bmp"
+
+# 聊天列表最小化按钮
+#: [CSListCloseico]FrameAmount
+msgctxt "[CSListCloseico]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSListCloseico]Frame0
+msgctxt "[CSListCloseico]Frame0"
+msgid "data/interface/Style01/chatsystem/CSCloseico.bmp"
+msgstr "data/interface/Style01/chatsystem/CSCloseico.bmp"
+
+#: [CSListCloseico]Frame1
+msgctxt "[CSListCloseico]Frame1"
+msgid "data/interface/Style01/chatsystem/CSCloseicoClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSCloseicoClick.bmp"
+
+# 打开表情面板的按钮
+#: [CSEmotion]FrameAmount
+msgctxt "[CSEmotion]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSEmotion]Frame0
+msgid "data/interface/Style01/chatsystem/CSEmotion.bmp"
+msgstr "data/interface/Style01/chatsystem/CSEmotion.bmp"
+
+#: [CSEmotion]Frame1
+msgid "data/interface/Style01/chatsystem/CSEmotionClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSEmotionClick.bmp"
+
+# 等级按钮
+#: [CSChatgrade]FrameAmount
+msgctxt "[CSChatgrade]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [CSChatgrade]Frame0
+msgid "data/interface/Style01/chatsystem/CSChatgrade.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatgrade.bmp"
+
+# 发送按钮
+#: [CSSend]FrameAmount
+msgctxt "[CSSend]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSSend]Frame0
+msgid "data/interface/Style01/chatsystem/CSSend.bmp"
+msgstr "data/interface/Style01/chatsystem/CSSend.bmp"
+
+#: [CSSend]Frame1
+msgid "data/interface/Style01/chatsystem/CSSendClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSSendClick.bmp"
+
+# 关闭大按钮
+#: [CSClose]FrameAmount
+msgctxt "[CSClose]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSClose]Frame0
+msgid "data/interface/Style01/chatsystem/CSClose.bmp"
+msgstr "data/interface/Style01/chatsystem/CSClose.bmp"
+
+#: [CSClose]Frame1
+msgid "data/interface/Style01/chatsystem/CSCloseClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSCloseClick.bmp"
+
+# 打开黑名单的按钮
+#: [CSBlacklist]FrameAmount
+msgctxt "[CSBlacklist]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSBlacklist]Frame0
+msgid "data/interface/Style01/chatsystem/CSBlacklist.bmp"
+msgstr "data/interface/Style01/chatsystem/CSBlacklist.bmp"
+
+#: [CSBlacklist]Frame1
+msgid "data/interface/Style01/chatsystem/CSBlacklistClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSBlacklistClick.bmp"
+
+# 聊天窗口背景
+#: [CSBottomBG]FrameAmount
+msgctxt "[CSBottomBG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [CSBottomBG]Frame0
+msgid "data/interface/Style01/chatsystem/CSBottomBG.bmp"
+msgstr "data/interface/Style01/chatsystem/CSBottomBG.bmp"
+
+# 伴侣（两颗心）
+#: [CSChathearts2]FrameAmount
+msgctxt "[CSChathearts2]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSChathearts2]Frame0
+msgid "data/interface/Style01/chatsystem/CSChatDoubleheart.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatDoubleheart.bmp"
+
+#: [CSChathearts2]Frame1
+msgid "data/interface/Style01/chatsystem/CSChatDoubleheartClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatDoubleheartClick.bmp"
+
+# 详细按钮
+#: [CSChatparticular]FrameAmount
+msgctxt "[CSChatparticular]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSChatparticular]Frame0
+msgid "data/interface/Style01/chatsystem/CSChatparticular.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatparticular.bmp"
+
+#: [CSChatparticular]Frame1
+msgid "data/interface/Style01/chatsystem/CSChatparticularClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatparticularClick.bmp"
+
+# 伴侣（一颗心）
+#: [CSChathearts1]FrameAmount
+msgctxt "[CSChathearts1]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSChathearts1]Frame0
+msgid "data/interface/Style01/chatsystem/CSChatheart.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatheart.bmp"
+
+#: [CSChathearts1]Frame1
+msgid "data/interface/Style01/chatsystem/CSChatheartClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatheartClick.bmp"
+
+# 战斗力
+#: [CSChatBeffectiveness]FrameAmount
+msgctxt "[CSChatBeffectiveness]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [CSChatBeffectiveness]Frame0
+msgid "data/interface/Style01/chatsystem/CSChatBeffectiveness.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatBeffectiveness.bmp"
+
+# 帮助按钮
+#: [CSHelp]FrameAmount
+msgctxt "[CSHelp]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSHelp]Frame0
+msgid "data/interface/Style01/chatsystem/CSHelp.bmp"
+msgstr "data/interface/Style01/chatsystem/CSHelp.bmp"
+
+#: [CSHelp]Frame1
+msgid "data/interface/Style01/chatsystem/CSHelpClick.bmp"
+msgstr "data/interface/Style01/chatsystem/CSHelpClick.bmp"
+
+# 表情背景
+#: [CSEmotionBG]FrameAmount
+msgctxt "[CSEmotionBG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [CSEmotionBG]Frame0
+msgid "data/interface/Style01/chatsystem/CSEmotionBG.bmp"
+msgstr "data/interface/Style01/chatsystem/CSEmotionBG.bmp"
+
+# 表情向前翻页按钮
+#: [CSPgle]FrameAmount
+msgctxt "[CSPgle]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSPgle]Frame0
+msgid "data\\interface\\Style01\\chatsystem\\CSPgle.bmp"
+msgstr "data\\interface\\Style01\\chatsystem\\CSPgle.bmp"
+
+#: [CSPgle]Frame1
+msgid "data\\interface\\Style01\\chatsystem\\CSPgleClick.bmp"
+msgstr "data\\interface\\Style01\\chatsystem\\CSPgleClick.bmp"
+
+# 队伍头像
+#: [CSCaptain]FrameAmount
+msgctxt "[CSCaptain]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSCaptain]Frame0
+msgid "data/interface/Style01/chatsystem/CSCaptain.jpg"
+msgstr "data/interface/Style01/chatsystem/CSCaptain.jpg"
+
+#: [CSCaptain]Frame1
+msgid "data/interface/Style01/chatsystem/CSCaptain16.jpg"
+msgstr "data/interface/Style01/chatsystem/CSCaptain16.jpg"
+
+# 聊天列表界面外框
+#: [CSChatListGB01]FrameAmount
+msgctxt "[CSChatListGB01]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [CSChatListGB01]Frame0
+msgid "data/interface/Style01/chatsystem/CSChatListGB01.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatListGB01.bmp"
+
+# 聊天列表界面内框
+#: [CSChatListGB02]FrameAmount
+msgctxt "[CSChatListGB02]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [CSChatListGB02]Frame0
+msgid "data/interface/Style01/chatsystem/CSChatListGB02.bmp"
+msgstr "data/interface/Style01/chatsystem/CSChatListGB02.bmp"
+
+# 聊天输入框和历史记录框的背景
+#: [chatbk]FrameAmount
+msgctxt "[chatbk]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [chatbk]Frame0
+msgid "data/interface/Style01/chatsystem/chatbk.bmp"
+msgstr "data/interface/Style01/chatsystem/chatbk.bmp"
+
+# 表情向后翻页按钮
+#: [CSPgri]FrameAmount
+msgctxt "[CSPgri]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSPgri]Frame0
+msgid "data\\interface\\Style01\\chatsystem\\CSPgri.bmp"
+msgstr "data\\interface\\Style01\\chatsystem\\CSPgri.bmp"
+
+#: [CSPgri]Frame1
+msgid "data\\interface\\Style01\\chatsystem\\CSPgriClick.bmp"
+msgstr "data\\interface\\Style01\\chatsystem\\CSPgriClick.bmp"
+
+# 独立聊天界面增加添加好友功能
+#: [CSAddFriend]FrameAmount
+msgctxt "[CSAddFriend]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [CSAddFriend]Frame0
+msgid "data/interface/style01/chatsystem/CSAddFriend.bmp"
+msgstr "data/interface/style01/chatsystem/CSAddFriend.bmp"
+
+#: [CSAddFriend]Frame1
+msgid "data/interface/style01/chatsystem/CSAddFriendClick.bmp"
+msgstr "data/interface/style01/chatsystem/CSAddFriendClick.bmp"
+
+# 自动挂机界面-独立聊天底板
+#: [RechargeBG]FrameAmount
+msgctxt "[RechargeBG]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [RechargeBG]Frame0
+msgid "data/interface/Style01/chatsystem/RechargeBG.bmp"
+msgstr "data/interface/Style01/chatsystem/RechargeBG.bmp"
+
+# 自动挂机界面-充值按钮
+#: [RechargeBtn]FrameAmount
+msgctxt "[RechargeBtn]FrameAmount"
+msgid "2"
+msgstr "2"
+
+#: [RechargeBtn]Frame0
+msgid "data/interface/Style01/chatsystem/Recharge.bmp"
+msgstr "data/interface/Style01/chatsystem/Recharge.bmp"
+
+#: [RechargeBtn]Frame1
+msgid "data/interface/Style01/chatsystem/RechargeClick.bmp"
+msgstr "data/interface/Style01/chatsystem/RechargeClick.bmp"

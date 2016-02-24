@@ -1,0 +1,607 @@
+#. extracted from WoodsBg.ini, WoodsBgCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 21:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Puzzle0]FrameAmount
+msgctxt "[Puzzle0]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle0]Frame0
+msgid "data/map/puzzle/1-woods/background/bg000.dds"
+msgstr "data/map/puzzle/1-woods/background/bg000.dds"
+
+#: [Puzzle1]FrameAmount
+msgctxt "[Puzzle1]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle1]Frame0
+msgid "data/map/puzzle/1-woods/background/bg001.dds"
+msgstr "data/map/puzzle/1-woods/background/bg001.dds"
+
+#: [Puzzle2]FrameAmount
+msgctxt "[Puzzle2]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle2]Frame0
+msgid "data/map/puzzle/1-woods/background/bg002.dds"
+msgstr "data/map/puzzle/1-woods/background/bg002.dds"
+
+#: [Puzzle3]FrameAmount
+msgctxt "[Puzzle3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle3]Frame0
+msgid "data/map/puzzle/1-woods/background/bg003.dds"
+msgstr "data/map/puzzle/1-woods/background/bg003.dds"
+
+#: [Puzzle4]FrameAmount
+msgctxt "[Puzzle4]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle4]Frame0
+msgid "data/map/puzzle/1-woods/background/bg004.dds"
+msgstr "data/map/puzzle/1-woods/background/bg004.dds"
+
+#: [Puzzle5]FrameAmount
+msgctxt "[Puzzle5]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle5]Frame0
+msgid "data/map/puzzle/1-woods/background/bg005.dds"
+msgstr "data/map/puzzle/1-woods/background/bg005.dds"
+
+#: [Puzzle6]FrameAmount
+msgctxt "[Puzzle6]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle6]Frame0
+msgid "data/map/puzzle/1-woods/background/bg006.dds"
+msgstr "data/map/puzzle/1-woods/background/bg006.dds"
+
+#: [Puzzle7]FrameAmount
+msgctxt "[Puzzle7]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle7]Frame0
+msgid "data/map/puzzle/1-woods/background/bg007.dds"
+msgstr "data/map/puzzle/1-woods/background/bg007.dds"
+
+#: [Puzzle8]FrameAmount
+msgctxt "[Puzzle8]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle8]Frame0
+msgid "data/map/puzzle/1-woods/background/bg008.dds"
+msgstr "data/map/puzzle/1-woods/background/bg008.dds"
+
+#: [Puzzle9]FrameAmount
+msgctxt "[Puzzle9]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle9]Frame0
+msgid "data/map/puzzle/1-woods/background/bg009.dds"
+msgstr "data/map/puzzle/1-woods/background/bg009.dds"
+
+#: [Puzzle10]FrameAmount
+msgctxt "[Puzzle10]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle10]Frame0
+msgid "data/map/puzzle/1-woods/background/bg010.dds"
+msgstr "data/map/puzzle/1-woods/background/bg010.dds"
+
+#: [Puzzle11]FrameAmount
+msgctxt "[Puzzle11]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle11]Frame0
+msgid "data/map/puzzle/1-woods/background/bg011.dds"
+msgstr "data/map/puzzle/1-woods/background/bg011.dds"
+
+#: [Puzzle12]FrameAmount
+msgctxt "[Puzzle12]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle12]Frame0
+msgid "data/map/puzzle/1-woods/background/bg012.dds"
+msgstr "data/map/puzzle/1-woods/background/bg012.dds"
+
+#: [Puzzle13]FrameAmount
+msgctxt "[Puzzle13]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle13]Frame0
+msgid "data/map/puzzle/1-woods/background/bg013.dds"
+msgstr "data/map/puzzle/1-woods/background/bg013.dds"
+
+#: [Puzzle14]FrameAmount
+msgctxt "[Puzzle14]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle14]Frame0
+msgid "data/map/puzzle/1-woods/background/bg014.dds"
+msgstr "data/map/puzzle/1-woods/background/bg014.dds"
+
+#: [Puzzle15]FrameAmount
+msgctxt "[Puzzle15]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle15]Frame0
+msgid "data/map/puzzle/1-woods/background/bg015.dds"
+msgstr "data/map/puzzle/1-woods/background/bg015.dds"
+
+#: [Puzzle16]FrameAmount
+msgctxt "[Puzzle16]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle16]Frame0
+msgid "data/map/puzzle/1-woods/background/bg016.dds"
+msgstr "data/map/puzzle/1-woods/background/bg016.dds"
+
+#: [Puzzle17]FrameAmount
+msgctxt "[Puzzle17]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle17]Frame0
+msgid "data/map/puzzle/1-woods/background/bg017.dds"
+msgstr "data/map/puzzle/1-woods/background/bg017.dds"
+
+#: [Puzzle18]FrameAmount
+msgctxt "[Puzzle18]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle18]Frame0
+msgid "data/map/puzzle/1-woods/background/bg018.dds"
+msgstr "data/map/puzzle/1-woods/background/bg018.dds"
+
+#: [Puzzle19]FrameAmount
+msgctxt "[Puzzle19]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle19]Frame0
+msgid "data/map/puzzle/1-woods/background/bg019.dds"
+msgstr "data/map/puzzle/1-woods/background/bg019.dds"
+
+#: [Puzzle20]FrameAmount
+msgctxt "[Puzzle20]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle20]Frame0
+msgid "data/map/puzzle/1-woods/background/bg020.dds"
+msgstr "data/map/puzzle/1-woods/background/bg020.dds"
+
+#: [Puzzle21]FrameAmount
+msgctxt "[Puzzle21]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle21]Frame0
+msgid "data/map/puzzle/1-woods/background/bg021.dds"
+msgstr "data/map/puzzle/1-woods/background/bg021.dds"
+
+#: [Puzzle22]FrameAmount
+msgctxt "[Puzzle22]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle22]Frame0
+msgid "data/map/puzzle/1-woods/background/bg022.dds"
+msgstr "data/map/puzzle/1-woods/background/bg022.dds"
+
+#: [Puzzle23]FrameAmount
+msgctxt "[Puzzle23]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle23]Frame0
+msgid "data/map/puzzle/1-woods/background/bg023.dds"
+msgstr "data/map/puzzle/1-woods/background/bg023.dds"
+
+#: [Puzzle24]FrameAmount
+msgctxt "[Puzzle24]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle24]Frame0
+msgid "data/map/puzzle/1-woods/background/bg024.dds"
+msgstr "data/map/puzzle/1-woods/background/bg024.dds"
+
+#: [Puzzle25]FrameAmount
+msgctxt "[Puzzle25]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle25]Frame0
+msgid "data/map/puzzle/1-woods/background/bg025.dds"
+msgstr "data/map/puzzle/1-woods/background/bg025.dds"
+
+#: [Puzzle26]FrameAmount
+msgctxt "[Puzzle26]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle26]Frame0
+msgid "data/map/puzzle/1-woods/background/bg026.dds"
+msgstr "data/map/puzzle/1-woods/background/bg026.dds"
+
+#: [Puzzle27]FrameAmount
+msgctxt "[Puzzle27]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle27]Frame0
+msgid "data/map/puzzle/1-woods/background/bg027.dds"
+msgstr "data/map/puzzle/1-woods/background/bg027.dds"
+
+#: [Puzzle28]FrameAmount
+msgctxt "[Puzzle28]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle28]Frame0
+msgid "data/map/puzzle/1-woods/background/bg028.dds"
+msgstr "data/map/puzzle/1-woods/background/bg028.dds"
+
+#: [Puzzle29]FrameAmount
+msgctxt "[Puzzle29]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle29]Frame0
+msgid "data/map/puzzle/1-woods/background/bg029.dds"
+msgstr "data/map/puzzle/1-woods/background/bg029.dds"
+
+#: [Puzzle30]FrameAmount
+msgctxt "[Puzzle30]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle30]Frame0
+msgid "data/map/puzzle/1-woods/background/bg030.dds"
+msgstr "data/map/puzzle/1-woods/background/bg030.dds"
+
+#: [Puzzle31]FrameAmount
+msgctxt "[Puzzle31]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle31]Frame0
+msgid "data/map/puzzle/1-woods/background/bg031.dds"
+msgstr "data/map/puzzle/1-woods/background/bg031.dds"
+
+#: [Puzzle32]FrameAmount
+msgctxt "[Puzzle32]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle32]Frame0
+msgid "data/map/puzzle/1-woods/background/bg032.dds"
+msgstr "data/map/puzzle/1-woods/background/bg032.dds"
+
+#: [Puzzle33]FrameAmount
+msgctxt "[Puzzle33]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle33]Frame0
+msgid "data/map/puzzle/1-woods/background/bg033.dds"
+msgstr "data/map/puzzle/1-woods/background/bg033.dds"
+
+#: [Puzzle34]FrameAmount
+msgctxt "[Puzzle34]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle34]Frame0
+msgid "data/map/puzzle/1-woods/background/bg034.dds"
+msgstr "data/map/puzzle/1-woods/background/bg034.dds"
+
+#: [Puzzle35]FrameAmount
+msgctxt "[Puzzle35]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle35]Frame0
+msgid "data/map/puzzle/1-woods/background/bg035.dds"
+msgstr "data/map/puzzle/1-woods/background/bg035.dds"
+
+#: [Puzzle36]FrameAmount
+msgctxt "[Puzzle36]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle36]Frame0
+msgid "data/map/puzzle/1-woods/background/bg036.dds"
+msgstr "data/map/puzzle/1-woods/background/bg036.dds"
+
+#: [Puzzle37]FrameAmount
+msgctxt "[Puzzle37]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle37]Frame0
+msgid "data/map/puzzle/1-woods/background/bg037.dds"
+msgstr "data/map/puzzle/1-woods/background/bg037.dds"
+
+#: [Puzzle38]FrameAmount
+msgctxt "[Puzzle38]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle38]Frame0
+msgid "data/map/puzzle/1-woods/background/bg038.dds"
+msgstr "data/map/puzzle/1-woods/background/bg038.dds"
+
+#: [Puzzle39]FrameAmount
+msgctxt "[Puzzle39]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle39]Frame0
+msgid "data/map/puzzle/1-woods/background/bg039.dds"
+msgstr "data/map/puzzle/1-woods/background/bg039.dds"
+
+#: [Puzzle40]FrameAmount
+msgctxt "[Puzzle40]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle40]Frame0
+msgid "data/map/puzzle/1-woods/background/bg040.dds"
+msgstr "data/map/puzzle/1-woods/background/bg040.dds"
+
+#: [Puzzle41]FrameAmount
+msgctxt "[Puzzle41]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle41]Frame0
+msgid "data/map/puzzle/1-woods/background/bg041.dds"
+msgstr "data/map/puzzle/1-woods/background/bg041.dds"
+
+#: [Puzzle42]FrameAmount
+msgctxt "[Puzzle42]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle42]Frame0
+msgid "data/map/puzzle/1-woods/background/bg042.dds"
+msgstr "data/map/puzzle/1-woods/background/bg042.dds"
+
+#: [Puzzle43]FrameAmount
+msgctxt "[Puzzle43]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle43]Frame0
+msgid "data/map/puzzle/1-woods/background/bg043.dds"
+msgstr "data/map/puzzle/1-woods/background/bg043.dds"
+
+#: [Puzzle44]FrameAmount
+msgctxt "[Puzzle44]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle44]Frame0
+msgid "data/map/puzzle/1-woods/background/bg044.dds"
+msgstr "data/map/puzzle/1-woods/background/bg044.dds"
+
+#: [Puzzle45]FrameAmount
+msgctxt "[Puzzle45]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle45]Frame0
+msgid "data/map/puzzle/1-woods/background/bg045.dds"
+msgstr "data/map/puzzle/1-woods/background/bg045.dds"
+
+#: [Puzzle46]FrameAmount
+msgctxt "[Puzzle46]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle46]Frame0
+msgid "data/map/puzzle/1-woods/background/bg046.dds"
+msgstr "data/map/puzzle/1-woods/background/bg046.dds"
+
+#: [Puzzle47]FrameAmount
+msgctxt "[Puzzle47]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle47]Frame0
+msgid "data/map/puzzle/1-woods/background/bg047.dds"
+msgstr "data/map/puzzle/1-woods/background/bg047.dds"
+
+#: [Puzzle48]FrameAmount
+msgctxt "[Puzzle48]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle48]Frame0
+msgid "data/map/puzzle/1-woods/background/bg048.dds"
+msgstr "data/map/puzzle/1-woods/background/bg048.dds"
+
+#: [Puzzle49]FrameAmount
+msgctxt "[Puzzle49]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle49]Frame0
+msgid "data/map/puzzle/1-woods/background/bg049.dds"
+msgstr "data/map/puzzle/1-woods/background/bg049.dds"
+
+#: [Puzzle50]FrameAmount
+msgctxt "[Puzzle50]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle50]Frame0
+msgid "data/map/puzzle/1-woods/background/bg050.dds"
+msgstr "data/map/puzzle/1-woods/background/bg050.dds"
+
+#: [Puzzle51]FrameAmount
+msgctxt "[Puzzle51]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle51]Frame0
+msgid "data/map/puzzle/1-woods/background/bg051.dds"
+msgstr "data/map/puzzle/1-woods/background/bg051.dds"
+
+#: [Puzzle52]FrameAmount
+msgctxt "[Puzzle52]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle52]Frame0
+msgid "data/map/puzzle/1-woods/background/bg052.dds"
+msgstr "data/map/puzzle/1-woods/background/bg052.dds"
+
+#: [Puzzle53]FrameAmount
+msgctxt "[Puzzle53]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle53]Frame0
+msgid "data/map/puzzle/1-woods/background/bg053.dds"
+msgstr "data/map/puzzle/1-woods/background/bg053.dds"
+
+#: [Puzzle54]FrameAmount
+msgctxt "[Puzzle54]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle54]Frame0
+msgid "data/map/puzzle/newplain/pond/pond000.dds"
+msgstr "data/map/puzzle/newplain/pond/pond000.dds"
+
+#: [Puzzle55]FrameAmount
+msgctxt "[Puzzle55]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle55]Frame0
+msgid "data/map/puzzle/newplain/pond/pond001.dds"
+msgstr "data/map/puzzle/newplain/pond/pond001.dds"
+
+#: [Puzzle56]FrameAmount
+msgctxt "[Puzzle56]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle56]Frame0
+msgid "data/map/puzzle/newplain/pond/pond002.dds"
+msgstr "data/map/puzzle/newplain/pond/pond002.dds"
+
+#: [Puzzle57]FrameAmount
+msgctxt "[Puzzle57]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle57]Frame0
+msgid "data/map/puzzle/newplain/pond/pond003.dds"
+msgstr "data/map/puzzle/newplain/pond/pond003.dds"
+
+#: [Puzzle58]FrameAmount
+msgctxt "[Puzzle58]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle58]Frame0
+msgid "data/map/puzzle/newplain/pond/pond004.dds"
+msgstr "data/map/puzzle/newplain/pond/pond004.dds"
+
+#: [Puzzle59]FrameAmount
+msgctxt "[Puzzle59]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle59]Frame0
+msgid "data/map/puzzle/newplain/pond/pond005.dds"
+msgstr "data/map/puzzle/newplain/pond/pond005.dds"
+
+#: [Puzzle60]FrameAmount
+msgctxt "[Puzzle60]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle60]Frame0
+msgid "data/map/puzzle/newplain/pond/pond006.dds"
+msgstr "data/map/puzzle/newplain/pond/pond006.dds"
+
+#: [Puzzle61]FrameAmount
+msgctxt "[Puzzle61]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle61]Frame0
+msgid "data/map/puzzle/newplain/pond/pond007.dds"
+msgstr "data/map/puzzle/newplain/pond/pond007.dds"
+
+#: [Puzzle62]FrameAmount
+msgctxt "[Puzzle62]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle62]Frame0
+msgid "data/map/puzzle/newplain/pond/pond008.dds"
+msgstr "data/map/puzzle/newplain/pond/pond008.dds"
+
+#: [Puzzle63]FrameAmount
+msgctxt "[Puzzle63]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle63]Frame0
+msgid "data/map/puzzle/newplain/pond/pond009.dds"
+msgstr "data/map/puzzle/newplain/pond/pond009.dds"
+
+#: [Puzzle64]FrameAmount
+msgctxt "[Puzzle64]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle64]Frame0
+msgid "data/map/puzzle/newplain/pond/pond010.dds"
+msgstr "data/map/puzzle/newplain/pond/pond010.dds"
+
+#: [Puzzle65]FrameAmount
+msgctxt "[Puzzle65]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle65]Frame0
+msgid "data/map/puzzle/newplain/pond/pond011.dds"
+msgstr "data/map/puzzle/newplain/pond/pond011.dds"

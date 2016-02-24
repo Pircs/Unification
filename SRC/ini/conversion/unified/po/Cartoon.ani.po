@@ -1,0 +1,6181 @@
+#. extracted from cartoon.ini, cartoon2.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 20:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Puzzle0]FrameAmount
+msgctxt "[Puzzle0]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle0]Frame0
+msgctxt "[Puzzle0]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic000.dds"
+
+#: [Puzzle0]Frame1
+msgctxt "[Puzzle0]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic000.dds"
+
+#: [Puzzle0]Frame2
+msgctxt "[Puzzle0]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic000.dds"
+
+#: [Puzzle0]Frame3
+msgctxt "[Puzzle0]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic000.dds"
+
+#: [Puzzle0]Frame4
+msgctxt "[Puzzle0]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic000.dds"
+
+#: [Puzzle0]Frame5
+msgctxt "[Puzzle0]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic000.dds"
+
+#: [Puzzle0]Frame6
+msgctxt "[Puzzle0]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic000.dds"
+
+#: [Puzzle0]Frame7
+msgctxt "[Puzzle0]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic000.dds"
+
+#: [Puzzle0]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic000.dds"
+
+#: [Puzzle0]Frame9
+msgctxt "[Puzzle0]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic000.dds"
+
+#: [Puzzle0]Frame10
+msgctxt "[Puzzle0]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic000.dds"
+
+#: [Puzzle0]Frame11
+msgctxt "[Puzzle0]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic000.dds"
+
+#: [Puzzle0]Frame12
+msgctxt "[Puzzle0]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic000.dds"
+
+#: [Puzzle0]Frame13
+msgctxt "[Puzzle0]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic000.dds"
+
+#: [Puzzle0]Frame14
+msgctxt "[Puzzle0]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic000.dds"
+
+#: [Puzzle0]Frame15
+msgctxt "[Puzzle0]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic000.dds"
+
+#: [Puzzle0]Frame16
+msgctxt "[Puzzle0]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic000.dds"
+
+#: [Puzzle1]FrameAmount
+msgctxt "[Puzzle1]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle1]Frame0
+msgctxt "[Puzzle1]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic001.dds"
+
+#: [Puzzle1]Frame1
+msgctxt "[Puzzle1]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic001.dds"
+
+#: [Puzzle1]Frame2
+msgctxt "[Puzzle1]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic001.dds"
+
+#: [Puzzle1]Frame3
+msgctxt "[Puzzle1]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic001.dds"
+
+#: [Puzzle1]Frame4
+msgctxt "[Puzzle1]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic001.dds"
+
+#: [Puzzle1]Frame5
+msgctxt "[Puzzle1]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic001.dds"
+
+#: [Puzzle1]Frame6
+msgctxt "[Puzzle1]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic001.dds"
+
+#: [Puzzle1]Frame7
+msgctxt "[Puzzle1]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic001.dds"
+
+#: [Puzzle1]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic001.dds"
+
+#: [Puzzle1]Frame9
+msgctxt "[Puzzle1]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic001.dds"
+
+#: [Puzzle1]Frame10
+msgctxt "[Puzzle1]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic001.dds"
+
+#: [Puzzle1]Frame11
+msgctxt "[Puzzle1]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic001.dds"
+
+#: [Puzzle1]Frame12
+msgctxt "[Puzzle1]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic001.dds"
+
+#: [Puzzle1]Frame13
+msgctxt "[Puzzle1]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic001.dds"
+
+#: [Puzzle1]Frame14
+msgctxt "[Puzzle1]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic001.dds"
+
+#: [Puzzle1]Frame15
+msgctxt "[Puzzle1]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic001.dds"
+
+#: [Puzzle1]Frame16
+msgctxt "[Puzzle1]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic001.dds"
+
+#: [Puzzle2]FrameAmount
+msgctxt "[Puzzle2]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle2]Frame0
+msgctxt "[Puzzle2]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic002.dds"
+
+#: [Puzzle2]Frame1
+msgctxt "[Puzzle2]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic002.dds"
+
+#: [Puzzle2]Frame2
+msgctxt "[Puzzle2]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic002.dds"
+
+#: [Puzzle2]Frame3
+msgctxt "[Puzzle2]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic002.dds"
+
+#: [Puzzle2]Frame4
+msgctxt "[Puzzle2]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic002.dds"
+
+#: [Puzzle2]Frame5
+msgctxt "[Puzzle2]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic002.dds"
+
+#: [Puzzle2]Frame6
+msgctxt "[Puzzle2]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic002.dds"
+
+#: [Puzzle2]Frame7
+msgctxt "[Puzzle2]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic002.dds"
+
+#: [Puzzle2]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic002.dds"
+
+#: [Puzzle2]Frame9
+msgctxt "[Puzzle2]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic002.dds"
+
+#: [Puzzle2]Frame10
+msgctxt "[Puzzle2]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic002.dds"
+
+#: [Puzzle2]Frame11
+msgctxt "[Puzzle2]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic002.dds"
+
+#: [Puzzle2]Frame12
+msgctxt "[Puzzle2]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic002.dds"
+
+#: [Puzzle2]Frame13
+msgctxt "[Puzzle2]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic002.dds"
+
+#: [Puzzle2]Frame14
+msgctxt "[Puzzle2]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic002.dds"
+
+#: [Puzzle2]Frame15
+msgctxt "[Puzzle2]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic002.dds"
+
+#: [Puzzle2]Frame16
+msgctxt "[Puzzle2]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic002.dds"
+
+#: [Puzzle3]FrameAmount
+msgctxt "[Puzzle3]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle3]Frame0
+msgctxt "[Puzzle3]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic003.dds"
+
+#: [Puzzle3]Frame1
+msgctxt "[Puzzle3]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic003.dds"
+
+#: [Puzzle3]Frame2
+msgctxt "[Puzzle3]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic003.dds"
+
+#: [Puzzle3]Frame3
+msgctxt "[Puzzle3]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic003.dds"
+
+#: [Puzzle3]Frame4
+msgctxt "[Puzzle3]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic003.dds"
+
+#: [Puzzle3]Frame5
+msgctxt "[Puzzle3]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic003.dds"
+
+#: [Puzzle3]Frame6
+msgctxt "[Puzzle3]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic003.dds"
+
+#: [Puzzle3]Frame7
+msgctxt "[Puzzle3]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic003.dds"
+
+#: [Puzzle3]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic003.dds"
+
+#: [Puzzle3]Frame9
+msgctxt "[Puzzle3]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic003.dds"
+
+#: [Puzzle3]Frame10
+msgctxt "[Puzzle3]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic003.dds"
+
+#: [Puzzle3]Frame11
+msgctxt "[Puzzle3]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic003.dds"
+
+#: [Puzzle3]Frame12
+msgctxt "[Puzzle3]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic003.dds"
+
+#: [Puzzle3]Frame13
+msgctxt "[Puzzle3]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic003.dds"
+
+#: [Puzzle3]Frame14
+msgctxt "[Puzzle3]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic003.dds"
+
+#: [Puzzle3]Frame15
+msgctxt "[Puzzle3]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic003.dds"
+
+#: [Puzzle3]Frame16
+msgctxt "[Puzzle3]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic003.dds"
+
+#: [Puzzle4]FrameAmount
+msgctxt "[Puzzle4]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle4]Frame0
+msgctxt "[Puzzle4]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic004.dds"
+
+#: [Puzzle4]Frame1
+msgctxt "[Puzzle4]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic004.dds"
+
+#: [Puzzle4]Frame2
+msgctxt "[Puzzle4]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic004.dds"
+
+#: [Puzzle4]Frame3
+msgctxt "[Puzzle4]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic004.dds"
+
+#: [Puzzle4]Frame4
+msgctxt "[Puzzle4]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic004.dds"
+
+#: [Puzzle4]Frame5
+msgctxt "[Puzzle4]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic004.dds"
+
+#: [Puzzle4]Frame6
+msgctxt "[Puzzle4]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic004.dds"
+
+#: [Puzzle4]Frame7
+msgctxt "[Puzzle4]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic004.dds"
+
+#: [Puzzle4]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic004.dds"
+
+#: [Puzzle4]Frame9
+msgctxt "[Puzzle4]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic004.dds"
+
+#: [Puzzle4]Frame10
+msgctxt "[Puzzle4]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic004.dds"
+
+#: [Puzzle4]Frame11
+msgctxt "[Puzzle4]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic004.dds"
+
+#: [Puzzle4]Frame12
+msgctxt "[Puzzle4]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic004.dds"
+
+#: [Puzzle4]Frame13
+msgctxt "[Puzzle4]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic004.dds"
+
+#: [Puzzle4]Frame14
+msgctxt "[Puzzle4]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic004.dds"
+
+#: [Puzzle4]Frame15
+msgctxt "[Puzzle4]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic004.dds"
+
+#: [Puzzle4]Frame16
+msgctxt "[Puzzle4]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic004.dds"
+
+#: [Puzzle5]FrameAmount
+msgctxt "[Puzzle5]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle5]Frame0
+msgctxt "[Puzzle5]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic005.dds"
+
+#: [Puzzle5]Frame1
+msgctxt "[Puzzle5]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic005.dds"
+
+#: [Puzzle5]Frame2
+msgctxt "[Puzzle5]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic005.dds"
+
+#: [Puzzle5]Frame3
+msgctxt "[Puzzle5]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic005.dds"
+
+#: [Puzzle5]Frame4
+msgctxt "[Puzzle5]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic005.dds"
+
+#: [Puzzle5]Frame5
+msgctxt "[Puzzle5]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic005.dds"
+
+#: [Puzzle5]Frame6
+msgctxt "[Puzzle5]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic005.dds"
+
+#: [Puzzle5]Frame7
+msgctxt "[Puzzle5]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic005.dds"
+
+#: [Puzzle5]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic005.dds"
+
+#: [Puzzle5]Frame9
+msgctxt "[Puzzle5]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic005.dds"
+
+#: [Puzzle5]Frame10
+msgctxt "[Puzzle5]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic005.dds"
+
+#: [Puzzle5]Frame11
+msgctxt "[Puzzle5]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic005.dds"
+
+#: [Puzzle5]Frame12
+msgctxt "[Puzzle5]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic005.dds"
+
+#: [Puzzle5]Frame13
+msgctxt "[Puzzle5]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic005.dds"
+
+#: [Puzzle5]Frame14
+msgctxt "[Puzzle5]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic005.dds"
+
+#: [Puzzle5]Frame15
+msgctxt "[Puzzle5]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic005.dds"
+
+#: [Puzzle5]Frame16
+msgctxt "[Puzzle5]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic005.dds"
+
+#: [Puzzle6]FrameAmount
+msgctxt "[Puzzle6]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle6]Frame0
+msgctxt "[Puzzle6]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic006.dds"
+
+#: [Puzzle6]Frame1
+msgctxt "[Puzzle6]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic006.dds"
+
+#: [Puzzle6]Frame2
+msgctxt "[Puzzle6]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic006.dds"
+
+#: [Puzzle6]Frame3
+msgctxt "[Puzzle6]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic006.dds"
+
+#: [Puzzle6]Frame4
+msgctxt "[Puzzle6]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic006.dds"
+
+#: [Puzzle6]Frame5
+msgctxt "[Puzzle6]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic006.dds"
+
+#: [Puzzle6]Frame6
+msgctxt "[Puzzle6]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic006.dds"
+
+#: [Puzzle6]Frame7
+msgctxt "[Puzzle6]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic006.dds"
+
+#: [Puzzle6]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic006.dds"
+
+#: [Puzzle6]Frame9
+msgctxt "[Puzzle6]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic006.dds"
+
+#: [Puzzle6]Frame10
+msgctxt "[Puzzle6]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic006.dds"
+
+#: [Puzzle6]Frame11
+msgctxt "[Puzzle6]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic006.dds"
+
+#: [Puzzle6]Frame12
+msgctxt "[Puzzle6]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic006.dds"
+
+#: [Puzzle6]Frame13
+msgctxt "[Puzzle6]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic006.dds"
+
+#: [Puzzle6]Frame14
+msgctxt "[Puzzle6]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic006.dds"
+
+#: [Puzzle6]Frame15
+msgctxt "[Puzzle6]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic006.dds"
+
+#: [Puzzle6]Frame16
+msgctxt "[Puzzle6]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic006.dds"
+
+#: [Puzzle7]FrameAmount
+msgctxt "[Puzzle7]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle7]Frame0
+msgctxt "[Puzzle7]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic007.dds"
+
+#: [Puzzle7]Frame1
+msgctxt "[Puzzle7]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic007.dds"
+
+#: [Puzzle7]Frame2
+msgctxt "[Puzzle7]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic007.dds"
+
+#: [Puzzle7]Frame3
+msgctxt "[Puzzle7]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic007.dds"
+
+#: [Puzzle7]Frame4
+msgctxt "[Puzzle7]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic007.dds"
+
+#: [Puzzle7]Frame5
+msgctxt "[Puzzle7]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic007.dds"
+
+#: [Puzzle7]Frame6
+msgctxt "[Puzzle7]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic007.dds"
+
+#: [Puzzle7]Frame7
+msgctxt "[Puzzle7]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic007.dds"
+
+#: [Puzzle7]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic007.dds"
+
+#: [Puzzle7]Frame9
+msgctxt "[Puzzle7]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic007.dds"
+
+#: [Puzzle7]Frame10
+msgctxt "[Puzzle7]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic007.dds"
+
+#: [Puzzle7]Frame11
+msgctxt "[Puzzle7]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic007.dds"
+
+#: [Puzzle7]Frame12
+msgctxt "[Puzzle7]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic007.dds"
+
+#: [Puzzle7]Frame13
+msgctxt "[Puzzle7]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic007.dds"
+
+#: [Puzzle7]Frame14
+msgctxt "[Puzzle7]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic007.dds"
+
+#: [Puzzle7]Frame15
+msgctxt "[Puzzle7]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic007.dds"
+
+#: [Puzzle7]Frame16
+msgctxt "[Puzzle7]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic007.dds"
+
+#: [Puzzle8]FrameAmount
+msgctxt "[Puzzle8]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle8]Frame0
+msgctxt "[Puzzle8]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic008.dds"
+
+#: [Puzzle8]Frame1
+msgctxt "[Puzzle8]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic008.dds"
+
+#: [Puzzle8]Frame2
+msgctxt "[Puzzle8]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic008.dds"
+
+#: [Puzzle8]Frame3
+msgctxt "[Puzzle8]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic008.dds"
+
+#: [Puzzle8]Frame4
+msgctxt "[Puzzle8]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic008.dds"
+
+#: [Puzzle8]Frame5
+msgctxt "[Puzzle8]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic008.dds"
+
+#: [Puzzle8]Frame6
+msgctxt "[Puzzle8]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic008.dds"
+
+#: [Puzzle8]Frame7
+msgctxt "[Puzzle8]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic008.dds"
+
+#: [Puzzle8]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic008.dds"
+
+#: [Puzzle8]Frame9
+msgctxt "[Puzzle8]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic008.dds"
+
+#: [Puzzle8]Frame10
+msgctxt "[Puzzle8]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic008.dds"
+
+#: [Puzzle8]Frame11
+msgctxt "[Puzzle8]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic008.dds"
+
+#: [Puzzle8]Frame12
+msgctxt "[Puzzle8]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic008.dds"
+
+#: [Puzzle8]Frame13
+msgctxt "[Puzzle8]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic008.dds"
+
+#: [Puzzle8]Frame14
+msgctxt "[Puzzle8]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic008.dds"
+
+#: [Puzzle8]Frame15
+msgctxt "[Puzzle8]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic008.dds"
+
+#: [Puzzle8]Frame16
+msgctxt "[Puzzle8]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic008.dds"
+
+#: [Puzzle9]FrameAmount
+msgctxt "[Puzzle9]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle9]Frame0
+msgctxt "[Puzzle9]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic009.dds"
+
+#: [Puzzle9]Frame1
+msgctxt "[Puzzle9]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic009.dds"
+
+#: [Puzzle9]Frame2
+msgctxt "[Puzzle9]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic009.dds"
+
+#: [Puzzle9]Frame3
+msgctxt "[Puzzle9]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic009.dds"
+
+#: [Puzzle9]Frame4
+msgctxt "[Puzzle9]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic009.dds"
+
+#: [Puzzle9]Frame5
+msgctxt "[Puzzle9]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic009.dds"
+
+#: [Puzzle9]Frame6
+msgctxt "[Puzzle9]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic009.dds"
+
+#: [Puzzle9]Frame7
+msgctxt "[Puzzle9]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic009.dds"
+
+#: [Puzzle9]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic009.dds"
+
+#: [Puzzle9]Frame9
+msgctxt "[Puzzle9]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic009.dds"
+
+#: [Puzzle9]Frame10
+msgctxt "[Puzzle9]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic009.dds"
+
+#: [Puzzle9]Frame11
+msgctxt "[Puzzle9]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic009.dds"
+
+#: [Puzzle9]Frame12
+msgctxt "[Puzzle9]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic009.dds"
+
+#: [Puzzle9]Frame13
+msgctxt "[Puzzle9]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic009.dds"
+
+#: [Puzzle9]Frame14
+msgctxt "[Puzzle9]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic009.dds"
+
+#: [Puzzle9]Frame15
+msgctxt "[Puzzle9]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic009.dds"
+
+#: [Puzzle9]Frame16
+msgctxt "[Puzzle9]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic009.dds"
+
+#: [Puzzle10]FrameAmount
+msgctxt "[Puzzle10]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle10]Frame0
+msgctxt "[Puzzle10]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic010.dds"
+
+#: [Puzzle10]Frame1
+msgctxt "[Puzzle10]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic010.dds"
+
+#: [Puzzle10]Frame2
+msgctxt "[Puzzle10]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic010.dds"
+
+#: [Puzzle10]Frame3
+msgctxt "[Puzzle10]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic010.dds"
+
+#: [Puzzle10]Frame4
+msgctxt "[Puzzle10]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic010.dds"
+
+#: [Puzzle10]Frame5
+msgctxt "[Puzzle10]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic010.dds"
+
+#: [Puzzle10]Frame6
+msgctxt "[Puzzle10]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic010.dds"
+
+#: [Puzzle10]Frame7
+msgctxt "[Puzzle10]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic010.dds"
+
+#: [Puzzle10]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic010.dds"
+
+#: [Puzzle10]Frame9
+msgctxt "[Puzzle10]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic010.dds"
+
+#: [Puzzle10]Frame10
+msgctxt "[Puzzle10]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic010.dds"
+
+#: [Puzzle10]Frame11
+msgctxt "[Puzzle10]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic010.dds"
+
+#: [Puzzle10]Frame12
+msgctxt "[Puzzle10]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic010.dds"
+
+#: [Puzzle10]Frame13
+msgctxt "[Puzzle10]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic010.dds"
+
+#: [Puzzle10]Frame14
+msgctxt "[Puzzle10]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic010.dds"
+
+#: [Puzzle10]Frame15
+msgctxt "[Puzzle10]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic010.dds"
+
+#: [Puzzle10]Frame16
+msgctxt "[Puzzle10]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic010.dds"
+
+#: [Puzzle11]FrameAmount
+msgctxt "[Puzzle11]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle11]Frame0
+msgctxt "[Puzzle11]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic011.dds"
+
+#: [Puzzle11]Frame1
+msgctxt "[Puzzle11]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic011.dds"
+
+#: [Puzzle11]Frame2
+msgctxt "[Puzzle11]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic011.dds"
+
+#: [Puzzle11]Frame3
+msgctxt "[Puzzle11]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic011.dds"
+
+#: [Puzzle11]Frame4
+msgctxt "[Puzzle11]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic011.dds"
+
+#: [Puzzle11]Frame5
+msgctxt "[Puzzle11]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic011.dds"
+
+#: [Puzzle11]Frame6
+msgctxt "[Puzzle11]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic011.dds"
+
+#: [Puzzle11]Frame7
+msgctxt "[Puzzle11]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic011.dds"
+
+#: [Puzzle11]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic011.dds"
+
+#: [Puzzle11]Frame9
+msgctxt "[Puzzle11]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic011.dds"
+
+#: [Puzzle11]Frame10
+msgctxt "[Puzzle11]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic011.dds"
+
+#: [Puzzle11]Frame11
+msgctxt "[Puzzle11]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic011.dds"
+
+#: [Puzzle11]Frame12
+msgctxt "[Puzzle11]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic011.dds"
+
+#: [Puzzle11]Frame13
+msgctxt "[Puzzle11]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic011.dds"
+
+#: [Puzzle11]Frame14
+msgctxt "[Puzzle11]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic011.dds"
+
+#: [Puzzle11]Frame15
+msgctxt "[Puzzle11]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic011.dds"
+
+#: [Puzzle11]Frame16
+msgctxt "[Puzzle11]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic011.dds"
+
+#: [Puzzle12]FrameAmount
+msgctxt "[Puzzle12]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle12]Frame0
+msgctxt "[Puzzle12]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic012.dds"
+
+#: [Puzzle12]Frame1
+msgctxt "[Puzzle12]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic012.dds"
+
+#: [Puzzle12]Frame2
+msgctxt "[Puzzle12]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic012.dds"
+
+#: [Puzzle12]Frame3
+msgctxt "[Puzzle12]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic012.dds"
+
+#: [Puzzle12]Frame4
+msgctxt "[Puzzle12]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic012.dds"
+
+#: [Puzzle12]Frame5
+msgctxt "[Puzzle12]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic012.dds"
+
+#: [Puzzle12]Frame6
+msgctxt "[Puzzle12]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic012.dds"
+
+#: [Puzzle12]Frame7
+msgctxt "[Puzzle12]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic012.dds"
+
+#: [Puzzle12]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic012.dds"
+
+#: [Puzzle12]Frame9
+msgctxt "[Puzzle12]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic012.dds"
+
+#: [Puzzle12]Frame10
+msgctxt "[Puzzle12]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic012.dds"
+
+#: [Puzzle12]Frame11
+msgctxt "[Puzzle12]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic012.dds"
+
+#: [Puzzle12]Frame12
+msgctxt "[Puzzle12]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic012.dds"
+
+#: [Puzzle12]Frame13
+msgctxt "[Puzzle12]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic012.dds"
+
+#: [Puzzle12]Frame14
+msgctxt "[Puzzle12]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic012.dds"
+
+#: [Puzzle12]Frame15
+msgctxt "[Puzzle12]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic012.dds"
+
+#: [Puzzle12]Frame16
+msgctxt "[Puzzle12]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic012.dds"
+
+#: [Puzzle13]FrameAmount
+msgctxt "[Puzzle13]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle13]Frame0
+msgctxt "[Puzzle13]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic013.dds"
+
+#: [Puzzle13]Frame1
+msgctxt "[Puzzle13]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic013.dds"
+
+#: [Puzzle13]Frame2
+msgctxt "[Puzzle13]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic013.dds"
+
+#: [Puzzle13]Frame3
+msgctxt "[Puzzle13]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic013.dds"
+
+#: [Puzzle13]Frame4
+msgctxt "[Puzzle13]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic013.dds"
+
+#: [Puzzle13]Frame5
+msgctxt "[Puzzle13]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic013.dds"
+
+#: [Puzzle13]Frame6
+msgctxt "[Puzzle13]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic013.dds"
+
+#: [Puzzle13]Frame7
+msgctxt "[Puzzle13]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic013.dds"
+
+#: [Puzzle13]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic013.dds"
+
+#: [Puzzle13]Frame9
+msgctxt "[Puzzle13]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic013.dds"
+
+#: [Puzzle13]Frame10
+msgctxt "[Puzzle13]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic013.dds"
+
+#: [Puzzle13]Frame11
+msgctxt "[Puzzle13]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic013.dds"
+
+#: [Puzzle13]Frame12
+msgctxt "[Puzzle13]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic013.dds"
+
+#: [Puzzle13]Frame13
+msgctxt "[Puzzle13]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic013.dds"
+
+#: [Puzzle13]Frame14
+msgctxt "[Puzzle13]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic013.dds"
+
+#: [Puzzle13]Frame15
+msgctxt "[Puzzle13]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic013.dds"
+
+#: [Puzzle13]Frame16
+msgctxt "[Puzzle13]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic013.dds"
+
+#: [Puzzle14]FrameAmount
+msgctxt "[Puzzle14]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle14]Frame0
+msgctxt "[Puzzle14]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic014.dds"
+
+#: [Puzzle14]Frame1
+msgctxt "[Puzzle14]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic014.dds"
+
+#: [Puzzle14]Frame2
+msgctxt "[Puzzle14]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic014.dds"
+
+#: [Puzzle14]Frame3
+msgctxt "[Puzzle14]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic014.dds"
+
+#: [Puzzle14]Frame4
+msgctxt "[Puzzle14]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic014.dds"
+
+#: [Puzzle14]Frame5
+msgctxt "[Puzzle14]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic014.dds"
+
+#: [Puzzle14]Frame6
+msgctxt "[Puzzle14]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic014.dds"
+
+#: [Puzzle14]Frame7
+msgctxt "[Puzzle14]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic014.dds"
+
+#: [Puzzle14]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic014.dds"
+
+#: [Puzzle14]Frame9
+msgctxt "[Puzzle14]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic014.dds"
+
+#: [Puzzle14]Frame10
+msgctxt "[Puzzle14]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic014.dds"
+
+#: [Puzzle14]Frame11
+msgctxt "[Puzzle14]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic014.dds"
+
+#: [Puzzle14]Frame12
+msgctxt "[Puzzle14]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic014.dds"
+
+#: [Puzzle14]Frame13
+msgctxt "[Puzzle14]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic014.dds"
+
+#: [Puzzle14]Frame14
+msgctxt "[Puzzle14]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic014.dds"
+
+#: [Puzzle14]Frame15
+msgctxt "[Puzzle14]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic014.dds"
+
+#: [Puzzle14]Frame16
+msgctxt "[Puzzle14]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic014.dds"
+
+#: [Puzzle15]FrameAmount
+msgctxt "[Puzzle15]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle15]Frame0
+msgctxt "[Puzzle15]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic015.dds"
+
+#: [Puzzle15]Frame1
+msgctxt "[Puzzle15]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic015.dds"
+
+#: [Puzzle15]Frame2
+msgctxt "[Puzzle15]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic015.dds"
+
+#: [Puzzle15]Frame3
+msgctxt "[Puzzle15]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic015.dds"
+
+#: [Puzzle15]Frame4
+msgctxt "[Puzzle15]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic015.dds"
+
+#: [Puzzle15]Frame5
+msgctxt "[Puzzle15]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic015.dds"
+
+#: [Puzzle15]Frame6
+msgctxt "[Puzzle15]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic015.dds"
+
+#: [Puzzle15]Frame7
+msgctxt "[Puzzle15]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic015.dds"
+
+#: [Puzzle15]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic015.dds"
+
+#: [Puzzle15]Frame9
+msgctxt "[Puzzle15]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic015.dds"
+
+#: [Puzzle15]Frame10
+msgctxt "[Puzzle15]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic015.dds"
+
+#: [Puzzle15]Frame11
+msgctxt "[Puzzle15]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic015.dds"
+
+#: [Puzzle15]Frame12
+msgctxt "[Puzzle15]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic015.dds"
+
+#: [Puzzle15]Frame13
+msgctxt "[Puzzle15]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic015.dds"
+
+#: [Puzzle15]Frame14
+msgctxt "[Puzzle15]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic015.dds"
+
+#: [Puzzle15]Frame15
+msgctxt "[Puzzle15]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic015.dds"
+
+#: [Puzzle15]Frame16
+msgctxt "[Puzzle15]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic015.dds"
+
+#: [Puzzle16]FrameAmount
+msgctxt "[Puzzle16]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle16]Frame0
+msgctxt "[Puzzle16]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic016.dds"
+
+#: [Puzzle16]Frame1
+msgctxt "[Puzzle16]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic016.dds"
+
+#: [Puzzle16]Frame2
+msgctxt "[Puzzle16]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic016.dds"
+
+#: [Puzzle16]Frame3
+msgctxt "[Puzzle16]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic016.dds"
+
+#: [Puzzle16]Frame4
+msgctxt "[Puzzle16]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic016.dds"
+
+#: [Puzzle16]Frame5
+msgctxt "[Puzzle16]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic016.dds"
+
+#: [Puzzle16]Frame6
+msgctxt "[Puzzle16]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic016.dds"
+
+#: [Puzzle16]Frame7
+msgctxt "[Puzzle16]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic016.dds"
+
+#: [Puzzle16]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic016.dds"
+
+#: [Puzzle16]Frame9
+msgctxt "[Puzzle16]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic016.dds"
+
+#: [Puzzle16]Frame10
+msgctxt "[Puzzle16]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic016.dds"
+
+#: [Puzzle16]Frame11
+msgctxt "[Puzzle16]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic016.dds"
+
+#: [Puzzle16]Frame12
+msgctxt "[Puzzle16]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic016.dds"
+
+#: [Puzzle16]Frame13
+msgctxt "[Puzzle16]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic016.dds"
+
+#: [Puzzle16]Frame14
+msgctxt "[Puzzle16]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic016.dds"
+
+#: [Puzzle16]Frame15
+msgctxt "[Puzzle16]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic016.dds"
+
+#: [Puzzle16]Frame16
+msgctxt "[Puzzle16]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic016.dds"
+
+#: [Puzzle17]FrameAmount
+msgctxt "[Puzzle17]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle17]Frame0
+msgctxt "[Puzzle17]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic017.dds"
+
+#: [Puzzle17]Frame1
+msgctxt "[Puzzle17]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic017.dds"
+
+#: [Puzzle17]Frame2
+msgctxt "[Puzzle17]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic017.dds"
+
+#: [Puzzle17]Frame3
+msgctxt "[Puzzle17]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic017.dds"
+
+#: [Puzzle17]Frame4
+msgctxt "[Puzzle17]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic017.dds"
+
+#: [Puzzle17]Frame5
+msgctxt "[Puzzle17]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic017.dds"
+
+#: [Puzzle17]Frame6
+msgctxt "[Puzzle17]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic017.dds"
+
+#: [Puzzle17]Frame7
+msgctxt "[Puzzle17]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic017.dds"
+
+#: [Puzzle17]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic017.dds"
+
+#: [Puzzle17]Frame9
+msgctxt "[Puzzle17]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic017.dds"
+
+#: [Puzzle17]Frame10
+msgctxt "[Puzzle17]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic017.dds"
+
+#: [Puzzle17]Frame11
+msgctxt "[Puzzle17]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic017.dds"
+
+#: [Puzzle17]Frame12
+msgctxt "[Puzzle17]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic017.dds"
+
+#: [Puzzle17]Frame13
+msgctxt "[Puzzle17]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic017.dds"
+
+#: [Puzzle17]Frame14
+msgctxt "[Puzzle17]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic017.dds"
+
+#: [Puzzle17]Frame15
+msgctxt "[Puzzle17]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic017.dds"
+
+#: [Puzzle17]Frame16
+msgctxt "[Puzzle17]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic017.dds"
+
+#: [Puzzle18]FrameAmount
+msgctxt "[Puzzle18]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle18]Frame0
+msgctxt "[Puzzle18]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic018.dds"
+
+#: [Puzzle18]Frame1
+msgctxt "[Puzzle18]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic018.dds"
+
+#: [Puzzle18]Frame2
+msgctxt "[Puzzle18]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic018.dds"
+
+#: [Puzzle18]Frame3
+msgctxt "[Puzzle18]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic018.dds"
+
+#: [Puzzle18]Frame4
+msgctxt "[Puzzle18]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic018.dds"
+
+#: [Puzzle18]Frame5
+msgctxt "[Puzzle18]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic018.dds"
+
+#: [Puzzle18]Frame6
+msgctxt "[Puzzle18]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic018.dds"
+
+#: [Puzzle18]Frame7
+msgctxt "[Puzzle18]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic018.dds"
+
+#: [Puzzle18]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic018.dds"
+
+#: [Puzzle18]Frame9
+msgctxt "[Puzzle18]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic018.dds"
+
+#: [Puzzle18]Frame10
+msgctxt "[Puzzle18]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic018.dds"
+
+#: [Puzzle18]Frame11
+msgctxt "[Puzzle18]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic018.dds"
+
+#: [Puzzle18]Frame12
+msgctxt "[Puzzle18]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic018.dds"
+
+#: [Puzzle18]Frame13
+msgctxt "[Puzzle18]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic018.dds"
+
+#: [Puzzle18]Frame14
+msgctxt "[Puzzle18]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic018.dds"
+
+#: [Puzzle18]Frame15
+msgctxt "[Puzzle18]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic018.dds"
+
+#: [Puzzle18]Frame16
+msgctxt "[Puzzle18]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic018.dds"
+
+#: [Puzzle19]FrameAmount
+msgctxt "[Puzzle19]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle19]Frame0
+msgctxt "[Puzzle19]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic019.dds"
+
+#: [Puzzle19]Frame1
+msgctxt "[Puzzle19]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic019.dds"
+
+#: [Puzzle19]Frame2
+msgctxt "[Puzzle19]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic019.dds"
+
+#: [Puzzle19]Frame3
+msgctxt "[Puzzle19]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic019.dds"
+
+#: [Puzzle19]Frame4
+msgctxt "[Puzzle19]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic019.dds"
+
+#: [Puzzle19]Frame5
+msgctxt "[Puzzle19]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic019.dds"
+
+#: [Puzzle19]Frame6
+msgctxt "[Puzzle19]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic019.dds"
+
+#: [Puzzle19]Frame7
+msgctxt "[Puzzle19]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic019.dds"
+
+#: [Puzzle19]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic019.dds"
+
+#: [Puzzle19]Frame9
+msgctxt "[Puzzle19]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic019.dds"
+
+#: [Puzzle19]Frame10
+msgctxt "[Puzzle19]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic019.dds"
+
+#: [Puzzle19]Frame11
+msgctxt "[Puzzle19]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic019.dds"
+
+#: [Puzzle19]Frame12
+msgctxt "[Puzzle19]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic019.dds"
+
+#: [Puzzle19]Frame13
+msgctxt "[Puzzle19]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic019.dds"
+
+#: [Puzzle19]Frame14
+msgctxt "[Puzzle19]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic019.dds"
+
+#: [Puzzle19]Frame15
+msgctxt "[Puzzle19]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic019.dds"
+
+#: [Puzzle19]Frame16
+msgctxt "[Puzzle19]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic019.dds"
+
+#: [Puzzle20]FrameAmount
+msgctxt "[Puzzle20]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle20]Frame0
+msgctxt "[Puzzle20]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic020.dds"
+
+#: [Puzzle20]Frame1
+msgctxt "[Puzzle20]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic020.dds"
+
+#: [Puzzle20]Frame2
+msgctxt "[Puzzle20]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic020.dds"
+
+#: [Puzzle20]Frame3
+msgctxt "[Puzzle20]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic020.dds"
+
+#: [Puzzle20]Frame4
+msgctxt "[Puzzle20]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic020.dds"
+
+#: [Puzzle20]Frame5
+msgctxt "[Puzzle20]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic020.dds"
+
+#: [Puzzle20]Frame6
+msgctxt "[Puzzle20]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic020.dds"
+
+#: [Puzzle20]Frame7
+msgctxt "[Puzzle20]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic020.dds"
+
+#: [Puzzle20]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic020.dds"
+
+#: [Puzzle20]Frame9
+msgctxt "[Puzzle20]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic020.dds"
+
+#: [Puzzle20]Frame10
+msgctxt "[Puzzle20]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic020.dds"
+
+#: [Puzzle20]Frame11
+msgctxt "[Puzzle20]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic020.dds"
+
+#: [Puzzle20]Frame12
+msgctxt "[Puzzle20]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic020.dds"
+
+#: [Puzzle20]Frame13
+msgctxt "[Puzzle20]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic020.dds"
+
+#: [Puzzle20]Frame14
+msgctxt "[Puzzle20]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic020.dds"
+
+#: [Puzzle20]Frame15
+msgctxt "[Puzzle20]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic020.dds"
+
+#: [Puzzle20]Frame16
+msgctxt "[Puzzle20]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic020.dds"
+
+#: [Puzzle21]FrameAmount
+msgctxt "[Puzzle21]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle21]Frame0
+msgctxt "[Puzzle21]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic021.dds"
+
+#: [Puzzle21]Frame1
+msgctxt "[Puzzle21]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic021.dds"
+
+#: [Puzzle21]Frame2
+msgctxt "[Puzzle21]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic021.dds"
+
+#: [Puzzle21]Frame3
+msgctxt "[Puzzle21]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic021.dds"
+
+#: [Puzzle21]Frame4
+msgctxt "[Puzzle21]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic021.dds"
+
+#: [Puzzle21]Frame5
+msgctxt "[Puzzle21]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic021.dds"
+
+#: [Puzzle21]Frame6
+msgctxt "[Puzzle21]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic021.dds"
+
+#: [Puzzle21]Frame7
+msgctxt "[Puzzle21]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic021.dds"
+
+#: [Puzzle21]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic021.dds"
+
+#: [Puzzle21]Frame9
+msgctxt "[Puzzle21]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic021.dds"
+
+#: [Puzzle21]Frame10
+msgctxt "[Puzzle21]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic021.dds"
+
+#: [Puzzle21]Frame11
+msgctxt "[Puzzle21]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic021.dds"
+
+#: [Puzzle21]Frame12
+msgctxt "[Puzzle21]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic021.dds"
+
+#: [Puzzle21]Frame13
+msgctxt "[Puzzle21]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic021.dds"
+
+#: [Puzzle21]Frame14
+msgctxt "[Puzzle21]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic021.dds"
+
+#: [Puzzle21]Frame15
+msgctxt "[Puzzle21]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic021.dds"
+
+#: [Puzzle21]Frame16
+msgctxt "[Puzzle21]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic021.dds"
+
+#: [Puzzle22]FrameAmount
+msgctxt "[Puzzle22]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle22]Frame0
+msgctxt "[Puzzle22]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic022.dds"
+
+#: [Puzzle22]Frame1
+msgctxt "[Puzzle22]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic022.dds"
+
+#: [Puzzle22]Frame2
+msgctxt "[Puzzle22]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic022.dds"
+
+#: [Puzzle22]Frame3
+msgctxt "[Puzzle22]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic022.dds"
+
+#: [Puzzle22]Frame4
+msgctxt "[Puzzle22]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic022.dds"
+
+#: [Puzzle22]Frame5
+msgctxt "[Puzzle22]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic022.dds"
+
+#: [Puzzle22]Frame6
+msgctxt "[Puzzle22]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic022.dds"
+
+#: [Puzzle22]Frame7
+msgctxt "[Puzzle22]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic022.dds"
+
+#: [Puzzle22]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic022.dds"
+
+#: [Puzzle22]Frame9
+msgctxt "[Puzzle22]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic022.dds"
+
+#: [Puzzle22]Frame10
+msgctxt "[Puzzle22]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic022.dds"
+
+#: [Puzzle22]Frame11
+msgctxt "[Puzzle22]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic022.dds"
+
+#: [Puzzle22]Frame12
+msgctxt "[Puzzle22]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic022.dds"
+
+#: [Puzzle22]Frame13
+msgctxt "[Puzzle22]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic022.dds"
+
+#: [Puzzle22]Frame14
+msgctxt "[Puzzle22]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic022.dds"
+
+#: [Puzzle22]Frame15
+msgctxt "[Puzzle22]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic022.dds"
+
+#: [Puzzle22]Frame16
+msgctxt "[Puzzle22]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic022.dds"
+
+#: [Puzzle23]FrameAmount
+msgctxt "[Puzzle23]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle23]Frame0
+msgctxt "[Puzzle23]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic023.dds"
+
+#: [Puzzle23]Frame1
+msgctxt "[Puzzle23]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic023.dds"
+
+#: [Puzzle23]Frame2
+msgctxt "[Puzzle23]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic023.dds"
+
+#: [Puzzle23]Frame3
+msgctxt "[Puzzle23]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic023.dds"
+
+#: [Puzzle23]Frame4
+msgctxt "[Puzzle23]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic023.dds"
+
+#: [Puzzle23]Frame5
+msgctxt "[Puzzle23]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic023.dds"
+
+#: [Puzzle23]Frame6
+msgctxt "[Puzzle23]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic023.dds"
+
+#: [Puzzle23]Frame7
+msgctxt "[Puzzle23]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic023.dds"
+
+#: [Puzzle23]Frame8
+msgid "data/map/cartoon/icecrypt/bg/five/09/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/09/pic023.dds"
+
+#: [Puzzle23]Frame9
+msgctxt "[Puzzle23]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/five/08/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/08/pic023.dds"
+
+#: [Puzzle23]Frame10
+msgctxt "[Puzzle23]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/five/07/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/07/pic023.dds"
+
+#: [Puzzle23]Frame11
+msgctxt "[Puzzle23]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/five/06/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/06/pic023.dds"
+
+#: [Puzzle23]Frame12
+msgctxt "[Puzzle23]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/five/05/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/05/pic023.dds"
+
+#: [Puzzle23]Frame13
+msgctxt "[Puzzle23]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/five/04/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/04/pic023.dds"
+
+#: [Puzzle23]Frame14
+msgctxt "[Puzzle23]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/five/03/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/03/pic023.dds"
+
+#: [Puzzle23]Frame15
+msgctxt "[Puzzle23]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/five/02/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/02/pic023.dds"
+
+#: [Puzzle23]Frame16
+msgctxt "[Puzzle23]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/five/01/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/five/01/pic023.dds"
+
+#: [Puzzle24]FrameAmount
+msgctxt "[Puzzle24]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle24]Frame0
+msgctxt "[Puzzle24]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic000.dds"
+
+#: [Puzzle24]Frame1
+msgctxt "[Puzzle24]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic000.dds"
+
+#: [Puzzle24]Frame2
+msgctxt "[Puzzle24]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic000.dds"
+
+#: [Puzzle24]Frame3
+msgctxt "[Puzzle24]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic000.dds"
+
+#: [Puzzle24]Frame4
+msgctxt "[Puzzle24]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic000.dds"
+
+#: [Puzzle24]Frame5
+msgctxt "[Puzzle24]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic000.dds"
+
+#: [Puzzle24]Frame6
+msgctxt "[Puzzle24]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic000.dds"
+
+#: [Puzzle24]Frame7
+msgctxt "[Puzzle24]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic000.dds"
+
+#: [Puzzle24]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic000.dds"
+
+#: [Puzzle24]Frame9
+msgctxt "[Puzzle24]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic000.dds"
+
+#: [Puzzle24]Frame10
+msgctxt "[Puzzle24]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic000.dds"
+
+#: [Puzzle24]Frame11
+msgctxt "[Puzzle24]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic000.dds"
+
+#: [Puzzle24]Frame12
+msgctxt "[Puzzle24]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic000.dds"
+
+#: [Puzzle24]Frame13
+msgctxt "[Puzzle24]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic000.dds"
+
+#: [Puzzle24]Frame14
+msgctxt "[Puzzle24]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic000.dds"
+
+#: [Puzzle24]Frame15
+msgctxt "[Puzzle24]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic000.dds"
+
+#: [Puzzle24]Frame16
+msgctxt "[Puzzle24]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic000.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic000.dds"
+
+#: [Puzzle25]FrameAmount
+msgctxt "[Puzzle25]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle25]Frame0
+msgctxt "[Puzzle25]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic001.dds"
+
+#: [Puzzle25]Frame1
+msgctxt "[Puzzle25]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic001.dds"
+
+#: [Puzzle25]Frame2
+msgctxt "[Puzzle25]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic001.dds"
+
+#: [Puzzle25]Frame3
+msgctxt "[Puzzle25]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic001.dds"
+
+#: [Puzzle25]Frame4
+msgctxt "[Puzzle25]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic001.dds"
+
+#: [Puzzle25]Frame5
+msgctxt "[Puzzle25]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic001.dds"
+
+#: [Puzzle25]Frame6
+msgctxt "[Puzzle25]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic001.dds"
+
+#: [Puzzle25]Frame7
+msgctxt "[Puzzle25]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic001.dds"
+
+#: [Puzzle25]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic001.dds"
+
+#: [Puzzle25]Frame9
+msgctxt "[Puzzle25]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic001.dds"
+
+#: [Puzzle25]Frame10
+msgctxt "[Puzzle25]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic001.dds"
+
+#: [Puzzle25]Frame11
+msgctxt "[Puzzle25]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic001.dds"
+
+#: [Puzzle25]Frame12
+msgctxt "[Puzzle25]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic001.dds"
+
+#: [Puzzle25]Frame13
+msgctxt "[Puzzle25]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic001.dds"
+
+#: [Puzzle25]Frame14
+msgctxt "[Puzzle25]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic001.dds"
+
+#: [Puzzle25]Frame15
+msgctxt "[Puzzle25]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic001.dds"
+
+#: [Puzzle25]Frame16
+msgctxt "[Puzzle25]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic001.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic001.dds"
+
+#: [Puzzle26]FrameAmount
+msgctxt "[Puzzle26]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle26]Frame0
+msgctxt "[Puzzle26]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic002.dds"
+
+#: [Puzzle26]Frame1
+msgctxt "[Puzzle26]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic002.dds"
+
+#: [Puzzle26]Frame2
+msgctxt "[Puzzle26]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic002.dds"
+
+#: [Puzzle26]Frame3
+msgctxt "[Puzzle26]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic002.dds"
+
+#: [Puzzle26]Frame4
+msgctxt "[Puzzle26]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic002.dds"
+
+#: [Puzzle26]Frame5
+msgctxt "[Puzzle26]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic002.dds"
+
+#: [Puzzle26]Frame6
+msgctxt "[Puzzle26]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic002.dds"
+
+#: [Puzzle26]Frame7
+msgctxt "[Puzzle26]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic002.dds"
+
+#: [Puzzle26]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic002.dds"
+
+#: [Puzzle26]Frame9
+msgctxt "[Puzzle26]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic002.dds"
+
+#: [Puzzle26]Frame10
+msgctxt "[Puzzle26]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic002.dds"
+
+#: [Puzzle26]Frame11
+msgctxt "[Puzzle26]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic002.dds"
+
+#: [Puzzle26]Frame12
+msgctxt "[Puzzle26]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic002.dds"
+
+#: [Puzzle26]Frame13
+msgctxt "[Puzzle26]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic002.dds"
+
+#: [Puzzle26]Frame14
+msgctxt "[Puzzle26]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic002.dds"
+
+#: [Puzzle26]Frame15
+msgctxt "[Puzzle26]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic002.dds"
+
+#: [Puzzle26]Frame16
+msgctxt "[Puzzle26]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic002.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic002.dds"
+
+#: [Puzzle27]FrameAmount
+msgctxt "[Puzzle27]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle27]Frame0
+msgctxt "[Puzzle27]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic003.dds"
+
+#: [Puzzle27]Frame1
+msgctxt "[Puzzle27]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic003.dds"
+
+#: [Puzzle27]Frame2
+msgctxt "[Puzzle27]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic003.dds"
+
+#: [Puzzle27]Frame3
+msgctxt "[Puzzle27]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic003.dds"
+
+#: [Puzzle27]Frame4
+msgctxt "[Puzzle27]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic003.dds"
+
+#: [Puzzle27]Frame5
+msgctxt "[Puzzle27]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic003.dds"
+
+#: [Puzzle27]Frame6
+msgctxt "[Puzzle27]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic003.dds"
+
+#: [Puzzle27]Frame7
+msgctxt "[Puzzle27]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic003.dds"
+
+#: [Puzzle27]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic003.dds"
+
+#: [Puzzle27]Frame9
+msgctxt "[Puzzle27]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic003.dds"
+
+#: [Puzzle27]Frame10
+msgctxt "[Puzzle27]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic003.dds"
+
+#: [Puzzle27]Frame11
+msgctxt "[Puzzle27]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic003.dds"
+
+#: [Puzzle27]Frame12
+msgctxt "[Puzzle27]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic003.dds"
+
+#: [Puzzle27]Frame13
+msgctxt "[Puzzle27]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic003.dds"
+
+#: [Puzzle27]Frame14
+msgctxt "[Puzzle27]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic003.dds"
+
+#: [Puzzle27]Frame15
+msgctxt "[Puzzle27]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic003.dds"
+
+#: [Puzzle27]Frame16
+msgctxt "[Puzzle27]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic003.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic003.dds"
+
+#: [Puzzle28]FrameAmount
+msgctxt "[Puzzle28]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle28]Frame0
+msgctxt "[Puzzle28]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic004.dds"
+
+#: [Puzzle28]Frame1
+msgctxt "[Puzzle28]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic004.dds"
+
+#: [Puzzle28]Frame2
+msgctxt "[Puzzle28]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic004.dds"
+
+#: [Puzzle28]Frame3
+msgctxt "[Puzzle28]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic004.dds"
+
+#: [Puzzle28]Frame4
+msgctxt "[Puzzle28]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic004.dds"
+
+#: [Puzzle28]Frame5
+msgctxt "[Puzzle28]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic004.dds"
+
+#: [Puzzle28]Frame6
+msgctxt "[Puzzle28]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic004.dds"
+
+#: [Puzzle28]Frame7
+msgctxt "[Puzzle28]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic004.dds"
+
+#: [Puzzle28]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic004.dds"
+
+#: [Puzzle28]Frame9
+msgctxt "[Puzzle28]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic004.dds"
+
+#: [Puzzle28]Frame10
+msgctxt "[Puzzle28]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic004.dds"
+
+#: [Puzzle28]Frame11
+msgctxt "[Puzzle28]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic004.dds"
+
+#: [Puzzle28]Frame12
+msgctxt "[Puzzle28]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic004.dds"
+
+#: [Puzzle28]Frame13
+msgctxt "[Puzzle28]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic004.dds"
+
+#: [Puzzle28]Frame14
+msgctxt "[Puzzle28]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic004.dds"
+
+#: [Puzzle28]Frame15
+msgctxt "[Puzzle28]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic004.dds"
+
+#: [Puzzle28]Frame16
+msgctxt "[Puzzle28]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic004.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic004.dds"
+
+#: [Puzzle29]FrameAmount
+msgctxt "[Puzzle29]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle29]Frame0
+msgctxt "[Puzzle29]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic005.dds"
+
+#: [Puzzle29]Frame1
+msgctxt "[Puzzle29]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic005.dds"
+
+#: [Puzzle29]Frame2
+msgctxt "[Puzzle29]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic005.dds"
+
+#: [Puzzle29]Frame3
+msgctxt "[Puzzle29]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic005.dds"
+
+#: [Puzzle29]Frame4
+msgctxt "[Puzzle29]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic005.dds"
+
+#: [Puzzle29]Frame5
+msgctxt "[Puzzle29]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic005.dds"
+
+#: [Puzzle29]Frame6
+msgctxt "[Puzzle29]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic005.dds"
+
+#: [Puzzle29]Frame7
+msgctxt "[Puzzle29]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic005.dds"
+
+#: [Puzzle29]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic005.dds"
+
+#: [Puzzle29]Frame9
+msgctxt "[Puzzle29]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic005.dds"
+
+#: [Puzzle29]Frame10
+msgctxt "[Puzzle29]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic005.dds"
+
+#: [Puzzle29]Frame11
+msgctxt "[Puzzle29]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic005.dds"
+
+#: [Puzzle29]Frame12
+msgctxt "[Puzzle29]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic005.dds"
+
+#: [Puzzle29]Frame13
+msgctxt "[Puzzle29]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic005.dds"
+
+#: [Puzzle29]Frame14
+msgctxt "[Puzzle29]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic005.dds"
+
+#: [Puzzle29]Frame15
+msgctxt "[Puzzle29]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic005.dds"
+
+#: [Puzzle29]Frame16
+msgctxt "[Puzzle29]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic005.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic005.dds"
+
+#: [Puzzle30]FrameAmount
+msgctxt "[Puzzle30]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle30]Frame0
+msgctxt "[Puzzle30]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic006.dds"
+
+#: [Puzzle30]Frame1
+msgctxt "[Puzzle30]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic006.dds"
+
+#: [Puzzle30]Frame2
+msgctxt "[Puzzle30]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic006.dds"
+
+#: [Puzzle30]Frame3
+msgctxt "[Puzzle30]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic006.dds"
+
+#: [Puzzle30]Frame4
+msgctxt "[Puzzle30]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic006.dds"
+
+#: [Puzzle30]Frame5
+msgctxt "[Puzzle30]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic006.dds"
+
+#: [Puzzle30]Frame6
+msgctxt "[Puzzle30]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic006.dds"
+
+#: [Puzzle30]Frame7
+msgctxt "[Puzzle30]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic006.dds"
+
+#: [Puzzle30]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic006.dds"
+
+#: [Puzzle30]Frame9
+msgctxt "[Puzzle30]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic006.dds"
+
+#: [Puzzle30]Frame10
+msgctxt "[Puzzle30]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic006.dds"
+
+#: [Puzzle30]Frame11
+msgctxt "[Puzzle30]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic006.dds"
+
+#: [Puzzle30]Frame12
+msgctxt "[Puzzle30]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic006.dds"
+
+#: [Puzzle30]Frame13
+msgctxt "[Puzzle30]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic006.dds"
+
+#: [Puzzle30]Frame14
+msgctxt "[Puzzle30]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic006.dds"
+
+#: [Puzzle30]Frame15
+msgctxt "[Puzzle30]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic006.dds"
+
+#: [Puzzle30]Frame16
+msgctxt "[Puzzle30]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic006.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic006.dds"
+
+#: [Puzzle31]FrameAmount
+msgctxt "[Puzzle31]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle31]Frame0
+msgctxt "[Puzzle31]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic007.dds"
+
+#: [Puzzle31]Frame1
+msgctxt "[Puzzle31]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic007.dds"
+
+#: [Puzzle31]Frame2
+msgctxt "[Puzzle31]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic007.dds"
+
+#: [Puzzle31]Frame3
+msgctxt "[Puzzle31]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic007.dds"
+
+#: [Puzzle31]Frame4
+msgctxt "[Puzzle31]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic007.dds"
+
+#: [Puzzle31]Frame5
+msgctxt "[Puzzle31]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic007.dds"
+
+#: [Puzzle31]Frame6
+msgctxt "[Puzzle31]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic007.dds"
+
+#: [Puzzle31]Frame7
+msgctxt "[Puzzle31]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic007.dds"
+
+#: [Puzzle31]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic007.dds"
+
+#: [Puzzle31]Frame9
+msgctxt "[Puzzle31]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic007.dds"
+
+#: [Puzzle31]Frame10
+msgctxt "[Puzzle31]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic007.dds"
+
+#: [Puzzle31]Frame11
+msgctxt "[Puzzle31]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic007.dds"
+
+#: [Puzzle31]Frame12
+msgctxt "[Puzzle31]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic007.dds"
+
+#: [Puzzle31]Frame13
+msgctxt "[Puzzle31]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic007.dds"
+
+#: [Puzzle31]Frame14
+msgctxt "[Puzzle31]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic007.dds"
+
+#: [Puzzle31]Frame15
+msgctxt "[Puzzle31]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic007.dds"
+
+#: [Puzzle31]Frame16
+msgctxt "[Puzzle31]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic007.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic007.dds"
+
+#: [Puzzle32]FrameAmount
+msgctxt "[Puzzle32]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle32]Frame0
+msgctxt "[Puzzle32]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic008.dds"
+
+#: [Puzzle32]Frame1
+msgctxt "[Puzzle32]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic008.dds"
+
+#: [Puzzle32]Frame2
+msgctxt "[Puzzle32]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic008.dds"
+
+#: [Puzzle32]Frame3
+msgctxt "[Puzzle32]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic008.dds"
+
+#: [Puzzle32]Frame4
+msgctxt "[Puzzle32]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic008.dds"
+
+#: [Puzzle32]Frame5
+msgctxt "[Puzzle32]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic008.dds"
+
+#: [Puzzle32]Frame6
+msgctxt "[Puzzle32]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic008.dds"
+
+#: [Puzzle32]Frame7
+msgctxt "[Puzzle32]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic008.dds"
+
+#: [Puzzle32]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic008.dds"
+
+#: [Puzzle32]Frame9
+msgctxt "[Puzzle32]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic008.dds"
+
+#: [Puzzle32]Frame10
+msgctxt "[Puzzle32]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic008.dds"
+
+#: [Puzzle32]Frame11
+msgctxt "[Puzzle32]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic008.dds"
+
+#: [Puzzle32]Frame12
+msgctxt "[Puzzle32]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic008.dds"
+
+#: [Puzzle32]Frame13
+msgctxt "[Puzzle32]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic008.dds"
+
+#: [Puzzle32]Frame14
+msgctxt "[Puzzle32]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic008.dds"
+
+#: [Puzzle32]Frame15
+msgctxt "[Puzzle32]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic008.dds"
+
+#: [Puzzle32]Frame16
+msgctxt "[Puzzle32]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic008.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic008.dds"
+
+#: [Puzzle33]FrameAmount
+msgctxt "[Puzzle33]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle33]Frame0
+msgctxt "[Puzzle33]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic009.dds"
+
+#: [Puzzle33]Frame1
+msgctxt "[Puzzle33]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic009.dds"
+
+#: [Puzzle33]Frame2
+msgctxt "[Puzzle33]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic009.dds"
+
+#: [Puzzle33]Frame3
+msgctxt "[Puzzle33]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic009.dds"
+
+#: [Puzzle33]Frame4
+msgctxt "[Puzzle33]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic009.dds"
+
+#: [Puzzle33]Frame5
+msgctxt "[Puzzle33]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic009.dds"
+
+#: [Puzzle33]Frame6
+msgctxt "[Puzzle33]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic009.dds"
+
+#: [Puzzle33]Frame7
+msgctxt "[Puzzle33]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic009.dds"
+
+#: [Puzzle33]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic009.dds"
+
+#: [Puzzle33]Frame9
+msgctxt "[Puzzle33]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic009.dds"
+
+#: [Puzzle33]Frame10
+msgctxt "[Puzzle33]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic009.dds"
+
+#: [Puzzle33]Frame11
+msgctxt "[Puzzle33]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic009.dds"
+
+#: [Puzzle33]Frame12
+msgctxt "[Puzzle33]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic009.dds"
+
+#: [Puzzle33]Frame13
+msgctxt "[Puzzle33]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic009.dds"
+
+#: [Puzzle33]Frame14
+msgctxt "[Puzzle33]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic009.dds"
+
+#: [Puzzle33]Frame15
+msgctxt "[Puzzle33]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic009.dds"
+
+#: [Puzzle33]Frame16
+msgctxt "[Puzzle33]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic009.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic009.dds"
+
+#: [Puzzle34]FrameAmount
+msgctxt "[Puzzle34]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle34]Frame0
+msgctxt "[Puzzle34]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic010.dds"
+
+#: [Puzzle34]Frame1
+msgctxt "[Puzzle34]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic010.dds"
+
+#: [Puzzle34]Frame2
+msgctxt "[Puzzle34]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic010.dds"
+
+#: [Puzzle34]Frame3
+msgctxt "[Puzzle34]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic010.dds"
+
+#: [Puzzle34]Frame4
+msgctxt "[Puzzle34]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic010.dds"
+
+#: [Puzzle34]Frame5
+msgctxt "[Puzzle34]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic010.dds"
+
+#: [Puzzle34]Frame6
+msgctxt "[Puzzle34]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic010.dds"
+
+#: [Puzzle34]Frame7
+msgctxt "[Puzzle34]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic010.dds"
+
+#: [Puzzle34]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic010.dds"
+
+#: [Puzzle34]Frame9
+msgctxt "[Puzzle34]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic010.dds"
+
+#: [Puzzle34]Frame10
+msgctxt "[Puzzle34]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic010.dds"
+
+#: [Puzzle34]Frame11
+msgctxt "[Puzzle34]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic010.dds"
+
+#: [Puzzle34]Frame12
+msgctxt "[Puzzle34]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic010.dds"
+
+#: [Puzzle34]Frame13
+msgctxt "[Puzzle34]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic010.dds"
+
+#: [Puzzle34]Frame14
+msgctxt "[Puzzle34]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic010.dds"
+
+#: [Puzzle34]Frame15
+msgctxt "[Puzzle34]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic010.dds"
+
+#: [Puzzle34]Frame16
+msgctxt "[Puzzle34]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic010.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic010.dds"
+
+#: [Puzzle35]FrameAmount
+msgctxt "[Puzzle35]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle35]Frame0
+msgctxt "[Puzzle35]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic011.dds"
+
+#: [Puzzle35]Frame1
+msgctxt "[Puzzle35]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic011.dds"
+
+#: [Puzzle35]Frame2
+msgctxt "[Puzzle35]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic011.dds"
+
+#: [Puzzle35]Frame3
+msgctxt "[Puzzle35]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic011.dds"
+
+#: [Puzzle35]Frame4
+msgctxt "[Puzzle35]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic011.dds"
+
+#: [Puzzle35]Frame5
+msgctxt "[Puzzle35]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic011.dds"
+
+#: [Puzzle35]Frame6
+msgctxt "[Puzzle35]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic011.dds"
+
+#: [Puzzle35]Frame7
+msgctxt "[Puzzle35]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic011.dds"
+
+#: [Puzzle35]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic011.dds"
+
+#: [Puzzle35]Frame9
+msgctxt "[Puzzle35]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic011.dds"
+
+#: [Puzzle35]Frame10
+msgctxt "[Puzzle35]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic011.dds"
+
+#: [Puzzle35]Frame11
+msgctxt "[Puzzle35]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic011.dds"
+
+#: [Puzzle35]Frame12
+msgctxt "[Puzzle35]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic011.dds"
+
+#: [Puzzle35]Frame13
+msgctxt "[Puzzle35]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic011.dds"
+
+#: [Puzzle35]Frame14
+msgctxt "[Puzzle35]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic011.dds"
+
+#: [Puzzle35]Frame15
+msgctxt "[Puzzle35]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic011.dds"
+
+#: [Puzzle35]Frame16
+msgctxt "[Puzzle35]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic011.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic011.dds"
+
+#: [Puzzle36]FrameAmount
+msgctxt "[Puzzle36]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle36]Frame0
+msgctxt "[Puzzle36]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic012.dds"
+
+#: [Puzzle36]Frame1
+msgctxt "[Puzzle36]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic012.dds"
+
+#: [Puzzle36]Frame2
+msgctxt "[Puzzle36]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic012.dds"
+
+#: [Puzzle36]Frame3
+msgctxt "[Puzzle36]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic012.dds"
+
+#: [Puzzle36]Frame4
+msgctxt "[Puzzle36]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic012.dds"
+
+#: [Puzzle36]Frame5
+msgctxt "[Puzzle36]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic012.dds"
+
+#: [Puzzle36]Frame6
+msgctxt "[Puzzle36]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic012.dds"
+
+#: [Puzzle36]Frame7
+msgctxt "[Puzzle36]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic012.dds"
+
+#: [Puzzle36]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic012.dds"
+
+#: [Puzzle36]Frame9
+msgctxt "[Puzzle36]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic012.dds"
+
+#: [Puzzle36]Frame10
+msgctxt "[Puzzle36]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic012.dds"
+
+#: [Puzzle36]Frame11
+msgctxt "[Puzzle36]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic012.dds"
+
+#: [Puzzle36]Frame12
+msgctxt "[Puzzle36]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic012.dds"
+
+#: [Puzzle36]Frame13
+msgctxt "[Puzzle36]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic012.dds"
+
+#: [Puzzle36]Frame14
+msgctxt "[Puzzle36]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic012.dds"
+
+#: [Puzzle36]Frame15
+msgctxt "[Puzzle36]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic012.dds"
+
+#: [Puzzle36]Frame16
+msgctxt "[Puzzle36]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic012.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic012.dds"
+
+#: [Puzzle37]FrameAmount
+msgctxt "[Puzzle37]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle37]Frame0
+msgctxt "[Puzzle37]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic013.dds"
+
+#: [Puzzle37]Frame1
+msgctxt "[Puzzle37]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic013.dds"
+
+#: [Puzzle37]Frame2
+msgctxt "[Puzzle37]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic013.dds"
+
+#: [Puzzle37]Frame3
+msgctxt "[Puzzle37]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic013.dds"
+
+#: [Puzzle37]Frame4
+msgctxt "[Puzzle37]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic013.dds"
+
+#: [Puzzle37]Frame5
+msgctxt "[Puzzle37]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic013.dds"
+
+#: [Puzzle37]Frame6
+msgctxt "[Puzzle37]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic013.dds"
+
+#: [Puzzle37]Frame7
+msgctxt "[Puzzle37]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic013.dds"
+
+#: [Puzzle37]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic013.dds"
+
+#: [Puzzle37]Frame9
+msgctxt "[Puzzle37]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic013.dds"
+
+#: [Puzzle37]Frame10
+msgctxt "[Puzzle37]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic013.dds"
+
+#: [Puzzle37]Frame11
+msgctxt "[Puzzle37]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic013.dds"
+
+#: [Puzzle37]Frame12
+msgctxt "[Puzzle37]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic013.dds"
+
+#: [Puzzle37]Frame13
+msgctxt "[Puzzle37]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic013.dds"
+
+#: [Puzzle37]Frame14
+msgctxt "[Puzzle37]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic013.dds"
+
+#: [Puzzle37]Frame15
+msgctxt "[Puzzle37]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic013.dds"
+
+#: [Puzzle37]Frame16
+msgctxt "[Puzzle37]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic013.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic013.dds"
+
+#: [Puzzle38]FrameAmount
+msgctxt "[Puzzle38]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle38]Frame0
+msgctxt "[Puzzle38]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic014.dds"
+
+#: [Puzzle38]Frame1
+msgctxt "[Puzzle38]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic014.dds"
+
+#: [Puzzle38]Frame2
+msgctxt "[Puzzle38]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic014.dds"
+
+#: [Puzzle38]Frame3
+msgctxt "[Puzzle38]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic014.dds"
+
+#: [Puzzle38]Frame4
+msgctxt "[Puzzle38]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic014.dds"
+
+#: [Puzzle38]Frame5
+msgctxt "[Puzzle38]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic014.dds"
+
+#: [Puzzle38]Frame6
+msgctxt "[Puzzle38]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic014.dds"
+
+#: [Puzzle38]Frame7
+msgctxt "[Puzzle38]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic014.dds"
+
+#: [Puzzle38]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic014.dds"
+
+#: [Puzzle38]Frame9
+msgctxt "[Puzzle38]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic014.dds"
+
+#: [Puzzle38]Frame10
+msgctxt "[Puzzle38]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic014.dds"
+
+#: [Puzzle38]Frame11
+msgctxt "[Puzzle38]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic014.dds"
+
+#: [Puzzle38]Frame12
+msgctxt "[Puzzle38]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic014.dds"
+
+#: [Puzzle38]Frame13
+msgctxt "[Puzzle38]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic014.dds"
+
+#: [Puzzle38]Frame14
+msgctxt "[Puzzle38]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic014.dds"
+
+#: [Puzzle38]Frame15
+msgctxt "[Puzzle38]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic014.dds"
+
+#: [Puzzle38]Frame16
+msgctxt "[Puzzle38]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic014.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic014.dds"
+
+#: [Puzzle39]FrameAmount
+msgctxt "[Puzzle39]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle39]Frame0
+msgctxt "[Puzzle39]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic015.dds"
+
+#: [Puzzle39]Frame1
+msgctxt "[Puzzle39]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic015.dds"
+
+#: [Puzzle39]Frame2
+msgctxt "[Puzzle39]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic015.dds"
+
+#: [Puzzle39]Frame3
+msgctxt "[Puzzle39]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic015.dds"
+
+#: [Puzzle39]Frame4
+msgctxt "[Puzzle39]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic015.dds"
+
+#: [Puzzle39]Frame5
+msgctxt "[Puzzle39]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic015.dds"
+
+#: [Puzzle39]Frame6
+msgctxt "[Puzzle39]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic015.dds"
+
+#: [Puzzle39]Frame7
+msgctxt "[Puzzle39]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic015.dds"
+
+#: [Puzzle39]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic015.dds"
+
+#: [Puzzle39]Frame9
+msgctxt "[Puzzle39]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic015.dds"
+
+#: [Puzzle39]Frame10
+msgctxt "[Puzzle39]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic015.dds"
+
+#: [Puzzle39]Frame11
+msgctxt "[Puzzle39]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic015.dds"
+
+#: [Puzzle39]Frame12
+msgctxt "[Puzzle39]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic015.dds"
+
+#: [Puzzle39]Frame13
+msgctxt "[Puzzle39]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic015.dds"
+
+#: [Puzzle39]Frame14
+msgctxt "[Puzzle39]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic015.dds"
+
+#: [Puzzle39]Frame15
+msgctxt "[Puzzle39]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic015.dds"
+
+#: [Puzzle39]Frame16
+msgctxt "[Puzzle39]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic015.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic015.dds"
+
+#: [Puzzle40]FrameAmount
+msgctxt "[Puzzle40]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle40]Frame0
+msgctxt "[Puzzle40]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic016.dds"
+
+#: [Puzzle40]Frame1
+msgctxt "[Puzzle40]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic016.dds"
+
+#: [Puzzle40]Frame2
+msgctxt "[Puzzle40]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic016.dds"
+
+#: [Puzzle40]Frame3
+msgctxt "[Puzzle40]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic016.dds"
+
+#: [Puzzle40]Frame4
+msgctxt "[Puzzle40]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic016.dds"
+
+#: [Puzzle40]Frame5
+msgctxt "[Puzzle40]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic016.dds"
+
+#: [Puzzle40]Frame6
+msgctxt "[Puzzle40]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic016.dds"
+
+#: [Puzzle40]Frame7
+msgctxt "[Puzzle40]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic016.dds"
+
+#: [Puzzle40]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic016.dds"
+
+#: [Puzzle40]Frame9
+msgctxt "[Puzzle40]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic016.dds"
+
+#: [Puzzle40]Frame10
+msgctxt "[Puzzle40]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic016.dds"
+
+#: [Puzzle40]Frame11
+msgctxt "[Puzzle40]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic016.dds"
+
+#: [Puzzle40]Frame12
+msgctxt "[Puzzle40]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic016.dds"
+
+#: [Puzzle40]Frame13
+msgctxt "[Puzzle40]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic016.dds"
+
+#: [Puzzle40]Frame14
+msgctxt "[Puzzle40]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic016.dds"
+
+#: [Puzzle40]Frame15
+msgctxt "[Puzzle40]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic016.dds"
+
+#: [Puzzle40]Frame16
+msgctxt "[Puzzle40]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic016.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic016.dds"
+
+#: [Puzzle41]FrameAmount
+msgctxt "[Puzzle41]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle41]Frame0
+msgctxt "[Puzzle41]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic017.dds"
+
+#: [Puzzle41]Frame1
+msgctxt "[Puzzle41]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic017.dds"
+
+#: [Puzzle41]Frame2
+msgctxt "[Puzzle41]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic017.dds"
+
+#: [Puzzle41]Frame3
+msgctxt "[Puzzle41]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic017.dds"
+
+#: [Puzzle41]Frame4
+msgctxt "[Puzzle41]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic017.dds"
+
+#: [Puzzle41]Frame5
+msgctxt "[Puzzle41]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic017.dds"
+
+#: [Puzzle41]Frame6
+msgctxt "[Puzzle41]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic017.dds"
+
+#: [Puzzle41]Frame7
+msgctxt "[Puzzle41]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic017.dds"
+
+#: [Puzzle41]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic017.dds"
+
+#: [Puzzle41]Frame9
+msgctxt "[Puzzle41]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic017.dds"
+
+#: [Puzzle41]Frame10
+msgctxt "[Puzzle41]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic017.dds"
+
+#: [Puzzle41]Frame11
+msgctxt "[Puzzle41]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic017.dds"
+
+#: [Puzzle41]Frame12
+msgctxt "[Puzzle41]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic017.dds"
+
+#: [Puzzle41]Frame13
+msgctxt "[Puzzle41]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic017.dds"
+
+#: [Puzzle41]Frame14
+msgctxt "[Puzzle41]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic017.dds"
+
+#: [Puzzle41]Frame15
+msgctxt "[Puzzle41]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic017.dds"
+
+#: [Puzzle41]Frame16
+msgctxt "[Puzzle41]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic017.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic017.dds"
+
+#: [Puzzle42]FrameAmount
+msgctxt "[Puzzle42]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle42]Frame0
+msgctxt "[Puzzle42]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic018.dds"
+
+#: [Puzzle42]Frame1
+msgctxt "[Puzzle42]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic018.dds"
+
+#: [Puzzle42]Frame2
+msgctxt "[Puzzle42]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic018.dds"
+
+#: [Puzzle42]Frame3
+msgctxt "[Puzzle42]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic018.dds"
+
+#: [Puzzle42]Frame4
+msgctxt "[Puzzle42]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic018.dds"
+
+#: [Puzzle42]Frame5
+msgctxt "[Puzzle42]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic018.dds"
+
+#: [Puzzle42]Frame6
+msgctxt "[Puzzle42]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic018.dds"
+
+#: [Puzzle42]Frame7
+msgctxt "[Puzzle42]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic018.dds"
+
+#: [Puzzle42]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic018.dds"
+
+#: [Puzzle42]Frame9
+msgctxt "[Puzzle42]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic018.dds"
+
+#: [Puzzle42]Frame10
+msgctxt "[Puzzle42]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic018.dds"
+
+#: [Puzzle42]Frame11
+msgctxt "[Puzzle42]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic018.dds"
+
+#: [Puzzle42]Frame12
+msgctxt "[Puzzle42]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic018.dds"
+
+#: [Puzzle42]Frame13
+msgctxt "[Puzzle42]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic018.dds"
+
+#: [Puzzle42]Frame14
+msgctxt "[Puzzle42]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic018.dds"
+
+#: [Puzzle42]Frame15
+msgctxt "[Puzzle42]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic018.dds"
+
+#: [Puzzle42]Frame16
+msgctxt "[Puzzle42]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic018.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic018.dds"
+
+#: [Puzzle43]FrameAmount
+msgctxt "[Puzzle43]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle43]Frame0
+msgctxt "[Puzzle43]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic019.dds"
+
+#: [Puzzle43]Frame1
+msgctxt "[Puzzle43]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic019.dds"
+
+#: [Puzzle43]Frame2
+msgctxt "[Puzzle43]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic019.dds"
+
+#: [Puzzle43]Frame3
+msgctxt "[Puzzle43]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic019.dds"
+
+#: [Puzzle43]Frame4
+msgctxt "[Puzzle43]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic019.dds"
+
+#: [Puzzle43]Frame5
+msgctxt "[Puzzle43]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic019.dds"
+
+#: [Puzzle43]Frame6
+msgctxt "[Puzzle43]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic019.dds"
+
+#: [Puzzle43]Frame7
+msgctxt "[Puzzle43]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic019.dds"
+
+#: [Puzzle43]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic019.dds"
+
+#: [Puzzle43]Frame9
+msgctxt "[Puzzle43]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic019.dds"
+
+#: [Puzzle43]Frame10
+msgctxt "[Puzzle43]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic019.dds"
+
+#: [Puzzle43]Frame11
+msgctxt "[Puzzle43]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic019.dds"
+
+#: [Puzzle43]Frame12
+msgctxt "[Puzzle43]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic019.dds"
+
+#: [Puzzle43]Frame13
+msgctxt "[Puzzle43]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic019.dds"
+
+#: [Puzzle43]Frame14
+msgctxt "[Puzzle43]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic019.dds"
+
+#: [Puzzle43]Frame15
+msgctxt "[Puzzle43]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic019.dds"
+
+#: [Puzzle43]Frame16
+msgctxt "[Puzzle43]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic019.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic019.dds"
+
+#: [Puzzle44]FrameAmount
+msgctxt "[Puzzle44]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle44]Frame0
+msgctxt "[Puzzle44]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic020.dds"
+
+#: [Puzzle44]Frame1
+msgctxt "[Puzzle44]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic020.dds"
+
+#: [Puzzle44]Frame2
+msgctxt "[Puzzle44]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic020.dds"
+
+#: [Puzzle44]Frame3
+msgctxt "[Puzzle44]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic020.dds"
+
+#: [Puzzle44]Frame4
+msgctxt "[Puzzle44]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic020.dds"
+
+#: [Puzzle44]Frame5
+msgctxt "[Puzzle44]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic020.dds"
+
+#: [Puzzle44]Frame6
+msgctxt "[Puzzle44]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic020.dds"
+
+#: [Puzzle44]Frame7
+msgctxt "[Puzzle44]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic020.dds"
+
+#: [Puzzle44]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic020.dds"
+
+#: [Puzzle44]Frame9
+msgctxt "[Puzzle44]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic020.dds"
+
+#: [Puzzle44]Frame10
+msgctxt "[Puzzle44]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic020.dds"
+
+#: [Puzzle44]Frame11
+msgctxt "[Puzzle44]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic020.dds"
+
+#: [Puzzle44]Frame12
+msgctxt "[Puzzle44]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic020.dds"
+
+#: [Puzzle44]Frame13
+msgctxt "[Puzzle44]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic020.dds"
+
+#: [Puzzle44]Frame14
+msgctxt "[Puzzle44]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic020.dds"
+
+#: [Puzzle44]Frame15
+msgctxt "[Puzzle44]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic020.dds"
+
+#: [Puzzle44]Frame16
+msgctxt "[Puzzle44]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic020.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic020.dds"
+
+#: [Puzzle45]FrameAmount
+msgctxt "[Puzzle45]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle45]Frame0
+msgctxt "[Puzzle45]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic021.dds"
+
+#: [Puzzle45]Frame1
+msgctxt "[Puzzle45]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic021.dds"
+
+#: [Puzzle45]Frame2
+msgctxt "[Puzzle45]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic021.dds"
+
+#: [Puzzle45]Frame3
+msgctxt "[Puzzle45]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic021.dds"
+
+#: [Puzzle45]Frame4
+msgctxt "[Puzzle45]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic021.dds"
+
+#: [Puzzle45]Frame5
+msgctxt "[Puzzle45]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic021.dds"
+
+#: [Puzzle45]Frame6
+msgctxt "[Puzzle45]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic021.dds"
+
+#: [Puzzle45]Frame7
+msgctxt "[Puzzle45]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic021.dds"
+
+#: [Puzzle45]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic021.dds"
+
+#: [Puzzle45]Frame9
+msgctxt "[Puzzle45]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic021.dds"
+
+#: [Puzzle45]Frame10
+msgctxt "[Puzzle45]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic021.dds"
+
+#: [Puzzle45]Frame11
+msgctxt "[Puzzle45]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic021.dds"
+
+#: [Puzzle45]Frame12
+msgctxt "[Puzzle45]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic021.dds"
+
+#: [Puzzle45]Frame13
+msgctxt "[Puzzle45]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic021.dds"
+
+#: [Puzzle45]Frame14
+msgctxt "[Puzzle45]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic021.dds"
+
+#: [Puzzle45]Frame15
+msgctxt "[Puzzle45]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic021.dds"
+
+#: [Puzzle45]Frame16
+msgctxt "[Puzzle45]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic021.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic021.dds"
+
+#: [Puzzle46]FrameAmount
+msgctxt "[Puzzle46]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle46]Frame0
+msgctxt "[Puzzle46]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic022.dds"
+
+#: [Puzzle46]Frame1
+msgctxt "[Puzzle46]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic022.dds"
+
+#: [Puzzle46]Frame2
+msgctxt "[Puzzle46]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic022.dds"
+
+#: [Puzzle46]Frame3
+msgctxt "[Puzzle46]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic022.dds"
+
+#: [Puzzle46]Frame4
+msgctxt "[Puzzle46]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic022.dds"
+
+#: [Puzzle46]Frame5
+msgctxt "[Puzzle46]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic022.dds"
+
+#: [Puzzle46]Frame6
+msgctxt "[Puzzle46]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic022.dds"
+
+#: [Puzzle46]Frame7
+msgctxt "[Puzzle46]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic022.dds"
+
+#: [Puzzle46]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic022.dds"
+
+#: [Puzzle46]Frame9
+msgctxt "[Puzzle46]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic022.dds"
+
+#: [Puzzle46]Frame10
+msgctxt "[Puzzle46]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic022.dds"
+
+#: [Puzzle46]Frame11
+msgctxt "[Puzzle46]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic022.dds"
+
+#: [Puzzle46]Frame12
+msgctxt "[Puzzle46]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic022.dds"
+
+#: [Puzzle46]Frame13
+msgctxt "[Puzzle46]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic022.dds"
+
+#: [Puzzle46]Frame14
+msgctxt "[Puzzle46]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic022.dds"
+
+#: [Puzzle46]Frame15
+msgctxt "[Puzzle46]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic022.dds"
+
+#: [Puzzle46]Frame16
+msgctxt "[Puzzle46]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic022.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic022.dds"
+
+#: [Puzzle47]FrameAmount
+msgctxt "[Puzzle47]FrameAmount"
+msgid "17"
+msgstr "17"
+
+#: [Puzzle47]Frame0
+msgctxt "[Puzzle47]Frame0"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic023.dds"
+
+#: [Puzzle47]Frame1
+msgctxt "[Puzzle47]Frame1"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic023.dds"
+
+#: [Puzzle47]Frame2
+msgctxt "[Puzzle47]Frame2"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic023.dds"
+
+#: [Puzzle47]Frame3
+msgctxt "[Puzzle47]Frame3"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic023.dds"
+
+#: [Puzzle47]Frame4
+msgctxt "[Puzzle47]Frame4"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic023.dds"
+
+#: [Puzzle47]Frame5
+msgctxt "[Puzzle47]Frame5"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic023.dds"
+
+#: [Puzzle47]Frame6
+msgctxt "[Puzzle47]Frame6"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic023.dds"
+
+#: [Puzzle47]Frame7
+msgctxt "[Puzzle47]Frame7"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic023.dds"
+
+#: [Puzzle47]Frame8
+msgid "data/map/cartoon/icecrypt/bg/six/09/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/09/pic023.dds"
+
+#: [Puzzle47]Frame9
+msgctxt "[Puzzle47]Frame9"
+msgid "data/map/cartoon/icecrypt/bg/six/08/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/08/pic023.dds"
+
+#: [Puzzle47]Frame10
+msgctxt "[Puzzle47]Frame10"
+msgid "data/map/cartoon/icecrypt/bg/six/07/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/07/pic023.dds"
+
+#: [Puzzle47]Frame11
+msgctxt "[Puzzle47]Frame11"
+msgid "data/map/cartoon/icecrypt/bg/six/06/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/06/pic023.dds"
+
+#: [Puzzle47]Frame12
+msgctxt "[Puzzle47]Frame12"
+msgid "data/map/cartoon/icecrypt/bg/six/05/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/05/pic023.dds"
+
+#: [Puzzle47]Frame13
+msgctxt "[Puzzle47]Frame13"
+msgid "data/map/cartoon/icecrypt/bg/six/04/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/04/pic023.dds"
+
+#: [Puzzle47]Frame14
+msgctxt "[Puzzle47]Frame14"
+msgid "data/map/cartoon/icecrypt/bg/six/03/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/03/pic023.dds"
+
+#: [Puzzle47]Frame15
+msgctxt "[Puzzle47]Frame15"
+msgid "data/map/cartoon/icecrypt/bg/six/02/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/02/pic023.dds"
+
+#: [Puzzle47]Frame16
+msgctxt "[Puzzle47]Frame16"
+msgid "data/map/cartoon/icecrypt/bg/six/01/pic023.dds"
+msgstr "data/map/cartoon/icecrypt/bg/six/01/pic023.dds"
+
+#: [Puzzle48]FrameAmount
+msgctxt "[Puzzle48]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle48]Frame0
+msgctxt "[Puzzle48]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0000.dds"
+
+#: [Puzzle48]Frame1
+msgctxt "[Puzzle48]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0000.dds"
+
+#: [Puzzle48]Frame2
+msgctxt "[Puzzle48]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0000.dds"
+
+#: [Puzzle48]Frame3
+msgctxt "[Puzzle48]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0000.dds"
+
+#: [Puzzle48]Frame4
+msgctxt "[Puzzle48]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0000.dds"
+
+#: [Puzzle48]Frame5
+msgctxt "[Puzzle48]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0000.dds"
+
+#: [Puzzle48]Frame6
+msgctxt "[Puzzle48]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0000.dds"
+
+#: [Puzzle48]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0000.dds"
+
+#: [Puzzle48]Frame8
+msgctxt "[Puzzle48]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0000.dds"
+
+#: [Puzzle48]Frame9
+msgctxt "[Puzzle48]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0000.dds"
+
+#: [Puzzle48]Frame10
+msgctxt "[Puzzle48]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0000.dds"
+
+#: [Puzzle48]Frame11
+msgctxt "[Puzzle48]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0000.dds"
+
+#: [Puzzle48]Frame12
+msgctxt "[Puzzle48]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0000.dds"
+
+#: [Puzzle48]Frame13
+msgctxt "[Puzzle48]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0000.dds"
+
+#: [Puzzle48]Frame14
+msgctxt "[Puzzle48]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0000.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0000.dds"
+
+#: [Puzzle49]FrameAmount
+msgctxt "[Puzzle49]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle49]Frame0
+msgctxt "[Puzzle49]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0001.dds"
+
+#: [Puzzle49]Frame1
+msgctxt "[Puzzle49]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0001.dds"
+
+#: [Puzzle49]Frame2
+msgctxt "[Puzzle49]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0001.dds"
+
+#: [Puzzle49]Frame3
+msgctxt "[Puzzle49]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0001.dds"
+
+#: [Puzzle49]Frame4
+msgctxt "[Puzzle49]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0001.dds"
+
+#: [Puzzle49]Frame5
+msgctxt "[Puzzle49]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0001.dds"
+
+#: [Puzzle49]Frame6
+msgctxt "[Puzzle49]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0001.dds"
+
+#: [Puzzle49]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0001.dds"
+
+#: [Puzzle49]Frame8
+msgctxt "[Puzzle49]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0001.dds"
+
+#: [Puzzle49]Frame9
+msgctxt "[Puzzle49]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0001.dds"
+
+#: [Puzzle49]Frame10
+msgctxt "[Puzzle49]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0001.dds"
+
+#: [Puzzle49]Frame11
+msgctxt "[Puzzle49]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0001.dds"
+
+#: [Puzzle49]Frame12
+msgctxt "[Puzzle49]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0001.dds"
+
+#: [Puzzle49]Frame13
+msgctxt "[Puzzle49]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0001.dds"
+
+#: [Puzzle49]Frame14
+msgctxt "[Puzzle49]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0001.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0001.dds"
+
+#: [Puzzle50]FrameAmount
+msgctxt "[Puzzle50]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle50]Frame0
+msgctxt "[Puzzle50]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0002.dds"
+
+#: [Puzzle50]Frame1
+msgctxt "[Puzzle50]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0002.dds"
+
+#: [Puzzle50]Frame2
+msgctxt "[Puzzle50]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0002.dds"
+
+#: [Puzzle50]Frame3
+msgctxt "[Puzzle50]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0002.dds"
+
+#: [Puzzle50]Frame4
+msgctxt "[Puzzle50]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0002.dds"
+
+#: [Puzzle50]Frame5
+msgctxt "[Puzzle50]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0002.dds"
+
+#: [Puzzle50]Frame6
+msgctxt "[Puzzle50]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0002.dds"
+
+#: [Puzzle50]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0002.dds"
+
+#: [Puzzle50]Frame8
+msgctxt "[Puzzle50]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0002.dds"
+
+#: [Puzzle50]Frame9
+msgctxt "[Puzzle50]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0002.dds"
+
+#: [Puzzle50]Frame10
+msgctxt "[Puzzle50]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0002.dds"
+
+#: [Puzzle50]Frame11
+msgctxt "[Puzzle50]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0002.dds"
+
+#: [Puzzle50]Frame12
+msgctxt "[Puzzle50]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0002.dds"
+
+#: [Puzzle50]Frame13
+msgctxt "[Puzzle50]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0002.dds"
+
+#: [Puzzle50]Frame14
+msgctxt "[Puzzle50]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0002.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0002.dds"
+
+#: [Puzzle51]FrameAmount
+msgctxt "[Puzzle51]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle51]Frame0
+msgctxt "[Puzzle51]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0003.dds"
+
+#: [Puzzle51]Frame1
+msgctxt "[Puzzle51]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0003.dds"
+
+#: [Puzzle51]Frame2
+msgctxt "[Puzzle51]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0003.dds"
+
+#: [Puzzle51]Frame3
+msgctxt "[Puzzle51]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0003.dds"
+
+#: [Puzzle51]Frame4
+msgctxt "[Puzzle51]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0003.dds"
+
+#: [Puzzle51]Frame5
+msgctxt "[Puzzle51]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0003.dds"
+
+#: [Puzzle51]Frame6
+msgctxt "[Puzzle51]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0003.dds"
+
+#: [Puzzle51]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0003.dds"
+
+#: [Puzzle51]Frame8
+msgctxt "[Puzzle51]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0003.dds"
+
+#: [Puzzle51]Frame9
+msgctxt "[Puzzle51]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0003.dds"
+
+#: [Puzzle51]Frame10
+msgctxt "[Puzzle51]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0003.dds"
+
+#: [Puzzle51]Frame11
+msgctxt "[Puzzle51]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0003.dds"
+
+#: [Puzzle51]Frame12
+msgctxt "[Puzzle51]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0003.dds"
+
+#: [Puzzle51]Frame13
+msgctxt "[Puzzle51]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0003.dds"
+
+#: [Puzzle51]Frame14
+msgctxt "[Puzzle51]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0003.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0003.dds"
+
+#: [Puzzle52]FrameAmount
+msgctxt "[Puzzle52]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle52]Frame0
+msgctxt "[Puzzle52]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0004.dds"
+
+#: [Puzzle52]Frame1
+msgctxt "[Puzzle52]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0004.dds"
+
+#: [Puzzle52]Frame2
+msgctxt "[Puzzle52]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0004.dds"
+
+#: [Puzzle52]Frame3
+msgctxt "[Puzzle52]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0004.dds"
+
+#: [Puzzle52]Frame4
+msgctxt "[Puzzle52]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0004.dds"
+
+#: [Puzzle52]Frame5
+msgctxt "[Puzzle52]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0004.dds"
+
+#: [Puzzle52]Frame6
+msgctxt "[Puzzle52]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0004.dds"
+
+#: [Puzzle52]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0004.dds"
+
+#: [Puzzle52]Frame8
+msgctxt "[Puzzle52]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0004.dds"
+
+#: [Puzzle52]Frame9
+msgctxt "[Puzzle52]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0004.dds"
+
+#: [Puzzle52]Frame10
+msgctxt "[Puzzle52]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0004.dds"
+
+#: [Puzzle52]Frame11
+msgctxt "[Puzzle52]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0004.dds"
+
+#: [Puzzle52]Frame12
+msgctxt "[Puzzle52]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0004.dds"
+
+#: [Puzzle52]Frame13
+msgctxt "[Puzzle52]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0004.dds"
+
+#: [Puzzle52]Frame14
+msgctxt "[Puzzle52]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0004.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0004.dds"
+
+#: [Puzzle53]FrameAmount
+msgctxt "[Puzzle53]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle53]Frame0
+msgctxt "[Puzzle53]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0005.dds"
+
+#: [Puzzle53]Frame1
+msgctxt "[Puzzle53]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0005.dds"
+
+#: [Puzzle53]Frame2
+msgctxt "[Puzzle53]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0005.dds"
+
+#: [Puzzle53]Frame3
+msgctxt "[Puzzle53]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0005.dds"
+
+#: [Puzzle53]Frame4
+msgctxt "[Puzzle53]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0005.dds"
+
+#: [Puzzle53]Frame5
+msgctxt "[Puzzle53]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0005.dds"
+
+#: [Puzzle53]Frame6
+msgctxt "[Puzzle53]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0005.dds"
+
+#: [Puzzle53]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0005.dds"
+
+#: [Puzzle53]Frame8
+msgctxt "[Puzzle53]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0005.dds"
+
+#: [Puzzle53]Frame9
+msgctxt "[Puzzle53]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0005.dds"
+
+#: [Puzzle53]Frame10
+msgctxt "[Puzzle53]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0005.dds"
+
+#: [Puzzle53]Frame11
+msgctxt "[Puzzle53]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0005.dds"
+
+#: [Puzzle53]Frame12
+msgctxt "[Puzzle53]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0005.dds"
+
+#: [Puzzle53]Frame13
+msgctxt "[Puzzle53]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0005.dds"
+
+#: [Puzzle53]Frame14
+msgctxt "[Puzzle53]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0005.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0005.dds"
+
+#: [Puzzle54]FrameAmount
+msgctxt "[Puzzle54]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle54]Frame0
+msgctxt "[Puzzle54]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0006.dds"
+
+#: [Puzzle54]Frame1
+msgctxt "[Puzzle54]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0006.dds"
+
+#: [Puzzle54]Frame2
+msgctxt "[Puzzle54]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0006.dds"
+
+#: [Puzzle54]Frame3
+msgctxt "[Puzzle54]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0006.dds"
+
+#: [Puzzle54]Frame4
+msgctxt "[Puzzle54]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0006.dds"
+
+#: [Puzzle54]Frame5
+msgctxt "[Puzzle54]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0006.dds"
+
+#: [Puzzle54]Frame6
+msgctxt "[Puzzle54]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0006.dds"
+
+#: [Puzzle54]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0006.dds"
+
+#: [Puzzle54]Frame8
+msgctxt "[Puzzle54]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0006.dds"
+
+#: [Puzzle54]Frame9
+msgctxt "[Puzzle54]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0006.dds"
+
+#: [Puzzle54]Frame10
+msgctxt "[Puzzle54]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0006.dds"
+
+#: [Puzzle54]Frame11
+msgctxt "[Puzzle54]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0006.dds"
+
+#: [Puzzle54]Frame12
+msgctxt "[Puzzle54]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0006.dds"
+
+#: [Puzzle54]Frame13
+msgctxt "[Puzzle54]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0006.dds"
+
+#: [Puzzle54]Frame14
+msgctxt "[Puzzle54]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0006.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0006.dds"
+
+#: [Puzzle55]FrameAmount
+msgctxt "[Puzzle55]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle55]Frame0
+msgctxt "[Puzzle55]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0007.dds"
+
+#: [Puzzle55]Frame1
+msgctxt "[Puzzle55]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0007.dds"
+
+#: [Puzzle55]Frame2
+msgctxt "[Puzzle55]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0007.dds"
+
+#: [Puzzle55]Frame3
+msgctxt "[Puzzle55]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0007.dds"
+
+#: [Puzzle55]Frame4
+msgctxt "[Puzzle55]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0007.dds"
+
+#: [Puzzle55]Frame5
+msgctxt "[Puzzle55]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0007.dds"
+
+#: [Puzzle55]Frame6
+msgctxt "[Puzzle55]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0007.dds"
+
+#: [Puzzle55]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0007.dds"
+
+#: [Puzzle55]Frame8
+msgctxt "[Puzzle55]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0007.dds"
+
+#: [Puzzle55]Frame9
+msgctxt "[Puzzle55]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0007.dds"
+
+#: [Puzzle55]Frame10
+msgctxt "[Puzzle55]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0007.dds"
+
+#: [Puzzle55]Frame11
+msgctxt "[Puzzle55]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0007.dds"
+
+#: [Puzzle55]Frame12
+msgctxt "[Puzzle55]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0007.dds"
+
+#: [Puzzle55]Frame13
+msgctxt "[Puzzle55]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0007.dds"
+
+#: [Puzzle55]Frame14
+msgctxt "[Puzzle55]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0007.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0007.dds"
+
+#: [Puzzle56]FrameAmount
+msgctxt "[Puzzle56]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle56]Frame0
+msgctxt "[Puzzle56]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0008.dds"
+
+#: [Puzzle56]Frame1
+msgctxt "[Puzzle56]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0008.dds"
+
+#: [Puzzle56]Frame2
+msgctxt "[Puzzle56]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0008.dds"
+
+#: [Puzzle56]Frame3
+msgctxt "[Puzzle56]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0008.dds"
+
+#: [Puzzle56]Frame4
+msgctxt "[Puzzle56]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0008.dds"
+
+#: [Puzzle56]Frame5
+msgctxt "[Puzzle56]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0008.dds"
+
+#: [Puzzle56]Frame6
+msgctxt "[Puzzle56]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0008.dds"
+
+#: [Puzzle56]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0008.dds"
+
+#: [Puzzle56]Frame8
+msgctxt "[Puzzle56]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0008.dds"
+
+#: [Puzzle56]Frame9
+msgctxt "[Puzzle56]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0008.dds"
+
+#: [Puzzle56]Frame10
+msgctxt "[Puzzle56]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0008.dds"
+
+#: [Puzzle56]Frame11
+msgctxt "[Puzzle56]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0008.dds"
+
+#: [Puzzle56]Frame12
+msgctxt "[Puzzle56]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0008.dds"
+
+#: [Puzzle56]Frame13
+msgctxt "[Puzzle56]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0008.dds"
+
+#: [Puzzle56]Frame14
+msgctxt "[Puzzle56]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0008.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0008.dds"
+
+#: [Puzzle57]FrameAmount
+msgctxt "[Puzzle57]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle57]Frame0
+msgctxt "[Puzzle57]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0009.dds"
+
+#: [Puzzle57]Frame1
+msgctxt "[Puzzle57]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0009.dds"
+
+#: [Puzzle57]Frame2
+msgctxt "[Puzzle57]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0009.dds"
+
+#: [Puzzle57]Frame3
+msgctxt "[Puzzle57]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0009.dds"
+
+#: [Puzzle57]Frame4
+msgctxt "[Puzzle57]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0009.dds"
+
+#: [Puzzle57]Frame5
+msgctxt "[Puzzle57]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0009.dds"
+
+#: [Puzzle57]Frame6
+msgctxt "[Puzzle57]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0009.dds"
+
+#: [Puzzle57]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0009.dds"
+
+#: [Puzzle57]Frame8
+msgctxt "[Puzzle57]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0009.dds"
+
+#: [Puzzle57]Frame9
+msgctxt "[Puzzle57]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0009.dds"
+
+#: [Puzzle57]Frame10
+msgctxt "[Puzzle57]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0009.dds"
+
+#: [Puzzle57]Frame11
+msgctxt "[Puzzle57]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0009.dds"
+
+#: [Puzzle57]Frame12
+msgctxt "[Puzzle57]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0009.dds"
+
+#: [Puzzle57]Frame13
+msgctxt "[Puzzle57]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0009.dds"
+
+#: [Puzzle57]Frame14
+msgctxt "[Puzzle57]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0009.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0009.dds"
+
+#: [Puzzle58]FrameAmount
+msgctxt "[Puzzle58]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle58]Frame0
+msgctxt "[Puzzle58]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0010.dds"
+
+#: [Puzzle58]Frame1
+msgctxt "[Puzzle58]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0010.dds"
+
+#: [Puzzle58]Frame2
+msgctxt "[Puzzle58]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0010.dds"
+
+#: [Puzzle58]Frame3
+msgctxt "[Puzzle58]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0010.dds"
+
+#: [Puzzle58]Frame4
+msgctxt "[Puzzle58]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0010.dds"
+
+#: [Puzzle58]Frame5
+msgctxt "[Puzzle58]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0010.dds"
+
+#: [Puzzle58]Frame6
+msgctxt "[Puzzle58]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0010.dds"
+
+#: [Puzzle58]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0010.dds"
+
+#: [Puzzle58]Frame8
+msgctxt "[Puzzle58]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0010.dds"
+
+#: [Puzzle58]Frame9
+msgctxt "[Puzzle58]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0010.dds"
+
+#: [Puzzle58]Frame10
+msgctxt "[Puzzle58]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0010.dds"
+
+#: [Puzzle58]Frame11
+msgctxt "[Puzzle58]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0010.dds"
+
+#: [Puzzle58]Frame12
+msgctxt "[Puzzle58]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0010.dds"
+
+#: [Puzzle58]Frame13
+msgctxt "[Puzzle58]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0010.dds"
+
+#: [Puzzle58]Frame14
+msgctxt "[Puzzle58]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0010.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0010.dds"
+
+#: [Puzzle59]FrameAmount
+msgctxt "[Puzzle59]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle59]Frame0
+msgctxt "[Puzzle59]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0011.dds"
+
+#: [Puzzle59]Frame1
+msgctxt "[Puzzle59]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0011.dds"
+
+#: [Puzzle59]Frame2
+msgctxt "[Puzzle59]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0011.dds"
+
+#: [Puzzle59]Frame3
+msgctxt "[Puzzle59]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0011.dds"
+
+#: [Puzzle59]Frame4
+msgctxt "[Puzzle59]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0011.dds"
+
+#: [Puzzle59]Frame5
+msgctxt "[Puzzle59]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0011.dds"
+
+#: [Puzzle59]Frame6
+msgctxt "[Puzzle59]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0011.dds"
+
+#: [Puzzle59]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0011.dds"
+
+#: [Puzzle59]Frame8
+msgctxt "[Puzzle59]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0011.dds"
+
+#: [Puzzle59]Frame9
+msgctxt "[Puzzle59]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0011.dds"
+
+#: [Puzzle59]Frame10
+msgctxt "[Puzzle59]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0011.dds"
+
+#: [Puzzle59]Frame11
+msgctxt "[Puzzle59]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0011.dds"
+
+#: [Puzzle59]Frame12
+msgctxt "[Puzzle59]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0011.dds"
+
+#: [Puzzle59]Frame13
+msgctxt "[Puzzle59]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0011.dds"
+
+#: [Puzzle59]Frame14
+msgctxt "[Puzzle59]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0011.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0011.dds"
+
+#: [Puzzle60]FrameAmount
+msgctxt "[Puzzle60]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle60]Frame0
+msgctxt "[Puzzle60]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0012.dds"
+
+#: [Puzzle60]Frame1
+msgctxt "[Puzzle60]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0012.dds"
+
+#: [Puzzle60]Frame2
+msgctxt "[Puzzle60]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0012.dds"
+
+#: [Puzzle60]Frame3
+msgctxt "[Puzzle60]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0012.dds"
+
+#: [Puzzle60]Frame4
+msgctxt "[Puzzle60]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0012.dds"
+
+#: [Puzzle60]Frame5
+msgctxt "[Puzzle60]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0012.dds"
+
+#: [Puzzle60]Frame6
+msgctxt "[Puzzle60]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0012.dds"
+
+#: [Puzzle60]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0012.dds"
+
+#: [Puzzle60]Frame8
+msgctxt "[Puzzle60]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0012.dds"
+
+#: [Puzzle60]Frame9
+msgctxt "[Puzzle60]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0012.dds"
+
+#: [Puzzle60]Frame10
+msgctxt "[Puzzle60]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0012.dds"
+
+#: [Puzzle60]Frame11
+msgctxt "[Puzzle60]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0012.dds"
+
+#: [Puzzle60]Frame12
+msgctxt "[Puzzle60]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0012.dds"
+
+#: [Puzzle60]Frame13
+msgctxt "[Puzzle60]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0012.dds"
+
+#: [Puzzle60]Frame14
+msgctxt "[Puzzle60]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0012.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0012.dds"
+
+#: [Puzzle61]FrameAmount
+msgctxt "[Puzzle61]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle61]Frame0
+msgctxt "[Puzzle61]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0013.dds"
+
+#: [Puzzle61]Frame1
+msgctxt "[Puzzle61]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0013.dds"
+
+#: [Puzzle61]Frame2
+msgctxt "[Puzzle61]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0013.dds"
+
+#: [Puzzle61]Frame3
+msgctxt "[Puzzle61]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0013.dds"
+
+#: [Puzzle61]Frame4
+msgctxt "[Puzzle61]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0013.dds"
+
+#: [Puzzle61]Frame5
+msgctxt "[Puzzle61]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0013.dds"
+
+#: [Puzzle61]Frame6
+msgctxt "[Puzzle61]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0013.dds"
+
+#: [Puzzle61]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0013.dds"
+
+#: [Puzzle61]Frame8
+msgctxt "[Puzzle61]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0013.dds"
+
+#: [Puzzle61]Frame9
+msgctxt "[Puzzle61]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0013.dds"
+
+#: [Puzzle61]Frame10
+msgctxt "[Puzzle61]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0013.dds"
+
+#: [Puzzle61]Frame11
+msgctxt "[Puzzle61]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0013.dds"
+
+#: [Puzzle61]Frame12
+msgctxt "[Puzzle61]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0013.dds"
+
+#: [Puzzle61]Frame13
+msgctxt "[Puzzle61]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0013.dds"
+
+#: [Puzzle61]Frame14
+msgctxt "[Puzzle61]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0013.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0013.dds"
+
+#: [Puzzle62]FrameAmount
+msgctxt "[Puzzle62]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle62]Frame0
+msgctxt "[Puzzle62]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0014.dds"
+
+#: [Puzzle62]Frame1
+msgctxt "[Puzzle62]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0014.dds"
+
+#: [Puzzle62]Frame2
+msgctxt "[Puzzle62]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0014.dds"
+
+#: [Puzzle62]Frame3
+msgctxt "[Puzzle62]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0014.dds"
+
+#: [Puzzle62]Frame4
+msgctxt "[Puzzle62]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0014.dds"
+
+#: [Puzzle62]Frame5
+msgctxt "[Puzzle62]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0014.dds"
+
+#: [Puzzle62]Frame6
+msgctxt "[Puzzle62]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0014.dds"
+
+#: [Puzzle62]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0014.dds"
+
+#: [Puzzle62]Frame8
+msgctxt "[Puzzle62]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0014.dds"
+
+#: [Puzzle62]Frame9
+msgctxt "[Puzzle62]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0014.dds"
+
+#: [Puzzle62]Frame10
+msgctxt "[Puzzle62]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0014.dds"
+
+#: [Puzzle62]Frame11
+msgctxt "[Puzzle62]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0014.dds"
+
+#: [Puzzle62]Frame12
+msgctxt "[Puzzle62]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0014.dds"
+
+#: [Puzzle62]Frame13
+msgctxt "[Puzzle62]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0014.dds"
+
+#: [Puzzle62]Frame14
+msgctxt "[Puzzle62]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0014.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0014.dds"
+
+#: [Puzzle63]FrameAmount
+msgctxt "[Puzzle63]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle63]Frame0
+msgctxt "[Puzzle63]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0015.dds"
+
+#: [Puzzle63]Frame1
+msgctxt "[Puzzle63]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0015.dds"
+
+#: [Puzzle63]Frame2
+msgctxt "[Puzzle63]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0015.dds"
+
+#: [Puzzle63]Frame3
+msgctxt "[Puzzle63]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0015.dds"
+
+#: [Puzzle63]Frame4
+msgctxt "[Puzzle63]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0015.dds"
+
+#: [Puzzle63]Frame5
+msgctxt "[Puzzle63]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0015.dds"
+
+#: [Puzzle63]Frame6
+msgctxt "[Puzzle63]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0015.dds"
+
+#: [Puzzle63]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0015.dds"
+
+#: [Puzzle63]Frame8
+msgctxt "[Puzzle63]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0015.dds"
+
+#: [Puzzle63]Frame9
+msgctxt "[Puzzle63]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0015.dds"
+
+#: [Puzzle63]Frame10
+msgctxt "[Puzzle63]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0015.dds"
+
+#: [Puzzle63]Frame11
+msgctxt "[Puzzle63]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0015.dds"
+
+#: [Puzzle63]Frame12
+msgctxt "[Puzzle63]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0015.dds"
+
+#: [Puzzle63]Frame13
+msgctxt "[Puzzle63]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0015.dds"
+
+#: [Puzzle63]Frame14
+msgctxt "[Puzzle63]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0015.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0015.dds"
+
+#: [Puzzle64]FrameAmount
+msgctxt "[Puzzle64]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle64]Frame0
+msgctxt "[Puzzle64]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0016.dds"
+
+#: [Puzzle64]Frame1
+msgctxt "[Puzzle64]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0016.dds"
+
+#: [Puzzle64]Frame2
+msgctxt "[Puzzle64]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0016.dds"
+
+#: [Puzzle64]Frame3
+msgctxt "[Puzzle64]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0016.dds"
+
+#: [Puzzle64]Frame4
+msgctxt "[Puzzle64]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0016.dds"
+
+#: [Puzzle64]Frame5
+msgctxt "[Puzzle64]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0016.dds"
+
+#: [Puzzle64]Frame6
+msgctxt "[Puzzle64]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0016.dds"
+
+#: [Puzzle64]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0016.dds"
+
+#: [Puzzle64]Frame8
+msgctxt "[Puzzle64]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0016.dds"
+
+#: [Puzzle64]Frame9
+msgctxt "[Puzzle64]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0016.dds"
+
+#: [Puzzle64]Frame10
+msgctxt "[Puzzle64]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0016.dds"
+
+#: [Puzzle64]Frame11
+msgctxt "[Puzzle64]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0016.dds"
+
+#: [Puzzle64]Frame12
+msgctxt "[Puzzle64]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0016.dds"
+
+#: [Puzzle64]Frame13
+msgctxt "[Puzzle64]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0016.dds"
+
+#: [Puzzle64]Frame14
+msgctxt "[Puzzle64]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0016.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0016.dds"
+
+#: [Puzzle65]FrameAmount
+msgctxt "[Puzzle65]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle65]Frame0
+msgctxt "[Puzzle65]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0017.dds"
+
+#: [Puzzle65]Frame1
+msgctxt "[Puzzle65]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0017.dds"
+
+#: [Puzzle65]Frame2
+msgctxt "[Puzzle65]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0017.dds"
+
+#: [Puzzle65]Frame3
+msgctxt "[Puzzle65]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0017.dds"
+
+#: [Puzzle65]Frame4
+msgctxt "[Puzzle65]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0017.dds"
+
+#: [Puzzle65]Frame5
+msgctxt "[Puzzle65]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0017.dds"
+
+#: [Puzzle65]Frame6
+msgctxt "[Puzzle65]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0017.dds"
+
+#: [Puzzle65]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0017.dds"
+
+#: [Puzzle65]Frame8
+msgctxt "[Puzzle65]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0017.dds"
+
+#: [Puzzle65]Frame9
+msgctxt "[Puzzle65]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0017.dds"
+
+#: [Puzzle65]Frame10
+msgctxt "[Puzzle65]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0017.dds"
+
+#: [Puzzle65]Frame11
+msgctxt "[Puzzle65]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0017.dds"
+
+#: [Puzzle65]Frame12
+msgctxt "[Puzzle65]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0017.dds"
+
+#: [Puzzle65]Frame13
+msgctxt "[Puzzle65]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0017.dds"
+
+#: [Puzzle65]Frame14
+msgctxt "[Puzzle65]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0017.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0017.dds"
+
+#: [Puzzle66]FrameAmount
+msgctxt "[Puzzle66]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle66]Frame0
+msgctxt "[Puzzle66]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0018.dds"
+
+#: [Puzzle66]Frame1
+msgctxt "[Puzzle66]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0018.dds"
+
+#: [Puzzle66]Frame2
+msgctxt "[Puzzle66]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0018.dds"
+
+#: [Puzzle66]Frame3
+msgctxt "[Puzzle66]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0018.dds"
+
+#: [Puzzle66]Frame4
+msgctxt "[Puzzle66]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0018.dds"
+
+#: [Puzzle66]Frame5
+msgctxt "[Puzzle66]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0018.dds"
+
+#: [Puzzle66]Frame6
+msgctxt "[Puzzle66]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0018.dds"
+
+#: [Puzzle66]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0018.dds"
+
+#: [Puzzle66]Frame8
+msgctxt "[Puzzle66]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0018.dds"
+
+#: [Puzzle66]Frame9
+msgctxt "[Puzzle66]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0018.dds"
+
+#: [Puzzle66]Frame10
+msgctxt "[Puzzle66]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0018.dds"
+
+#: [Puzzle66]Frame11
+msgctxt "[Puzzle66]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0018.dds"
+
+#: [Puzzle66]Frame12
+msgctxt "[Puzzle66]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0018.dds"
+
+#: [Puzzle66]Frame13
+msgctxt "[Puzzle66]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0018.dds"
+
+#: [Puzzle66]Frame14
+msgctxt "[Puzzle66]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0018.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0018.dds"
+
+#: [Puzzle67]FrameAmount
+msgctxt "[Puzzle67]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle67]Frame0
+msgctxt "[Puzzle67]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0019.dds"
+
+#: [Puzzle67]Frame1
+msgctxt "[Puzzle67]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0019.dds"
+
+#: [Puzzle67]Frame2
+msgctxt "[Puzzle67]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0019.dds"
+
+#: [Puzzle67]Frame3
+msgctxt "[Puzzle67]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0019.dds"
+
+#: [Puzzle67]Frame4
+msgctxt "[Puzzle67]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0019.dds"
+
+#: [Puzzle67]Frame5
+msgctxt "[Puzzle67]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0019.dds"
+
+#: [Puzzle67]Frame6
+msgctxt "[Puzzle67]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0019.dds"
+
+#: [Puzzle67]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0019.dds"
+
+#: [Puzzle67]Frame8
+msgctxt "[Puzzle67]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0019.dds"
+
+#: [Puzzle67]Frame9
+msgctxt "[Puzzle67]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0019.dds"
+
+#: [Puzzle67]Frame10
+msgctxt "[Puzzle67]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0019.dds"
+
+#: [Puzzle67]Frame11
+msgctxt "[Puzzle67]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0019.dds"
+
+#: [Puzzle67]Frame12
+msgctxt "[Puzzle67]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0019.dds"
+
+#: [Puzzle67]Frame13
+msgctxt "[Puzzle67]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0019.dds"
+
+#: [Puzzle67]Frame14
+msgctxt "[Puzzle67]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0019.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0019.dds"
+
+#: [Puzzle68]FrameAmount
+msgctxt "[Puzzle68]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle68]Frame0
+msgctxt "[Puzzle68]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0020.dds"
+
+#: [Puzzle68]Frame1
+msgctxt "[Puzzle68]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0020.dds"
+
+#: [Puzzle68]Frame2
+msgctxt "[Puzzle68]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0020.dds"
+
+#: [Puzzle68]Frame3
+msgctxt "[Puzzle68]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0020.dds"
+
+#: [Puzzle68]Frame4
+msgctxt "[Puzzle68]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0020.dds"
+
+#: [Puzzle68]Frame5
+msgctxt "[Puzzle68]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0020.dds"
+
+#: [Puzzle68]Frame6
+msgctxt "[Puzzle68]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0020.dds"
+
+#: [Puzzle68]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0020.dds"
+
+#: [Puzzle68]Frame8
+msgctxt "[Puzzle68]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0020.dds"
+
+#: [Puzzle68]Frame9
+msgctxt "[Puzzle68]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0020.dds"
+
+#: [Puzzle68]Frame10
+msgctxt "[Puzzle68]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0020.dds"
+
+#: [Puzzle68]Frame11
+msgctxt "[Puzzle68]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0020.dds"
+
+#: [Puzzle68]Frame12
+msgctxt "[Puzzle68]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0020.dds"
+
+#: [Puzzle68]Frame13
+msgctxt "[Puzzle68]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0020.dds"
+
+#: [Puzzle68]Frame14
+msgctxt "[Puzzle68]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0020.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0020.dds"
+
+#: [Puzzle69]FrameAmount
+msgctxt "[Puzzle69]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle69]Frame0
+msgctxt "[Puzzle69]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0021.dds"
+
+#: [Puzzle69]Frame1
+msgctxt "[Puzzle69]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0021.dds"
+
+#: [Puzzle69]Frame2
+msgctxt "[Puzzle69]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0021.dds"
+
+#: [Puzzle69]Frame3
+msgctxt "[Puzzle69]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0021.dds"
+
+#: [Puzzle69]Frame4
+msgctxt "[Puzzle69]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0021.dds"
+
+#: [Puzzle69]Frame5
+msgctxt "[Puzzle69]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0021.dds"
+
+#: [Puzzle69]Frame6
+msgctxt "[Puzzle69]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0021.dds"
+
+#: [Puzzle69]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0021.dds"
+
+#: [Puzzle69]Frame8
+msgctxt "[Puzzle69]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0021.dds"
+
+#: [Puzzle69]Frame9
+msgctxt "[Puzzle69]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0021.dds"
+
+#: [Puzzle69]Frame10
+msgctxt "[Puzzle69]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0021.dds"
+
+#: [Puzzle69]Frame11
+msgctxt "[Puzzle69]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0021.dds"
+
+#: [Puzzle69]Frame12
+msgctxt "[Puzzle69]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0021.dds"
+
+#: [Puzzle69]Frame13
+msgctxt "[Puzzle69]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0021.dds"
+
+#: [Puzzle69]Frame14
+msgctxt "[Puzzle69]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0021.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0021.dds"
+
+#: [Puzzle70]FrameAmount
+msgctxt "[Puzzle70]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle70]Frame0
+msgctxt "[Puzzle70]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0022.dds"
+
+#: [Puzzle70]Frame1
+msgctxt "[Puzzle70]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0022.dds"
+
+#: [Puzzle70]Frame2
+msgctxt "[Puzzle70]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0022.dds"
+
+#: [Puzzle70]Frame3
+msgctxt "[Puzzle70]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0022.dds"
+
+#: [Puzzle70]Frame4
+msgctxt "[Puzzle70]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0022.dds"
+
+#: [Puzzle70]Frame5
+msgctxt "[Puzzle70]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0022.dds"
+
+#: [Puzzle70]Frame6
+msgctxt "[Puzzle70]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0022.dds"
+
+#: [Puzzle70]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0022.dds"
+
+#: [Puzzle70]Frame8
+msgctxt "[Puzzle70]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0022.dds"
+
+#: [Puzzle70]Frame9
+msgctxt "[Puzzle70]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0022.dds"
+
+#: [Puzzle70]Frame10
+msgctxt "[Puzzle70]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0022.dds"
+
+#: [Puzzle70]Frame11
+msgctxt "[Puzzle70]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0022.dds"
+
+#: [Puzzle70]Frame12
+msgctxt "[Puzzle70]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0022.dds"
+
+#: [Puzzle70]Frame13
+msgctxt "[Puzzle70]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0022.dds"
+
+#: [Puzzle70]Frame14
+msgctxt "[Puzzle70]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0022.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0022.dds"
+
+#: [Puzzle71]FrameAmount
+msgctxt "[Puzzle71]FrameAmount"
+msgid "15"
+msgstr "15"
+
+#: [Puzzle71]Frame0
+msgctxt "[Puzzle71]Frame0"
+msgid "data/map/cartoon/ship/sea/sea1/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0023.dds"
+
+#: [Puzzle71]Frame1
+msgctxt "[Puzzle71]Frame1"
+msgid "data/map/cartoon/ship/sea/sea2/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0023.dds"
+
+#: [Puzzle71]Frame2
+msgctxt "[Puzzle71]Frame2"
+msgid "data/map/cartoon/ship/sea/sea3/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0023.dds"
+
+#: [Puzzle71]Frame3
+msgctxt "[Puzzle71]Frame3"
+msgid "data/map/cartoon/ship/sea/sea4/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0023.dds"
+
+#: [Puzzle71]Frame4
+msgctxt "[Puzzle71]Frame4"
+msgid "data/map/cartoon/ship/sea/sea5/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0023.dds"
+
+#: [Puzzle71]Frame5
+msgctxt "[Puzzle71]Frame5"
+msgid "data/map/cartoon/ship/sea/sea6/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0023.dds"
+
+#: [Puzzle71]Frame6
+msgctxt "[Puzzle71]Frame6"
+msgid "data/map/cartoon/ship/sea/sea7/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0023.dds"
+
+#: [Puzzle71]Frame7
+msgid "data/map/cartoon/ship/sea/sea8/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea8/pic0023.dds"
+
+#: [Puzzle71]Frame8
+msgctxt "[Puzzle71]Frame8"
+msgid "data/map/cartoon/ship/sea/sea7/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea7/pic0023.dds"
+
+#: [Puzzle71]Frame9
+msgctxt "[Puzzle71]Frame9"
+msgid "data/map/cartoon/ship/sea/sea6/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea6/pic0023.dds"
+
+#: [Puzzle71]Frame10
+msgctxt "[Puzzle71]Frame10"
+msgid "data/map/cartoon/ship/sea/sea5/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea5/pic0023.dds"
+
+#: [Puzzle71]Frame11
+msgctxt "[Puzzle71]Frame11"
+msgid "data/map/cartoon/ship/sea/sea4/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea4/pic0023.dds"
+
+#: [Puzzle71]Frame12
+msgctxt "[Puzzle71]Frame12"
+msgid "data/map/cartoon/ship/sea/sea3/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea3/pic0023.dds"
+
+#: [Puzzle71]Frame13
+msgctxt "[Puzzle71]Frame13"
+msgid "data/map/cartoon/ship/sea/sea2/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea2/pic0023.dds"
+
+#: [Puzzle71]Frame14
+msgctxt "[Puzzle71]Frame14"
+msgid "data/map/cartoon/ship/sea/sea1/pic0023.dds"
+msgstr "data/map/cartoon/ship/sea/sea1/pic0023.dds"

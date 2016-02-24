@@ -1,0 +1,1525 @@
+#. extracted from poker.ini, pokerCopy.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-24 21:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: [Puzzle0]FrameAmount
+msgctxt "[Puzzle0]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle0]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0000.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0000.dds"
+
+#: [Puzzle1]FrameAmount
+msgctxt "[Puzzle1]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle1]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0001.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0001.dds"
+
+#: [Puzzle2]FrameAmount
+msgctxt "[Puzzle2]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle2]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0002.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0002.dds"
+
+#: [Puzzle3]FrameAmount
+msgctxt "[Puzzle3]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle3]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0003.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0003.dds"
+
+#: [Puzzle4]FrameAmount
+msgctxt "[Puzzle4]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle4]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0004.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0004.dds"
+
+#: [Puzzle5]FrameAmount
+msgctxt "[Puzzle5]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle5]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0005.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0005.dds"
+
+#: [Puzzle6]FrameAmount
+msgctxt "[Puzzle6]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle6]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0006.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0006.dds"
+
+#: [Puzzle7]FrameAmount
+msgctxt "[Puzzle7]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle7]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0007.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0007.dds"
+
+#: [Puzzle8]FrameAmount
+msgctxt "[Puzzle8]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle8]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0008.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0008.dds"
+
+#: [Puzzle9]FrameAmount
+msgctxt "[Puzzle9]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle9]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0009.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0009.dds"
+
+#: [Puzzle10]FrameAmount
+msgctxt "[Puzzle10]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle10]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0010.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0010.dds"
+
+#: [Puzzle11]FrameAmount
+msgctxt "[Puzzle11]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle11]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0011.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0011.dds"
+
+#: [Puzzle12]FrameAmount
+msgctxt "[Puzzle12]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle12]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0012.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0012.dds"
+
+#: [Puzzle13]FrameAmount
+msgctxt "[Puzzle13]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle13]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0013.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0013.dds"
+
+#: [Puzzle14]FrameAmount
+msgctxt "[Puzzle14]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle14]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0014.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0014.dds"
+
+#: [Puzzle15]FrameAmount
+msgctxt "[Puzzle15]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle15]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0015.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0015.dds"
+
+#: [Puzzle16]FrameAmount
+msgctxt "[Puzzle16]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle16]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0016.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0016.dds"
+
+#: [Puzzle17]FrameAmount
+msgctxt "[Puzzle17]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle17]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0017.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0017.dds"
+
+#: [Puzzle18]FrameAmount
+msgctxt "[Puzzle18]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle18]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0018.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0018.dds"
+
+#: [Puzzle19]FrameAmount
+msgctxt "[Puzzle19]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle19]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0019.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0019.dds"
+
+#: [Puzzle20]FrameAmount
+msgctxt "[Puzzle20]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle20]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0020.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0020.dds"
+
+#: [Puzzle21]FrameAmount
+msgctxt "[Puzzle21]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle21]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0021.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0021.dds"
+
+#: [Puzzle22]FrameAmount
+msgctxt "[Puzzle22]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle22]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0022.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0022.dds"
+
+#: [Puzzle23]FrameAmount
+msgctxt "[Puzzle23]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle23]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0023.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0023.dds"
+
+#: [Puzzle24]FrameAmount
+msgctxt "[Puzzle24]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle24]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0024.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0024.dds"
+
+#: [Puzzle25]FrameAmount
+msgctxt "[Puzzle25]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle25]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0025.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0025.dds"
+
+#: [Puzzle26]FrameAmount
+msgctxt "[Puzzle26]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle26]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0026.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0026.dds"
+
+#: [Puzzle27]FrameAmount
+msgctxt "[Puzzle27]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle27]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0027.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0027.dds"
+
+#: [Puzzle28]FrameAmount
+msgctxt "[Puzzle28]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle28]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0028.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0028.dds"
+
+#: [Puzzle29]FrameAmount
+msgctxt "[Puzzle29]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle29]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0029.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0029.dds"
+
+#: [Puzzle30]FrameAmount
+msgctxt "[Puzzle30]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle30]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0030.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0030.dds"
+
+#: [Puzzle31]FrameAmount
+msgctxt "[Puzzle31]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle31]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0031.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0031.dds"
+
+#: [Puzzle32]FrameAmount
+msgctxt "[Puzzle32]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle32]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0032.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0032.dds"
+
+#: [Puzzle33]FrameAmount
+msgctxt "[Puzzle33]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle33]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0033.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0033.dds"
+
+#: [Puzzle34]FrameAmount
+msgctxt "[Puzzle34]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle34]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0034.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0034.dds"
+
+#: [Puzzle35]FrameAmount
+msgctxt "[Puzzle35]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle35]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0035.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0035.dds"
+
+#: [Puzzle36]FrameAmount
+msgctxt "[Puzzle36]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle36]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0036.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0036.dds"
+
+#: [Puzzle37]FrameAmount
+msgctxt "[Puzzle37]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle37]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0037.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0037.dds"
+
+#: [Puzzle38]FrameAmount
+msgctxt "[Puzzle38]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle38]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0038.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0038.dds"
+
+#: [Puzzle39]FrameAmount
+msgctxt "[Puzzle39]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle39]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0039.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0039.dds"
+
+#: [Puzzle40]FrameAmount
+msgctxt "[Puzzle40]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle40]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0040.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0040.dds"
+
+#: [Puzzle41]FrameAmount
+msgctxt "[Puzzle41]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle41]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0041.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0041.dds"
+
+#: [Puzzle42]FrameAmount
+msgctxt "[Puzzle42]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle42]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0042.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0042.dds"
+
+#: [Puzzle43]FrameAmount
+msgctxt "[Puzzle43]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle43]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0043.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0043.dds"
+
+#: [Puzzle44]FrameAmount
+msgctxt "[Puzzle44]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle44]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0044.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0044.dds"
+
+#: [Puzzle45]FrameAmount
+msgctxt "[Puzzle45]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle45]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0045.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0045.dds"
+
+#: [Puzzle46]FrameAmount
+msgctxt "[Puzzle46]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle46]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0046.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0046.dds"
+
+#: [Puzzle47]FrameAmount
+msgctxt "[Puzzle47]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle47]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0047.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0047.dds"
+
+#: [Puzzle48]FrameAmount
+msgctxt "[Puzzle48]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle48]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0048.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0048.dds"
+
+#: [Puzzle49]FrameAmount
+msgctxt "[Puzzle49]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle49]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0049.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0049.dds"
+
+#: [Puzzle50]FrameAmount
+msgctxt "[Puzzle50]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle50]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0050.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0050.dds"
+
+#: [Puzzle51]FrameAmount
+msgctxt "[Puzzle51]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle51]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0051.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0051.dds"
+
+#: [Puzzle52]FrameAmount
+msgctxt "[Puzzle52]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle52]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0052.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0052.dds"
+
+#: [Puzzle53]FrameAmount
+msgctxt "[Puzzle53]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle53]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0053.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0053.dds"
+
+#: [Puzzle54]FrameAmount
+msgctxt "[Puzzle54]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle54]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0054.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0054.dds"
+
+#: [Puzzle55]FrameAmount
+msgctxt "[Puzzle55]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle55]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0055.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0055.dds"
+
+#: [Puzzle56]FrameAmount
+msgctxt "[Puzzle56]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle56]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0056.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0056.dds"
+
+#: [Puzzle57]FrameAmount
+msgctxt "[Puzzle57]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle57]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0057.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0057.dds"
+
+#: [Puzzle58]FrameAmount
+msgctxt "[Puzzle58]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle58]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0058.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0058.dds"
+
+#: [Puzzle59]FrameAmount
+msgctxt "[Puzzle59]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle59]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0059.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0059.dds"
+
+#: [Puzzle60]FrameAmount
+msgctxt "[Puzzle60]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle60]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0060.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0060.dds"
+
+#: [Puzzle61]FrameAmount
+msgctxt "[Puzzle61]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle61]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0061.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0061.dds"
+
+#: [Puzzle62]FrameAmount
+msgctxt "[Puzzle62]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle62]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0062.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0062.dds"
+
+#: [Puzzle63]FrameAmount
+msgctxt "[Puzzle63]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle63]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0063.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0063.dds"
+
+#: [Puzzle64]FrameAmount
+msgctxt "[Puzzle64]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle64]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0064.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0064.dds"
+
+#: [Puzzle65]FrameAmount
+msgctxt "[Puzzle65]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle65]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0065.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0065.dds"
+
+#: [Puzzle66]FrameAmount
+msgctxt "[Puzzle66]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle66]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0066.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0066.dds"
+
+#: [Puzzle67]FrameAmount
+msgctxt "[Puzzle67]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle67]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0067.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0067.dds"
+
+#: [Puzzle68]FrameAmount
+msgctxt "[Puzzle68]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle68]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0068.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0068.dds"
+
+#: [Puzzle69]FrameAmount
+msgctxt "[Puzzle69]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle69]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0069.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0069.dds"
+
+#: [Puzzle70]FrameAmount
+msgctxt "[Puzzle70]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle70]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0070.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0070.dds"
+
+#: [Puzzle71]FrameAmount
+msgctxt "[Puzzle71]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle71]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0071.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0071.dds"
+
+#: [Puzzle72]FrameAmount
+msgctxt "[Puzzle72]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle72]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0072.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0072.dds"
+
+#: [Puzzle73]FrameAmount
+msgctxt "[Puzzle73]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle73]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0073.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0073.dds"
+
+#: [Puzzle74]FrameAmount
+msgctxt "[Puzzle74]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle74]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0074.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0074.dds"
+
+#: [Puzzle75]FrameAmount
+msgctxt "[Puzzle75]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle75]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0075.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0075.dds"
+
+#: [Puzzle76]FrameAmount
+msgctxt "[Puzzle76]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle76]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0076.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0076.dds"
+
+#: [Puzzle77]FrameAmount
+msgctxt "[Puzzle77]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle77]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0077.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0077.dds"
+
+#: [Puzzle78]FrameAmount
+msgctxt "[Puzzle78]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle78]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0078.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0078.dds"
+
+#: [Puzzle79]FrameAmount
+msgctxt "[Puzzle79]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle79]Frame0
+msgid "data/map/puzzle/poker/link/room/pic0079.dds"
+msgstr "data/map/puzzle/poker/link/room/pic0079.dds"
+
+#: [Puzzle80]FrameAmount
+msgctxt "[Puzzle80]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle80]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic000.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic000.dds"
+
+#: [Puzzle81]FrameAmount
+msgctxt "[Puzzle81]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle81]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic001.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic001.dds"
+
+#: [Puzzle82]FrameAmount
+msgctxt "[Puzzle82]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle82]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic002.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic002.dds"
+
+#: [Puzzle83]FrameAmount
+msgctxt "[Puzzle83]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle83]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic003.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic003.dds"
+
+#: [Puzzle84]FrameAmount
+msgctxt "[Puzzle84]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle84]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic004.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic004.dds"
+
+#: [Puzzle85]FrameAmount
+msgctxt "[Puzzle85]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle85]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic005.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic005.dds"
+
+#: [Puzzle86]FrameAmount
+msgctxt "[Puzzle86]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle86]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic006.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic006.dds"
+
+#: [Puzzle87]FrameAmount
+msgctxt "[Puzzle87]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle87]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic007.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic007.dds"
+
+#: [Puzzle88]FrameAmount
+msgctxt "[Puzzle88]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle88]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic008.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic008.dds"
+
+#: [Puzzle89]FrameAmount
+msgctxt "[Puzzle89]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle89]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic009.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic009.dds"
+
+#: [Puzzle90]FrameAmount
+msgctxt "[Puzzle90]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle90]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic010.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic010.dds"
+
+#: [Puzzle91]FrameAmount
+msgctxt "[Puzzle91]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle91]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic011.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic011.dds"
+
+#: [Puzzle92]FrameAmount
+msgctxt "[Puzzle92]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle92]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic012.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic012.dds"
+
+#: [Puzzle93]FrameAmount
+msgctxt "[Puzzle93]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle93]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic013.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic013.dds"
+
+#: [Puzzle94]FrameAmount
+msgctxt "[Puzzle94]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle94]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic014.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic014.dds"
+
+#: [Puzzle95]FrameAmount
+msgctxt "[Puzzle95]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle95]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic015.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic015.dds"
+
+#: [Puzzle96]FrameAmount
+msgctxt "[Puzzle96]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle96]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic016.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic016.dds"
+
+#: [Puzzle97]FrameAmount
+msgctxt "[Puzzle97]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle97]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic017.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic017.dds"
+
+#: [Puzzle98]FrameAmount
+msgctxt "[Puzzle98]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle98]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic018.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic018.dds"
+
+#: [Puzzle99]FrameAmount
+msgctxt "[Puzzle99]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle99]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic019.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic019.dds"
+
+#: [Puzzle100]FrameAmount
+msgctxt "[Puzzle100]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle100]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic020.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic020.dds"
+
+#: [Puzzle101]FrameAmount
+msgctxt "[Puzzle101]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle101]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic021.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic021.dds"
+
+#: [Puzzle102]FrameAmount
+msgctxt "[Puzzle102]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle102]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic022.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic022.dds"
+
+#: [Puzzle103]FrameAmount
+msgctxt "[Puzzle103]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle103]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic023.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic023.dds"
+
+#: [Puzzle104]FrameAmount
+msgctxt "[Puzzle104]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle104]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic024.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic024.dds"
+
+#: [Puzzle105]FrameAmount
+msgctxt "[Puzzle105]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle105]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic025.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic025.dds"
+
+#: [Puzzle106]FrameAmount
+msgctxt "[Puzzle106]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle106]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic026.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic026.dds"
+
+#: [Puzzle107]FrameAmount
+msgctxt "[Puzzle107]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle107]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic027.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic027.dds"
+
+#: [Puzzle108]FrameAmount
+msgctxt "[Puzzle108]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle108]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic028.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic028.dds"
+
+#: [Puzzle109]FrameAmount
+msgctxt "[Puzzle109]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle109]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic029.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic029.dds"
+
+#: [Puzzle110]FrameAmount
+msgctxt "[Puzzle110]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle110]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic030.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic030.dds"
+
+#: [Puzzle111]FrameAmount
+msgctxt "[Puzzle111]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle111]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic031.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic031.dds"
+
+#: [Puzzle112]FrameAmount
+msgctxt "[Puzzle112]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle112]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic032.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic032.dds"
+
+#: [Puzzle113]FrameAmount
+msgctxt "[Puzzle113]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle113]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic033.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic033.dds"
+
+#: [Puzzle114]FrameAmount
+msgctxt "[Puzzle114]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle114]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic034.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic034.dds"
+
+#: [Puzzle115]FrameAmount
+msgctxt "[Puzzle115]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle115]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic035.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic035.dds"
+
+#: [Puzzle116]FrameAmount
+msgctxt "[Puzzle116]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle116]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic036.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic036.dds"
+
+#: [Puzzle117]FrameAmount
+msgctxt "[Puzzle117]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle117]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic037.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic037.dds"
+
+#: [Puzzle118]FrameAmount
+msgctxt "[Puzzle118]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle118]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic038.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic038.dds"
+
+#: [Puzzle119]FrameAmount
+msgctxt "[Puzzle119]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle119]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic039.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic039.dds"
+
+#: [Puzzle120]FrameAmount
+msgctxt "[Puzzle120]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle120]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic040.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic040.dds"
+
+#: [Puzzle121]FrameAmount
+msgctxt "[Puzzle121]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle121]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic041.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic041.dds"
+
+#: [Puzzle122]FrameAmount
+msgctxt "[Puzzle122]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle122]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic042.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic042.dds"
+
+#: [Puzzle123]FrameAmount
+msgctxt "[Puzzle123]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle123]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic043.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic043.dds"
+
+#: [Puzzle124]FrameAmount
+msgctxt "[Puzzle124]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle124]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic044.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic044.dds"
+
+#: [Puzzle125]FrameAmount
+msgctxt "[Puzzle125]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle125]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic045.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic045.dds"
+
+#: [Puzzle126]FrameAmount
+msgctxt "[Puzzle126]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle126]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic046.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic046.dds"
+
+#: [Puzzle127]FrameAmount
+msgctxt "[Puzzle127]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle127]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic047.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic047.dds"
+
+#: [Puzzle128]FrameAmount
+msgctxt "[Puzzle128]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle128]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic048.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic048.dds"
+
+#: [Puzzle129]FrameAmount
+msgctxt "[Puzzle129]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle129]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic049.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic049.dds"
+
+#: [Puzzle130]FrameAmount
+msgctxt "[Puzzle130]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle130]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic050.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic050.dds"
+
+#: [Puzzle131]FrameAmount
+msgctxt "[Puzzle131]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle131]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic051.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic051.dds"
+
+#: [Puzzle132]FrameAmount
+msgctxt "[Puzzle132]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle132]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic052.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic052.dds"
+
+#: [Puzzle133]FrameAmount
+msgctxt "[Puzzle133]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle133]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic053.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic053.dds"
+
+#: [Puzzle134]FrameAmount
+msgctxt "[Puzzle134]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle134]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic054.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic054.dds"
+
+#: [Puzzle135]FrameAmount
+msgctxt "[Puzzle135]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle135]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic055.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic055.dds"
+
+#: [Puzzle136]FrameAmount
+msgctxt "[Puzzle136]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle136]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic056.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic056.dds"
+
+#: [Puzzle137]FrameAmount
+msgctxt "[Puzzle137]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle137]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic057.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic057.dds"
+
+#: [Puzzle138]FrameAmount
+msgctxt "[Puzzle138]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle138]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic058.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic058.dds"
+
+#: [Puzzle139]FrameAmount
+msgctxt "[Puzzle139]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle139]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic059.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic059.dds"
+
+#: [Puzzle140]FrameAmount
+msgctxt "[Puzzle140]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle140]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic060.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic060.dds"
+
+#: [Puzzle141]FrameAmount
+msgctxt "[Puzzle141]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle141]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic061.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic061.dds"
+
+#: [Puzzle142]FrameAmount
+msgctxt "[Puzzle142]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle142]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic062.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic062.dds"
+
+#: [Puzzle143]FrameAmount
+msgctxt "[Puzzle143]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle143]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic063.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic063.dds"
+
+#: [Puzzle144]FrameAmount
+msgctxt "[Puzzle144]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle144]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic064.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic064.dds"
+
+#: [Puzzle145]FrameAmount
+msgctxt "[Puzzle145]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle145]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic065.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic065.dds"
+
+#: [Puzzle146]FrameAmount
+msgctxt "[Puzzle146]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle146]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic066.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic066.dds"
+
+#: [Puzzle147]FrameAmount
+msgctxt "[Puzzle147]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle147]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic067.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic067.dds"
+
+#: [Puzzle148]FrameAmount
+msgctxt "[Puzzle148]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle148]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic068.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic068.dds"
+
+#: [Puzzle149]FrameAmount
+msgctxt "[Puzzle149]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle149]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic069.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic069.dds"
+
+#: [Puzzle150]FrameAmount
+msgctxt "[Puzzle150]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle150]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic070.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic070.dds"
+
+#: [Puzzle151]FrameAmount
+msgctxt "[Puzzle151]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle151]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic071.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic071.dds"
+
+#: [Puzzle152]FrameAmount
+msgctxt "[Puzzle152]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle152]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic072.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic072.dds"
+
+#: [Puzzle153]FrameAmount
+msgctxt "[Puzzle153]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle153]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic073.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic073.dds"
+
+#: [Puzzle154]FrameAmount
+msgctxt "[Puzzle154]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle154]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic074.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic074.dds"
+
+#: [Puzzle155]FrameAmount
+msgctxt "[Puzzle155]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle155]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic075.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic075.dds"
+
+#: [Puzzle156]FrameAmount
+msgctxt "[Puzzle156]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle156]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic076.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic076.dds"
+
+#: [Puzzle157]FrameAmount
+msgctxt "[Puzzle157]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle157]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic077.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic077.dds"
+
+#: [Puzzle158]FrameAmount
+msgctxt "[Puzzle158]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle158]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic078.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic078.dds"
+
+#: [Puzzle159]FrameAmount
+msgctxt "[Puzzle159]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle159]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic079.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic079.dds"
+
+#: [Puzzle160]FrameAmount
+msgctxt "[Puzzle160]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle160]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic080.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic080.dds"
+
+#: [Puzzle161]FrameAmount
+msgctxt "[Puzzle161]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle161]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic081.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic081.dds"
+
+#: [Puzzle162]FrameAmount
+msgctxt "[Puzzle162]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle162]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic082.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic082.dds"
+
+#: [Puzzle163]FrameAmount
+msgctxt "[Puzzle163]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle163]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic083.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic083.dds"
+
+#: [Puzzle164]FrameAmount
+msgctxt "[Puzzle164]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle164]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic084.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic084.dds"
+
+#: [Puzzle165]FrameAmount
+msgctxt "[Puzzle165]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle165]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic085.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic085.dds"
+
+#: [Puzzle166]FrameAmount
+msgctxt "[Puzzle166]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle166]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic086.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic086.dds"
+
+#: [Puzzle167]FrameAmount
+msgctxt "[Puzzle167]FrameAmount"
+msgid "1"
+msgstr "1"
+
+#: [Puzzle167]Frame0
+msgid "data/map/puzzle/poker/link/viproom/pic087.dds"
+msgstr "data/map/puzzle/poker/link/viproom/pic087.dds"
