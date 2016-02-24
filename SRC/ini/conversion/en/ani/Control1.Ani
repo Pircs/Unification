@@ -1,22 +1,22 @@
-// ÓÃ»§µÇÂ½´°¿Ú 
+// ç”¨æˆ·ç™»é™†çª—å£
 [Dialog1]
 FrameAmount=2
 Frame0=Data/Main1/DialogLogin.dds
 Frame1=Data/Main1/DialogLogin1024.dds
 
-// ĞÂ½¨ÈËÎïÑ¡Ôñ´°¿Ú
+// æ–°å»ºäººç‰©é€‰æ‹©çª—å£
 [Dialog2]
 FrameAmount=2
 Frame0=Data/Main1/DialogRoleChoose.dds
 Frame1=Data/Main1/DialogRoleChoose1024.dds
 
-// ĞÂ½¨ÈËÎï´´½¨´°¿Ú
+// æ–°å»ºäººç‰©åˆ›å»ºçª—å£
 [Dialog3]
 FrameAmount=2
 Frame0=Data/Main1/DialogRoleCreate.dds
 Frame1=Data/Main1/DialogRoleCreate1024.dds
 
-// Ö÷½çÃæ´°¿Ú
+// ä¸»ç•Œé¢çª—å£
 [Dialog4]
 FrameAmount=4
 Frame0=Data/Main1/MainDialog1.dds
@@ -24,7 +24,7 @@ Frame1=Data/Main1/MainDialog2.dds
 Frame2=Data/Main1/MainDialog3.dds
 Frame3=Data/Main1/MainDialog4.dds
 
-// ÁÄÌì´°¿Ú
+// èŠå¤©çª—å£
 [Dialog5]
 FrameAmount=4
 Frame0=Data/Main1/DialogTalk1.dds
@@ -32,378 +32,378 @@ Frame1=Data/Main1/DialogTalk2.dds
 Frame2=Data/Main1/DialogTalk3.dds
 Frame3=Data/Main1/DialogTalk4.dds
 
-// ×ÊÁÏ²éÑ¯¸¸´°¿Ú
+// èµ„æ–™æŸ¥è¯¢çˆ¶çª—å£
 [Dialog6]
 FrameAmount=1
 Frame0=Data/Main1/DialogQuery.dds
 
-// ÈËÎï×ÊÁÏ²éÑ¯×Ó´°¿Ú
+// äººç‰©èµ„æ–™æŸ¥è¯¢å­çª—å£
 [Dialog7]
 FrameAmount=1
 Frame0=Data/Main1/DialogQuery_Role.dds
 
-// °ïÅÉ×ÊÁÏ²éÑ¯×Ó´°¿Ú
+// å¸®æ´¾èµ„æ–™æŸ¥è¯¢å­çª—å£
 [Dialog8]
 FrameAmount=1
 Frame0=Data/Main1/DialogQuery_Faction.dds
 
-// ÎäÆ÷×ÊÁÏ²éÑ¯×Ó´°¿Ú
+// æ­¦å™¨èµ„æ–™æŸ¥è¯¢å­çª—å£
 [Dialog9]
 FrameAmount=1
 Frame0=Data/Main1/DialogQuery_Weapon.dds
 
-// Éè¶¨½çÃæ´°¿Ú
+// è®¾å®šç•Œé¢çª—å£
 [Dialog10]
 FrameAmount=1
 Frame0=Data/Main1/DialogSetup.dds
 
-// Npc½»Ò×´°¿Ú
+// Npcäº¤æ˜“çª—å£
 [Dialog11]
 FrameAmount=1
 Frame0=Data/Main1/DialogNpcBuy.dds
 
-// MpcÎïÆ·´°¿Ú
+// Mpcç‰©å“çª—å£
 [Dialog12]
 FrameAmount=1
 Frame0=Data/Main1/DialogMpcGoods.dds
 
-// ¼¼ÄÜ´°¿Ú
+// æŠ€èƒ½çª—å£
 [Dialog13]
 FrameAmount=1
 Frame0=Data/Main1/DialogSkill.dds
 
-// Mpc½»Ò×½çÃæ
+// Mpcäº¤æ˜“ç•Œé¢
 [Dialog14]
 FrameAmount=1
 Frame0=Data/Main1/DialogTrade.dds
 
-// È·ÈÏ½çÃæ
+// ç¡®è®¤ç•Œé¢
 [Dialog15]
 FrameAmount=1
 Frame0=Data/Main1/DialogConfirm.dds
 
-// ÎäÆ÷×ÊÁÏ²éÑ¯×Ó´°¿Ú
+// æ­¦å™¨èµ„æ–™æŸ¥è¯¢å­çª—å£
 [Dialog16]
 FrameAmount=1
 Frame0=Data/Main1/DialogQuery_Mission.dds
 
-// ÅóÓÑ´°¿Ú
+// æœ‹å‹çª—å£
 [Dialog17]
 FrameAmount=1
 Frame0=Data/Main1/DialogFriend.dds
 
-// ²Ö¿â½çÃæ
+// ä»“åº“ç•Œé¢
 [Dialog18]
 FrameAmount=1
 Frame0=Data/Main1/DialogDepot.dds
 
-// ×é¶Ó½çÃæ
+// ç»„é˜Ÿç•Œé¢
 [Dialog19]
 FrameAmount=1
 Frame0=Data/Main1/DialogGroup.dds
 
-// ¼¼ÄÜ²éÑ¯½çÃæ
+// æŠ€èƒ½æŸ¥è¯¢ç•Œé¢
 [Dialog20]
 FrameAmount=1
 Frame0=Data/Main1/DialogQuery_Skill.dds
 
-// ÎïÆ·½éÉÜ½çÃæ
+// ç‰©å“ä»‹ç»ç•Œé¢
 [Dialog21]
 FrameAmount=1
 Frame0=Data/Main1/MsgDlg.dds
 
-// ¶¯×÷½çÃæ
+// åŠ¨ä½œç•Œé¢
 [Dialog22]
 FrameAmount=1
 Frame0=Data/Main1/DialogAct.dds
 
-// NPCÈÎÎñ½çÃæ
+// NPCä»»åŠ¡ç•Œé¢
 [Dialog23]
 FrameAmount=1
 Frame0=Data/Main1/DialogTask.dds
 
-// ÁÄÌìºÃÓÑÁĞ±í¿ò½çÃæ
+// èŠå¤©å¥½å‹åˆ—è¡¨æ¡†ç•Œé¢
 [Dialog24]
 FrameAmount=1
 Frame0=Data/Main1/DialogListBox.dds
 
-// ÅóÓÑÊôĞÔ´°¿Ú
+// æœ‹å‹å±æ€§çª—å£
 [Dialog25]
 FrameAmount=1
 Frame0=Data/Main1/DialogFrdState.dds
 
-// ÎäÆ÷¸ÄÁ¼½çÃæ
+// æ­¦å™¨æ”¹è‰¯ç•Œé¢
 [Dialog26]
 FrameAmount=1
 Frame0=Data/Main1/DialogImprove.dds
 
-// ¸ü¸ÄÍ·Ïñ½çÃæ
+// æ›´æ”¹å¤´åƒç•Œé¢
 [Dialog27]
 FrameAmount=1
 Frame0=Data/Main1/DialogNpcFace.dds
 
-// °ïÅÉ»ù±¾ÊôĞÔ½çÃæ
+// å¸®æ´¾åŸºæœ¬å±æ€§ç•Œé¢
 [Dialog28]
 FrameAmount=1
 Frame0=Data/Main1/DialogFaction_State.dds
 
-// ÏâÇ¶½çÃæ
+// é•¶åµŒç•Œé¢
 [Dialog29]
 FrameAmount=1
 Frame0=Data/Main1/DialogEmbed.dds
 
-// ±¦Ê¯¿ò±³¾°
+// å®çŸ³æ¡†èƒŒæ™¯
 [Dialog30]
 FrameAmount=1
 Frame0=Data/Main1/DialogGemBk.dds
 
-// ÈËÎï×ÊÁÏ
+// äººç‰©èµ„æ–™
 [Dialog31]
 FrameAmount=1
 Frame0=Data/Main1/DialogQuery_Role_More.dds
 
-// ÈÈ¼ü½çÃæ
+// çƒ­é”®ç•Œé¢
 [Dialog32]
 FrameAmount=1
 Frame0=Data/Main1/DialogHotkey.dds
 
-// ÏûÏ¢·¢ËÍ½çÃæ
+// æ¶ˆæ¯å‘é€ç•Œé¢
 [Dialog33]
 FrameAmount=1
 Frame0=Data/Main1/DialogMsgSend.dds
 
-// MPC°ÚÌ¯½çÃæ
+// MPCæ‘†æ‘Šç•Œé¢
 [Dialog34]
 FrameAmount=1
 Frame0=Data/Main1/DialogMpcBooth.dds
 
-// ½ĞÂôÊäÈë½çÃæ
+// å«å–è¾“å…¥ç•Œé¢
 [Dialog35]
 FrameAmount=1
 Frame0=Data/Main1/DialogHawk.dds
 
-// ÁÄÌìÉèÖÃ½çÃæ
+// èŠå¤©è®¾ç½®ç•Œé¢
 [Dialog36]
 FrameAmount=1
 Frame0=Data/Main1/DialogChat.dds
 
-// ÁôÑÔ°å½çÃæ
+// ç•™è¨€æ¿ç•Œé¢
 [Dialog37]
 FrameAmount=1
 Frame0=Data/Main1/DialogLevWord.dds
 
-// µñÏñ½çÃæ
+// é›•åƒç•Œé¢
 [Dialog38]
 FrameAmount=1
 Frame0=Data/Main1/DialogEffigy.dds
 
-// ÏûÏ¢½ÓÊÜ½çÃæ
+// æ¶ˆæ¯æ¥å—ç•Œé¢
 [Dialog39]
 FrameAmount=1
 Frame0=Data/Main1/DialogMsgReceive.dds
 
-// ÆäËû¹¦ÄÜ½çÃæ
+// å…¶ä»–åŠŸèƒ½ç•Œé¢
 [Dialog40]
 FrameAmount=1
 Frame0=Data/Main1/DialogOther.dds
 
-// °ïÖÚÊôĞÔ½çÃæ
+// å¸®ä¼—å±æ€§ç•Œé¢
 [Dialog41]
 FrameAmount=1
 Frame0=Data/Main1/DialogFacState.dds
 
-// ²é¿´±ğÈË×°±¸½çÃæ
+// æŸ¥çœ‹åˆ«äººè£…å¤‡ç•Œé¢
 [Dialog42]
 FrameAmount=1
 Frame0=Data/Main1/DialogNpcEquip.dds
 
-// ¶Ä³¡
+// èµŒåœº
 [Dialog43]
 FrameAmount=1
 Frame0=Data/Main1/DialogDice.dds
 
-// ¶Ä³¡ÁĞ±í
+// èµŒåœºåˆ—è¡¨
 [Dialog44]
 FrameAmount=1
 Frame0=Data/Main1/DialogDiceList.dds
 
-// Çó»éÈ·ÈÏ¿ò
+// æ±‚å©šç¡®è®¤æ¡†
 [Dialog45]
 FrameAmount=1
 Frame0=Data/Main1/DialogConfirmMarry.dds
 
-// ³ğÈË½çÃæ
+// ä»‡äººç•Œé¢
 [Dialog46]
 FrameAmount=1
 Frame0=Data/Main1/DialogEnemy.dds
 
-// ³ğÈËÊôĞÔ½çÃæ
+// ä»‡äººå±æ€§ç•Œé¢
 [Dialog47]
 FrameAmount=1
 Frame0=Data/Main1/DialogEnmState.dds
 
-// Ö°Òµ½éÉÜ½çÃæ
+// èŒä¸šä»‹ç»ç•Œé¢
 [Dialog48]
 FrameAmount=1
 Frame0=Data/Main1/DialogProIntro.dds
 
-// ¼´Ê±°ïÖú½ØÃæ
+// å³æ—¶å¸®åŠ©æˆªé¢
 [Dialog49]
 FrameAmount=1
 Frame0=Data/Main1/DialogInsHelp.dds
 
-// È·¶¨°´Å¥£¨¹«¹²£©
+// ç¡®å®šæŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button0]
 FrameAmount=2
 Frame0=Data/Main1/OkBtn.dds
 Frame1=Data/Main1/OkBtnClick.dds
-		
-// ÍË³ö°´Å¥£¨¹«¹²£©
+
+// é€€å‡ºæŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button1]
 FrameAmount=2
 Frame0=Data/Main1/ExitBtn.dds
 Frame1=Data/Main1/ExitBtnClick.dds
 
-// ·µ»Ø°´Å¥£¨¹«¹²£©
+// è¿”å›æŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button2]
 FrameAmount=2
 Frame0=Data/Main1/ReturnBtn.dds
 Frame1=Data/Main1/ReturnBtnClick.dds
 
-// ¹Ø±Õ°´Å¥£¨¹«¹²£©
+// å…³é—­æŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button3]
 FrameAmount=2
 Frame0=Data/Main1/CloseBtn.dds
 Frame1=Data/Main1/CloseBtnClick.dds
 
-// °ï×éĞ¡°´Å¥£¨¹«¹²£©
+// å¸®ç»„å°æŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button4]
 FrameAmount=2
 Frame0=Data/Main1/HelpBtn.dds
 Frame1=Data/Main1/HelpBtnClick.dds
 
-// ¹Ø±ÕĞ¡°´Å¥£¨¹«¹²£©
+// å…³é—­å°æŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button5]
 FrameAmount=2
 Frame0=Data/Main1/CloseBtnS.dds
 Frame1=Data/Main1/CloseBtnSClick.dds
 
-// Íê³É°´Å¥£¨¹«¹²£©
+// å®ŒæˆæŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button6]
 FrameAmount=2
 Frame0=Data/Main1/FinishBtn.dds
 Frame1=Data/Main1/FinishBtnClick.dds
 
-// È¡Ïû°´Å¥£¨¹«¹²£©
+// å–æ¶ˆæŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button7]
 FrameAmount=2
 Frame0=Data/Main1/CancelBtn.dds
 Frame1=Data/Main1/CancelBtnClick.dds
 
-// Í¬Òâ°´Å¥£¨¹«¹²£©
+// åŒæ„æŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button8]
 FrameAmount=2
 Frame0=Data/Main1/AgreeBtn.dds
 Frame1=Data/Main1/AgreeBtnClick.dds
 
-// Çå¿Õ°´Å¥£¨¹«¹²£©
+// æ¸…ç©ºæŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [Button9]
 FrameAmount=2
 Frame0=Data/Main1/ClearBtn.dds
 Frame1=Data/Main1/ClearBtnClick.dds
 
-// ĞÂ½¨ÈËÎï°´Å¥(Dialog1)
+// æ–°å»ºäººç‰©æŒ‰é’®(Dialog1)
 [Button10]
 FrameAmount=2
 Frame0=Data/Main1/LoginNewBtn.dds
 Frame1=Data/Main1/LoginNewBtnClick.dds
 
-// ÍøÕ¾Áª½Ó°´Å¥(Dialog1)
+// ç½‘ç«™è”æ¥æŒ‰é’®(Dialog1)
 [Button11]
 FrameAmount=2
 Frame0=Data/Main1/LoginNetBtn.dds
 Frame1=Data/Main1/LoginNetBtnClick.dds
 
-// ¼Ç×¡ÕËºÅ(Dialog1)
+// è®°ä½è´¦å·(Dialog1)
 [Button12]
 FrameAmount=2
 Frame0=Data/Main1/LoginRecordBtn.dds
 Frame1=Data/Main1/LoginRecordBtnClick.dds
 
-// ½øÈëÓÎÏ·(Dialog1)
+// è¿›å…¥æ¸¸æˆ(Dialog1)
 [Button13]
 FrameAmount=2
 Frame0=Data/Main1/LoginEnterBtn.dds
 Frame1=Data/Main1/LoginEnterBtnClick.dds
 
-// ÍË³öÓÎÏ·(Dialog1)
+// é€€å‡ºæ¸¸æˆ(Dialog1)
 [Button14]
 FrameAmount=2
 Frame0=Data/Main1/LoginExitBtn.dds
 Frame1=Data/Main1/LoginExitBtnClick.dds
 
-// °ïÖú(Dialog1)
+// å¸®åŠ©(Dialog1)
 [Button15]
 FrameAmount=2
 Frame0=Data/Main1/LoginHelpBtn.dds
 Frame1=Data/Main1/LoginHelpBtnClick.dds
 
-// ³äÖµ(Dialog1)
+// å……å€¼(Dialog1)
 [Button16]
 FrameAmount=2
 Frame0=Data/Main1/LoginAddBtn.dds
 Frame1=Data/Main1/LoginAddBtnClick.dds
 
-// È·¶¨(Dialog2)
+// ç¡®å®š(Dialog2)
 [Button20]
 FrameAmount=2
 Frame0=Data/Main1/RoleChooseOkBtn.dds
 Frame1=Data/Main1/RoleChooseOkBtnClick.dds
 
-// ·µ»Ø(Dialog3)
+// è¿”å›(Dialog3)
 [Button30]
 FrameAmount=2
 Frame0=Data/Main1/RoleCreateReturnBtn.dds
 Frame1=Data/Main1/RoleCreateReturnBtnClick.dds
 
-// ×ÊÁÏ²éÑ¯°´Å¥(Dialog4)
+// èµ„æ–™æŸ¥è¯¢æŒ‰é’®(Dialog4)
 [Button40]
 FrameAmount=2
 Frame0=Data/Main1/QueryBtn.dds
 Frame1=Data/Main1/QueryBtnClick.dds
 
-// ¼¼ÄÜ°´Å¥(Dialog4)
+// æŠ€èƒ½æŒ‰é’®(Dialog4)
 [Button41]
 FrameAmount=3
 Frame0=Data/Main1/SkillBtn.dds
 Frame1=Data/Main1/SkillBtnClick.dds
 Frame2=Data/Main1/SkillBtnL.dds
 
-// ÎïÆ·°´Å¥(Dialog4)
+// ç‰©å“æŒ‰é’®(Dialog4)
 [Button42]
 FrameAmount=2
 Frame0=Data/Main1/GoodBtn.dds
 Frame1=Data/Main1/GoodBtnClick.dds
 
-// ÉèÖÃ°´Å¥(Dialog4)
+// è®¾ç½®æŒ‰é’®(Dialog4)
 [Button43]
 FrameAmount=2
 Frame0=Data/Main1/SetBtn.dds
 Frame1=Data/Main1/SetBtnClick.dds
 
-// ¶¯×÷°´Å¥(Dialog4)
+// åŠ¨ä½œæŒ‰é’®(Dialog4)
 [Button44]
 FrameAmount=2
 Frame0=Data/Main1/FaceBtn.dds
 Frame1=Data/Main1/FaceBtnClick.dds
 
-// ÁÄÌì°´Å¥(Dialog4)
+// èŠå¤©æŒ‰é’®(Dialog4)
 [Button45]
 FrameAmount=2
 Frame0=Data/Main1/ChatBtn.dds
 Frame1=Data/Main1/ChatBtnClick.dds
 
-// ×é¶Ó°´Å¥(Dialog4)
+// ç»„é˜ŸæŒ‰é’®(Dialog4)
 [Button46]
 FrameAmount=2
 Frame0=Data/Main1/GroupBtn.dds
@@ -415,1238 +415,1238 @@ FrameAmount=2
 Frame0=Data/Main1/PkFree.dds
 Frame1=Data/Main1/PkFreeClick.dds
 
-// PK(×é¶Ó) (Dialog4)
+// PK(ç»„é˜Ÿ) (Dialog4)
 [Button48]
 FrameAmount=2
 Frame0=Data/Main1/PkGroup.dds
 Frame1=Data/Main1/PkGroupClick.dds
 
-// PK(°²È«) (Dialog4)
+// PK(å®‰å…¨) (Dialog4)
 [Button49]
 FrameAmount=2
 Frame0=Data/Main1/PkSafe.dds
 Frame1=Data/Main1/PkSafeClick.dds
 
-// ÁôÑÔ°´Å¥(Dialog4)
+// ç•™è¨€æŒ‰é’®(Dialog4)
 [Button410]
 FrameAmount=2
 Frame0=Data/Main1/LevWordBtn.dds
 Frame1=Data/Main1/LevWordBtnClick.dds
 
-// ²é¿´¶Ô·½×°±¸½çÃæ(Dialog4)
+// æŸ¥çœ‹å¯¹æ–¹è£…å¤‡ç•Œé¢(Dialog4)
 [Button411]
 FrameAmount=2
 Frame0=Data/Main1/NpcEquip.dds
 Frame1=Data/Main1/NpcEquipClick.dds
 
-// PK(²¶É±)(Dialog4)
+// PK(æ•æ€)(Dialog4)
 [Button412]
 FrameAmount=2
 Frame0=Data/Main1/PkArre.dds
 Frame1=Data/Main1/PkArreClick.dds
 
-// ¹«ÁÄ°´Å¥(Dialog5)
+// å…¬èŠæŒ‰é’®(Dialog5)
 [Button50]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnG.dds
 Frame1=Data/Main1/TalkBtnGClick.dds
 
-// Ë½ÁÄ°´Å¥(Dialog5)
+// ç§èŠæŒ‰é’®(Dialog5)
 [Button51]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnS.dds
 Frame1=Data/Main1/TalkBtnSClick.dds
 
-// ¶ÓÎé°´Å¥(Dialog5)
+// é˜Ÿä¼æŒ‰é’®(Dialog5)
 [Button52]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnD.dds
 Frame1=Data/Main1/TalkBtnDClick.dds
 
-// °ïÅÉ°´Å¥(Dialog5)
+// å¸®æ´¾æŒ‰é’®(Dialog5)
 [Button53]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnB.dds
 Frame1=Data/Main1/TalkBtnBClick.dds
 
-// ºÃÓÑ°´Å¥(Dialog5)
+// å¥½å‹æŒ‰é’®(Dialog5)
 [Button54]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnH.dds
 Frame1=Data/Main1/TalkBtnHClick.dds
 
-// ÇåÆÁ°´Å¥(Dialog5)
+// æ¸…å±æŒ‰é’®(Dialog5)
 [Button55]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnClear.dds
 Frame1=Data/Main1/TalkBtnClearClick.dds
 
-// Ñ¡È¡ºÃÓÑ(Dialog5)
+// é€‰å–å¥½å‹(Dialog5)
 [Button56]
 FrameAmount=3
 Frame0=Data/Main1/TalkBtnTalk.dds
 Frame1=Data/Main1/TalkBtnTalkClick.dds
 Frame2=Data/Main1/TalkBtnTalkFalse.dds
 
-// Ìí¼ÓºÃÓÑ1(Dialog5)
+// æ·»åŠ å¥½å‹1(Dialog5)
 [Button57]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnAdd1.dds
 Frame1=Data/Main1/TalkBtnAdd1Click.dds
 
-// Ìí¼ÓºÃÓÑ2(Dialog5)
+// æ·»åŠ å¥½å‹2(Dialog5)
 [Button58]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnAdd2.dds
 Frame1=Data/Main1/TalkBtnAdd2Click.dds
 
-// Ìí¼ÓºÃÓÑ3(Dialog5)
+// æ·»åŠ å¥½å‹3(Dialog5)
 [Button59]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnAdd3.dds
 Frame1=Data/Main1/TalkBtnAdd3Click.dds
 
-// ´ò¿ªÁÄÌìÁĞ±í(Dialog5)
+// æ‰“å¼€èŠå¤©åˆ—è¡¨(Dialog5)
 [Button510]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnList.dds
 Frame1=Data/Main1/TalkBtnListClick.dds
 
-// ÁÄÌì·¢ËÍ(Dialog5)
+// èŠå¤©å‘é€(Dialog5)
 [Button511]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnSend.dds
 Frame1=Data/Main1/TalkBtnSendClick.dds
 
-// ÁÄÌì¼ÍÂ¼(Dialog5)
+// èŠå¤©çºªå½•(Dialog5)
 [Button512]
 FrameAmount=2
 Frame0=Data/Main1/TalkBtnLog.dds
 Frame1=Data/Main1/TalkBtnLogClick.dds
 
-// ¹Ø±Õ(Dialog6)
+// å…³é—­(Dialog6)
 [Button60]
 FrameAmount=2
 Frame0=Data/Main1/QueryCloseBtn.jpg
 Frame1=Data/Main1/QueryCloseBtnClick.jpg
 
-// Ôö¼Ó(Dialog7)
+// å¢åŠ (Dialog7)
 [Button70]
 FrameAmount=2
 Frame0=Data/Main1/RoleBtnI.dds
 Frame1=Data/Main1/RoleBtnIClick.dds
 
-// »ù±¾ÊôĞÔ(Dialog7)
+// åŸºæœ¬å±æ€§(Dialog7)
 [Button71]
 FrameAmount=2
 Frame0=Data/Main1/RoleBtnBase.dds
 Frame1=Data/Main1/RoleBtnBaseClick.dds
 
-// ¾ßÌåÊôĞÔ(Dialog7)
+// å…·ä½“å±æ€§(Dialog7)
 [Button72]
 FrameAmount=2
 Frame0=Data/Main1/RoleBtnMore.dds
 Frame1=Data/Main1/RoleBtnMoreClick.dds
 
-// ¾èÏ×(Dialog8)
+// æçŒ®(Dialog8)
 [Button80]
 FrameAmount=3
 Frame0=Data/Main1/FactionBtnSub.dds
 Frame1=Data/Main1/FactionBtnSubClick.dds
 Frame2=Data/Main1/FactionBtnSubH.dds
 
-// ÍÑÀë(Dialog8)
+// è„±ç¦»(Dialog8)
 [Button81]
 FrameAmount=2
 Frame0=Data/Main1/FactionBtnOut.dds
 Frame1=Data/Main1/FactionBtnOutClick.dds
 
-// ¼ÓÈë(Dialog8)
+// åŠ å…¥(Dialog8)
 [Button82]
 FrameAmount=2
 Frame0=Data/Main1/FactionBtnJoin.dds
 Frame1=Data/Main1/FactionBtnJoinClick.dds
 
-// ÊôĞÔ(Dialog8)
+// å±æ€§(Dialog8)
 [Button83]
 FrameAmount=3
 Frame0=Data/Main1/FactionBtnState.dds
 Frame1=Data/Main1/FactionBtnStateClick.dds
 Frame2=Data/Main1/FactionBtnStateH.dds
 
-// ¹«¸æ(Dialog8)
+// å…¬å‘Š(Dialog8)
 [Button84]
 FrameAmount=3
 Frame0=Data/Main1/FactionBtnWord.dds
 Frame1=Data/Main1/FactionBtnWordClick.dds
 Frame2=Data/Main1/FactionBtnWordH.dds
 
-// Í¬ÃË(Dialog8)
+// åŒç›Ÿ(Dialog8)
 [Button85]
 FrameAmount=3
 Frame0=Data/Main1/FactionBtnFriend.dds
 Frame1=Data/Main1/FactionBtnFriendClick.dds
 Frame2=Data/Main1/FactionBtnFriendH.dds
 
-// µĞ¶Ô(Dialog8)
+// æ•Œå¯¹(Dialog8)
 [Button86]
 FrameAmount=3
 Frame0=Data/Main1/FactionBtnEnemy.dds
 Frame1=Data/Main1/FactionBtnEnemyClick.dds
 Frame2=Data/Main1/FactionBtnEnemyH.dds
 
-// ¿ª³ı(Dialog8)
+// å¼€é™¤(Dialog8)
 [Button87]
 FrameAmount=2
 Frame0=Data/Main1/FactionBtnKick.dds
 Frame1=Data/Main1/FactionBtnKickClick.dds
 
-// ·¢²¼¹«¸æ(Dialog8)
+// å‘å¸ƒå…¬å‘Š(Dialog8)
 [Button88]
 FrameAmount=2
 Frame0=Data/Main1/FactionBtnSend.dds
 Frame1=Data/Main1/FactionBtnSendClick.dds
 
-// ²ì¿´°ïÖÚ(Dialog8)
+// å¯Ÿçœ‹å¸®ä¼—(Dialog8)
 [Button89]
 FrameAmount=2
 Frame0=Data/Main1/FactionBtnList.dds
 Frame1=Data/Main1/FactionBtnListClick.dds
 
-// É¾³ı(Dialog8)
+// åˆ é™¤(Dialog8)
 [Button810]
 FrameAmount=2
 Frame0=Data/Main1/FactionDel.dds
 Frame1=Data/Main1/FactionDelClick.dds
 
-// µ¥ÊÖ(Dialog9)
+// å•æ‰‹(Dialog9)
 [Button90]
 FrameAmount=2
 Frame0=Data/Main1/WeaponBtnS.dds
 Frame1=Data/Main1/WeaponBtnSClick.dds
 
-// Ë«ÊÖ(Dialog9)
+// åŒæ‰‹(Dialog9)
 [Button91]
 FrameAmount=2
 Frame0=Data/Main1/WeaponBtnD.dds
 Frame1=Data/Main1/WeaponBtnDClick.dds
 
-// ÆäËü(Dialog9)
+// å…¶å®ƒ(Dialog9)
 [Button92]
 FrameAmount=2
 Frame0=Data/Main1/WeaponBtnO.dds
 Frame1=Data/Main1/WeaponBtnOClick.dds
 
-// ´°¿Ú(Dialog10)
+// çª—å£(Dialog10)
 [Button100]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnWin.dds
 Frame1=Data/Main1/SetupBtnWinClick.dds
 
-// È«ÆÁ(Dialog10)
+// å…¨å±(Dialog10)
 [Button101]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnFull.dds
 Frame1=Data/Main1/SetupBtnFullClick.dds
 
-// É¾³ıÈËÎï(Dialog10)
+// åˆ é™¤äººç‰©(Dialog10)
 [Button102]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnDelete.dds
 Frame1=Data/Main1/SetupBtnDeleteClick.dds
 
-// ÍË³öÓÎÏ·(Dialog10)
+// é€€å‡ºæ¸¸æˆ(Dialog10)
 [Button103]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnExit.dds
 Frame1=Data/Main1/SetupBtnExitClick.dds
 
-// ¸´ÔÓÒõÓ°(Dialog10)
+// å¤æ‚é˜´å½±(Dialog10)
 [Button104]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnReal.dds
 Frame1=Data/Main1/SetupBtnRealClick.dds
 
-// ¼òµ¥ÒõÓ°(Dialog10)
+// ç®€å•é˜´å½±(Dialog10)
 [Button105]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnSimple.dds
 Frame1=Data/Main1/SetupBtnSimpleClick.dds
 
-// ¹Ø±ÕÒõÓ°(Dialog10)
+// å…³é—­é˜´å½±(Dialog10)
 [Button106]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnShadowClose.dds
 Frame1=Data/Main1/SetupBtnShadowCloseClick.dds
 
-// ÈÈ¼üÉè¶¨(Dialog10)
+// çƒ­é”®è®¾å®š(Dialog10)
 [Button107]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnHotkey.dds
 Frame1=Data/Main1/SetupBtnHotkeyClick.dds
 
-// ÆäËû¹¦ÄÜ(Dialog10)
+// å…¶ä»–åŠŸèƒ½(Dialog10)
 [Button108]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnOther.dds
 Frame1=Data/Main1/SetupBtnOtherClick.dds
 
-// ×ó°´Å¥(Dialog10)
+// å·¦æŒ‰é’®(Dialog10)
 [Button109]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnLeft.dds
 Frame1=Data/Main1/SetupBtnLeftClick.dds
 
-// ÓÒ°´Å¥(Dialog10)
+// å³æŒ‰é’®(Dialog10)
 [Button1010]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnRight.dds
 Frame1=Data/Main1/SetupBtnRightClick.dds
 
-// Ä¾Òä½çÃæ(Dialog10)
+// æœ¨å¿†ç•Œé¢(Dialog10)
 [Button1011]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnMY.dds
 Frame1=Data/Main1/SetupBtnMY.dds
 
-// ¹ÅÒâ½çÃæ(Dialog10)
+// å¤æ„ç•Œé¢(Dialog10)
 [Button1012]
 FrameAmount=2
 Frame0=Data/Main1/SetupBtnGY.dds
 Frame1=Data/Main1/SetupBtnGY.dds
 
-// ĞŞÀí°´Å¥(Dialog11)
+// ä¿®ç†æŒ‰é’®(Dialog11)
 [Button110]
 FrameAmount=2
 Frame0=Data/Main1/NpcBuyBtnFix.dds
 Frame1=Data/Main1/NpcBuyBtnFixClick.dds
 
-// ¶ªÇ®Ğ¡°´Å¥(Dialog12)
+// ä¸¢é’±å°æŒ‰é’®(Dialog12)
 [Button120]
 FrameAmount=2
 Frame0=Data/Main1/MpcGoodsMoneyBtn.dds
 Frame1=Data/Main1/MpcGoodsMoneyBtnClick.dds
 
-// ÎïÆ·À¸¹Ø±Õ°´Å¥(Dialog12)
+// ç‰©å“æ å…³é—­æŒ‰é’®(Dialog12)
 [Button121]
 FrameAmount=2
 Frame0=Data/Main1/MpcGoodsCloseBtn.dds
 Frame1=Data/Main1/MpcGoodsCloseBtnClick.dds
 
-// ¼¼ÄÜ1(Dialog13)
+// æŠ€èƒ½1(Dialog13)
 [Button130]
 FrameAmount=2
 Frame0=Data/Main1/Skill1Btn.dds
 Frame1=Data/Main1/Skill1BtnClick.dds
 
-// Ìí¼ÓºÃÓÑ(Dialog17)
+// æ·»åŠ å¥½å‹(Dialog17)
 [Button170]
 FrameAmount=2
 Frame0=Data/Main1/FriendBtnAdd.dds
 Frame1=Data/Main1/FriendBtnAddClick.dds
 
-// É¾³ıºÃÓÑ(Dialog17)
+// åˆ é™¤å¥½å‹(Dialog17)
 [Button171]
 FrameAmount=2
 Frame0=Data/Main1/FriendBtnDel.dds
 Frame1=Data/Main1/FriendBtnDelClick.dds
 
-// °ïÖú(Dialog17)
+// å¸®åŠ©(Dialog17)
 [Button172]
 FrameAmount=2
 Frame0=Data/Main1/FriendBtnHelp.dds
 Frame1=Data/Main1/FriendBtnHelpClick.dds
 
-// ÉÏ·­°´Å¥(Dialog17)
+// ä¸Šç¿»æŒ‰é’®(Dialog17)
 [Button173]
 FrameAmount=2
 Frame0=Data/Main1/FriendBtnUp.dds
 Frame1=Data/Main1/FriendBtnUpClick.dds
 
-// ÏÂ·­°´Å¥(Dialog17)
+// ä¸‹ç¿»æŒ‰é’®(Dialog17)
 [Button174]
 FrameAmount=2
 Frame0=Data/Main1/FriendBtnDown.dds
 Frame1=Data/Main1/FriendBtnDownClick.dds
 
-// ÇĞ»»³ğÈËÃûµ¥(Dialog17)
+// åˆ‡æ¢ä»‡äººåå•(Dialog17)
 [Button175]
 FrameAmount=2
 Frame0=Data/Main1/FriendResume.dds
 Frame1=Data/Main1/FriendResumeClick.dds
 
-// ´æÇ®(Dialog18)
+// å­˜é’±(Dialog18)
 [Button180]
 FrameAmount=2
 Frame0=Data/Main1/DepotBtnAdd.dds
 Frame1=Data/Main1/DepotBtnAddClick.dds
 
-// È¡Ç®(Dialog18)
+// å–é’±(Dialog18)
 [Button181]
 FrameAmount=2
 Frame0=Data/Main1/DepotBtnGet.dds
 Frame1=Data/Main1/DepotBtnGetClick.dds
 
-// ´´½¨(Dialog19)
+// åˆ›å»º(Dialog19)
 [Button190]
 FrameAmount=2
 Frame0=Data/Main1/GroupBtnCreate.dds
 Frame1=Data/Main1/GroupBtnCreateClick.dds
 
-// ¼ÓÈë(Dialog19)
+// åŠ å…¥(Dialog19)
 [Button191]
 FrameAmount=2
 Frame0=Data/Main1/GroupBtnJoin.dds
 Frame1=Data/Main1/GroupBtnJoinClick.dds
 
-// ÑûÇë(Dialog19)
+// é‚€è¯·(Dialog19)
 [Button192]
 FrameAmount=2
 Frame0=Data/Main1/GroupBtnInvite.dds
 Frame1=Data/Main1/GroupBtnInviteClick.dds
 
-// Àë¿ª(Dialog19)
+// ç¦»å¼€(Dialog19)
 [Button193]
 FrameAmount=2
 Frame0=Data/Main1/GroupBtnOut.dds
 Frame1=Data/Main1/GroupBtnOutClick.dds
 
-// ½âÉ¢(Dialog19)
+// è§£æ•£(Dialog19)
 [Button194]
 FrameAmount=2
 Frame0=Data/Main1/GroupBtnUnlay.dds
 Frame1=Data/Main1/GroupBtnUnlayClick.dds
 
-// ¿ª³ı(Dialog19)
+// å¼€é™¤(Dialog19)
 [Button195]
 FrameAmount=3
 Frame0=Data/Main1/GroupBtnKickout.dds
 Frame1=Data/Main1/GroupBtnKickoutClick.dds
 Frame2=Data/Main1/GroupBtnKickoutFalse.dds
 
-// ¸úËæ(Dialog19)
+// è·Ÿéš(Dialog19)
 [Button196]
 FrameAmount=2
 Frame0=Data/Main1/GroupBtnFollow.dds
 Frame1=Data/Main1/GroupBtnFollowClick.dds
 
-// Éè¶¨(Dialog19)
+// è®¾å®š(Dialog19)
 [Button197]
 FrameAmount=2
 Frame0=Data/Main1/GroupBtnSetup.dds
 Frame1=Data/Main1/GroupBtnSetupClick.dds
 
-// ÕĞÊ½°´Å¥(Dialog20)
+// æ‹›å¼æŒ‰é’®(Dialog20)
 [Button200]
 FrameAmount=2
 Frame0=Data/Main1/QuerySkillBtnZ.dds
 Frame1=Data/Main1/QuerySkillBtnZClick.dds
 
-// Ä§·¨°´Å¥(Dialog20)
+// é­”æ³•æŒ‰é’®(Dialog20)
 [Button201]
 FrameAmount=2
 Frame0=Data/Main1/QuerySkillBtnM.dds
 Frame1=Data/Main1/QuerySkillBtnMClick.dds
 
-// ¼¼ÄÜ°´Å¥(Dialog20)
+// æŠ€èƒ½æŒ‰é’®(Dialog20)
 [Button202]
 FrameAmount=2
 Frame0=Data/Main1/QuerySkillBtnJ.dds
 Frame1=Data/Main1/QuerySkillBtnJClick.dds
 
-// ÉÏ°´Å¥(Dialog20)
+// ä¸ŠæŒ‰é’®(Dialog20)
 [Button203]
 FrameAmount=2
 Frame0=Data/Main1/QuerySkillBtnU.dds
 Frame1=Data/Main1/QuerySkillBtnUClick.dds
 
-// ÏÂ°´Å¥(Dialog20)
+// ä¸‹æŒ‰é’®(Dialog20)
 [Button204]
 FrameAmount=3
 Frame0=Data/Main1/QuerySkillBtnD.dds
 Frame1=Data/Main1/QuerySkillBtnDClick.dds
 Frame2=Data/Main1/QuerySkillBtnL.dds
 
-// ¶¯×÷0(Dialog22)
+// åŠ¨ä½œ0(Dialog22)
 [ButtonA230]
 FrameAmount=2
 Frame0=Data/Main1/Act0.dds
 Frame1=Data/Main1/Act0Click.dds
 
-// ¶¯×÷1(Dialog22)
+// åŠ¨ä½œ1(Dialog22)
 [ButtonA210]
 FrameAmount=2
 Frame0=Data/Main1/Act1.dds
 Frame1=Data/Main1/Act1Click.dds
 
-// ¶¯×÷2(Dialog22)
+// åŠ¨ä½œ2(Dialog22)
 [ButtonA170]
 FrameAmount=2
 Frame0=Data/Main1/Act2.dds
 Frame1=Data/Main1/Act2Click.dds
 
-// ¶¯×÷3(Dialog22)
+// åŠ¨ä½œ3(Dialog22)
 [ButtonA150]
 FrameAmount=2
 Frame0=Data/Main1/Act3.dds
 Frame1=Data/Main1/Act3Click.dds
 
-// ¶¯×÷4(Dialog22)
+// åŠ¨ä½œ4(Dialog22)
 [ButtonA160]
 FrameAmount=2
 Frame0=Data/Main1/Act4.dds
 Frame1=Data/Main1/Act4Click.dds
 
-// ¶¯×÷5(Dialog22)
+// åŠ¨ä½œ5(Dialog22)
 [ButtonA270]
 FrameAmount=2
 Frame0=Data/Main1/Act5.dds
 Frame1=Data/Main1/Act5Click.dds
 
-// ¶¯×÷6(Dialog22)
+// åŠ¨ä½œ6(Dialog22)
 [ButtonA1]
 FrameAmount=2
 Frame0=Data/Main1/Act6.dds
 Frame1=Data/Main1/Act6Click.dds
 
-// ¶¯×÷7(Dialog22)
+// åŠ¨ä½œ7(Dialog22)
 [ButtonA190]
 FrameAmount=2
 Frame0=Data/Main1/Act7.dds
 Frame1=Data/Main1/Act7Click.dds
 
-// ¶¯×÷8(Dialog22)
+// åŠ¨ä½œ8(Dialog22)
 [ButtonA200]
 FrameAmount=2
 Frame0=Data/Main1/Act8.dds
 Frame1=Data/Main1/Act8Click.dds
 
-// ¶¯×÷9(Dialog22)
+// åŠ¨ä½œ9(Dialog22)
 [ButtonA250]
 FrameAmount=2
 Frame0=Data/Main1/Act9.dds
 Frame1=Data/Main1/Act9Click.dds
 
-// Ìá½»°´Å¥(Dialog23)
+// æäº¤æŒ‰é’®(Dialog23)
 [Button230]
 FrameAmount=2
 Frame0=Data/Main1/TaskAnswerBtn.dds
 Frame1=Data/Main1/TaskAnswerBtnClick.dds
 
-// É¾³ı°´Å¥(Dialog25)
+// åˆ é™¤æŒ‰é’®(Dialog25)
 [Button250]
 FrameAmount=2
 Frame0=Data/Main1/FrdStateBtnDel.dds
 Frame1=Data/Main1/FrdStateBtnDelClick.dds
 
-// ¸ÄÁ¼°´Å¥(Dialog26)
+// æ”¹è‰¯æŒ‰é’®(Dialog26)
 [Button260]
 FrameAmount=2
 Frame0=Data/Main1/ImproveBtnImp.dds
 Frame1=Data/Main1/ImproveBtnImpClick.dds
 
-// È·¶¨°´Å¥(Dialog27)
+// ç¡®å®šæŒ‰é’®(Dialog27)
 [Button270]
 FrameAmount=2
 Frame0=Data/Main1/NpcFaceBtnAgree.dds
 Frame1=Data/Main1/NpcFaceBtnAgreeClick.dds
 
-// ÉÏ·­°´Å¥(Dialog27)
+// ä¸Šç¿»æŒ‰é’®(Dialog27)
 [Button271]
 FrameAmount=2
 Frame0=Data/Main1/NpcFaceBtnUp.dds
 Frame1=Data/Main1/NpcFaceBtnUpClick.dds
 
-// ÏÂ·­°´Å¥(Dialog27)
+// ä¸‹ç¿»æŒ‰é’®(Dialog27)
 [Button272]
 FrameAmount=2
 Frame0=Data/Main1/NpcFaceBtnDown.dds
 Frame1=Data/Main1/NpcFaceBtnDownClick.dds
 
-// ÏâÇ¶°´Å¥(Dialog29)
+// é•¶åµŒæŒ‰é’®(Dialog29)
 [Button290]
 FrameAmount=2
 Frame0=Data/Main1/EmbedBtnEmbed.dds
 Frame1=Data/Main1/EmbedBtnEmbedClick.dds
 
-// È¥³ı°´Å¥(Dialog29)
+// å»é™¤æŒ‰é’®(Dialog29)
 [Button291]
 FrameAmount=2
 Frame0=Data/Main1/EmbedBtnTackOff.dds
 Frame1=Data/Main1/EmbedBtnTackOffClick.dds
 
-// ±£´æ°´Å¥(Dialog32)
+// ä¿å­˜æŒ‰é’®(Dialog32)
 [Button320]
 FrameAmount=2
 Frame0=Data/Main1/HotkeySave.dds
 Frame1=Data/Main1/HotkeySaveClick.dds
 
-// »¹Ô­°´Å¥(Dialog32)
+// è¿˜åŸæŒ‰é’®(Dialog32)
 [Button321]
 FrameAmount=2
 Frame0=Data/Main1/HotkeyRevert.dds
 Frame1=Data/Main1/HotkeyRevertClick.dds
 
-// ¸ü¸Ä°´Å¥(Dialog32)
+// æ›´æ”¹æŒ‰é’®(Dialog32)
 [Button322]
 FrameAmount=2
 Frame0=Data/Main1/HotkeyChange.dds
 Frame1=Data/Main1/HotkeyChangeClick.dds
 
-// É¾³ı°´Å¥(Dialog32)
+// åˆ é™¤æŒ‰é’®(Dialog32)
 [Button323]
 FrameAmount=2
 Frame0=Data/Main1/HotkeyDel.dds
 Frame1=Data/Main1/HotkeyDelClick.dds
 
-// ËùÓĞÏûÏ¢°´Å¥(Dialog33,Dialog35)
+// æ‰€æœ‰æ¶ˆæ¯æŒ‰é’®(Dialog33,Dialog35)
 [Button330]
 FrameAmount=3
 Frame0=Data/Main1/MsgSendAllMsg.dds
 Frame1=Data/Main1/MsgSendAllMsgClick.dds
 Frame2=Data/Main1/MsgSendAllMsgH.dds
 
-// ·¢ËÍÏûÏ¢°´Å¥(Dialog33)
+// å‘é€æ¶ˆæ¯æŒ‰é’®(Dialog33)
 [Button331]
 FrameAmount=2
 Frame0=Data/Main1/MsgSendSend.dds
 Frame1=Data/Main1/MsgSendSendClick.dds
 
-// »Ø¸´ÏûÏ¢°´Å¥(Dialog33)
+// å›å¤æ¶ˆæ¯æŒ‰é’®(Dialog33)
 [Button332]
 FrameAmount=3
 Frame0=Data/Main1/MsgReceiveRevert.dds
 Frame1=Data/Main1/MsgReceiveRevertClick.dds
 Frame2=Data/Main1/MsgReceiveRevertH.dds
 
-// ÏÂÒ»Ìõ°´Å¥(Dialog33)
+// ä¸‹ä¸€æ¡æŒ‰é’®(Dialog33)
 [Button333]
 FrameAmount=3
 Frame0=Data/Main1/MsgReceiveNext.dds
 Frame1=Data/Main1/MsgReceiveNextClick.dds
 Frame2=Data/Main1/MsgReceiveNextH.dds
 
-// ÉÏÒ»Ìõ°´Å¥(Dialog33)
+// ä¸Šä¸€æ¡æŒ‰é’®(Dialog33)
 [Button334]
 FrameAmount=3
 Frame0=Data/Main1/MsgReceivePre.dds
 Frame1=Data/Main1/MsgReceivePreClick.dds
 Frame2=Data/Main1/MsgReceivePreH.dds
 
-// ĞŞ¸Ä°´Å¥(Dialog34)
+// ä¿®æ”¹æŒ‰é’®(Dialog34)
 [Button340]
 FrameAmount=2
 Frame0=Data/Main1/MpcBoothBtnChange.dds
 Frame1=Data/Main1/MpcBoothBtnChangeClick.dds
 
-// È¡»Ø°´Å¥(Dialog34)
+// å–å›æŒ‰é’®(Dialog34)
 [Button341]
 FrameAmount=2
 Frame0=Data/Main1/MpcBoothBtnGetBack.dds
 Frame1=Data/Main1/MpcBoothBtnGetBackClick.dds
 
-// ³·ÏúÌ¯Î»(Dialog34)
+// æ’¤é”€æ‘Šä½(Dialog34)
 [Button342]
 FrameAmount=2
 Frame0=Data/Main1/MpcBoothBtnRecall.dds
 Frame1=Data/Main1/MpcBoothBtnRecallClick.dds
 
-// ÉèÖÃ½ĞÂô(Dialog34)
+// è®¾ç½®å«å–(Dialog34)
 [Button343]
 FrameAmount=2
 Frame0=Data/Main1/MpcBoothBtnHawk.dds
 Frame1=Data/Main1/MpcBoothBtnHawkClick.dds
 
-// ¹ºÂò°´Å¥(Dialog35)
+// è´­ä¹°æŒ‰é’®(Dialog35)
 [Button350]
 FrameAmount=2
 Frame0=Data/Main1/NpcBoothBtnBuy.dds
 Frame1=Data/Main1/NpcBoothBtnBuyClick.dds
 
-//  ÁÄÌì¼ÍÂ¼°´Å¥(Dialog36)
+//  èŠå¤©çºªå½•æŒ‰é’®(Dialog36)
 [Button360]
 FrameAmount=2
 Frame0=Data/Main1/ChatRecord.dds
 Frame1=Data/Main1/ChatRecordClick.dds
 
-// ÁÄÌì¹ıÂË°´Å¥(Dialog36)
+// èŠå¤©è¿‡æ»¤æŒ‰é’®(Dialog36)
 [Button361]
 FrameAmount=2
 Frame0=Data/Main1/ChatSift.dds
 Frame1=Data/Main1/ChatSiftClick.dds
 
-// ²ì¿´ÁôÑÔ°´Å¥(Dialog36)
+// å¯Ÿçœ‹ç•™è¨€æŒ‰é’®(Dialog36)
 [Button364]
 FrameAmount=2
 Frame0=Data/Main1/ChatLevWord.dds
 Frame1=Data/Main1/ChatLevWordClick.dds
 
-// Ìí¼Ó(Dialog36)
+// æ·»åŠ (Dialog36)
 [Button362]
 FrameAmount=2
 Frame0=Data/Main1/BlackAdd.dds
 Frame1=Data/Main1/BlackAddClick.dds
 
-// É¾³ı(Dialog36)
+// åˆ é™¤(Dialog36)
 [Button363]
 FrameAmount=2
 Frame0=Data/Main1/BlackDel.dds
 Frame1=Data/Main1/BlackDelClick.dds
 
-// ·¢²¼(Dialog37)
+// å‘å¸ƒ(Dialog37)
 [Button370]
 FrameAmount=2
 Frame0=Data/Main1/LevWordSend.dds
 Frame1=Data/Main1/LevWordSendClick.dds
 
-// ²ì¿´(Dialog37)
+// å¯Ÿçœ‹(Dialog37)
 [Button371]
 FrameAmount=2
 Frame0=Data/Main1/LevWordWatch.dds
 Frame1=Data/Main1/LevWordWatchClick.dds
 
-// ĞŞ¸Ä(Dialog37)
+// ä¿®æ”¹(Dialog37)
 [Button372]
 FrameAmount=2
 Frame0=Data/Main1/LevWordChange.dds
 Frame1=Data/Main1/LevWordChangeClick.dds
 
-// É¾³ı(Dialog37)
+// åˆ é™¤(Dialog37)
 [Button373]
 FrameAmount=2
 Frame0=Data/Main1/LevWordDel.dds
 Frame1=Data/Main1/LevWordDelClick.dds
 
-// Ë¢ĞÂ(Dialog37)
+// åˆ·æ–°(Dialog37)
 [Button374]
 FrameAmount=2
 Frame0=Data/Main1/LevWordFlash.dds
 Frame1=Data/Main1/LevWordFlashClick.dds
 
-// ½»Ò×(Dialog37)
+// äº¤æ˜“(Dialog37)
 [Button375]
 FrameAmount=3
 Frame0=Data/Main1/LevWordTrade.dds
 Frame1=Data/Main1/LevWordTradeClick.dds
 Frame2=Data/Main1/LevWordTradeL.dds
 
-// ½»ÓÑ(Dialog37)
+// äº¤å‹(Dialog37)
 [Button376]
 FrameAmount=3
 Frame0=Data/Main1/LevWordFriend.dds
 Frame1=Data/Main1/LevWordFriendClick.dds
 Frame2=Data/Main1/LevWordFriendL.dds
 
-// ×é¶Ó(Dialog37)
+// ç»„é˜Ÿ(Dialog37)
 [Button377]
 FrameAmount=3
 Frame0=Data/Main1/LevWordGroup.dds
 Frame1=Data/Main1/LevWordGroupClick.dds
 Frame2=Data/Main1/LevWordGroupL.dds
 
-// °ïÅÉ(Dialog37)
+// å¸®æ´¾(Dialog37)
 [Button378]
 FrameAmount=3
 Frame0=Data/Main1/LevWordFaction.dds
 Frame1=Data/Main1/LevWordFactionClick.dds
 Frame2=Data/Main1/LevWordFactionL.dds
 
-// ÆäËû(Dialog37)
+// å…¶ä»–(Dialog37)
 [Button379]
 FrameAmount=3
 Frame0=Data/Main1/LevWordOther.dds
 Frame1=Data/Main1/LevWordOtherClick.dds
 Frame2=Data/Main1/LevWordOtherL.dds
 
-// ²¥·Å(Dialog38)
+// æ’­æ”¾(Dialog38)
 [Button380]
 FrameAmount=2
 Frame0=Data/Main1/EffigyPlay.dds
 Frame1=Data/Main1/EffigyPlayClick.dds
 
-// ÔİÍ£(Dialog38)
+// æš‚åœ(Dialog38)
 [Button381]
 FrameAmount=2
 Frame0=Data/Main1/EffigyPause.dds
 Frame1=Data/Main1/EffigyPauseClick.dds
 
-// ×ó×ª(Dialog38)
+// å·¦è½¬(Dialog38)
 [Button382]
 FrameAmount=2
 Frame0=Data/Main1/EffigyLeft.dds
 Frame1=Data/Main1/EffigyLeftClick.dds
 
-// ÓÒ×ª(Dialog38)
+// å³è½¬(Dialog38)
 [Button383]
 FrameAmount=2
 Frame0=Data/Main1/EffigyRight.dds
 Frame1=Data/Main1/EffigyRightClick.dds
 
-// ·ÅÖÃÎïÆ·(Dialog40)
+// æ”¾ç½®ç‰©å“(Dialog40)
 [Button401]
 FrameAmount=2
 Frame0=Data/Main1/OtherLay.dds
 Frame1=Data/Main1/OtherLayClick.dds
 
-// É¾³ıÎïÆ·(Dialog40)
+// åˆ é™¤ç‰©å“(Dialog40)
 [Button402]
 FrameAmount=3
 Frame0=Data/Main1/OtherDel.dds
 Frame1=Data/Main1/OtherDelClick.dds
 Frame2=Data/Main1/OtherDelH.dds
 
-// ÏÂ×¢(Dialog43)
+// ä¸‹æ³¨(Dialog43)
 [Button430]
 FrameAmount=2
 Frame0=Data/Main1/DiceChipin.dds
 Frame1=Data/Main1/DiceChipinClick.dds
 
-// Òş²Ø(Dialog43)
+// éšè—(Dialog43)
 [Button431]
 FrameAmount=2
 Frame0=Data/Main1/DiceHide.dds
 Frame1=Data/Main1/DiceHideClick.dds
 
-// ÍË³ö(Dialog43)
+// é€€å‡º(Dialog43)
 [Button432]
 FrameAmount=2
 Frame0=Data/Main1/DiceExit.dds
 Frame1=Data/Main1/DiceExitClick.dds
 
-// 100Ôª(Dialog43)
+// 100å…ƒ(Dialog43)
 [Button433]
 FrameAmount=2
 Frame0=Data/Main1/DiceChip100.dds
 Frame1=Data/Main1/DiceChip100.dds
 
-// 1000Ôª(Dialog43)
+// 1000å…ƒ(Dialog43)
 [Button434]
 FrameAmount=2
 Frame0=Data/Main1/DiceChip1000.dds
 Frame1=Data/Main1/DiceChip1000.dds
 
-// 10000Ôª(Dialog43)
+// 10000å…ƒ(Dialog43)
 [Button435]
 FrameAmount=2
 Frame0=Data/Main1/DiceChip10000.dds
 Frame1=Data/Main1/DiceChip10000.dds
 
-//  »Ö¸´(Dialog43)
+//  æ¢å¤(Dialog43)
 [Button436]
 FrameAmount=2
 Frame0=Data/Main1/DiceResume.dds
 Frame1=Data/Main1/DiceResumeClick.dds
 
-// ÇĞ»»³ğÈËÃûµ¥(Dialog46)
+// åˆ‡æ¢ä»‡äººåå•(Dialog46)
 [Button460]
 FrameAmount=2
 Frame0=Data/Main1/EnemyResume.dds
 Frame1=Data/Main1/EnemyResumeClick.dds
 
-// °ïÖú(Dialog48)
+// å¸®åŠ©(Dialog48)
 [Button490]
 FrameAmount=3
 Frame0=Data/Main1/InsHelpBtnHelp.dds
 Frame1=Data/Main1/InsHelpBtnHelpClick.dds
 Frame2=Data/Main1/InsHelpBtnHelpL.dds
 
-// ¸ü¶à°ïÖú(Dialog48)
+// æ›´å¤šå¸®åŠ©(Dialog48)
 [Button491]
 FrameAmount=2
 Frame0=Data/Main1/InsHelpBtnMore.dds
 Frame1=Data/Main1/InsHelpBtnMoreClick.dds
 
-// Ö°ÒµÑ¡Ôñ°´Å¥1(Dialog3)
+// èŒä¸šé€‰æ‹©æŒ‰é’®1(Dialog3)
 [Check30]
 FrameAmount=2
 Frame0=Data/Main1/RoleCreateHuntChk2.dds
 Frame1=Data/Main1/RoleCreateHuntChk1.dds
 
-// Ö°ÒµÑ¡Ôñ°´Å¥2(Dialog3)
+// èŒä¸šé€‰æ‹©æŒ‰é’®2(Dialog3)
 [Check31]
 FrameAmount=2
 Frame0=Data/Main1/RoleCreateFightChk2.dds
 Frame1=Data/Main1/RoleCreateFightChk1.dds
 
-// Ö°ÒµÑ¡Ôñ°´Å¥3(Dialog3)
+// èŒä¸šé€‰æ‹©æŒ‰é’®3(Dialog3)
 [Check32]
 FrameAmount=2
 Frame0=Data/Main1/RoleCreateBraveChk2.dds
 Frame1=Data/Main1/RoleCreateBraveChk1.dds
 
-// Ö°ÒµÑ¡Ôñ°´Å¥4(Dialog3)
+// èŒä¸šé€‰æ‹©æŒ‰é’®4(Dialog3)
 [Check33]
 FrameAmount=2
 Frame0=Data/Main1/RoleCreateTaoistChk2.dds
 Frame1=Data/Main1/RoleCreateTaoistChk1.dds
 
-// Ö°ÒµÑ¡Ôñ°´Å¥5(Dialog3)
+// èŒä¸šé€‰æ‹©æŒ‰é’®5(Dialog3)
 [Check34]
 FrameAmount=2
 Frame0=Data/Main1/RoleCreateKnightChk2.dds
 Frame1=Data/Main1/RoleCreateKnightChk1.dds
 
-// ÅÜ/×ß(Dialog4)
+// è·‘/èµ°(Dialog4)
 [Check40]
 FrameAmount=2
 Frame0=Data/Main1/RunChk1.dds
 Frame1=Data/Main1/RunChk2.dds
 
-// Õ½/ÁÄ(Dialog4)
+// æˆ˜/èŠ(Dialog4)
 [Check42]
 FrameAmount=2
 Frame0=Data/Main1/TalkChk1.dds
 Frame1=Data/Main1/TalkChk2.dds
 
-// µØÍ¼¿ª/¹Ø(Dialog4)
+// åœ°å›¾å¼€/å…³(Dialog4)
 [Check43]
 FrameAmount=2
 Frame0=Data/Main1/MapChk2.dds
 Frame1=Data/Main1/MapChk1.dds
 
-// Õ¾/ÌÉ(Dialog4)
+// ç«™/èºº(Dialog4)
 [Check44]
 FrameAmount=2
 Frame0=Data/Main1/StandChk1.dds
 Frame1=Data/Main1/StandChk2.dds
 
-// µ¶/½£(Dialog4)
+// åˆ€/å‰‘(Dialog4)
 [Check45]
 FrameAmount=2
 Frame0=Data/Main1/WeaponChk1.dds
 Frame1=Data/Main1/WeaponChk2.dds
 
-// ÒÆÆÁ(Dialog4)
+// ç§»å±(Dialog4)
 [Check46]
 FrameAmount=2
 Frame0=Data/Main1/ScreenMoveChk1.dds
 Frame1=Data/Main1/ScreenMoveChk2.dds
 
-// ÈËÎï(Dialog6)
+// äººç‰©(Dialog6)
 [Check61]
 FrameAmount=2
 Frame0=Data/Main1/QueryRoleBtn.dds
 Frame1=Data/Main1/QueryRoleBtnClick.dds
 
-// °ïÅÉ(Dialog6)
+// å¸®æ´¾(Dialog6)
 [Check62]
 FrameAmount=3
 Frame0=Data/Main1/QueryFactionBtn.dds
 Frame1=Data/Main1/QueryFactionBtnClick.dds
 Frame2=Data/Main1/QueryFactionBtnL.dds
 
-// ÎäÆ÷(Dialog6)
+// æ­¦å™¨(Dialog6)
 [Check63]
 FrameAmount=2
 Frame0=Data/Main1/QueryWeaponBtn.dds
 Frame1=Data/Main1/QueryWeaponBtnClick.dds
 
-// ÈÎÎñ(Dialog6)
+// ä»»åŠ¡(Dialog6)
 [Check64]
 FrameAmount=2
 Frame0=Data/Main1/QueryMissionBtn.dds
 Frame1=Data/Main1/QueryMissionBtnClick.dds
 
-// ¼¼ÄÜ(Dialog6)
+// æŠ€èƒ½(Dialog6)
 [Check65]
 FrameAmount=2
 Frame0=Data/Main1/QuerySkillBtn.dds
 Frame1=Data/Main1/QuerySkillBtnClick.dds
 
-// ´ò¹´(Dialog10)
+// æ‰“å‹¾(Dialog10)
 [Check100]
 FrameAmount=2
 Frame0=Data/Main1/SetupDisable.dds
 Frame1=Data/Main1/SetupEnable.dds
 
-// ½û×é(Dialog19)
+// ç¦ç»„(Dialog19)
 [Check190]
 FrameAmount=2
 Frame0=Data/Main1/GroupChkStop1.dds
 Frame1=Data/Main1/GroupChkStop2.dds
 
-// ½ğÇ®(Dialog19)
+// é‡‘é’±(Dialog19)
 [Check191]
 FrameAmount=2
 Frame0=Data/Main1/GroupChkMoney1.dds
 Frame1=Data/Main1/GroupChkMoney2.dds
 
-// ÎïÆ·(Dialog19)
+// ç‰©å“(Dialog19)
 [Check192]
 FrameAmount=2
 Frame0=Data/Main1/GroupChkItem1.dds
 Frame1=Data/Main1/GroupChkItem2.dds
 
-// ¹«ÁÄ(Dialog36)
+// å…¬èŠ(Dialog36)
 [Check360]
 FrameAmount=2
 Frame0=Data/Main1/ChatChkG1.dds
 Frame1=Data/Main1/ChatChkG2.dds
 
-// °ïÅÉ(Dialog36)
+// å¸®æ´¾(Dialog36)
 [Check361]
 FrameAmount=2
 Frame0=Data/Main1/ChatChkB1.dds
 Frame1=Data/Main1/ChatChkB2.dds
 
-// ¶ÓÎé(Dialog36)
+// é˜Ÿä¼(Dialog36)
 [Check362]
 FrameAmount=2
 Frame0=Data/Main1/ChatChkD1.dds
 Frame1=Data/Main1/ChatChkD2.dds
 
-// ºÃÓÑ(Dialog36)
+// å¥½å‹(Dialog36)
 [Check363]
 FrameAmount=2
 Frame0=Data/Main1/ChatChkH1.dds
 Frame1=Data/Main1/ChatChkH2.dds
 
-// Ë½ÁÄ(Dialog36)
+// ç§èŠ(Dialog36)
 [Check364]
 FrameAmount=2
 Frame0=Data/Main1/ChatChkS1.dds
 Frame1=Data/Main1/ChatChkS2.dds
 
-// ¹ıÂË(Dialog36)
+// è¿‡æ»¤(Dialog36)
 [Check365]
 FrameAmount=2
 Frame0=Data/Main1/ChatChkSF1.dds
 Frame1=Data/Main1/ChatChkSF2.dds
 
-// ÓÃ»§ÃûÊäÈë¿ò£¨¹«¹²£©
+// ç”¨æˆ·åè¾“å…¥æ¡†ï¼ˆå…¬å…±ï¼‰
 [Edit0]
 FrameAmount=1
 Frame0=Data/Main1/AccountEdt.jpg
 
-// ÃÜÂëÊäÈë¿ò£¨¹«¹²£©
+// å¯†ç è¾“å…¥æ¡†ï¼ˆå…¬å…±ï¼‰
 [Edit1]
 FrameAmount=1
 Frame0=Data/Main1/PasswordEdt.jpg
 
-// ĞÕÃûÊäÈë¿ò(Dialog3)
+// å§“åè¾“å…¥æ¡†(Dialog3)
 [Edit30]
 FrameAmount=1
 Frame0=Data/Main1/RoleCreateNameEdt.jpg
 
-// È·ÈÏÊäÈë¿ò(Dialog15)
+// ç¡®è®¤è¾“å…¥æ¡†(Dialog15)
 [Edit150]
 FrameAmount=1
 Frame0=Data/Main1/ConfirmEdt.dds
 
-// ÈÎÎñÊäÈë¿ò(Dialog23)
+// ä»»åŠ¡è¾“å…¥æ¡†(Dialog23)
 [Edit230]
 FrameAmount=1
 Frame0=Data/Main1/TaskEdt.dds
 
-// »Ò»¯
+// ç°åŒ–
 [Image0]
 FrameAmount=1
 Frame0=Data/Main1/ImageDisable.dds
 
-// Çø1(Dialog1)
+// åŒº1(Dialog1)
 [Image101]
 FrameAmount=1
 Frame0=Data/Main1/LoginG1Img.bmp
 
-// ·şÎñÆ÷1(Dialog1)
+// æœåŠ¡å™¨1(Dialog1)
 [Image111]
 FrameAmount=1
 Frame0=Data/Main1/LoginS1Img.bmp
 
-// ·şÎñÆ÷2(Dialog1)
+// æœåŠ¡å™¨2(Dialog1)
 [Image112]
 FrameAmount=1
 Frame0=Data/Main1/LoginS2Img.bmp
 
-// ·şÎñÆ÷3(Dialog1)
+// æœåŠ¡å™¨3(Dialog1)
 [Image113]
 FrameAmount=1
 Frame0=Data/Main1/LoginS3Img.bmp
 
-// ÈËÎïÑ¡Ôñ1(Dailog2)
+// äººç‰©é€‰æ‹©1(Dailog2)
 [Image20]
 FrameAmount=1
 Frame0=Data/Main1/RoleChooseImg1.dds
 
-// ÈËÎïÑ¡Ôñ2(Dailog2)
+// äººç‰©é€‰æ‹©2(Dailog2)
 [Image21]
 FrameAmount=1
 Frame0=Data/Main1/RoleChooseImg2.dds
 
-// ÈËÎïÑ¡Ôñ3(Dailog2)
+// äººç‰©é€‰æ‹©3(Dailog2)
 [Image22]
 FrameAmount=1
 Frame0=Data/Main1/RoleChooseImg3.dds
 
-// ÈËÎïÑ¡Ôñ4(Dailog2)
+// äººç‰©é€‰æ‹©4(Dailog2)
 [Image23]
 FrameAmount=1
 Frame0=Data/Main1/RoleChooseImg4.dds
 
-// °ïÅÉÊäÈë±³¾°(Dialog8)
+// å¸®æ´¾è¾“å…¥èƒŒæ™¯(Dialog8)
 [Image80]
 FrameAmount=1
 Frame0=Data/Main1/FactionImg.dds
 
-// °ïÖÚÁĞ±í±³¾°(Dialog8)
+// å¸®ä¼—åˆ—è¡¨èƒŒæ™¯(Dialog8)
 [Image81]
 FrameAmount=1
 Frame0=Data/Main1/FactionImgList.dds
 
-// ×óÊÖÎäÆ÷(Dialog16)
+// å·¦æ‰‹æ­¦å™¨(Dialog16)
 [Image160]
 FrameAmount=1
 Frame0=Data/Main1/DialogQuery_Mission1.dds
 
-// ÁÄÌì¹¦ÄÜÍ¼±í(Dialog36)
+// èŠå¤©åŠŸèƒ½å›¾è¡¨(Dialog36)
 [Image36]
 FrameAmount=1
 Frame0=Data/Main1/ChatImg.dds
 
-// ÑÕÉ«1(Dialog36)
+// é¢œè‰²1(Dialog36)
 [Image360]
 FrameAmount=1
 Frame0=Data/Main1/Color1.bmp
 
-// ÑÕÉ«2(Dialog36)
+// é¢œè‰²2(Dialog36)
 [Image361]
 FrameAmount=1
 Frame0=Data/Main1/Color2.bmp
 
-// ÑÕÉ«3(Dialog36)
+// é¢œè‰²3(Dialog36)
 [Image362]
 FrameAmount=1
 Frame0=Data/Main1/Color5.bmp
 
-// ÑÕÉ«4(Dialog36)
+// é¢œè‰²4(Dialog36)
 [Image363]
 FrameAmount=1
 Frame0=Data/Main1/Color4.bmp
 
-// ÑÕÉ«5(Dialog36)
+// é¢œè‰²5(Dialog36)
 [Image364]
 FrameAmount=1
 Frame0=Data/Main1/Color3.bmp
 
-// ÑÕÉ«6(Dialog36)
+// é¢œè‰²6(Dialog36)
 [Image365]
 FrameAmount=1
 Frame0=Data/Main1/Color6.bmp
 
-// ÑÕÉ«7(Dialog36)
+// é¢œè‰²7(Dialog36)
 [Image366]
 FrameAmount=1
 Frame0=Data/Main1/Color7.bmp
 
-// ÑÕÉ«8(Dialog36)
+// é¢œè‰²8(Dialog36)
 [Image367]
 FrameAmount=1
 Frame0=Data/Main1/Color8.bmp
 
-// ºÚÃûµ¥¹¦ÄÜÍ¼±í(Dialog37)
+// é»‘åå•åŠŸèƒ½å›¾è¡¨(Dialog37)
 [Image37]
 FrameAmount=1
 Frame0=Data/Main1/BlackImg.dds
 
-// Á÷ÑÔ°ñÊäÈë¿ò(Dialog37)
+// æµè¨€æ¦œè¾“å…¥æ¡†(Dialog37)
 [Image370]
 FrameAmount=1
 Frame0=Data/Main1/LevWordImage.dds
 
-// Á÷ÑÔ±êÌâ(Dialog370)
+// æµè¨€æ ‡é¢˜(Dialog370)
 [Image371]
 FrameAmount=1
 Frame0=Data/Main1/LevWordImage1.dds
 
-// ·¢²¼±êÌâ(Dialog370)
+// å‘å¸ƒæ ‡é¢˜(Dialog370)
 [Image372]
 FrameAmount=1
 Frame0=Data/Main1/LevWordImage2.dds
 
-// ²ì¿´±êÌâ(Dialog370)
+// å¯Ÿçœ‹æ ‡é¢˜(Dialog370)
 [Image373]
 FrameAmount=1
 Frame0=Data/Main1/LevWordImage3.dds
 
-// 
+//
 [Picture40]
 FrameAmount=2
 Frame0=Data/Main1/SkillBox.dds
 Frame1=Data/Main1/SkillImage.dds
 
-// Éè¶¨´°¿ÚµÆ(Dialog10)
+// è®¾å®šçª—å£ç¯(Dialog10)
 [Picture100]
 FrameAmount=2
 Frame0=Data/Main1/SetupLight1.dds
 Frame1=Data/Main1/SetupLight2.dds
 
-// HP²Û(Dialog4)
+// HPæ§½(Dialog4)
 [Progress40]
 FrameAmount=3
 Frame0=Data/Main1/ProgressHP.dds
 Frame1=Data/Main1/ProgressHPA.dds
 Frame2=Data/Main1/ProgressHPH.dds
 
-// MP²Û(Dialog4)
+// MPæ§½(Dialog4)
 [Progress41]
 FrameAmount=3
 Frame0=Data/Main1/ProgressMP.dds
 Frame1=Data/Main1/ProgressMPA.dds
 Frame2=Data/Main1/ProgressMPH.dds
 
-// ¼¼ÄÜ²Û(Dialog4)
+// æŠ€èƒ½æ§½(Dialog4)
 [Progress42]
 FrameAmount=3
 Frame0=Data/Main1/ProgressPower.dds
 Frame1=Data/Main1/ProgressPower.dds
 Frame2=Data/Main1/ProgressPowerH.dds
 
-// ¾­Ñé²Û(Dialog4)
+// ç»éªŒæ§½(Dialog4)
 [Progress43]
 FrameAmount=1
 Frame0=Data/Main1/ProgressHeavy.dds
 
-// ¸ºÖØ²Û(Dialog4)
+// è´Ÿé‡æ§½(Dialog4)
 [Progress44]
 FrameAmount=1
 Frame0=Data/Main1/ProgressExp.dds
 
-// ±³¾°(Dialog4)
+// èƒŒæ™¯(Dialog4)
 [Progress45]
 FrameAmount=1
 Frame0=Data/Main1/ProgressBk.dds
 
-// ÌåÁ¦(Dialog4)
+// ä½“åŠ›(Dialog4)
 [Progress46]
 FrameAmount=2
 Frame0=Data/Main1/ProgressForce.dds
 Frame1=Data/Main1/ProgressForceA.dds
 
-// ĞĞÊı¹ö¶¯°´Å¥(Dialog0)
+// è¡Œæ•°æ»šåŠ¨æŒ‰é’®(Dialog0)
 [Slider0]
 FrameAmount=2
 Frame0=Data/Main1/SliderLine.dds
 Frame1=Data/Main1/SliderLine.dds
 
-// ¹ö¶¯°´Å¥(Dialog10)
+// æ»šåŠ¨æŒ‰é’®(Dialog10)
 [Slider100]
 FrameAmount=2
 Frame0=Data/Main1/SetupSliPic.dds
 Frame1=Data/Main1/SetupSliPicClick.dds
 
-// ÉÏ°´Å¥£¨¹«¹²£©
+// ä¸ŠæŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [ScrButton0]
 FrameAmount=2
 Frame0=Data/Main1/ScrollButtonUp.dds
 Frame1=Data/Main1/ScrollButtonUpClick.dds
 
-// ÏÂ°´Å¥£¨¹«¹²£©
+// ä¸‹æŒ‰é’®ï¼ˆå…¬å…±ï¼‰
 [ScrButton1]
 FrameAmount=2
 Frame0=Data/Main1/ScrollButtonDown.dds
 Frame1=Data/Main1/ScrollButtonDownClick.dds
 
-// ½¹µãÍ¼Æ¬¿ò
+// ç„¦ç‚¹å›¾ç‰‡æ¡†
 [ImageFocus]
 FrameAmount=1
 Frame0=Data/Main/ImageFocus.dds

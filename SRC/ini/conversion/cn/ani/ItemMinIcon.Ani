@@ -90991,7 +90991,7 @@ Frame0=data/ItemMinIcon/711266.dds
 
 [Item710088]
 FrameAmount=1
-Frame0=data/ItemMinIcon/2000031.dds 
+Frame0=data/ItemMinIcon/2000031.dds
 
 [Item710089]
 FrameAmount=1
@@ -179097,7 +179097,7 @@ Frame0=data/ItemMinIcon/184345.dds
 FrameAmount=1
 Frame0=data/ItemMinIcon/184335.dds
 
-[Item727600] 
+[Item727600]
 FrameAmount=1
 Frame0=data/ItemMinIcon/2000185.dds
 
@@ -179769,7 +179769,7 @@ Frame0=data/ItemMinIcon/2000245.dds
 FrameAmount=1
 Frame0=data/ItemMinIcon/137360.dds
 
-[Item727787] 
+[Item727787]
 FrameAmount=1
 Frame0=data/ItemMinIcon/2000185.dds
 
@@ -184199,9 +184199,7 @@ Frame0=data/ItemMinIcon/5139010.dds
 
 [Item6139013]
 FrameAmount=1
-Frame0=data/ItemMinIcon/6139010.dds
-
-[Item7139013]
+Frame0=data/ItemMinIcon/6139010.ddsem8148116]Item7139013]
 FrameAmount=1
 Frame0=data/ItemMinIcon/7139010.dds
 
@@ -239625,7 +239623,7 @@ Frame0=data/ItemMinIcon/713034.dds
 [Item3005850]
 FrameAmount=1
 Frame0=data/ItemMinIcon/713035.dds
-  
+
 [Item3005851]
 FrameAmount=1
 Frame0=data/ItemMinIcon/713026.dds
@@ -249146,4 +249144,4 @@ Frame0=data/ItemMinIcon/200560.dds
 
 [Item3008739]
 FrameAmount=1
-Frame0=data/ItemMinIcon/729249.dds
+Frame0=data/ItemMinIcon/72924

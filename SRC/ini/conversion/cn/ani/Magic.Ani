@@ -1,4 +1,4 @@
-// ¼¼ÄÜÍ¼±ê(Magic0)
+// æŠ€èƒ½å›¾æ ‡(Magic0)
 [Magic0]
 FrameAmount=1
 Frame0=data/main3/MainImgMagic.dds
@@ -865,7 +865,7 @@ Frame0=data/main3/MagicSkillType12390.dds
 FrameAmount=1
 Frame0=data/main3/MagicSkillType12400.dds
 
-//±äÉí
+//å˜èº«
 [MagicSkillType12430]
 FrameAmount=1
 Frame0=data3/interface/main3/skill13.dds

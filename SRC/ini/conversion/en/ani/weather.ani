@@ -460,7 +460,7 @@ Frame5=data/weather/hellfire/1/6.dds
 Frame6=data/weather/hellfire/1/7.dds
 Frame7=data/weather/hellfire/1/8.dds
 Frame8=data/weather/hellfire/1/9.dds
- 
+
 [hellfire2]
 FrameAmount=9
 Frame0=data/weather/hellfire/2/1.dds
@@ -1426,7 +1426,7 @@ Frame3=data/weather/rose/red/r4/4.dds
 Frame4=data/weather/rose/red/r4/5.dds
 Frame5=data/weather/rose/red/r4/6.dds
 
- 
+
 
 
 [rose2_ani0]
@@ -1528,7 +1528,7 @@ Frame13=data/weather/rose/paint/14.dds
 Frame14=data/weather/rose/paint/15.dds
 Frame15=data/weather/rose/paint/16.dds
 
- 
+
 
 
 [Lotus1]
@@ -1551,7 +1551,7 @@ Frame14=data/weather/lotus/red/15.dds
 Frame15=data/weather/lotus/red/16.dds
 Frame16=data/weather/lotus/red/17.dds
 Frame17=data/weather/lotus/red/18.dds
- 
+
 
 [Lotus2]
 FrameAmount=18
@@ -1577,4 +1577,3 @@ Frame17=data/weather/lotus/white/18.dds
 
 
 
- 

@@ -462,7 +462,7 @@ Frame5=data/weather/hellfire/1/6.dds
 Frame6=data/weather/hellfire/1/7.dds
 Frame7=data/weather/hellfire/1/8.dds
 Frame8=data/weather/hellfire/1/9.dds
- 
+
 [hellfire2]
 FrameAmount=9
 Frame0=data/weather/hellfire/2/1.dds
@@ -1428,7 +1428,7 @@ Frame3=data/weather/rose/red/r4/4.dds
 Frame4=data/weather/rose/red/r4/5.dds
 Frame5=data/weather/rose/red/r4/6.dds
 
- 
+
 
 
 [rose2_ani0]

@@ -1,576 +1,576 @@
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿éAÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—Aå›¾ç‰‡
 [Square_A]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/AdiamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é2Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—2å›¾ç‰‡
 [Square_2]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/2diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é3Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—3å›¾ç‰‡
 [Square_3]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/3diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é4Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—4å›¾ç‰‡
 [Square_4]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/4diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é5Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—5å›¾ç‰‡
 [Square_5]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/5diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é6Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—6å›¾ç‰‡
 [Square_6]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/6diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é7Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—7å›¾ç‰‡
 [Square_7]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/7diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é8Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—8å›¾ç‰‡
 [Square_8]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/8diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é9Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—9å›¾ç‰‡
 [Square_9]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/9diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é10Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—10å›¾ç‰‡
 [Square_10]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/10diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿éJÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—Jå›¾ç‰‡
 [Square_J]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/JdiamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿éQÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—Qå›¾ç‰‡
 [Square_Q]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/QdiamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿éKÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—Kå›¾ç‰‡
 [Square_K]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/KdiamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨AÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±Aå›¾ç‰‡
 [Club_A]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/AClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨2Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±2å›¾ç‰‡
 [Club_2]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/2ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨3Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±3å›¾ç‰‡
 [Club_3]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/3ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨4Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±4å›¾ç‰‡
 [Club_4]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/4ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨5Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±5å›¾ç‰‡
 [Club_5]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/5ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨6Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±6å›¾ç‰‡
 [Club_6]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/6ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨7Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±7å›¾ç‰‡
 [Club_7]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/7ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨8Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±8å›¾ç‰‡
 [Club_8]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/8ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨9Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±9å›¾ç‰‡
 [Club_9]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/9ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨10Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±10å›¾ç‰‡
 [Club_10]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/10ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨JÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±Jå›¾ç‰‡
 [Club_J]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/JClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨QÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±Qå›¾ç‰‡
 [Club_Q]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/QClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨KÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±Kå›¾ç‰‡
 [Club_K]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/KClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒAÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒAå›¾ç‰‡
 [Spade_A]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/ASpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ2Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ2å›¾ç‰‡
 [Spade_2]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/2SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ3Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ3å›¾ç‰‡
 [Spade_3]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/3SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ4Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ4å›¾ç‰‡
 [Spade_4]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/4SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ5Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ5å›¾ç‰‡
 [Spade_5]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/5SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ6Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ6å›¾ç‰‡
 [Spade_6]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/6SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ7Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ7å›¾ç‰‡
 [Spade_7]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/7SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ8Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ8å›¾ç‰‡
 [Spade_8]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/8SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ9Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ9å›¾ç‰‡
 [Spade_9]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/9SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ10Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ10å›¾ç‰‡
 [Spade_10]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/10SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒJÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒJå›¾ç‰‡
 [Spade_J]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/JSpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒQÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒQå›¾ç‰‡
 [Spade_Q]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/QSpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒKÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒKå›¾ç‰‡
 [Spade_K]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/KSpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒAÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒAå›¾ç‰‡
 [Heart_A]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/AHeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ2Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ2å›¾ç‰‡
 [Heart_2]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/2HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ3Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ3å›¾ç‰‡
 [Heart_3]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/3HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ4Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ4å›¾ç‰‡
 [Heart_4]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/4HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ5Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ5å›¾ç‰‡
 [Heart_5]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/5HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ6Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ6å›¾ç‰‡
 [Heart_6]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/6HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ7Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ7å›¾ç‰‡
 [Heart_7]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/7HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ8Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ8å›¾ç‰‡
 [Heart_8]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/8HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ9Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ9å›¾ç‰‡
 [Heart_9]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/9HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ10Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ10å›¾ç‰‡
 [Heart_10]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/10HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒJÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒJå›¾ç‰‡
 [Heart_J]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/JHeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒQÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒQå›¾ç‰‡
 [Heart_Q]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/QheartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒKÍ¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒKå›¾ç‰‡
 [Heart_K]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/KHeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿éAÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—Aå›¾ç‰‡800
 [Square_SA]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/AdiamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é2Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—2å›¾ç‰‡800
 [Square_S2]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/2diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é3Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—3å›¾ç‰‡800
 [Square_S3]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/3diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é4Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—4å›¾ç‰‡800
 [Square_S4]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/4diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é5Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—5å›¾ç‰‡800
 [Square_S5]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/5diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é6Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—6å›¾ç‰‡800
 [Square_S6]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/6diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é7Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—7å›¾ç‰‡800
 [Square_S7]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/7diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é8Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—8å›¾ç‰‡800
 [Square_S8]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/8diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é9Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—9å›¾ç‰‡800
 [Square_S9]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/9diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿é10Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—10å›¾ç‰‡800
 [Square_S10]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/10diamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿éJÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—Jå›¾ç‰‡800
 [Square_SJ]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/JdiamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿éQÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—Qå›¾ç‰‡800
 [Square_SQ]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/QdiamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­·½¿éKÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ–¹å—Kå›¾ç‰‡800
 [Square_SK]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/KdiamondPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨AÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±Aå›¾ç‰‡800
 [Club_SA]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/AClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨2Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±2å›¾ç‰‡800
 [Club_S2]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/2ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨3Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±3å›¾ç‰‡800
 [Club_S3]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/3ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨4Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±4å›¾ç‰‡800
 [Club_S4]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/4ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨5Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±5å›¾ç‰‡800
 [Club_S5]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/5ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨6Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±6å›¾ç‰‡800
 [Club_S6]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/6ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨7Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±7å›¾ç‰‡800
 [Club_S7]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/7ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨8Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±8å›¾ç‰‡800
 [Club_S8]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/8ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨9Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±9å›¾ç‰‡800
 [Club_S9]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/9ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨10Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±10å›¾ç‰‡800
 [Club_S10]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/10ClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨JÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±Jå›¾ç‰‡800
 [Club_SJ]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/JClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨QÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±Qå›¾ç‰‡800
 [Club_SQ]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/QClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­Ã·»¨KÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼æ¢…èŠ±Kå›¾ç‰‡800
 [Club_SK]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/KClubsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒAÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒAå›¾ç‰‡800
 [Spade_SA]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/ASpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ2Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ2å›¾ç‰‡800
 [Spade_S2]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/2SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ3Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ3å›¾ç‰‡800
 [Spade_S3]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/3SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ4Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ4å›¾ç‰‡800
 [Spade_S4]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/4SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ5Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ5å›¾ç‰‡800
 [Spade_S5]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/5SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ6Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ6å›¾ç‰‡800
 [Spade_S6]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/6SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ7Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ7å›¾ç‰‡800
 [Spade_S7]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/7SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ8Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ8å›¾ç‰‡800
 [Spade_S8]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/8SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ9Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ9å›¾ç‰‡800
 [Spade_S9]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/9SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒ10Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒ10å›¾ç‰‡800
 [Spade_S10]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/10SpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒJÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒJå›¾ç‰‡800
 [Spade_SJ]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/JSpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒQÍ¼Æ¬800800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒQå›¾ç‰‡800800
 [Spade_SQ]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/QSpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºÚÌÒKÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼é»‘æ¡ƒKå›¾ç‰‡800
 [Spade_SK]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/KSpadePic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒAÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒAå›¾ç‰‡800
 [Heart_SA]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/AHeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ2Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ2å›¾ç‰‡800
 [Heart_S2]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/2HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ3Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ3å›¾ç‰‡800
 [Heart_S3]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/3HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ4Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ4å›¾ç‰‡800
 [Heart_S4]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/4HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ5Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ5å›¾ç‰‡800
 [Heart_S5]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/5HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ6Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ6å›¾ç‰‡800
 [Heart_S6]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/6HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ7Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ7å›¾ç‰‡800
 [Heart_S7]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/7HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ8Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ8å›¾ç‰‡800
 [Heart_S8]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/8HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ9Í¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ9å›¾ç‰‡800
 [Heart_S9]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/9HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒ10Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒ10å›¾ç‰‡
 [Heart_S10]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/10HeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒJÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒJå›¾ç‰‡800
 [Heart_SJ]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/JHeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒQÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒQå›¾ç‰‡800
 [Heart_SQ]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/QheartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ£­ºìÌÒKÍ¼Æ¬800
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢ï¼çº¢æ¡ƒKå›¾ç‰‡800
 [Heart_SK]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/KHeartsPic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ800£­Squ1Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢800ï¼Squ1å›¾ç‰‡
 [Squeezer_Squ1SPic]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/Squ1Pic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ800£­Squ2Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢800ï¼Squ2å›¾ç‰‡
 [Squeezer_Squ2SPic]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/Squ2Pic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ800£­Squ3Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢800ï¼Squ3å›¾ç‰‡
 [Squeezer_Squ3SPic]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/Squ3Pic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ800£­Squ4Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢800ï¼Squ4å›¾ç‰‡
 [Squeezer_Squ4SPic]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Small/Squ4Pic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ1024£­Squ1Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢1024ï¼Squ1å›¾ç‰‡
 [Squeezer_Squ1Pic]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Big/Squ1Pic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ1024£­Squ2Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢1024ï¼Squ2å›¾ç‰‡
 [Squeezer_Squ2Pic]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Big/Squ2Pic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ1024£­Squ3Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢1024ï¼Squ3å›¾ç‰‡
 [Squeezer_Squ3Pic]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Big/Squ3Pic.dds
 
-//µÂÖİÆË¿ËÅÆ½çÃæ1024£­Squ4Í¼Æ¬
+//å¾·å·æ‰‘å…‹ç‰Œç•Œé¢1024ï¼Squ4å›¾ç‰‡
 [Squeezer_Squ4Pic]
 FrameAmount=1
 Frame0=data/interface/Style01/Squeezer/Big/Squ4Pic.dds
 
-//ĞÂ°æµÂÖİÆË¿Ë£­±³ÃæÍ¼Æ¬£¨´ó£©
+//æ–°ç‰ˆå¾·å·æ‰‘å…‹ï¼èƒŒé¢å›¾ç‰‡ï¼ˆå¤§ï¼‰
 [NewSqu_BackPic]
 FrameAmount=2
 Frame0=data/interface/NewSqu/Big/BackPic.dds
 Frame1=data/interface/NewSqu/Big/BackXPic.dds
 
-//ĞÂ°æµÂÖİÆË¿Ë£­±³ÃæÍ¼Æ¬£¨ÖĞ£©
+//æ–°ç‰ˆå¾·å·æ‰‘å…‹ï¼èƒŒé¢å›¾ç‰‡ï¼ˆä¸­ï¼‰
 [NewSqu_BackMPic]
 FrameAmount=2
 Frame0=data/interface/NewSqu/Mid/BackPic.dds
 Frame1=data/interface/NewSqu/Mid/BackXPic.dds
 
-//ĞÂ°æµÂÖİÆË¿Ë£­±³ÃæÍ¼Æ¬£¨Ğ¡£©
+//æ–°ç‰ˆå¾·å·æ‰‘å…‹ï¼èƒŒé¢å›¾ç‰‡ï¼ˆå°ï¼‰
 [NewSqu_BackSPic]
 FrameAmount=2
 Frame0=data/interface/NewSqu/Small/BackPic.dds

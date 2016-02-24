@@ -1,154 +1,155 @@
-// ±êÌâÀ¸
+// æ ‡é¢˜æ 
+
 [BG_Title]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/BindTitle.jpg
 
 
-// ×îĞ¡»¯°´Å¥
+// æœ€å°åŒ–æŒ‰é’®
 [BTN_Minimize]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/LeastBtnNormal.jpg
 Frame1=data2/interface/BindAccount/LeastBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/LeastBtnClick.jpg
 
-// ¹Ø±Õ°´Å¥
+// å…³é—­æŒ‰é’®
 [BTN_Close]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/CloseBtnNormal.jpg
 Frame1=data2/interface/BindAccount/CloseBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/CloseBtnClick.jpg
 
-// ÕÊºÅÁĞ±í´°¿Ú±³¾°
+// å¸å·åˆ—è¡¨çª—å£èƒŒæ™¯
 [BG_AccountList]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/Bind2BG.bmp
 
-// Î´°ó¶¨ÕÊºÅ´°¿Ú±³¾°
+// æœªç»‘å®šå¸å·çª—å£èƒŒæ™¯
 [BG_NotBind]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/Bind3BG.bmp
 
-// °ó¶¨°´Å¥
+// ç»‘å®šæŒ‰é’®
 [BTN_Bind]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/BindBtnNormal.jpg
 Frame1=data2/interface/BindAccount/BindBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/BindBtnClick.jpg
 
-// ½â³ı°ó¶¨
+// è§£é™¤ç»‘å®š
 [BTN_RemoveBind]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/UnBindBtnNormal.jpg
 Frame1=data2/interface/BindAccount/UnBindBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/UnBindBtnClick.jpg
 
-// È¡Ïû
+// å–æ¶ˆ
 [BTN_Cancel]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/CancelBtnNormal.jpg
 Frame1=data2/interface/BindAccount/CancelBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/CancelBtnClick.jpg
 
-// Éú³É´°¿Ú±³¾°1
+// ç”Ÿæˆçª—å£èƒŒæ™¯1
 [BG_GenFile1]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/Bind1BG.jpg
 
-// ä¯ÀÀ°´Å¥
+// æµè§ˆæŒ‰é’®
 [BTN_Browser]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/ScanBtnNormal.jpg
 Frame1=data2/interface/BindAccount/ScanBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/ScanBtnClick.jpg
 
-// ½ø¶ÈÌõ
+// è¿›åº¦æ¡
 [BG_Progress]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/Plan1.jpg
 
-// Éú³É°´Å¥
+// ç”ŸæˆæŒ‰é’®
 [BTN_Build]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/CreateBtnNormal.jpg
 Frame1=data2/interface/BindAccount/CreateBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/CreateBtnClick.jpg
 
-// °ó¶¨ÆäËü°´Å¥
+// ç»‘å®šå…¶å®ƒæŒ‰é’®
 [BTN_BindNew]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/BindOtherBtnNormal.jpg
 Frame1=data2/interface/BindAccount/BindOtherBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/BindOtherBtnClick.jpg
 
-// ÍË³ö°´Å¥
+// é€€å‡ºæŒ‰é’®
 [BTN_Exit]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/ExitBtnNormal.jpg
 Frame1=data2/interface/BindAccount/ExitBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/ExitBtnClick.jpg
 
-// Ïòµ¼Í¼Æ¬
+// å‘å¯¼å›¾ç‰‡
 [BG_Tip]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/SafetydoorBG.jpg
 Frame1=data2/interface/BindAccount/FourheroBG.jpg
 Frame2=data2/interface/BindAccount/ChangeBG.jpg
 
-// »¬¿é£­ÉÏ¼ıÍ·
+// æ»‘å—ï¼ä¸Šç®­å¤´
 [Ver_UpArrow]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/UpBtnEmboss.jpg
 
-// »¬¿é£­ÏÂ¼ıÍ·
+// æ»‘å—ï¼ä¸‹ç®­å¤´
 [Ver_DownArrow]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/DownBtnEmboss.jpg
 
-// »¬¿é£­»¬¿é
+// æ»‘å—ï¼æ»‘å—
 [Ver_Block]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/DragS.jpg
 
-// »¬¿é£­×ó¼ıÍ·
+// æ»‘å—ï¼å·¦ç®­å¤´
 [Hor_LeftArrow]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/LeftBtnEmboss.jpg
 
-// »¬¿é£­ÓÒ¼ıÍ·
+// æ»‘å—ï¼å³ç®­å¤´
 [Hor_RightArrow]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/RightBtnEmboss.jpg
 
-// »¬¿é£­»¬¿é
+// æ»‘å—ï¼æ»‘å—
 [Hor_Block]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/DragH.jpg
 
-// Ğ¡½Ç(Ö»ĞèÒª18*18µÄĞ¡·½¿é¾ÍOK)
+// å°è§’(åªéœ€è¦18*18çš„å°æ–¹å—å°±OK)
 [Corner]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/DragSFrame.jpg
 
-// È·ÈÏ¿òµ×¿ò
+// ç¡®è®¤æ¡†åº•æ¡†
 [BG_CONFIRM]
 FrameAmount=1
 Frame0=data2/interface/BindAccount/Affirm.jpg
 
-// È·ÈÏ¿ò-È·¶¨
+// ç¡®è®¤æ¡†-ç¡®å®š
 [CONFIRM_OK]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/ConfirmBtnNormal.jpg
 Frame1=data2/interface/BindAccount/ConfirmBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/ConfirmBtnClick.jpg
 
-// È·ÈÏ¿ò-È¡Ïû
+// ç¡®è®¤æ¡†-å–æ¶ˆ
 [CONFIRM_CANCEL]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/QCancelBtnNormal.jpg
 Frame1=data2/interface/BindAccount/QCancelBtnEmboss.jpg
 Frame2=data2/interface/BindAccount/QCancelBtnClick.jpg
 
-// Íê³É
+// å®Œæˆ
 [COMPLETE]
 FrameAmount=3
 Frame0=data2/interface/BindAccount/CompleteBtnNormal.jpg

@@ -1,187 +1,187 @@
 [NULL]
 FrameAmount=0
 
-//°´×øÏÂ¿É»Ö¸´ÌåÁ¦Öµ
+//æŒ‰åä¸‹å¯æ¢å¤ä½“åŠ›å€¼
 [1]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts1.dds
 
-//µã»¯¾­ÑéÁì»á
+//ç‚¹åŒ–ç»éªŒé¢†ä¼š
 [2]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts2.dds
 
-//µã»¯ºó±²
+//ç‚¹åŒ–åè¾ˆ
 [3]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts3.dds
 
-//Ç°±²µã»¯
+//å‰è¾ˆç‚¹åŒ–
 [4]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts4.dds
 
-//»ñµÃµã»¯»ú»áÁ¿
+//è·å¾—ç‚¹åŒ–æœºä¼šé‡
 [5]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts5.dds
 
-//»ñµÃ¶îÍâµã»¯»ú»á
+//è·å¾—é¢å¤–ç‚¹åŒ–æœºä¼š
 [6]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts6.dds
 
-//ÄãÊÇ¸öºÃÈË
+//ä½ æ˜¯ä¸ªå¥½äºº
 [7]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts7.dds
 
-//¶Ô·½Í¬ÒâÆï³è
+//å¯¹æ–¹åŒæ„éª‘å® 
 [8]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts8.dds
 
-//¶Ô·½Í¬ÒâÇ£ÊÖ
+//å¯¹æ–¹åŒæ„ç‰µæ‰‹
 [9]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts9.dds
 
-//½ÓÎÇÌáÊ¾
+//æ¥å»æç¤º
 [10]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts10.dds
 
-//¶Ô·½¾Ü¾øÏàÓµ¶øĞĞ
+//å¯¹æ–¹æ‹’ç»ç›¸æ‹¥è€Œè¡Œ
 [11]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts11.dds
 
-//ÌğÃÛµØÏàÓµ¶øĞĞ
+//ç”œèœœåœ°ç›¸æ‹¥è€Œè¡Œ
 [12]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts12.dds
 
-//¶Ô·½¾Ü¾øÓµ±§
+//å¯¹æ–¹æ‹’ç»æ‹¥æŠ±
 [13]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts13.dds
 
-//ÌğÃÛµØÓµ±§
+//ç”œèœœåœ°æ‹¥æŠ±
 [14]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts14.dds
 
-//³ÇÊĞÇøÓòÆï³Ë£¬ÒªÇóÆï³èµÄÑªÍ³µÈ¼¶´ïµ½4¼¶
+//åŸå¸‚åŒºåŸŸéª‘ä¹˜ï¼Œè¦æ±‚éª‘å® çš„è¡€ç»Ÿç­‰çº§è¾¾åˆ°4çº§
 [15]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts15.dds
 
-//¸ÃÇøÓò½ûÖ¹Æï³Ë
+//è¯¥åŒºåŸŸç¦æ­¢éª‘ä¹˜
 [16]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts16.dds
 
-//¸Ã×øÆïÎŞ·¨ÓÃÒÔÌáÉıÑªÍ³
+//è¯¥åéª‘æ— æ³•ç”¨ä»¥æå‡è¡€ç»Ÿ
 [17]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts17.dds
 
-//ÑªÍ³¸ßÓÚÖ÷×øÆï£¬ÎŞ·¨½øĞĞÑªÍ³ÌáÉı
+//è¡€ç»Ÿé«˜äºä¸»åéª‘ï¼Œæ— æ³•è¿›è¡Œè¡€ç»Ÿæå‡
 [18]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts18.dds
 
-//¸óÏÂÉĞÎ´Åä±¸×øÆï
+//é˜ä¸‹å°šæœªé…å¤‡åéª‘
 [19]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts19.dds
 
-//ÌåÁ¦ÖµµÍÓÚ100£¬ÔİÊ±ÎŞ·¨Æï³Ë
+//ä½“åŠ›å€¼ä½äº100ï¼Œæš‚æ—¶æ— æ³•éª‘ä¹˜
 [20]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts20.dds
 
-//¹í»ê×´Ì¬ÏÂÎŞ·¨Æï³Ë
+//é¬¼é­‚çŠ¶æ€ä¸‹æ— æ³•éª‘ä¹˜
 [21]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts21.dds
 
-//Æï³èµÄÑªÍ³µÈ¼¶Î´´ïµ½µ±Ç°ÇøÓòÒªÇó
+//éª‘å® çš„è¡€ç»Ÿç­‰çº§æœªè¾¾åˆ°å½“å‰åŒºåŸŸè¦æ±‚
 [22]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts22.dds
 
-//Æï³èÉĞÎ´ÖÃÈë£¬ÎŞ·¨ÌáÉıÑªÍ³
+//éª‘å® å°šæœªç½®å…¥ï¼Œæ— æ³•æå‡è¡€ç»Ÿ
 [23]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts23.dds
 
-//ÊĞ³¡ÇøÓòÆï³Ë£¬ÒªÇóÆï³èµÄÑªÍ³µÈ¼¶´ïµ½6¼¶
+//å¸‚åœºåŒºåŸŸéª‘ä¹˜ï¼Œè¦æ±‚éª‘å® çš„è¡€ç»Ÿç­‰çº§è¾¾åˆ°6çº§
 [24]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts24.dds
 
-//Ö»ÓĞÍ¬Àà×øÆï£¬²Å¿É½øĞĞÑªÍ³ÌáÉı
+//åªæœ‰åŒç±»åéª‘ï¼Œæ‰å¯è¿›è¡Œè¡€ç»Ÿæå‡
 [25]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts25.dds
 
-//Ö»ÓĞ×øÆï£¬²Å¿É½øĞĞÑªÍ³ÌáÉı
+//åªæœ‰åéª‘ï¼Œæ‰å¯è¿›è¡Œè¡€ç»Ÿæå‡
 [26]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts26.dds
 
-//×îÖÕÌáÉıĞ§¹ûÎ´Ñ¡È¡£¬ÎŞ·¨ÌáÉıÑªÍ³
+//æœ€ç»ˆæå‡æ•ˆæœæœªé€‰å–ï¼Œæ— æ³•æå‡è¡€ç»Ÿ
 [27]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts27.dds
 
-//ÓĞÔÚÆï³ËÆÚ¼ä£¬²ÅÄÜÊ¹ÓÃÍşÏÅ¼¼ÄÜ
+//æœ‰åœ¨éª‘ä¹˜æœŸé—´ï¼Œæ‰èƒ½ä½¿ç”¨å¨å“æŠ€èƒ½
 [28]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts28.dds
 
-//Æï³èµÄÑªÍ³¹ıµÍ£¬ÎŞ·¨½øĞĞÍşÏÅ¡£
+//éª‘å® çš„è¡€ç»Ÿè¿‡ä½ï¼Œæ— æ³•è¿›è¡Œå¨å“ã€‚
 [29]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts29.dds
 
-//ÌåÁ¦ÉĞÎ´»Ø¸´£¬ÔİÊ±ÎŞ·¨½øĞĞÍşÏÅ
+//ä½“åŠ›å°šæœªå›å¤ï¼Œæš‚æ—¶æ— æ³•è¿›è¡Œå¨å“
 [30]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts30.dds
 
-//¸ß¶È¹ı¸ß£¬×øÆïÃ»ÓĞÇá¹¦£¬ÎŞ·¨ÌøÔ¾µ½´ï¡£
+//é«˜åº¦è¿‡é«˜ï¼Œåéª‘æ²¡æœ‰è½»åŠŸï¼Œæ— æ³•è·³è·ƒåˆ°è¾¾ã€‚
 [31]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts31.dds
 
-//×øÆïÌåÁ¦²»×ã£¬ÎŞ·¨ÌøÔ¾µ½´ï
+//åéª‘ä½“åŠ›ä¸è¶³ï¼Œæ— æ³•è·³è·ƒåˆ°è¾¾
 [32]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts32.dds
 
-//ÔùÆ·Ö»ÄÜ¶ÔÔùÆ·Ê¹ÓÃ
+//èµ å“åªèƒ½å¯¹èµ å“ä½¿ç”¨
 [33]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts33.dds
 
-//Ê¹ÓÃÊ±ÏŞÒÑµ½ÎïÆ·±»ÊÕ»Ø
+//ä½¿ç”¨æ—¶é™å·²åˆ°ç‰©å“è¢«æ”¶å›
 [34]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts34.dds
 
-//Ê¹ÓÃÊ±ÏŞÒÑµ½ÎïÆ·×Ô¶¯»¹Ô­
+//ä½¿ç”¨æ—¶é™å·²åˆ°ç‰©å“è‡ªåŠ¨è¿˜åŸ
 [35]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts35.dds
 
-//Á½ÈËÒ»ÆğôæôæÆğÎè
+//ä¸¤äººä¸€èµ·ç¿©ç¿©èµ·èˆ
 [36]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts36.dds
 
-//¶Ô·½¾Ü¾øÓëÄã½øĞĞË«ÈËÎè
+//å¯¹æ–¹æ‹’ç»ä¸ä½ è¿›è¡ŒåŒäººèˆ
 [37]
 FrameAmount=1
 Frame0=data/interface/Style01/PublicCard/Card_ts37.dds

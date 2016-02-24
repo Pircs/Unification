@@ -1,134 +1,134 @@
-//´ò¿ªÀúÊ·¼ÇÂ¼¶ÀÁ¢´°¿ÚµÄ°´Å¥
+//æ‰“å¼€å†å²è®°å½•ç‹¬ç«‹çª—å£çš„æŒ‰é’®
 [CSDialog]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSDialog.bmp
 Frame1=data/interface/Style01/chatsystem/CSDialogClick.bmp
 
-//ÁÄÌì´°¿Ú×îĞ¡»¯°´Å¥
+//èŠå¤©çª—å£æœ€å°åŒ–æŒ‰é’®
 [CSCloseico]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSCloseico.bmp
 Frame1=data/interface/Style01/chatsystem/CSCloseicoClick.bmp
 
-//ÁÄÌìÁĞ±í×îĞ¡»¯°´Å¥
+//èŠå¤©åˆ—è¡¨æœ€å°åŒ–æŒ‰é’®
 [CSListCloseico]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSCloseico.bmp
 Frame1=data/interface/Style01/chatsystem/CSCloseicoClick.bmp
 
-//´ò¿ª±íÇéÃæ°åµÄ°´Å¥
+//æ‰“å¼€è¡¨æƒ…é¢æ¿çš„æŒ‰é’®
 [CSEmotion]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSEmotion.bmp
 Frame1=data/interface/Style01/chatsystem/CSEmotionClick.bmp
 
-//µÈ¼¶°´Å¥
+//ç­‰çº§æŒ‰é’®
 [CSChatgrade]
 FrameAmount=1
 Frame0=data/interface/Style01/chatsystem/CSChatgrade.bmp
 
-//·¢ËÍ°´Å¥
+//å‘é€æŒ‰é’®
 [CSSend]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSSend.bmp
 Frame1=data/interface/Style01/chatsystem/CSSendClick.bmp
 
-//¹Ø±Õ´ó°´Å¥
+//å…³é—­å¤§æŒ‰é’®
 [CSClose]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSClose.bmp
 Frame1=data/interface/Style01/chatsystem/CSCloseClick.bmp
 
-//´ò¿ªºÚÃûµ¥µÄ°´Å¥
+//æ‰“å¼€é»‘åå•çš„æŒ‰é’®
 [CSBlacklist]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSBlacklist.bmp
 Frame1=data/interface/Style01/chatsystem/CSBlacklistClick.bmp
 
-//ÁÄÌì´°¿Ú±³¾°
+//èŠå¤©çª—å£èƒŒæ™¯
 [CSBottomBG]
 FrameAmount=1
 Frame0=data/interface/Style01/chatsystem/CSBottomBG.bmp
 
-//°éÂÂ£¨Á½¿ÅĞÄ£©
+//ä¼´ä¾£ï¼ˆä¸¤é¢—å¿ƒï¼‰
 [CSChathearts2]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSChatDoubleheart.bmp
 Frame1=data/interface/Style01/chatsystem/CSChatDoubleheartClick.bmp
 
-//ÏêÏ¸°´Å¥
+//è¯¦ç»†æŒ‰é’®
 [CSChatparticular]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSChatparticular.bmp
 Frame1=data/interface/Style01/chatsystem/CSChatparticularClick.bmp
 
-//°éÂÂ£¨Ò»¿ÅĞÄ£©
+//ä¼´ä¾£ï¼ˆä¸€é¢—å¿ƒï¼‰
 [CSChathearts1]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSChatheart.bmp
 Frame1=data/interface/Style01/chatsystem/CSChatheartClick.bmp
 
-//Õ½¶·Á¦
+//æˆ˜æ–—åŠ›
 [CSChatBeffectiveness]
 FrameAmount=1
 Frame0=data/interface/Style01/chatsystem/CSChatBeffectiveness.bmp
 
-//°ïÖú°´Å¥
+//å¸®åŠ©æŒ‰é’®
 [CSHelp]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSHelp.bmp
 Frame1=data/interface/Style01/chatsystem/CSHelpClick.bmp
 
-//±íÇé±³¾°
+//è¡¨æƒ…èƒŒæ™¯
 [CSEmotionBG]
 FrameAmount=1
 Frame0=data/interface/Style01/chatsystem/CSEmotionBG.bmp
 
-//±íÇéÏòÇ°·­Ò³°´Å¥
+//è¡¨æƒ…å‘å‰ç¿»é¡µæŒ‰é’®
 [CSPgle]
 FrameAmount=2
 Frame0=data\interface\Style01\chatsystem\CSPgle.bmp
 Frame1=data\interface\Style01\chatsystem\CSPgleClick.bmp
 
-//¶ÓÎéÍ·Ïñ
+//é˜Ÿä¼å¤´åƒ
 [CSCaptain]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/CSCaptain.jpg
 Frame1=data/interface/Style01/chatsystem/CSCaptain16.jpg
 
-//ÁÄÌìÁĞ±í½çÃæÍâ¿ò
+//èŠå¤©åˆ—è¡¨ç•Œé¢å¤–æ¡†
 [CSChatListGB01]
 FrameAmount=1
 Frame0=data/interface/Style01/chatsystem/CSChatListGB01.bmp
 
-//ÁÄÌìÁĞ±í½çÃæÄÚ¿ò
+//èŠå¤©åˆ—è¡¨ç•Œé¢å†…æ¡†
 [CSChatListGB02]
 FrameAmount=1
 Frame0=data/interface/Style01/chatsystem/CSChatListGB02.bmp
 
-//ÁÄÌìÊäÈë¿òºÍÀúÊ·¼ÇÂ¼¿òµÄ±³¾°
+//èŠå¤©è¾“å…¥æ¡†å’Œå†å²è®°å½•æ¡†çš„èƒŒæ™¯
 [chatbk]
 FrameAmount=1
 Frame0=data/interface/Style01/chatsystem/chatbk.bmp
 
-//±íÇéÏòºó·­Ò³°´Å¥
+//è¡¨æƒ…å‘åç¿»é¡µæŒ‰é’®
 [CSPgri]
 FrameAmount=2
 Frame0=data\interface\Style01\chatsystem\CSPgri.bmp
 Frame1=data\interface\Style01\chatsystem\CSPgriClick.bmp
 
-//¶ÀÁ¢ÁÄÌì½çÃæÔö¼ÓÌí¼ÓºÃÓÑ¹¦ÄÜ
+//ç‹¬ç«‹èŠå¤©ç•Œé¢å¢åŠ æ·»åŠ å¥½å‹åŠŸèƒ½
 [CSAddFriend]
 FrameAmount=2
 Frame0=data/interface/style01/chatsystem/CSAddFriend.bmp
 Frame1=data/interface/style01/chatsystem/CSAddFriendClick.bmp
 
-//×Ô¶¯¹Ò»ú½çÃæ-¶ÀÁ¢ÁÄÌìµ×°å
+//è‡ªåŠ¨æŒ‚æœºç•Œé¢-ç‹¬ç«‹èŠå¤©åº•æ¿
 [RechargeBG]
 FrameAmount=1
 Frame0=data/interface/Style01/chatsystem/RechargeBG.bmp
 
-//×Ô¶¯¹Ò»ú½çÃæ-³äÖµ°´Å¥
+//è‡ªåŠ¨æŒ‚æœºç•Œé¢-å……å€¼æŒ‰é’®
 [RechargeBtn]
 FrameAmount=2
 Frame0=data/interface/Style01/chatsystem/Recharge.bmp

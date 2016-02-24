@@ -61,24 +61,24 @@ Frame5=data/pic/Arrow/5.dds
 Frame6=data/pic/Arrow/6.dds
 Frame7=data/pic/Arrow/7.dds
 
-[Syndicate] 
-FrameAmount=1 
+[Syndicate]
+FrameAmount=1
 Frame0=data/pic/Syndicate.tga
 
-[NoArrow] 
-FrameAmount=1 
-Frame0=data/pic/arrow.dds 
+[NoArrow]
+FrameAmount=1
+Frame0=data/pic/arrow.dds
 
-[ChargeUp] 
-FrameAmount=2 
-Frame0=data/pic/chargeup/0.tga 
-Frame1=data/pic/chargeup/1.tga 
+[ChargeUp]
+FrameAmount=2
+Frame0=data/pic/chargeup/0.tga
+Frame1=data/pic/chargeup/1.tga
 
-[XpBlock] 
-FrameAmount=3 
-Frame0=data/pic/xpBlockG.tga 
-Frame1=data/pic/xpBlockB.tga 
-Frame2=data/pic/xpBlockR.tga 
+[XpBlock]
+FrameAmount=3
+Frame0=data/pic/xpBlockG.tga
+Frame1=data/pic/xpBlockB.tga
+Frame2=data/pic/xpBlockR.tga
 
 [XpBlock]
 FrameAmount=3
@@ -99,47 +99,47 @@ FrameAmount=0
 [Cartridge_Case]
 FrameAmount=0
 
-//Ê¦¸¸ÔÚĞ¡µØÍ¼ÉÏµÄĞ¡Í¼±ê
+//å¸ˆçˆ¶åœ¨å°åœ°å›¾ä¸Šçš„å°å›¾æ ‡
 [Tutor]
 FrameAmount=1
 Frame0=data/pic/PlayerFlag/Friend.tga
 
-//Í½µÜÔÚĞ¡µØÍ¼ÉÏµÄĞ¡Í¼±ê
+//å¾’å¼Ÿåœ¨å°åœ°å›¾ä¸Šçš„å°å›¾æ ‡
 [Student]
 FrameAmount=1
 Frame0=data/pic/PlayerFlag/Friend.tga
 
-//ÎäÉ®¼¼ÄÜ-±©»÷¹â»·×´Ì¬Í¼±ê
+//æ­¦åƒ§æŠ€èƒ½-æš´å‡»å…‰ç¯çŠ¶æ€å›¾æ ‡
 [Hit]
 FrameAmount=1
 Frame0=Data/Pic/Hit/Hit.dds
 
-//ÎäÉ®¼¼ÄÜ--Ãâ±©¹â»·×´Ì¬Í¼±ê
+//æ­¦åƒ§æŠ€èƒ½--å…æš´å…‰ç¯çŠ¶æ€å›¾æ ‡
 [Avert]
 FrameAmount=1
 Frame0=Data/Pic/Avert/Avert.dds
 
-//¿¹ĞÔ¹â»·-»ğ×´Ì¬Í¼±ê
+//æŠ—æ€§å…‰ç¯-ç«çŠ¶æ€å›¾æ ‡
 [Aureole_fire]
 FrameAmount=1
 Frame0=Data/Pic/Aureole/Aureole_fire.dds
 
-//¿¹ĞÔ¹â»·-ÍÁ×´Ì¬Í¼±ê
+//æŠ—æ€§å…‰ç¯-åœŸçŠ¶æ€å›¾æ ‡
 [Aureole_land]
 FrameAmount=1
 Frame0=Data/Pic/Aureole/Aureole_land.dds
 
-//¿¹ĞÔ¹â»·-½ğ×´Ì¬Í¼±ê
+//æŠ—æ€§å…‰ç¯-é‡‘çŠ¶æ€å›¾æ ‡
 [Aureole_metallicity]
 FrameAmount=1
 Frame0=Data/Pic/Aureole/Aureole_metallicity.dds
 
-//¿¹ĞÔ¹â»·-Ë®×´Ì¬Í¼±ê
+//æŠ—æ€§å…‰ç¯-æ°´çŠ¶æ€å›¾æ ‡
 [Aureole_water]
 FrameAmount=1
 Frame0=Data/Pic/Aureole/Aureole_water.dds
 
-//¿¹ĞÔ¹â»·-Ä¾×´Ì¬Í¼±ê
+//æŠ—æ€§å…‰ç¯-æœ¨çŠ¶æ€å›¾æ ‡
 [Aureole_wood]
 FrameAmount=1
 Frame0=Data/Pic/Aureole/Aureole_wood.dds
@@ -149,7 +149,7 @@ Frame0=Data/Pic/Aureole/Aureole_wood.dds
 FrameAmount=1
 Frame0=Data/Pic/loading.dds
 
-//Ä§·¨·ÀÓù¶Ü×´Ì¬
+//é­”æ³•é˜²å¾¡ç›¾çŠ¶æ€
 [Magicshield]
 FrameAmount=1
 Frame0=data/pic/Magicshield/Magicshield.dds
