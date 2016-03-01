@@ -259691,3 +259691,11 @@ Frame0=data/ItemMinIcon/188285.dds
 [Item189245]
 FrameAmount=1
 Frame0=data/ItemMinIcon/188575.dds
+
+[Item193225]
+FrameAmount=1
+Frame0=data/ItemMinIcon/192465.dds
+
+[Item192465]
+FrameAmount=1
+Frame0=data/ItemMinIcon/192465.dds
